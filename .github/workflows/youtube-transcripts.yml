@@ -1,0 +1,36 @@
+name: Transcrições do YouTube
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Quantos vídeos novos baixar (0 = todos)"
+        default: "3"
+  # piloto: roda com 3 vídeos quando o script muda num branch de teste
+  push:
+    branches: ["claude/youtube-*"]
+    paths: ["scripts/youtube_transcripts.py", ".github/workflows/youtube-transcripts.yml"]
+permissions:
+  contents: write
+concurrency: youtube-transcripts
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install yt-dlp
+      - name: Baixar transcrições
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '3' }}"
+          if [ "$LIMIT" = "0" ]; then ARGS="--all --sleep 8"; else ARGS="--limit $LIMIT"; fi
+          python3 scripts/youtube_transcripts.py $ARGS
+      - name: Commit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add youtube
+          git diff --cached --quiet || (git commit -m "Transcrições do YouTube" && git push)
