@@ -30,6 +30,7 @@ jobs:
         run: |
           LIMIT="${{ github.event.inputs.limit || '3' }}"
           if [ "$LIMIT" = "0" ]; then ARGS="--all --sleep 8"; else ARGS="--limit $LIMIT"; fi
+          mkdir -p youtube
           python3 scripts/youtube_transcripts.py $ARGS 2>&1 | tee youtube/ultimo-log.txt
       - name: Commit
         if: always()
