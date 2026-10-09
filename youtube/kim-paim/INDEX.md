@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-203 vídeos transcritos, 0 sem legenda.
+328 vídeos transcritos, 0 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -207,3 +207,128 @@
 | 2026-03-24 | [Mendonça BRILHA e Delação GANHA Tração Mirando D.Pedro + Flávio VENCE e Ratinho Roda Com Rothschilds](2026/2026-03-24-bSJE5fjUWkg.md) | 01:15:55 | automatica |
 | 2026-03-23 | [Mendonça no RASTRO do Dinheiro e a PF no de Dom Pedro III + Lula vs Flávio: A TEMPESTADE Perfeita](2026/2026-03-23-DjtNYKK8OVE.md) | 01:18:26 | automatica |
 | 2026-03-22 | [Esquerda JÁ ADMITE DERROTA de Lula e do Movimento + Jair: Até OLIMPO e PT Pressionam Dom PEDRO III.](2026/2026-03-22-VpycaQgqDUY.md) | 01:23:06 | automatica |
+| 2026-03-21 | [MASTER Libertará Jair, Diz GLOBO + Supremo RACHA e MENDONÇA Vence + Paquito SALVOU Tudo? E Lula?](2026/2026-03-21-ImXlukiEPMU.md) | 01:12:23 | automatica |
+| 2026-03-20 | [Dossiê: DELAÇÃO - Paquito VAI Falar e MENDONÇA Dribla GILMAR na "Colaboração do Apocalipse".](2026/2026-03-20-AuufefTF8-A.md) | 01:16:07 | automatica |
+| 2026-03-19 | [Dossiê: COMISSÁRIO - Delação, Toffoli RIFADO e o JOGO de FACHIN + Mostrando ATÉ os CENTAVOS.](2026/2026-03-19-DVjB7ez7owM.md) | 01:31:59 | automatica |
+| 2026-03-18 | [Master: Lula TRAMA Contra TOFFOLI e Delação Mira PT + Lei FELCA e Bolsonaro + As ALAS do Flávio 2026](2026/2026-03-18-sk96pfgDK68.md) | 01:21:12 | automatica |
+| 2026-03-17 | [Master: Várias DELAÇÕES, o Celular era do OLIMPO e Lula Quer ROMPER + Flávio, 2026 e os 90% Digital.](2026/2026-03-17-UAdT1kgPx48.md) | 01:13:58 | automatica |
+| 2026-03-16 | [Master: Lula FOFOCA Contra Dom Pedro III + Bolsonaro Melhora, Mas Inventam POLÊMICAS + O Consenso](2026/2026-03-16-ZHFhU6kRWzo.md) | 01:11:08 | automatica |
+| 2026-03-15 | [Dinheiro em MALAS e Para ESQUERDA + Consórcio vs Inquérito: A RAIZ do MAL + Bolsonaro e Visto NEGADO](2026/2026-03-15-t_qcMSM1T54.md) | 01:14:45 | automatica |
+| 2026-03-14 | [Dia D de DELAÇÃO: Paquito tem SURTO na CADEIA e Muda de ADVOGADO Pra Delatar + A Saúde de Bolsonaro.](2026/2026-03-14-TPJ6GUaGG38.md) | 01:10:32 | automatica |
+| 2026-03-13 | [DELAÇÃO Pode Ser DECIDIDA Hoje e Depende de KÁSSIO + Magnitsky de Volta? + Consórcio no Inquérito](2026/2026-03-13-ekxgC_sFAkU.md) | 01:04:40 | automatica |
+| 2026-03-12 | [Master: Cúmplices, Jogada de TOFFOLI, Estranhezas no CONTRATO e Anarquia + A ARMAÇÃO Contra Flávio](2026/2026-03-12-oRrtZR8XhI4.md) | 01:17:10 | automatica |
+| 2026-03-11 | [Mendonça: Delação FACILITADA e APOIO de Fachin + Consórcio se UNE no IMPEACHMENT + Dudu, Flávio e 26](2026/2026-03-11-wLsYoDjqLdk.md) | 01:26:25 | automatica |
+| 2026-03-10 | [Mendonça e PF vs Olimpo e PGR: Briga, RACHA e Futuro IMPODERÁVEL + Contrato: Explicação NÃO Colou](2026/2026-03-10-7F_6l5jrkc8.md) | 01:06:36 | automatica |
+| 2026-03-09 | [DELAÇÃO e IMPEACHMENT Ganham Tração JUNTO ao Consórcio + Flávio, Bessias e os Lavadores de Alma.](2026/2026-03-09-7ux3LtkAVW4.md) | 01:12:36 | automatica |
+| 2026-03-08 | [Esposa DESMENTE Dom Pedro III e Consórcio Pede INVESTIGAÇÃO + Datafolha: Lula vs Flávio.](2026/2026-03-08-RQRTECfuiLo.md) | 01:08:01 | automatica |
+| 2026-03-07 | [Globo DESMENTE Dom Pedro III e Sobra Pra ESPOSA + Olimpo se Vê SEM SAÍDAS + Sobrou Pra LULA de NOVO.](2026/2026-03-07-K2wxNBlWvK4.md) | 01:08:42 | automatica |
+| 2026-03-06 | [Dossiê: DOM PEDRO III - Malu Gaspar REVELA os PRINTS. Agora EXISTEM PROVAS + Clima de HORROR em BSB.](2026/2026-03-06-zwWFmll6b9A.md) | 01:21:01 | automatica |
+| 2026-03-05 | [Dossiê: GANGSTERS - Lula, Olimpo, Ciro NÃO SOBROU Ninguém + JAIR Nas Mensagens VAZADAS e a DELAÇÃO](2026/2026-03-05-Wxi3qO0Osoo.md) | 01:34:22 | automatica |
+| 2026-03-04 | [Dossiê: TAPETEIROS - Os Bloqueados SERÃO Lembrados + Lulinha é RIFADO Por Batoré e Consórcio Tratora](2026/2026-03-04-rez4NouR9Vs.md) | 01:08:09 | automatica |
+| 2026-03-03 | [Lulinha RODOU de NOVO + Lula em CRISE e CONSÓRCIO Já APOIA Flávio + Figueiredo, Allan e os Amigues.](2026/2026-03-03-EKmodOhPpyI.md) | 01:13:34 | automatica |
+| 2026-03-02 | [Flávio: o ATO, a CARTA e o CONSÓRCIO Amigo? + Depoimento de Paquito faz Brasília Grudar Mão no Teto](2026/2026-03-02-3JrWL_2fAYY.md) | 01:06:39 | automatica |
+| 2026-03-01 | [Trump vs Irã: O BRASIL Surpreende + Mesmo Limitado, Bolsonaro COMANDA +  O PASSADA Que CONDENA.](2026/2026-03-01-S7eabyB0U2M.md) | 01:01:25 | automatica |
+| 2026-02-28 | [BLINDAGEM Olímpica: Consórcio CHOCADO + Lulinha, Lupi e Nova DELAÇÃO + Esquerda Surpresa com Flávio.](2026/2026-02-28-NoYa5bE9tug.md) | 01:07:27 | automatica |
+| 2026-02-27 | [Lulinha RODOU 2 Vezes: As 2 Quebras de SIGILO e o Plano Pra ABAFAR + Flávio e o PAPEL de Eduardo.](2026/2026-02-27-86-wlUzAtWk.md) | 01:13:13 | automatica |
+| 2026-02-26 | [Sinal VERMELHO no PT: Lula PREOCUPADO Com Flávio + Delação de Lulinha e OLIMPO na CPI](2026/2026-02-26-qBchygjRVaU.md) | 01:05:58 | automatica |
+| 2026-02-25 | [Chegou o Dia: FLÁVIO EMPATADO! + Enquanto Lula BLINDA, Rothchilds CRITICAM o Olimpo + Malafaia Ataca](2026/2026-02-25-o0M4mxMR5bs.md) | 01:10:14 | automatica |
+| 2026-02-24 | [OAB e Turma do SOROS Pedem FIM do Inquérito + O Único ROBÔ Com PROVAS + Crise do MASTER Ajuda Flávio](2026/2026-02-24-5kWTKjv6hHg.md) | 01:05:33 | automatica |
+| 2026-02-23 | [Cruzaram a LINHA de NÃO Retorno CONTRA Dudu e Carlos Faz ALERTA + O Inquérito é AINDA Mais Podre.](2026/2026-02-23--FspzMqmC8c.md) | 01:13:34 | automatica |
+| 2026-02-22 | [Lula NÃO Está BEM, Revela Consórcio + Eduardo vs Chorões: CUSTA APOIAR o Flávio? + Racha Olímpico.](2026/2026-02-22-70Qgc8CKerY.md) | 01:06:47 | automatica |
+| 2026-02-21 | [Master: PF Cita 10 Encontros PRESENCIAIS e CRIME de Olímpico + Flávio26: Eduardo OUSA Falar o ÓBVIO](2026/2026-02-21-pjEZ7sNhXFA.md) | 01:16:47 | automatica |
+| 2026-02-20 | [FOTOS Já Causam PESADELO e Mendonça Vai Pra CIMA + Carnaval: Alckmin é ALVO do PT e CASTIGO Vem Aí.](2026/2026-02-20-XoFCJsszI5M.md) | 01:08:32 | automatica |
+| 2026-02-19 | [Master: Festa "Sem Roupa" Tinha Judiciário? + Vazamentos: RACHA no Olimpo e Dossiês Contra Colegas](2026/2026-02-19-I23z2qOhPfE.md) | 01:03:06 | automatica |
+| 2026-02-18 | [Vazamentos: Consórcio vs Olimpo + Grampo e "Fishing Expedition" + As PERGUNTAS Sem RESPOSTA](2026/2026-02-18-G5cC3i9Vxao.md) | 01:05:50 | automatica |
+| 2026-02-17 | [Master: Olimpo CONFIRMA Quebra de SIGILO + Flávio e o APOIO do Mercado + ERREI e Peço Desculpas](2026/2026-02-17-j_0cq-B0B-A.md) | 01:18:24 | automatica |
+| 2026-02-16 | [Master: EXTRATOS Batem Com MENSAGENS e DATAS + Estadão: Cenário Vai ELEGER Flávio + A Farsa Teatral](2026/2026-02-16-0rZvKs-aUbA.md) | 01:11:44 | automatica |
+| 2026-02-15 | [Master-Tayayá: de R$20 para R$35 Milhões + O UNÍCO Caso da Imperatriz e a DELAÇÃO do Carequinha.](2026/2026-02-15-pHWyWP2pKlI.md) | 01:22:21 | automatica |
+| 2026-02-14 | [Dossiê: GRAMPEADOS - Gravação CLANDESTINA, Espião vs Bode Expiatório, Acordão e Gente SEM ROUPA.](2026/2026-02-14-w7D-xfbKzMo.md) | 01:14:51 | automatica |
+| 2026-02-13 | [Depois de Toffoli, PF Prepara NOVO Relatório de D.Pedro III, Diz Globo + Os Bastidores da Crise.](2026/2026-02-13-3640VHLa95Q.md) | 01:07:10 | automatica |
+| 2026-02-12 | [Dossiê: TELEFONE - Toffoli, os PAGAMENTOS e o SÓCIO OCULTO + Histórico: Consórcio PREFERE Flávio 26](2026/2026-02-12-Sd9dXyuLmFs.md) | 01:14:44 | automatica |
+| 2026-02-11 | [Flávio Vai no COVIL do Dedé e PROPRÕE Romper Com o CONSENSO do Regime + Os 6 Eixos da Prosperidade.](2026/2026-02-11-fA5UF2jrV9A.md) | 01:13:15 | automatica |
+| 2026-02-10 | [Flávio e as AGENDAS na França + Master: PF Quebra CRIPTOGRAFIA, Olimpo é Alertado e IRMÃOS no Alvo](2026/2026-02-10-3UMwjClqiYI.md) | 01:20:59 | automatica |
+| 2026-02-09 | [Flávio PROPÕE Linha Diferente e Lula SEGUE Com PROBLEMAS + As Lições da DIREITA em Portugal](2026/2026-02-09-WsDZtM53wq4.md) | 01:07:53 | automatica |
+| 2026-02-08 | [A Entrevsita PROIBIDA de Flávio e a Indelicadeza com Carlos + Lula ASSUME Laços com PSDB e Fraqueza.](2026/2026-02-08-9PgYM7o_zyc.md) | 01:03:14 | automatica |
+| 2026-02-07 | [Bolsonaro e o LAUDO da PF-L + 2026: Lula Tenta RIFAR Alckmin e Flávio Tem que LIDAR Com Centrão](2026/2026-02-07-qeQW9EMN3Oc.md) | 01:20:30 | automatica |
+| 2026-02-06 | [Master: LULA Entra em CAMPO e a Denúncia de Favorecimento + Flávio e o Silêncio Que Incomoda](2026/2026-02-06-fHpE0RThQNE.md) | 01:14:43 | automatica |
+| 2026-02-05 | [Os 3 ACORDÕES do Master: Depoimento, Carnaval e Código. OLIMPO Briga em Público + Flávio vs Lula](2026/2026-02-05-u9n1X024D_I.md) | 01:05:00 | automatica |
+| 2026-02-04 | [GloboNews Explica ACORDÃO do Master com PT e Olimpo + Flávio 2026 e os Relutantes + Domiciliar de JB](2026/2026-02-04-9cFjq9rX77I.md) | 01:17:16 | automatica |
+| 2026-02-03 | [Dossiê: EPST3lN - O Escândalo GLOBAL Que Conecta LULA Aos ROTHSCHILD e Mostra o PAPEL do Dirceu.](2026/2026-02-03-H8Z-ppDJu1w.md) | 01:10:28 | automatica |
+| 2026-02-02 | [Semana Master: SÓCIO Ligado ao PT Terá EMOÇÕES e Novas Revelações + Olavo e o BateCabeça da Esquerda](2026/2026-02-02-jQPKgDrJj-g.md) | 01:21:01 | automatica |
+| 2026-02-01 | [Dossiê: CONTRADIÇÕES - Anistia na Venezuela, o HOMEM-MASSA e Fanático e o Anti-Petismo Diferente](2026/2026-02-01-jwhOlEoIjpc.md) | 01:17:58 | automatica |
+| 2026-01-31 | [Flávio 2026: a NOVA Frente AMPLA é CONTRA Lula e os NÚMEROS São ANIMADORES + Vitória da Liberdade](2026/2026-01-31-a7JZhoaOpdE.md) | 01:27:59 | automatica |
+| 2026-01-30 | [Master: PAQUITO na CPMI dia 5, Globo EXPÕE Lula, e Senado BLINDA Olimpo + Os Técnicos Tão DEVENDO.](2026/2026-01-30-jVBdOd7tyvM.md) | 01:10:05 | automatica |
+| 2026-01-29 | [Olimpo é DESMENTIDO, Gleisi ENTREGA Lula e Malu Fala de PÂNICO em Brasília + Flávio VOANDO Alto.](2026/2026-01-29-zGXA_aywl_4.md) | 01:18:22 | automatica |
+| 2026-01-28 | [OLIMPO Briga Entre Si e Master ESTOURA No COLO de LULA + Reuniões SECRETAS e Consórcio no ALVO.](2026/2026-01-28-VT4uwakzJFo.md) | 01:06:08 | automatica |
+| 2026-01-27 | [Dossiê: MARACUTAYAYÁ - O Novo CONTRATO, a Porta-Giratória, Lula ENTREGANDO o Olimpo e a GLOBO Contra](2026/2026-01-27-owQ-CO9sj6o.md) | 01:12:56 | automatica |
+| 2026-01-26 | [Caminhada: FRUTOS e a SAFADEZA da GLOBO + A Cabeça do Sistema + Flávio e o APOIO Internacional](2026/2026-01-26-y0NzaSdLUGI.md) | 01:15:05 | automatica |
+| 2026-01-25 | [O POVO, a CAMINHADA e o Caso F. Martins, + Flávio e o PARTIDO Bolsonarista + Trump e a RUPTURA.](2026/2026-01-25-rIU3DmyYolE.md) | 01:22:31 | automatica |
+| 2026-01-24 | [Master: Paquito NÃO CITA os Nomes Pra PF, Resort CHEGA no RATINHO, e NOTA era COREOGRAFIA.](2026/2026-01-24-OdqGOSm5nzI.md) | 01:05:09 | automatica |
+| 2026-01-23 | [Flávio se CONSOLIDA e VENCE Lula. ACABOU os 71 Dias + Master: REGIME se Une na BLINDAGEM Geral.](2026/2026-01-23-4NrzHutsHgE.md) | 01:05:20 | automatica |
+| 2026-01-22 | [Flávio: Tarcísio PERSISTE no ERRO e Ramagem da ENQUADRO + Master: o DONO do Resort Tinha um Dono?](2026/2026-01-22-dBH7GOgFRXw.md) | 01:09:25 | automatica |
+| 2026-01-21 | [Tarcísio CANCELA Visita APÓS Fala de Flávio + Bolsonaro: DOMICILIAR Ganha Força Até no OLIMPO](2026/2026-01-21-CEsrGfQx5-s.md) | 01:04:38 | automatica |
+| 2026-01-20 | [Dossiê: CARTEL — MASTER, SOROS e a Máquina do Regime Global + Bolsonaro, Eneas e a CRISE do Consenso](2026/2026-01-20-ABuK4VC350M.md) | 01:43:11 | automatica |
+| 2026-01-19 | [Flávio 2026: Por 1 Minuto, COLOCAMOS 1 Pé à Frente + Globalistas,Trump e Maduro + Lula SEM Aliança?](2026/2026-01-19-FQ_uxBJkmn8.md) | 01:04:02 | automatica |
+| 2026-01-18 | [76 Dias: o Período CRUCIAL Para FLÁVIO Garantir a Eleição + Master: Mídia Diz Que REGIME Está RUINDO](2026/2026-01-18-Miwqc_51UeI.md) | 01:07:15 | automatica |
+| 2026-01-17 | [Dossiê: PAPUDINHA - A Linha do TEMPO Que DESMONTA Tudo + MASTER: Quem Comanda os INFLUENCIADORES?](2026/2026-01-17-c2qVfcbg8sQ.md) | 01:14:56 | automatica |
+| 2026-01-16 | [Dossiê: DONOS DO PODER - Os ALVOS do NOVO Inquérito das FAKENEWS e o Medo do PT Com o MASTER.](2026/2026-01-16-yhrEkKLLHbU.md) | 01:22:18 | automatica |
+| 2026-01-15 | [Flávio CRESCE e REDUZ Rejeição + A TRETA e o VENTRÍLOQUO + Escândalo Master: PF vs STF vs PGR](2026/2026-01-15-kutAX7ChQb8.md) | 01:04:15 | automatica |
+| 2026-01-14 | [Dossiê: CADEIRUDO - Tarcísio TIROU a MÁSCARA de Vez + Consórcio ADMITE Força e Legado de Bolsonaro](2026/2026-01-14-GkCiCl37ptE.md) | 01:13:14 | automatica |
+| 2026-01-13 | [PT Põe PF Contra Flávio Por POST de Maduro + Escândalo do Filho de Lula + Master: Batalha de Sigilos](2026/2026-01-13-b3U7IBf3j54.md) | 01:08:10 | automatica |
+| 2026-01-12 | [Bolsonaro: Como o Consórcio RADICALIZOU o Povo? + Toffoli, Master e Resort + Trump e Orban: NOVA ERA](2026/2026-01-12-2Pe_uN7mTpE.md) | 01:05:12 | automatica |
+| 2026-01-11 | [Dossiê: JBS & BTG - As Respostas da CRISE em 1935 e a DESCOBERTA de Olavo Sobre o Simonsen.](2026/2026-01-11-aLExkhfXE2M.md) | 01:31:55 | automatica |
+| 2026-01-10 | [Bolsonaro MÁRTIR Impactará 2026, Assume Esquerda + MASTER: Temer, NOVO SIGILO e Influenciadores.](2026/2026-01-10-cP-cBwEGD8o.md) | 01:08:44 | automatica |
+| 2026-01-09 | [Trump e Venezuela: Os ROTHCHILDS, a Libertação e a Magnitsky + Jair vs Lula: Nem FACHIN Apoiou o ATO](2026/2026-01-09-2uV7yEdfc2A.md) | 01:12:30 | automatica |
+| 2026-01-08 | [Dossiê: GABINETE MASTER - R$ 2 Milhões Pra INFLUENCERS é 65 Vezes Pior + Os Abusos Contra Jair e CFM](2026/2026-01-08-BRdC7IBZRdQ.md) | 01:12:04 | automatica |
+| 2026-01-07 | [Bolsonaro e Filipe: a PROVA da INOCÊNCIA e da MALDADE + Banco Master no HOLOFOTE + Trump vs Corina](2026/2026-01-07-7YGz3e_1j7M.md) | 01:09:39 | automatica |
+| 2026-01-06 | [Trump vs Maduro: SOUBROU Pra Lula. A Máscara Caiu + O TEATRO e Suas COMPLEXIDADES + Allan vs Polegar](2026/2026-01-06-569ds_uIb3o.md) | 01:06:40 | automatica |
+| 2026-01-05 | [Dossiê: TRUMP & DELCY - o Acordão COMEÇOU em Outubro e Lula ENTRA Pro TEATRO + Provocações e Lições.](2026/2026-01-05-ifyIByE-_zs.md) | 01:08:11 | automatica |
+| 2026-01-04 | [Dossiê: CAIU MADURO - Os Indicíos do ACORDÃO, As TRAIÇÕES e o PAPEL de LULA + Brasil SERÁ o Próximo.](2026/2026-01-04-NPFl6eNJ1-k.md) | 01:06:25 | automatica |
+| 2026-01-03 | [Dossiê: DEDO-DURO - O X9 do Caso Filipe Martins e Seu PASSADO em 2019. A FALHA Estrutural da Direita](2026/2026-01-03-4fobNbtGThU.md) | 01:28:18 | automatica |
+| 2026-01-02 | [Master: PAQUITO Levou TODOS Pra Lama. Qual o JOGO do Lula? + Nem a GLOBO Aguenta Mais o OLIMPO](2026/2026-01-02-lSRDSKDy52k.md) | 01:03:08 | automatica |
+| 2025-12-31 | [MASTER: Contrato Leva a ESQUERDA ao ABRAÇO dos Afogados + Depoimento, Vazamentos e o MEDO da Delação](2025/2025-12-31-k9lNfgs4qqM.md) | 01:08:52 | automatica |
+| 2025-12-30 | [Dossiê: GABARITO - As 2 REVIRAVOLTAS e o BC em Xeque. O Que os Novos DOCUMENTOS e FATOS Revelam.](2025/2025-12-30-Dd4n9Wdro7w.md) | 01:29:37 | automatica |
+| 2025-12-29 | [Dossiê: O SCRIPT - O Plano do Paquito GANHA Eco no Regime. Querem TUTELAR o Eleito em 2027.](2025/2025-12-29-kDC9Vv3AJu0.md) | 01:13:20 | automatica |
+| 2025-12-28 | [Master: Toffoli NEGA Pedidos do BC, Esquerda PERDIDA e o Paquito+ A Raiz do Inquérito e o Consórcio.](2025/2025-12-28-fYFylhCoiYY.md) | 01:12:53 | automatica |
+| 2025-12-27 | [Master: Toffoli Vai ANULAR? o Que NINGUÉM FALOU Até Agora? + As PROVAS do Fracasso e Choro da Mídia.](2025/2025-12-27-Sc2xR_bJEbU.md) | 01:14:20 | automatica |
+| 2025-12-26 | [MASTER: Crise ESCALA, Toffoli Joga Gasolina e Sobra Pro DEDÉ? + Consórcio e o Ponto de NÃO Retorno.](2025/2025-12-26-Gs_Sd6suclk.md) | 01:09:18 | automatica |
+| 2025-12-25 | [Escândalos, Fatos e Eventos: NADA FICOU PRA TRÁS + 2025 vs 2026: Estamos Chegando na Hora H.](2025/2025-12-25-feBpLM_be5k.md) | 01:48:48 | automatica |
+| 2025-12-24 | [MASTER - NOVAS REVELAÇÕES: 6 Ligações Em 1 Dia, Conversa de LULA e Galípolo e RUMORES na Faria Lima.](2025/2025-12-24-YSclSYq4C-k.md) | 01:13:40 | automatica |
+| 2025-12-23 | [Escândalo Master: GLOBO Vai Pra CIMA e Consórcio DEFENDE Até IMPEACHMENT + Flávio e Dedé: Bastidores](2025/2025-12-23-zBI8Us0Dn7s.md) | 01:03:34 | automatica |
+| 2025-12-22 | [Dossiê: FOI ELE! - O REGIME se DOBROU Pro Homem Que SEGUROU o ROJÃO + Havaianas e Crise na República](2025/2025-12-22-WnkQhO0VXJE.md) | 01:12:23 | automatica |
+| 2025-12-21 | [A Questão FLÁVIO Pra 2026: DESTINO vs DISFUNCIONALIDADE + Lula Vai Pra ELEIÇÃO Com CPMI Nas Costas](2025/2025-12-21-WKQ7IV4SEKI.md) | 01:05:43 | automatica |
+| 2025-12-20 | [GLOBO Expõe Escândalo Com LULINHA + Um ACORDÃO e o ACERTO Da Direita ANTISSISTEMA + A JBS Vem Aí?](2025/2025-12-20-c32N-q6BwhU.md) | 01:12:08 | automatica |
+| 2025-12-19 | [Dossiê: OS NOVOS 11 - Flávio, o FIM do Sonho e a CASSAÇÃO de Dudu + O PLANO Foi APRESENTADO ao Mundo](2025/2025-12-19-NqnOFg0fZCM.md) | 01:24:52 | automatica |
+| 2025-12-18 | [Dosimetria APROVADA, Mas PT Judicializa + Frente PRÓ-FLÁVIO: Ciro Nogueira e Mercado JOGAM a TOALHA](2025/2025-12-18-ZCyDyWDmfVk.md) | 01:08:30 | automatica |
+| 2025-12-17 | [Flávio DISPARA e Destroi Plano do CENTRÃO, Diz GLOBO + Rejeição JÁ Começa a Ser COMBATIDA.](2025/2025-12-17-DLkOHTjC0Ro.md) | 01:11:11 | automatica |
+| 2025-12-16 | [Flávio PAUTA o Dia e DEITA no Ratinho e Metrópoles + GANHA-GANHA: Valdemar Comprometido Com Flávio.](2025/2025-12-16-xz3DDWVc4JI.md) | 01:03:53 | automatica |
+| 2025-12-15 | [Divisor de Águas: BANCO MASTER Muda Relação do Consórcio CONTRA o Olimpo + A Viabilidade de Flávio.](2025/2025-12-15-bvc1gWTGC7w.md) | 01:02:19 | automatica |
+| 2025-12-14 | [Dossiê: PATINHO FEIO - Eduaro e Flávio LIDERAM o BASTA + 18 Anos de PREVISÃO Sobre a Farinha Lima.](2025/2025-12-14-UtGPFpB8AXU.md) | 01:19:44 | automatica |
+| 2025-12-13 | [MAGNITSKY: Motivações, JBS, Venezuela e os 6 EIXOS de Eduardo + 2026: Entre Aplausos e Sorrisos.](2025/2025-12-13-1CXvj3kh73Y.md) | 01:09:19 | automatica |
+| 2025-12-12 | [Revelações do Master: Por que a Globo? Qual o INTERESSE da Família Marinho? + Cassação da Zambelli](2025/2025-12-12-Tzh6XeWu7t4.md) | 01:09:12 | automatica |
+| 2025-12-11 | [ANTISSISTEMA: Mídia FINALMENTE Compreende o Que Flávio REPRESENTA + Dosimetria, Alcolumbre e Lula.](2025/2025-12-11-7JBpoT1bTtw.md) | 01:18:39 | automatica |
+| 2025-12-10 | [Dosimetria APROVADA: Alcolumbre Promete Rapidez + Flávio e os NÚMEROS Favoráveis + Milhões e Master](2025/2025-12-10-COO2m1xUcx8.md) | 01:14:10 | automatica |
+| 2025-12-09 | [Flávio CONFIRMA o Freio de Arrumação, Centrão REAGE e Tarcísio QUEBRA o Silêncio + F.Martins vs Cid](2025/2025-12-09-opYGwpr-DuU.md) | 01:05:09 | automatica |
+| 2025-12-08 | [O Fenômeno FLÁVIO: a ESTRATÉGIA deu CERTO, Diz Folha + Escândalo Master: os AMIGOS no AVIÃO.](2025/2025-12-08-70CJDaDqS9U.md) | 01:10:24 | automatica |
+| 2025-12-07 | [Os 2 PRESENTES de Bolsonaro e as Digitais do BANCO MASTER Contra Flávio + Tarcísio Segue em Silêncio](2025/2025-12-07-x_g6DD2JCBI.md) | 01:05:25 | automatica |
+| 2025-12-06 | [Bolsonaro OFICIALIZA Flávio Como CANDIDATO: O Choro, as Máscaras, o Centrão e o SILÊNCIO.](2025/2025-12-06-Mg-SvdVBnoM.md) | 01:05:43 | automatica |
+| 2025-12-05 | [JBS, Maduro e Magnitsky: E Agora? Das EXPLICAÇÕES às CONSTATAÇÕES + Bolsonaro: MOTIVOS Para CELEBRAR](2025/2025-12-05-trnLxijInVk.md) | 01:24:29 | automatica |
+| 2025-12-04 | [Dossiê: AI-7 DO GILMAR - As LIÇÕES de 75 Anos Atrás. Nem a GLOBO e Randolfe Conseguiram DEFENDER.](2025/2025-12-04-Dj0unWIL2HQ.md) | 01:08:04 | automatica |
+| 2025-12-03 | [SIGILO no Escândalo do Master e Consórcio DEFENDENDO Impeachment + Erros, Perdões, Avanços e 2018.](2025/2025-12-03-skMwFdbSCfQ.md) | 01:24:40 | automatica |
+| 2025-12-02 | [Oficial: Deu RUIM Pro MADURO + Dia Histórico: Freio de Arrumação, UNIÃO e o PROJETO Bolsonaro.](2025/2025-12-02-mu1N-TgJ8L4.md) | 01:10:07 | automatica |
+| 2025-12-01 | [Dossiê: MÁ INFLUÊNCIA - Quando os FATOS Não Tem VEZ e Os MESMOS Reaparecem + A Confusão no Ceará.](2025/2025-12-01-X9pA3atUC64.md) | 01:26:49 | automatica |
+| 2025-11-30 | [MESMO Quebra-Cabeça: Soltura de VORCARO e a PRISÃO de JAIR + Eduardo e o Divórcio + A Força do NÃO.](2025/2025-11-30-1wauANi57fU.md) | 01:09:51 | automatica |
+| 2025-11-29 | [Dossiê:  A DESCIDA - o ÚLTIMO Andar da LOUCURA + Do Master à Bolsonaro, a MENTIRA Ganha Espaço.](2025/2025-11-29-4NxUdsqke7k.md) | 01:27:10 | automatica |
+| 2025-11-28 | [Novo ESCÂNDALO na Praça UNE Ciro Nogueira e MBL + PL e AÉCIO vs Bolsonarismo: Perderam a VERGONHA.](2025/2025-11-28-nycqKGGtWXo.md) | 01:05:10 | automatica |
+| 2025-11-27 | [BOLSONARO: História é REESCRITA Pra Validar VALE-TUDO + Sabotagem do PL + Emílio e As Cobras](2025/2025-11-27-hKuE9We-V8A.md) | 01:09:20 | automatica |
+| 2025-11-26 | [DIA da INFÂMIA: Abusos Mesmo no Fim e MAGNITSKY De Volta + Globo CONFESSA Plano CONTRA Jair.](2025/2025-11-26-Eqw9-7Un7Qo.md) | 01:20:48 | automatica |
+| 2025-11-25 | [Bolsonaro: Mais FATOS Que o ABSOLVEM + O Fortalecimento de Flávio Tá FÁCIL + As Lições de 2020.](2025/2025-11-25-ywQ1NCDN-B0.md) | 01:20:20 | automatica |
+| 2025-11-24 | [O OUTRO Lado da TORNOZELEIRA: Bolsonaro NÃO Mentiu + O Centrão, os ABUTRES e a Mídia Amiga.](2025/2025-11-24-PaS5kMssSDI.md) | 01:05:39 | automatica |
+| 2025-11-23 | [PRISÃO do Jair: NEM a GLOBO Defendeu + As LACUNAS e o NOVO Alvo no Flávio Pra TIRÁ-LO de 2026](2025/2025-11-23-hUujcGSoXuc.md) | 01:09:07 | automatica |
+| 2025-11-23 | [O Processo de Prisão de Bolsonaro](2025/2025-11-23-E4r-tF2XQ6U.md) | 00:30:46 | automatica |
+| 2025-11-22 | [Dossiê: A PRISÃO DE JAIR - Dia o 22 NÃO é Coincidência, é o MARCO da SEMIDEMOCRACIA Brasileira](2025/2025-11-22-IKQ8keQ0dK4.md) | 01:24:20 | automatica |
+| 2025-11-21 | [Dossiê: BOTOX DA LIBERDADE - Lula Oficializa Messias e MENDONÇA... + Bolsonaro e a Medida Provisória](2025/2025-11-21-VQNocPj-xOs.md) | 01:26:45 | automatica |
+| 2025-11-20 | [Master: Milhões Pra ADVOGADOS e o GANHA-GANHA do Sistema + Kassab ATACA Dudu e Ciro Rifa Bolsonaro.](2025/2025-11-20-rXTXFG0ZYg8.md) | 01:10:35 | automatica |
+| 2025-11-19 | [Escândalo MASTER: Do PT ao OLIMPO, Passando Pelo CENTRÃO + Bolsonaro: o MOVIMENTO Sem Precendentes](2025/2025-11-19-VNio67Ibn3k.md) | 01:03:32 | automatica |
+| 2025-11-18 | [A Vingança Contra Jair: A CULPA da Verdade + Lula HUMILHADO Pela COP e Por TRUMP + Vitória no Chile.](2025/2025-11-18-Ig7vpOXSVIY.md) | 01:07:44 | automatica |
+| 2025-11-17 | [Trump vs Madura: CRISE Escala e JÁ Eixistem PLANOS na MESA + A 2ª DEBANDADA vs Herança do Jair](2025/2025-11-17-41he3l7zgww.md) | 01:11:51 | automatica |
