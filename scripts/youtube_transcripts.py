@@ -75,7 +75,7 @@ COOKIES = None  # arquivo cookies.txt (formato Netscape), via --cookies
 
 def ydl(opts=None):
     import yt_dlp  # type: ignore
-    base = {"quiet": True, "no_warnings": True, "ignoreerrors": False}
+    base = {"quiet": True, "no_warnings": True, "noprogress": True, "ignoreerrors": False}
     if COOKIES:
         base["cookiefile"] = COOKIES
     return yt_dlp.YoutubeDL({**base, **(opts or {})})
@@ -181,7 +181,7 @@ def main():
                        "status": "sem_legenda", "arquivo": ""}
                 if vtt:
                     path = write_video(out_dir, args.name, info, vtt, kind)
-                    row.update(status="ok", arquivo=str(path.relative_to(out_dir)))
+                    row.update(status="ok", arquivo=path.relative_to(out_dir).as_posix())
         except Exception as e:  # noqa: BLE001 - registra e segue para o próximo
             print(f"ERRO {vid}: {e}", file=sys.stderr)
             row = {**rows.get(vid, {f: "" for f in CSV_FIELDS}), "video_id": vid, "status": "erro"}
