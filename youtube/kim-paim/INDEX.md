@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-652 vídeos transcritos, 1 sem legenda.
+775 vídeos transcritos, 2 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -657,3 +657,128 @@
 | 2024-12-27 | [Escândalo JANJA Revela DISPUTA Interna no PT + 2026 Começa a DESANDAR Pra LULA + Gandra e Bonitinho.](2024/2024-12-27-B85WZE0h85w.md) | 01:03:12 | automatica |
 | 2024-12-26 | [Caso DANIEL SILVEIRA: Da IDA Ao Médico à BAIXARIA da Globo + Livre, Leve e Solto: Só PRA Esquerda?](2024/2024-12-26-JSGKp0VYZQ4.md) | 01:08:12 | automatica |
 | 2024-12-25 | [Eu, NÓS, Eles e o ATLAS: Não Faltam REFLEXÕES e APRENDIZADOS + A Equipe Com a Palavra Sobre 2024.](2024/2024-12-25-J5rfE1PVDpQ.md) | 01:33:23 | automatica |
+| 2024-12-24 | [Lula: ARROCHO Pro Povo, ROUANET Pra Artista? + Dino CANCELA Emendas e Aciona PF + Com FÍGADO Não VAI](2024/2024-12-24-y4WolIgDgs0.md) | 01:03:25 | automatica |
+| 2024-12-23 | [Dossiê: DESINFORMADORES - 150 Anos Unem Dilmo, Folha e Estadão + Esquerda GRITANDO FORA Haddad?](2024/2024-12-23-h4h5ksp5GVo.md) | 01:08:46 | automatica |
+| 2024-12-22 | [TRAIÇÃO: Esquerdistas APOIAM Direita CONTRA Lula + O Inquérito de 2000 Dias e Danilo Gentili.](2024/2024-12-22-xxcagvcyClw.md) | 01:07:59 | automatica |
+| 2024-12-21 | [Lula é EXPOSTO Por Daniela Lima Ao Vivo + Entre CILADAS e APROVEITADORES + Folha: RELATÓRIOS do 8/1](2024/2024-12-21-k5esdFXhfQk.md) | 01:02:25 | automatica |
+| 2024-12-20 | [Globo e Dilmo REFUTADOS Por Galípolo + Ciro NÃO Previu o Que LULA Fez + Isentões vs IMPEACHMENT](2024/2024-12-20-jlchPh3ZDiE.md) | 01:06:47 | automatica |
+| 2024-12-19 | [Lula e CRISE do Dólar: GloboNews e AGU vs Twitteiros + Tarcísio e o PETISTA: A Lição Pra DIREITA.](2024/2024-12-19-b6ywxljM7OI.md) | 01:03:13 | automatica |
+| 2024-12-18 | [Dossiê: ABAIXO DO RADAR - Com HOLOFOTES em LULA, Muita Coisa Passa DESAPERCEBIDA + Bolsonaro e 26.](2024/2024-12-18-DdJbgs29TgU.md) | 01:17:23 | automatica |
+| 2024-12-17 | [LULA vs MERCADO: Já Falam em RUPTURA e IMPEACHMENT + Trump Mira BRASIL + Esquerda CRITICA Lula-Globo](2024/2024-12-17-4SZsBUYY6NI.md) | 01:06:55 | automatica |
+| 2024-12-16 | [Braga Netto: ATÉ Juristas de ESQUERDA Questionam + Jornalista EXPÕE a Globo + Companheirada Unida.](2024/2024-12-16-FQMVMPWbc6g.md) | 01:02:07 | automatica |
+| 2024-12-15 | [Braga Netto: PONDERAÇÕES Jurídicas e INDIGNAÇÃO + Como Foi a REPERCUSSÃO e o Que Diz o PASSADO?](2024/2024-12-15-HsyOcS3ngO0.md) | 01:10:45 | automatica |
+| 2024-12-14 | [PF Prende BRAGA NETTO + Não Pode Sorrir? SARCASMO Será CENSURADO? + Dilmo e o CAOS Econômico.](2024/2024-12-14-FnWLuHiDlHA.md) | 01:02:26 | automatica |
+| 2024-12-13 | [A CRISE Virou EMERGÊNCIA: o Dilmismo é REAL + Democracia do PITI e o Artigo19 + O Showzinho da GLOBO](2024/2024-12-13-ln-0rYCW_o0.md) | 01:03:01 | automatica |
+| 2024-12-12 | [Lula JÁ É o BIDEN Brasileiro + Globo ATACA a Direita e CAIADO Fica INELEGÍVEL+ O Teatro da Esquerda.](2024/2024-12-12-JidynaMymvk.md) | 01:06:24 | automatica |
+| 2024-12-11 | [Saúde de LULA Acende SINAL VERMELHO no PT + Milei da EXEMPLO de Soberania + 2026 Começa a EMBOLAR.](2024/2024-12-11-zgLiFRWbOU4.md) | 01:04:02 | automatica |
+| 2024-12-10 | [AGU de Lula Se SUPERA: Tá PROIBIDO Criticar? + Petistas PREOCUPADOS e Liberais Chorando: BR Sem RUMO](2024/2024-12-10-9yLG74tN-QA.md) | 01:09:08 | automatica |
+| 2024-12-09 | [Censura Sensata? ATÉ Onde a GLOBO Vai Por LULA? + O "POLÊMICO" Esquerdista e o DUPLO Padrão.](2024/2024-12-09-MoAIRKaiTRE.md) | 01:03:53 | automatica |
+| 2024-12-08 | [O Que ACONTECEU? Folha e OAB Lutando Pela LIBERDADE + Lula vs Bolsonaro: 2026 Já CHEGOU Com CRISES.](2024/2024-12-08-MJgbmycGdFs.md) | 01:02:51 | automatica |
+| 2024-12-07 | [Apocalipse: FOLHA Vê CENSURA e o FIM da Internet + RANDOLFE Quer MUDAR Regra Pro SENADO em 2026.](2024/2024-12-07-06x3A1wOGfE.md) | 01:03:00 | automatica |
+| 2024-12-06 | [Globo e PF vs Bolsonaro: A MASÃO e a NARRATIVA + Debate: MBL, Superman e AYAN + Folha CENSURADA?](2024/2024-12-06-NsClJmHlojY.md) | 01:16:44 | automatica |
+| 2024-12-05 | [Reprovado por 90%: Globo PREOCUPADA Com Lula + Lira DEFENDE Jair em 26 + Até PACHECO Defende Marcel.](2024/2024-12-05-867E4NSW82w.md) | 01:03:16 | automatica |
+| 2024-12-04 | [Consórcio ACORDOU? Críticas a CENSURA e aos "Métodos" + Escândalo nos CORREIOS? + Números MENTEM.](2024/2024-12-04-cQ3JrIXr_-I.md) | 01:03:00 | automatica |
+| 2024-12-03 | Janones PEDE FIM do PL, Mas ESQUECEU de Algo + FOLHA Aponta MAIS Lacunas Contra JB + Haddad vs Povo. | 01:02:01 | sem_legenda |
+| 2024-12-02 | [Dossiê: NOSSAS - A Única Linguagem é o INTERESSE + Viajando ENTRE Décadas até a SABOTAGEM da Anistia](2024/2024-12-02-xq5d0GyQvGI.md) | 01:19:25 | automatica |
+| 2024-12-01 | [Estadão: Lula PRECISA de Jair ELEGÍVEL + Trump ENQUADROU o BRICS + Liberais, Filipe Barros e Japão.](2024/2024-12-01-v3lRgYM9vVg.md) | 01:18:27 | automatica |
+| 2024-11-30 | [Dossiê: CÂMBIO DESLIGO - A Profecia se Concretizou. LULA Vê Esquerda ESFACELAR e Liberais Gritando.](2024/2024-11-30-LA6-6XiHq-I.md) | 01:08:49 | automatica |
+| 2024-11-29 | [Dossiê: EMPAREDADO - Lula VIVE Ápice da CRISE Econômica, MAS Ela NÃO Começou ONTEM. E o Bolsonaro?](2024/2024-11-29-eX9I_6FwWmY.md) | 01:09:41 | automatica |
+| 2024-11-28 | [Os PACOTES da Maldade: CENSURA Com PETISMO Econômico + Comunas COMPRANDO o Brasil, Adeus URÂNIO.](2024/2024-11-28-d86pNMb1KUo.md) | 01:09:21 | automatica |
+| 2024-11-27 | [Dossiê: A CAMPANHA - De 2019 ao FIM do PL, os Novos QUESTIONAMENTOS e As DIGITAIS Internacionais.](2024/2024-11-27-q0gvPrwRUpc.md) | 01:02:22 | automatica |
+| 2024-11-26 | [ÁGUA NO CHOP: Temer, Mídia Internacional e até a Globo ISENTAM BOLSONARO + Franceses CONTRA o Brasil](2024/2024-11-26-6KBnm5NDhjQ.md) | 01:03:04 | automatica |
+| 2024-11-25 | [Dossiê: O TEATRO - Quem é o JORNALISTA do Vídeo da GLOBO? + Racha no PL é Tornado PÚBLICO.](2024/2024-11-25-_5uSAMNJNdg.md) | 01:07:50 | automatica |
+| 2024-11-24 | [LACUNAS: Entre FATOS e SUPOSIÇÕES + CNN Expõe o Que NÃO Devia + Os "ILUDIDOS" ou Fingidos?](2024/2024-11-24-KFi8pbnPVFQ.md) | 01:04:22 | automatica |
+| 2024-11-23 | [GOLPE Dentro do GOLPE: A TRAMA Contra BOLSONARO + Esquerda SAI em DEFESA de JB + O Plano Macro do BR](2024/2024-11-23-ctXCiyRilFc.md) | 01:08:24 | automatica |
+| 2024-11-22 | [INDICIAMENTO: Questionamentos, Lacunas e Contra-Pontos + Consórcio Se SUPERA + Abordagem Da Direita](2024/2024-11-22-ndtmI0GnG8M.md) | 01:01:04 | automatica |
+| 2024-11-21 | [Narrativa MIOU: Nem ESQUERDA e CONSÓRCIO Compraram 100% + Muito AJUDA Quem Se AJUDA e o TIMING.](2024/2024-11-21-Jb_Z-A8f10o.md) | 01:09:03 | automatica |
+| 2024-11-20 | [Gópi: Bolsonaro é DEFENDIDO Pelo GLOBO + Povão CANSOU da Conversinha + Festa Milionária da Picanha.](2024/2024-11-20-DZKsPTrVVME.md) | 01:00:19 | automatica |
+| 2024-11-19 | [DILMO em APUROS: 14 Milhões de FOCAS e Nem a GLOBO Aguenta a JANJA + Bandido vs União: TEM Jeito?](2024/2024-11-19-yBHc43a38nQ.md) | 01:07:14 | automatica |
+| 2024-11-18 | [Dossiê: O DESAFIO - Entregando RESULTADOS e Acatando o PEDIDO + JANJA Ajuda Bolsonaro, Diz CONSÓRCIO](2024/2024-11-18-3mgU1otMFsk.md) | 01:14:05 | automatica |
+| 2024-11-17 | [Dossiê: JANJA vs MUSK - A Crise DIPLOMÁTICA + O RASTRO da ORIGEM da Mentira + Os 15 MESES Críticos.](2024/2024-11-17-tphSYo8rPmc.md) | 01:15:38 | automatica |
+| 2024-11-16 | [Caso do Louco: NARRATIVA Petista CAI em DESCRÉDITO Até na Esquerda + TRUMP Entre RINOS e DINOS.](2024/2024-11-16-yL1rxsFE36I.md) | 01:06:07 | automatica |
+| 2024-11-15 | [O Louco: TODOS Se LEVANTAM Contra a Direita + ANISTIA e o CICLO Que Se Repete + Não Lavem a Alma.](2024/2024-11-15-aja7H4TrqiA.md) | 01:17:50 | automatica |
+| 2024-11-14 | [O LOUCO de Brasília e a IMPRENSA Suja + Lula e o RETRATO do Fracasso + Aliança BR-EUA Pela LIBERDADE](2024/2024-11-14-GfEsRtClZA4.md) | 01:04:18 | automatica |
+| 2024-11-13 | [Trump CRIA PESADELO Pra LULA, Afirma GLOBO + Vieram Pra ROMPER Com TUDO + Racha no PT e CRISE Geral](2024/2024-11-13-K982P6M2Kb4.md) | 01:07:54 | automatica |
+| 2024-11-12 | [Bolsonaro PAUTA o País Com SEU ARTIGO na Folha + O Chororô Hipócrita + Elites Preocupadas com 2026.](2024/2024-11-12-a5NMTGm2FII.md) | 01:03:05 | automatica |
+| 2024-11-11 | [Dossiê: ROTHSCHILD 3 - Eles Não São o Caminho + COMPLEXIDADES De TRUMP à JAIR, de LULA aos LIBERAIS.](2024/2024-11-11-FiHWxZcbiNA.md) | 01:18:12 | automatica |
+| 2024-11-10 | [Trump: o PLANO da Liberdade Desde o Dia 1 + Filipe Martis e os Fulanos de Lá + Eduardo Da a Direção](2024/2024-11-10-oQOOVp4lgIk.md) | 01:00:46 | automatica |
+| 2024-11-09 | [Lula DIZ NÃO Querer DISPUTAR 2026 e Arrega Pra TRUMP + O Início da NOVA ERA Lá, Passa por JAIR Aqui.](2024/2024-11-09-GLTomn7Foms.md) | 01:05:53 | automatica |
+| 2024-11-08 | [Trump DESCOBRIU o Que LULA Falou Dele + Mudança na EMBAIXADA e Fantasma + Bolsonaro vs Aliados.](2024/2024-11-08-1jdjx8Yultw.md) | 01:14:18 | automatica |
+| 2024-11-07 | [Trump: Mídia JÁ FALA em Bolsonaro 2026 + As ALIANÇAS e o João Sem-Braço + Cedeu e Cedeu com Força.](2024/2024-11-07-_eK_e-bMEDw.md) | 01:06:31 | automatica |
+| 2024-11-06 | [Trump VENCEU, e Agora LULA? + Esquerda TENTA Frear Eduardo Bolsonaro + O Que ESPERAR Para 2026?](2024/2024-11-06-307hsif85ck.md) | 01:11:25 | automatica |
+| 2024-11-05 | [Dia D: Lula vs Trump + RACHA Sem VOLTA na Esquerda + Bolsonaro: Entre a LIDERANÇA e a Anti-Política.](2024/2024-11-05-xyEIx4M17-c.md) | 01:09:46 | automatica |
+| 2024-11-04 | [GLOBO Expõe a MÁQUINA do CENTRÃO + Bolsonaro: É Preciso SABER Dizer NÃO + As ENTRANHAS do Consórcio.](2024/2024-11-04-vEYS3NKb0T0.md) | 01:18:45 | automatica |
+| 2024-11-03 | [Trump VAI CORTAR o Dinheiro da Esquerda Brasileira + Doria e Lula: HISTÓRIA de Amor + Haddad Fugiu?](2024/2024-11-03-kNAEB05LHTo.md) | 01:08:37 | automatica |
+| 2024-11-02 | [Cresce PERCEPÇÃO Que Bolsonaro VOLTARÁ + Esquerda Discute Lula e o FIM do PT + Globalismo e o IBAMA.](2024/2024-11-02-ctuGPlRK4iA.md) | 01:02:26 | automatica |
+| 2024-11-01 | [Dirceu EXPÕE FRAGILIDADES de Lula e 2026 + Bolsonaro vs Astronauta: NÃO Existe GRUPO + Adeus do MDB?](2024/2024-11-01--jeq03ZjdI0.md) | 00:58:35 | automatica |
+| 2024-10-31 | [Petistas JÁ Cogitam LULA FORA de 2026 + Bolsonaro, Anistia e Um 400 Em 2025 + Os IMPACTOS da Mentira](2024/2024-10-31-xcBFvbsDZ1I.md) | 01:16:04 | automatica |
+| 2024-10-30 | [Dirceu VOLTOU Pra Alegria de LULA e Alckmin + Jair e o FATOR Trump em 2026 + Valdemar PEDE Desculpas](2024/2024-10-30-d4NOyELclPg.md) | 01:07:03 | automatica |
+| 2024-10-29 | [Confusão no PT: Atenção na GLOBO e na Gleisi + Bolsonaro e as Impressões VINDO de Fora + Senado26.](2024/2024-10-29-aATSh4C_EIU.md) | 01:03:38 | automatica |
+| 2024-10-28 | [Bolsonaro, Lula ou Centrão? Quem VENCEU? + Tarcísio vs Boulos: INELEGÍVEL? + Tipos de BONS ALIADOS](2024/2024-10-28-t8hrFt2fN1E.md) | 01:13:59 | automatica |
+| 2024-10-27 | [O SALVE Foi Dado: HOJE é o DIA do DESFECHO + Lula vs Bolsonaro: BRICS e Soberania + Anistia do Dia 8](2024/2024-10-27-GfFPGQ5O7S4.md) | 01:00:42 | automatica |
+| 2024-10-26 | [Marçal vs Boulos: a ÚLTIMA Máscara + Filipe Martins ACERTA Cenário Atual + As Tias e Tios Têm RAZÃO.](2024/2024-10-26-JmeJyNYzlu8.md) | 01:23:44 | automatica |
+| 2024-10-25 | [Ele SABIA de TUDO? E Agora MARÇAL? + VASSALAGEM: Lula TROCA Putin por BIDEN + Dogmas QUE Atrapalham.](2024/2024-10-25-XautLsZnAEM.md) | 01:05:43 | automatica |
+| 2024-10-24 | [Eduardo Bolsonaro EXPÕE Gastos MILIONÁRIOS + Eles VOLTARAM de Fininho + Teremos um FIM?](2024/2024-10-24--nPftfeU2Sg.md) | 01:12:22 | automatica |
+| 2024-10-23 | [Adeus REELEIÇÃO? GLOBO Compara LULA a BIDEN + Reta FINAL da Eleição + NYT e Júnior: Cadê o DOSSIÊ?](2024/2024-10-23-AzLrZr7KKjw.md) | 01:19:41 | automatica |
+| 2024-10-22 | [Bolsonaro: ALCOLUMBRE 2025, Caiado e Zema + Dilmo: ZÉ Cai-Cai Contra o BRICS + Bloco ANTI-OCIDENTE?](2024/2024-10-22-Q3VQUUgadqY.md) | 01:06:39 | automatica |
+| 2024-10-21 | [O PLANO de Alcolumbre e Kassab + A QUEDA do Lula: COINCIDÊNCIA? + Fisgando MENTES e Corações.](2024/2024-10-21-0aEtBIAnbNY.md) | 01:13:48 | automatica |
+| 2024-10-20 | [A Mãe de TODAS as Batalhas: SENADO 2026 + Bolsonaro INDICIADO em Novembro? + KASSAB, Zema e Deltan](2024/2024-10-20-cbfTm63MOPg.md) | 01:03:41 | automatica |
+| 2024-10-19 | [Kassab e o CALCANHAR de AQUÍLES + Engler vs Zema: APOIO ou OPORTUNISMO? + Anistia e FUTURO da CÂMARA](2024/2024-10-19-fFFYnrqaW74.md) | 01:11:12 | automatica |
+| 2024-10-18 | [Dossiê: HARARI - Klaus Tem um PLANO e HADDAD Também + Bolsonaro vs Lula: Entre CISMAS e Reflexões.](2024/2024-10-18-DjdBoZAHKjU.md) | 01:08:49 | automatica |
+| 2024-10-17 | [Lula Entre GLOBALISTAS, Banqueiros e o FORO de SP + Bolsonaro e 2026: Fernandes, Eduardo e Redes.](2024/2024-10-17-DMMh0ELuy2c.md) | 01:14:23 | automatica |
+| 2024-10-16 | [Reta FINAL: O Bolsonarismo SUAVIZADO + Pacheco MINISTRO de Lula + Justiça: CHEGOU a VEZ dos Petistas](2024/2024-10-16--LWWMRnwMrE.md) | 01:08:28 | automatica |
+| 2024-10-15 | [Lula Foi COOPTADO ou SEMPRE Foi Globalista? + Inusitado: PDT Apoiando a Direita + Fiuza e Rótulos.](2024/2024-10-15-wIWzK4C8_Mg.md) | 01:03:39 | automatica |
+| 2024-10-14 | [Globo EXPÕE Lula e DERROTAS da Esquerda + FIM do TEMPO de LIRA: E. Bolsonaro vs Princeso + Senado 26](2024/2024-10-14-32fWeX5skCw.md) | 01:12:04 | automatica |
+| 2024-10-13 | [Os PROBLEMAS e As VITÓRIAS Que NINGUÉM Viu: A Esquerda ABRE o Jogo e Fala a VERDADE Sobre a Direita.](2024/2024-10-13-7WwzZAF-MZ0.md) | 01:19:37 | automatica |
+| 2024-10-12 | [Deputados MONITORADOS Pelo BEM da Demogracinha + Direita CAMINHA Pra VENCER no NORDESTE. Agora Vai?](2024/2024-10-12-giwaIP7CRE4.md) | 01:01:43 | automatica |
+| 2024-10-11 | [Bolsonaro Com PÉ Na VITÓRIA e LULA com PÉ na DERROTA + Banqueiros DISCUTEM 2026, Mas TEMOS Solução!](2024/2024-10-11-aqhttpEbS58.md) | 01:16:18 | automatica |
+| 2024-10-10 | [Direita VENCE na CCJ, Mas Supremo Já MANDOU Aviso + Bolsonaro: NOTAS PLANTADAS e a Falta de DÁDIVA.](2024/2024-10-10-PtAF54i9sJo.md) | 01:05:44 | automatica |
+| 2024-10-09 | [Bolsonaro vs Malafaia: O Ponto IGNORADO + As DEMANDAS de Marçal + Twitter Volta e MONARK é Condenado](2024/2024-10-09-HLpNydmdA2U.md) | 01:05:06 | automatica |
+| 2024-10-08 | [Twitter de VOLTA na QUARTA + BOLSONARO vs INTERGALÁTICOS: Eleições, Voto NULO e Números.](2024/2024-10-08-UI1JToIbWBA.md) | 01:05:42 | automatica |
+| 2024-10-07 | [Eleições: VITÓRIAS da Direita e a FORÇA de Bolsonaro + MARÇAL: Voto NULO e as INJUSTIÇAS](2024/2024-10-07-m9VT7QmLz6I.md) | 01:01:58 | automatica |
+| 2024-10-06 | [DIA D e o LAUDO Falso: O PROBLEMA Pode Ser MAIOR Que Se Imagina. Uma ANÁLISE Das ELEIÇÕES Até Aqui.](2024/2024-10-06-NfgixT20xyM.md) | 01:14:09 | automatica |
+| 2024-10-05 | [Twitter FORA do 1º Turno + Bolsonaro e os Estrategistas Intergaláticos + O LAUDO Que Pode MUDAR Tudo](2024/2024-10-05-hNHGNKmNyIo.md) | 01:12:15 | automatica |
+| 2024-10-04 | [Lula e Boulos PATINAM + A ÚLTIMA Eleição de Bolsnaro, ENTENDA + Deputada CONTRA o DREX. Agora Vai?](2024/2024-10-04-Z3mp5XeBl4I.md) | 01:08:22 | automatica |
+| 2024-10-03 | [Dossiê: KUZNETS - Do PIB à BRETON WOODS, Todos Se CONHECEM. Lula, FHC, Lemann, Rockefeller e P. Bell](2024/2024-10-03-rN76DRW6cBw.md) | 01:18:05 | automatica |
+| 2024-10-02 | [Nova LEI dos EUA Pode AJUDAR o Brasil + BETs: Liberais e Judiciário vs Bolsonaro + A Farra do Dilmo.](2024/2024-10-02-aV6ibObcDRo.md) | 01:02:40 | automatica |
+| 2024-10-01 | [FIM Dos INQUÉRITOS à Vista: GARANTE Ministro + Esquerda PREOCUPADA com RJ e SP + O RACHA na Direita](2024/2024-10-01-W49N55rdQ7A.md) | 01:19:50 | automatica |
+| 2024-09-30 | [Lula em DESVANTAGEM Contra Bolsonaro + Olavo de Carvalho e o MAL das BETs + Confusões no Senado.](2024/2024-09-30-cDACru9IIng.md) | 01:11:58 | automatica |
+| 2024-09-29 | [Dirceu TENTA Reverter VITÓRIA da Direita em 2026 + Bolsonaro vs Lula: Explicando o PERCURSO.](2024/2024-09-29--3fNAsd1AHg.md) | 01:10:15 | automatica |
+| 2024-09-28 | [ESQUERDA Diz que Lula ABRAÇOU o Wokismo e o BIDEN + Hoje NÃO Elon Musk + Bolsonaro o Aglutinador.](2024/2024-09-28-LPU8386mkfQ.md) | 01:10:52 | automatica |
+| 2024-09-27 | [Lula TRAIU o BRICS e BOULOS Põe FIM ao Foro de SP + A VOLTA do Twitter e os COBRÕES da Índia.](2024/2024-09-27-0AaShgQny90.md) | 01:05:00 | automatica |
+| 2024-09-26 | [Lula FOGE de Jornalistas e Toma EXPOSED: Acharam o Pai da IDEIA + Bolsonaro e as Complexidades.](2024/2024-09-26-KUVco0PShvI.md) | 01:08:50 | automatica |
+| 2024-09-25 | [LULA Tem DERROTA Importante + MILEI Contra Agenda2030 e Globalismo em CRISE + Elon e Meloni = ???](2024/2024-09-25-DgJbDeaGfrg.md) | 01:18:33 | automatica |
+| 2024-09-24 | [PF Prepara LISTA e TWITTER Voltará em BREVE + Debate no FLOW, Ramagem e FIM do PT + BETs Parte 2.](2024/2024-09-24-Jatgd_v4Ucs.md) | 01:04:40 | automatica |
+| 2024-09-23 | [Dossiê: PACTO DO FUTURO - Agenda 2030 GANHA Novo NOME e OBJETIVOS + Milei e Rússia CONTRA a ONU.](2024/2024-09-23-lKppcPGb5A0.md) | 01:03:05 | automatica |
+| 2024-09-22 | [Twitter tem 5 DIAS e BARROSO Diz Que É Bem-Vindo + A Entrevista do DIRCEU + Trump, Bolsonaro e Eneas](2024/2024-09-22-TN65M3WtdTs.md) | 01:21:00 | automatica |
+| 2024-09-21 | [Elon NOMEIA Representante e BLOQUEIA Perfis + Finalmente um PLANO? Jair, Lula e o FUTURO Possível.](2024/2024-09-21-cW7Vb8N9snU.md) | 01:11:19 | automatica |
+| 2024-09-20 | [Elon CEDEU e Twitter DEVE VOLTAR + Percepções Nos BASTIDORES Sobre o X + Direita AVANÇA no Nordeste.](2024/2024-09-20-pCpRmpGYFu8.md) | 01:03:12 | automatica |
+| 2024-09-19 | [Parlamentares do EUA vs Supremo: VISTOS CANCELADOS + Ramagem CRESCE Contra PAES + Limitação da Bolha](2024/2024-09-19-WUpd5AnkE3Y.md) | 01:13:21 | automatica |
+| 2024-09-18 | [Casa Branca REPUDIA BANIMENTO do X + LULA Quer Defender CENSURA do WEF na ONU + PSD: Pressão Doeu.](2024/2024-09-18-B7KHqBM2E5k.md) | 01:16:07 | automatica |
+| 2024-09-17 | [Pesquisa Traz um CHOQUE de REALIDADE + Lula, Dino e ONU: a AUTORIDADE Climática + Caos em 2025?](2024/2024-09-17-rrfjQUSHPzE.md) | 01:16:13 | automatica |
+| 2024-09-16 | [MARÇAL vs DATENA: a Cadeirada e o JACK + A Entrevista de Nikolas + Lula, Queimadas e o ARANHA.](2024/2024-09-16-8YFumJ7f9BA.md) | 01:06:08 | automatica |
+| 2024-09-15 | [Bolsonaro vs Marçal: GAYER Expõe a FARSA + CENSURA: Brasil VIRA Piada Mundial e Esquerda RACHA.](2024/2024-09-15-T4BQdZnAa1Y.md) | 01:08:23 | automatica |
+| 2024-09-14 | [Lula ARTICULA CENSURA Global + Twitter Só DEPOIS das ELEIÇÕES? + Bolsonaro: BRIFADOS Foram EXPOSTOS.](2024/2024-09-14-bHBYkJisqZo.md) | 01:14:26 | automatica |
+| 2024-09-13 | [ANJ e Câmara dos EUA Cobram DESBLOQUEIO do Twitter + Lula, ONU e Agenda2030 + Deu RUIM Pra JANONES.](2024/2024-09-13-bVpcM7o5A4A.md) | 01:04:56 | automatica |
+| 2024-09-12 | [Censura: A Orquestração INTERNACIONAL + Anistia: O ORGANOGRAMA do Oportunismo + Boulos e S.Almeida](2024/2024-09-12-9B-QXAmwzhs.md) | 01:02:52 | automatica |
+| 2024-09-11 | [Anistia, Bolsonaro e o ACORDÃO: O que JÁ Se SABE Até o MOMENTO + As MANOBRAS do Establishment.](2024/2024-09-11-Wadb50vDZDU.md) | 01:20:27 | automatica |
+| 2024-09-10 | [Dossiê: ANISTIA - Ganhar ou Perde PASSA por 2025 e Bonoro + Críticas INTERNACIONAIS Contra Censura.](2024/2024-09-10-fSfT9-c1Cwg.md) | 01:07:05 | automatica |
+| 2024-09-09 | [Clima Ruim: NEM a GLOBO Consegue DEFENDER a Censura + Bolsonaro vs Marçal + Lula e Boulos PATINANDO.](2024/2024-09-09-w0aOLfLtICQ.md) | 01:00:41 | automatica |
+| 2024-09-08 | [O Pós 7/9: GLOBO e ESTADÃO Fazem DEFESAS Históricas da Direita + Lula e Ministro: Tá ESCANCARADO](2024/2024-09-08-su1KxHbexrk.md) | 01:15:02 | automatica |
+| 2024-09-07 | [7 de Setembro: CESCE PRESSÃO e Até TEMER Já Critica a Corte + Escândalo: SILVIO ALMEIDA Parte 2.](2024/2024-09-07-BO13Ro-CWLE.md) | 01:12:22 | automatica |
+| 2024-09-06 | [Elon e Twitter: CRESCE PRESSÃO Internacional e Kássio TOMA Ação + Lula e o ESCÂNDALO Silvio Almeida.](2024/2024-09-06-UUb_IgPNp1I.md) | 01:04:23 | automatica |
+| 2024-09-05 | [Elon: EVACUAÇÃO e o "Documento" do Amado + Bolsonaro: Entre CARTAZES e PLANOS + Novo PL Pró-VPN.](2024/2024-09-05-Fx-wbbR_mD0.md) | 01:05:10 | automatica |
+| 2024-09-04 | [Dossiê: O FLAUTISTA - Elon TOCA Uma Música, Você CONSEGUE Ouvir? + GLENN Voltou: A Parte 11 é o X.](2024/2024-09-04-NfOY9ZlBEOg.md) | 01:11:50 | automatica |
+| 2024-09-03 | [APREENSÃO RECÍPROCA: Elon VAI Pra CIMA de LULA + Starlink da AULA de Defesa + Luz no FIM no Túnel?](2024/2024-09-03-z7BsbOrJpMY.md) | 01:17:59 | automatica |
+| 2024-09-02 | [Twitter: Começou o Julgamento + Starlink: CRÍTICAS São Unanimidade + FOLHA Faz a Pergunta de Milhão.](2024/2024-09-02-orEQXb_3ObA.md) | 01:05:07 | automatica |
+| 2024-09-01 | [Twitter: ESTADÃO Da Aula Pra GLOBO + Starlink: LIRA e Investidores Apreensivos + JAIR Em "Silêncio".](2024/2024-09-01-V2U4xLHC73A.md) | 01:13:59 | automatica |
+| 2024-08-31 | [Dossiê: FIM do TWITTER - Elon FEZ o Consório MUDAR de Lado? + O Tal "Vídeo OBRIGATÓRIO".](2024/2024-08-31-JWrTcZj86TM.md) | 01:20:50 | automatica |
+| 2024-08-30 | [Elon e o FIM do TWITTER: Decisão Tomada - Os EFEITOS Colaterais e a VERDADE Que a GLOBO Não Conta.](2024/2024-08-30-prXJMl2FQwA.md) | 01:04:47 | automatica |
+| 2024-08-28 | [TAGLIAFERRO, o Afastamento e a CENSURA a F.Marints + Tarcísio, VOTO NULO, Fundão do MBL e Salles.](2024/2024-08-28-8fnPxJfUxho.md) | 01:10:54 | automatica |
+| 2024-08-27 | [Glenn REAPARECE e Aeroporto de ROMA Tem Reviravolta + BRECHA Pra JAIR Disputar 2026 + Tablet Amaral.](2024/2024-08-27-DEIDtdId63w.md) | 01:05:46 | automatica |
+| 2024-08-26 | [Caso TAGLIAFERRO: As Reviravoltas + Aúdio VAZADO: Existe um ACORDÃO? + Bolsonaro vs Marçal: A FASE 3](2024/2024-08-26-nQOgI6VJZyc.md) | 01:09:11 | automatica |
+| 2024-08-25 | [Marçal é CENSURADO e Manda BOLSONARO Ser HOMEM + NOVA Entrevista de TAGLIAFERRO no Estadão.](2024/2024-08-25-Xrohr8fvqaM.md) | 01:20:35 | automatica |
+| 2024-08-24 | [A ENTREVISTA: Tagliaferro FALA com a OESTE + Marçal vs Carlos: O DILEMA das REDES + Ciro e a Paraná.](2024/2024-08-24-SxZEx9CDdsM.md) | 01:21:23 | automatica |
+| 2024-08-23 | [Bolsonaro vs Marçal: a RUPTURA e o Carlos + Glen PARTE 10 - Querem o FIM dos Inquéritos. E o ARAS?](2024/2024-08-23-0yBmkYTa-nE.md) | 01:18:08 | automatica |
+| 2024-08-22 | [Glenn PARTE 9: Erros, Contradições e Reclamações + O TWEET de Pablo Marçal + Uma Aposta Muito ERRADA](2024/2024-08-22-GEJVUZzXx_s.md) | 01:07:20 | automatica |
+|  |  |  | erro |
