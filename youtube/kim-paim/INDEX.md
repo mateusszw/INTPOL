@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-552 vídeos transcritos, 1 sem legenda.
+652 vídeos transcritos, 1 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -557,3 +557,103 @@
 | 2025-04-07 | [Manifestação: ANISTIA em Pauta e 2026 PASSA Por Bolsonaro, Diz GLOBO + O ELO Mais FORTE da Corrente](2025/2025-04-07-TqWOi6uapOk.md) | 01:07:16 | automatica |
 | 2025-04-06 | [JB: MANIFESTAÇÃO, Nova VITÓRIA Jurídica e ANISTIA + Petista ELOGIA Jair + LULA: Destruição Planejada](2025/2025-04-06-UoqUcQHP-zU.md) | 01:17:08 | automatica |
 | 2025-04-05 | [Bolsonaro Reúne 7 Governadores Pela ANISTIA + Esquerda "DEFENDE" Jair de Abusos + Trump vs Sistema](2025/2025-04-05-TXwjQ40J43k.md) | 01:10:17 | automatica |
+| 2025-04-04 | [Dossiê: O DIA DA LIBERTAÇÃO - Do TARIFAÇO à ANISTIA, do Trump Protecionista ao Lulinha da OMC.](2025/2025-04-04-JnNwxxfOrAE.md) | 01:15:54 | automatica |
+| 2025-04-03 | [Lula é EXPOSTO Pro Brasil: PESQUISA é MARCO do FIM da ERA do PT + Globo: Jair e Anisitia em ALTA.](2025/2025-04-03-qbwUkDpZLQQ.md) | 01:07:49 | automatica |
+| 2025-04-02 | [ESCÂNDALO: o Ex-Procurador de DIRCEU e NAIME no Dia 8/1 + Anistia: OBSTRUÇÃO, Pressão e Embates.](2025/2025-04-02-cWtQo39aXpY.md) | 01:06:18 | automatica |
+| 2025-04-01 | [NOVO Apoio POLÍTICO Para a ANISTIA + LAWFARE Contra JAIR e LE PEN + Lula Vê ARREPENDIDOS Crescerem.](2025/2025-04-01-Q56XIh1C1SU.md) | 01:17:16 | automatica |
+| 2025-03-31 | [O FRACASSO da Manifestção LULA-BOULOS + Sóstenes Fala em 309 VOTOS Pró Anistia + A "ARAPUCA" do Jair](2025/2025-03-31-Y0rO4ccJNgI.md) | 01:11:44 | automatica |
+| 2025-03-30 | [Democracia Bastarta: SISTEMA Cobra RECÚO Tático + Bolsonaro: Cartão VS Lindora + AGU vs BP: R$500mil](2025/2025-03-30-1XsmjnEn1_4.md) | 01:06:15 | automatica |
+| 2025-03-29 | [REVIRAVOLTAS: Débora Em CASA, Esquerda DEFENDE Indulto de Lula, KASSAB Na Mira e TEMER Preocupado.](2025/2025-03-29-eoq2QgJMJKo.md) | 01:04:24 | automatica |
+| 2025-03-28 | [Caso Cartão: PGR Pede ARQUIVAMENTO e Globo CHORA + Anisita: a PRESSÃO Contra KASSAB + Lula e a CRISE](2025/2025-03-28-tADTeRYo2Yk.md) | 01:14:10 | automatica |
+| 2025-03-27 | [Julgamento: FUX Discorda Mais UMA Vez + Vítoria na CREDEN: a CAIXA PRETA da USAID + Lula DERRETENDO.](2025/2025-03-27-Gn7zdO5qoPM.md) | 01:05:48 | automatica |
+| 2025-03-26 | [Bolsonaro vs Sistema: Fux ABALA o Julgamento + Demogracinha ESTRANHA: Advogados QUEREM as PROVAS.](2025/2025-03-26-TU4CV4gis_A.md) | 01:05:24 | automatica |
+| 2025-03-25 | [O JULGAMENTO: Bolsonaro, Lula, Globo e BARRABÁS + Direita e o CORTE Seletivo + Escândalos Vermelhos.](2025/2025-03-25-Or8C0jiyipY.md) | 01:06:55 | automatica |
+| 2025-03-24 | [CASO Débora FURA Bolha e Gera REAÇÕES + Lula e Bancos: OVOS de Ouro e Gol do Sidônio + A Tal "CVNet"](2025/2025-03-24--wpqe14u6ik.md) | 01:04:36 | automatica |
+| 2025-03-23 | [Um País DIVIDIDO: Déboras, Mottas e Jantares + Lula: a PEÇA De PERPETUAÇÃO do Sistema + O Caos de 27](2025/2025-03-23-ySg5fPV-4TQ.md) | 01:10:19 | automatica |
+| 2025-03-22 | [Débora: 14 Anos Geram INDIGNAÇÃO Até no Consórcio + CREDEN, Acordos e USAID + É Preciso Politizar.](2025/2025-03-22-Zgh7CnefWao.md) | 01:10:16 | automatica |
+| 2025-03-21 | [Clima ESQUENTA: Bolsonaro e Anistia, o DISCURSO de MOTTA, Movimentações dos EUA, Eduardo e o PILOTO.](2025/2025-03-21-LdrUQVnaZoI.md) | 01:03:27 | automatica |
+| 2025-03-20 | [Dossiê: CIA vs KGB-Cuba - Trump REVELA Mais Documentos SECRETOS da Era JFK Sobre o Brasil.](2025/2025-03-20-c6p3RybgcME.md) | 01:18:55 | automatica |
+| 2025-03-19 | [EXILADO: Eduardo FICA nos EUA - Motivos, Planos e Repercussão. A Imprensa CHORA e a CREDEN é Nossa.](2025/2025-03-19-gGADt_2f_r4.md) | 01:05:12 | automatica |
+| 2025-03-18 | [Lula: CRISE e RACHA Só CRESCEM + 6 Anos do INQUÉRITO e Consórcio NÃO Muda + A Direita e Sua História](2025/2025-03-18-bwPUzmwiQBI.md) | 01:26:38 | automatica |
+| 2025-03-17 | [O DIA Depois do ATO: Bolsonaro MAIOR ou MENOR? Flopou ou Não? CAIU a FICHA na Direita? E a Esquerda?](2025/2025-03-17-1oc7Uft9Vxk.md) | 01:05:46 | automatica |
+| 2025-03-16 | [TEMPO LIMITE: Lulta TEM de 6 à 8 Meses, Diz Antigo Aliado à GLOBO + A Cruzada de Jair Pela ANISTIA.](2025/2025-03-16-M_9Ep-JtpPo.md) | 01:15:11 | automatica |
+| 2025-03-15 | [Bolsonaro BRILHA no Flow e DEIXA ESCAPAR Um Bastidor + Os ENTORNOS das Confusões São CRUCIAIS.](2025/2025-03-15-c6zkqnzcxkU.md) | 01:13:25 | automatica |
+| 2025-03-14 | [Dossiê: O CONSELHEIRO - Os IRMÃOS da JBS, Lula, ZEMA e a Entrega das PCHs + A Rapidez CONTRA Jair.](2025/2025-03-14-iV--TuVx9YE.md) | 01:12:59 | automatica |
+| 2025-03-13 | [Lula vs Trump: Da "MULHER BONITA" à ARREGADA + Dirceu PREOCUPADO Com 2026 + Pequenas VITÓRIAS.](2025/2025-03-13-hLK0G-8Tdrs.md) | 01:01:44 | automatica |
+| 2025-03-12 | [Lula ESCOLHERÁ o CANDIDATO dos BANCOS? + BOAS Notícias e FIM do G.D.O. + Eduardo INCOMODANDO Demais.](2025/2025-03-12-NAuyVbCz18g.md) | 01:07:54 | automatica |
+| 2025-03-11 | [Dossiê: RASTREADO - Filipe Martins e os R$ 168 Reais CONTRA os Milhões, as ONGs e Campeões Nacionais](2025/2025-03-11-ovkTLtm2ap8.md) | 01:04:35 | automatica |
+| 2025-03-10 | [A NOVA Fake: Min da DEFESA e GOPI + Escândalo: o LOBBY do "BEM" + Frei Gilson, Bolsonaro e Trump.](2025/2025-03-10-zkbMISQh_nc.md) | 01:09:50 | automatica |
+| 2025-03-09 | [O Zeitgeist de Lula: RACHA no PT, Crise Com CENTRÃO e o SARNEY + Bolsonaro: Um Projeto SABOTADO?](2025/2025-03-09-UE7glqZ_GEg.md) | 01:09:59 | automatica |
+| 2025-03-08 | [Lula Vai Pro TUDO ou NADA e Globo REAGE + Bolsonaro VENCE Lula e DERRETIMENTO Cresce + Injustiças.](2025/2025-03-08-i9W327XSTTY.md) | 01:04:33 | automatica |
+| 2025-03-07 | [Até Tu MIRIAM Leitão? Lula Se AFUNDA em CRISE + Eduardo e o "APOIO" da Direita + O Projeto 2026](2025/2025-03-07-sD8xFwvaTLc.md) | 01:03:08 | automatica |
+| 2025-03-06 | [Globo ASSUME Exisitr o DEEP-STATE + Trump vs Globalistas + 2026: Centrão Pulará do Barco?](2025/2025-03-06-CctazlAzSC0.md) | 01:09:40 | automatica |
+| 2025-03-05 | [Anistia GANHA APOIO no PSD do Senado + Trump vs Direita: ORIGEM da Confusão? + BOULOS Será Ministro?](2025/2025-03-05-mJfzjC4RYqI.md) | 01:09:20 | automatica |
+| 2025-03-04 | [ESCÂNDALO: o NINJA do PT - Ele AINDA Está Aqui + Dirceu ACEITOU a Derrota em 2026? + Direita e 8/Jan](2025/2025-03-04-jYkikXG2KjI.md) | 01:03:10 | automatica |
+| 2025-03-03 | [Dossiê: TRUMPVOTSKY - Entre a Desinformação da KGB e o Mundo REAL, Bolsonaro e Trump Estavam CERTOS.](2025/2025-03-03-R6-T0oB7Qj0.md) | 01:16:01 | automatica |
+| 2025-03-02 | [OEA: a Nota e a BRIGA pelo CONTROLE + Trump: o "FIM" Mundo Livre + Lula, Gleisi e EMENDAS.](2025/2025-03-02-KjZIgvBRN3c.md) | 01:03:40 | automatica |
+| 2025-03-01 | [Lula: o ADEUS do Centrão e Faria Lima, e a NOVA CRISE Gleisi + EUA vs Ministro: "Nós Não Esquecemos"](2025/2025-03-01-vYSQ7UjfEyM.md) | 01:02:14 | automatica |
+| 2025-02-28 | [Dossiê: FAROL VERMELHO - Lula ENTREGA o Que Trump QUERIA? + O VELHO Testamento Previa TODO o CAOS.](2025/2025-02-28-3uG3Zx8yfEQ.md) | 01:08:43 | automatica |
+| 2025-02-27 | [Trump vs Lula: TENSÃO Escala e LEI Avança + Centrão PERDIDO Diante do DERRETIMENTO de Lula.](2025/2025-02-27-VG71ES9aQeU.md) | 01:08:25 | automatica |
+| 2025-02-26 | [TRUMP: Processo e CRISE Diplomática? + Lula DERRETE e GLOBO Esperneia + Jair e o VELHO Testamento.](2025/2025-02-26-8tABijFoDAE.md) | 01:11:01 | automatica |
+| 2025-02-25 | [Trump é ACIONADO Formalmente Sobre Situação Brasileira + CID: Um DETALHE Curioso + A Crise Janjesca.](2025/2025-02-25-ar0480AMr24.md) | 01:04:39 | automatica |
+| 2025-02-24 | [Barco de Lula AFUNDOU, Diz CENTRÃO + Edu Bolsonaro REVELA Conversa com KIM + O Processo Nos EUA.](2025/2025-02-24-TE1LbqKV8lY.md) | 01:08:31 | automatica |
+| 2025-02-23 | [Trump MANDA Salve Pra JAIR + Lula VOLTA Pros HOLOFOTES + Plano SAFRA ou Plano de MALDADE?](2025/2025-02-23-xDBLds1axAk.md) | 01:10:49 | automatica |
+| 2025-02-22 | [Dossiê: FULBRIGHT - Confusão Com TRUMP Escala + Até Críticos DEFENDEM Jair + Oportunistas e 2026.](2025/2025-02-22-GFIg2o6ux24.md) | 01:10:50 | automatica |
+| 2025-02-21 | [Bolsonaro: GLOBO Quer CONSENSO, Massss FOLHA Atrapalhou o PLANO + CRESCEM Dúvidas FORA da Direita.](2025/2025-02-21-yZdpFLU6iuA.md) | 01:01:35 | automatica |
+| 2025-02-20 | [Trump vs Ministro: PROCESSO Internacional e Sanções? + CID: Fio Que NÃO Leva a Bolsonaro é ESQUECIDO](2025/2025-02-20-t4_Vr08FSlI.md) | 01:06:35 | automatica |
+| 2025-02-19 | [Bolsonaro DENUNCIADO: Folha MELA TUDO e COBRA Provas + As COINCIDÊNCIAS e as Narrativas da GLOBO.](2025/2025-02-19-dKoPMIMkmBA.md) | 01:04:13 | automatica |
+| 2025-02-18 | [LULA é HUMILHADO Pela Globo e Kakay + Trump MANDA Recado Pro Brasil? + Manifestações e Prioridades.](2025/2025-02-18-8AVencn5msg.md) | 01:12:59 | automatica |
+| 2025-02-17 | [Globo: LULA Fora de 2026 + Trump AGIRÁ Diante da OEA, Diz Metrópoles + Bolsonaro e as Confusões.](2025/2025-02-17-fvgTTbuhHgk.md) | 01:03:40 | automatica |
+| 2025-02-16 | [ACABOU o Amor Entre: Lula, KASSAB e Alckmin? + TRUMP Muda a ORDEM Global + Jair e as Manifestações.](2025/2025-02-16-lUG46YrPnSU.md) | 01:13:48 | automatica |
+| 2025-02-15 | [Lula DESABOU: Desaprovação RECORDE Marca o FIM + Bolsonaro e ANISTIA + Vencemos o iBest e Falamos A.](2025/2025-02-15-4ms6ULzYIcY.md) | 01:09:10 | automatica |
+| 2025-02-14 | [USAID Dentro Do Gov LULA? Quem São os AGENTES e o QUÊ Eles FIZERAM? + OEA: Poderosos TEMEM Relatório](2025/2025-02-14-TgaI-90Qo1Q.md) | 01:14:18 | automatica |
+| 2025-02-13 | [Eduardo Bolsonaro nos EUA + Moro MANIPULA Tweet de Mario Frias + Lula: CRISE Irreversível.](2025/2025-02-13-Jcm1pQToStw.md) | 01:09:10 | automatica |
+| 2025-02-12 | [Dossiê: LOVECCHIO - Anistia, OEA e Múcio. A INJUSTIÇA Tem FIM e a História NÃO Será PERDIDA.](2025/2025-02-12-uAJxDtAY7ok.md) | 01:14:25 | automatica |
+| 2025-02-11 | [Dossiê: OEA-USAID - Trump ENFRENTA Dulles-Rockefeller e o Brasil o FORO de SP + O Legado e a União.](2025/2025-02-11-KoOfE9C5soQ.md) | 01:13:48 | automatica |
+| 2025-02-10 | [Lula: TODOS Estão PULANDO do BARCO + Trump, USAID e Tarifas + Príncipios e PASSADO a Ser Lembrado](2025/2025-02-10-HHbJD9U9IRU.md) | 01:09:41 | automatica |
+| 2025-02-09 | [Lula PERDE Mais ALIADOS e ALCKMIN Vira CRISE + Liberdade VOLTANDO e ANISTIA na Mesa + Ficha Limpa 26](2025/2025-02-09-XHmNYSAVQJI.md) | 01:11:10 | automatica |
+| 2025-02-08 | [Lula: Aliado ou AGENTE da USAID? + Hugo Motta: 8 de Janeiro NÃO Foi Golpe + Um PASSADO e as Mudanças](2025/2025-02-08-b4KRdZ68EXM.md) | 01:19:16 | automatica |
+| 2025-02-07 | [Globo JOGA a TOALHA: Lula e a COMIDA Cara + Trump Segue FECHANDO Torneira + Escândalo AMBIPAR e JAIR](2025/2025-02-07-HWpyIOkbNPk.md) | 01:10:53 | automatica |
+| 2025-02-06 | [Dossiê: AGÊNCIA DE FACHADA - USAID e a Manipulação INTERNACIONAL Contra a Direita + A Tropa Aprontou](2025/2025-02-06-ykfUsWoAXsM.md) | 01:08:21 | automatica |
+| 2025-02-05 | [Dossiê: USAID -  Bolsonaro É Só a PONTA do ICEBERG. Do COMPLEXO de Censura ao Acordo MEC-USAID.](2025/2025-02-05-wxPWweIlONk.md) | 01:17:42 | automatica |
+| 2025-02-04 | [Acabou a MAMATA: Trump e a CHORO da USAID + Lula em CLIMA de FIM de Festa + Vitórias de Bolsonaro.](2025/2025-02-04-2Y8U9CpRB-U.md) | 01:11:53 | automatica |
+| 2025-02-03 | [Ajuda do TRUMP: Adeus USAID e ESG + Bolsonaro: Clima se ACIRRA Pra 26 + O Episódio 97 é Um Clássico.](2025/2025-02-03-knM2bMf_WDA.md) | 01:20:33 | automatica |
+| 2025-02-02 | [FIM da DISPUTA: Do Resultado Das ELEIÇÕES Aos PLANOS de Bolsonaro + O Homem CONTRA o Foro de SP.](2025/2025-02-02-BbaE72OqyVo.md) | 01:18:15 | automatica |
+| 2025-02-01 | [Lula ACABOU: Decreta KASSAB, Lira e Consórcio + Festa no Galinheiro: A DISPUTA Pelo Senado e Câmara.](2025/2025-02-01-dAk_btchdmM.md) | 01:29:38 | automatica |
+| 2025-01-31 | [Dossiê: AINDA ESTÃO AQUI - O Desfecho, o INDICIADO, o IPES e Golbery. Tudo Tem um PREÇO? (PARTE 4)](2025/2025-01-31-RewC14eBk00.md) | 01:13:23 | automatica |
+| 2025-01-30 | [Dossiê: LACAIOS - Os Garotos dos ROCKEFELLER no Brasil, os SOVIÉTICOS e a Grã-Bretanha (PARTE 3)](2025/2025-01-30-OJtoHyWNOco.md) | 01:19:03 | automatica |
+| 2025-01-29 | [Dossiê: COBIÇA - Por que Dulles PROTEGEU Bob Field? Da Hiléia a CPI da GLOBO (PARTE 2)](2025/2025-01-29-bbsRwY-cKF4.md) | 01:15:28 | automatica |
+| 2025-01-28 | [Dossiê: ALRACY-1 - O Agente da CIA Brasileiro. Dos ÁUDIOS de Kennedy à BOLSONARO em 2022 (PARTE 1)](2025/2025-01-28-MDJpty_kZFw.md) | 01:06:43 | automatica |
+| 2025-01-27 | [Trump vs Lula e Petro: ARREGADA e Mentiras + Soberania DIZ Adeus + FHC Começou, LULA Continuou.](2025/2025-01-27-9ZfYqImuvKM.md) | 01:08:05 | automatica |
+| 2025-01-26 | [A Mentira JÁ Caiu Por Terra + A Tropa EXPÕE Lula e a Crise + Engolindo Sapos: Teu PASSADO Te Condena](2025/2025-01-26-n85pXRUAUMQ.md) | 01:10:18 | automatica |
+| 2025-01-25 | [Dossiê: BARGANHA - Adeus 14%, Klaus VENCEU? + O SENSO de Estratégia: Dirceu e Lula vs Bolsonaro.](2025/2025-01-25-6RD5fwdkR2I.md) | 01:23:45 | automatica |
+| 2025-01-24 | [Crise com a GLOBO: Daniela Lima VAI PRA CIMA de Lula + Bolsonaro, Alcolumbre e A DURA REALIDADE.](2025/2025-01-24-8uTQinaKXV4.md) | 01:22:28 | automatica |
+| 2025-01-23 | [PT Preocupado Com Lula e Com COLAPSO + Trump AJUDA Brasil ! + Sinucados: Politização e Autocrítica.](2025/2025-01-23-qsRX4NCyrjI.md) | 01:14:42 | automatica |
+| 2025-01-22 | [Lula OFICIALIZA: Reeleição NÃO é Mais CERTEZA + Trump vs Brasil: Agenda ESG + Bolsonaro e a FARSA.](2025/2025-01-22-sEHxUGyUO24.md) | 01:11:29 | automatica |
+| 2025-01-21 | [Decretos de TRUMP: Adeus OMS, ESG e WOKES + Lula RECUA e Fala FINO + 25-26: Jair vs Astro-Zema](2025/2025-01-21-eQOJ6OCdLvE.md) | 01:19:12 | automatica |
+| 2025-01-20 | [TRUMP: A Nova ERA Já Fez LULA TREMER + A Ruptura COMEÇOU e NÃO Tem Volta + Lições, Projetos e o Jair](2025/2025-01-20-hztZGqsJFUk.md) | 01:16:32 | automatica |
+| 2025-01-19 | [Reviravolta: Caso PIX Ajuda Defesa da LIBERDADE + Globo e Esquerda CONTRA Lula + Bolsonaro e o Choro](2025/2025-01-19-cVag1eUMTOE.md) | 01:17:57 | automatica |
+| 2025-01-18 | [Lula: o FIM Foi DECRETADO + Haddad HUMILHADO na CNN + Esquerda JOGA a TOALHA e Trump Da LIÇÃO.](2025/2025-01-18-FCIerzThRww.md) | 01:11:11 | automatica |
+| 2025-01-17 | [Lula: Meta de 5% e CONSÓRCIO Apoiando a Oposição + DERROTISMO da Esquerda + Jair e a Decisão TÉCNICA](2025/2025-01-17-4HlpEe1oXXU.md) | 01:05:17 | automatica |
+| 2025-01-16 | [Vitória do Povo: A Revolta do PIX e a RECUADA de Lula + Globo e Petistas Se Sentem TRAÍDOS.](2025/2025-01-16-gURtr9BxcFk.md) | 01:01:33 | automatica |
+| 2025-01-15 | [Nikolas vs Lula: O Vídeo Que TOMOU Conta do PAÍS + Esquerda RUINDO Internamente: CRISE Generalizada.](2025/2025-01-15-WnOpj4Vb_FI.md) | 01:11:02 | automatica |
+| 2025-01-14 | [Lula: CRISE do PIX e os AMIGOS do REI + M0nark vs Nando Moura vs MBL + Diga NÃO Aos OPORTUNISTAS.](2025/2025-01-14-BDeUB1kKmgc.md) | 01:06:07 | automatica |
+| 2025-01-13 | [Crise do Leão: GLOBO Desmonta LULA. Erro Ou Traição? + TRETAS: Trump vs ESG & Estadão vs Judiciário.](2025/2025-01-13-v-qSGGJ6D7w.md) | 01:06:46 | automatica |
+| 2025-01-12 | [APOKÁLYPSIS: Trump e a Era da Verdade e Reconciliaçao + Lula: Crise do Leão + Brasil e Direita 2026.](2025/2025-01-12-o2vF-nk1DJk.md) | 01:07:55 | automatica |
+| 2025-01-11 | [Lula ROMPEU a Barreira das 120h e Isso é TERRÍVEL + Zuzu vs Globo: MENTIRAS e VÁRIAS Checadas.](2025/2025-01-11-OBa6sZx0i8o.md) | 01:03:00 | automatica |
+| 2025-01-10 | [Dossiê: A PRÉVIA - Dulles e o ENCONTRO de Nikolas Com ALDO REBELO + Lula vs Trump: o TIMING é Ótimo.](2025/2025-01-10-OOYwl9dCF9A.md) | 01:11:35 | automatica |
+| 2025-01-09 | [O FRACASSO de Lula e a AMANTE + Consórcio DEFENDE Zuzu e Liberdade + De ONDE Saiu a LISTA dos Alvos?](2025/2025-01-09-2oyDTs1jNjc.md) | 01:07:22 | automatica |
+| 2025-01-08 | [Trump e Zuzu: LULA, Globo e Judiciário TREMEM Com MUDANÇAS Pró-Liberdade + O Delegado e o Dia 8.](2025/2025-01-08-4Q93815lK9M.md) | 01:16:03 | automatica |
+| 2025-01-07 | [O OUTRO Lado do Filme e ONDE Ele Leva + O Leão VAI Te PEGAR: Adeus Informal + Lula CONTRA o Dolar?](2025/2025-01-07-JRMnRgSuVXg.md) | 01:10:44 | automatica |
+| 2025-01-06 | [Dossiê: 2025 - 1984 EXPLICA de Lula à Bolsonaro PASSANDO Por Eneas + 100% Técnico ou MÃO Invisível?](2025/2025-01-06-0q8_F9h2tIg.md) | 01:16:50 | automatica |
+| 2025-01-05 | [Verdevaldo VOLTOU, Mas... + LavaToga e o Momento ATUAL + Biden HOMENAGEIA Soros, e o Lula?](2025/2025-01-05-QVJL-AVjSZc.md) | 01:07:41 | automatica |
+| 2025-01-04 | [Globo EXPÕE Gastos e SIGILOS de Lula + O NOVO Paradigma: Direita vs Esquerda 2.0 + Andando Pra Trás?](2025/2025-01-04-bdxQSCxZ7RA.md) | 01:12:48 | automatica |
+| 2025-01-03 | [Lula e o ESCÂNDALO dos 12% + Natuza e a HIPOCRISIA do Jornalismo + Gustavo Lima CANDIDATO em 2026.](2025/2025-01-03-gUW4yCQxcio.md) | 01:07:32 | automatica |
+| 2025-01-02 | [Globo Passa do LIMITE e SBT Arrasa + Lula ATIVA o Modo ELEIÇÃO + Bolsonaro, Direita e Conquista.](2025/2025-01-02-j0CYo3JcWLc.md) | 01:01:03 | automatica |
+| 2024-12-31 | [2025: o ANO da Direita ANTISSISTEMA + O Preso de 2020 é PEGO Novamente + PONTE Caiu ATOA?](2024/2024-12-31-8dyEpIzdy0c.md) | 01:05:29 | automatica |
+| 2024-12-30 | [Trump Cita BRASIL Em AÇÃO no Supemo + Lula e Centrão RECALCULAM Rota + Zema RIFA Jair: Sem TEMPO](2024/2024-12-30-FS9X9gDGVUE.md) | 01:03:06 | automatica |
+| 2024-12-29 | [Um NOVO Inquérito do FIM do MUNDO + Os ACORDOS Fechados Para 2025 + Lula e o ROMBO Das Estatais.](2024/2024-12-29-oylNsskLCfo.md) | 01:11:32 | automatica |
+| 2024-12-28 | [Lula: 2025 Será AINDA Pior e GLOBO Ataca ESTADÃO + Bolsonaro e o TIMING das Mudanças Políticas.](2024/2024-12-28-k3486Ml3IH0.md) | 01:09:12 | automatica |
+| 2024-12-27 | [Escândalo JANJA Revela DISPUTA Interna no PT + 2026 Começa a DESANDAR Pra LULA + Gandra e Bonitinho.](2024/2024-12-27-B85WZE0h85w.md) | 01:03:12 | automatica |
+| 2024-12-26 | [Caso DANIEL SILVEIRA: Da IDA Ao Médico à BAIXARIA da Globo + Livre, Leve e Solto: Só PRA Esquerda?](2024/2024-12-26-JSGKp0VYZQ4.md) | 01:08:12 | automatica |
+| 2024-12-25 | [Eu, NÓS, Eles e o ATLAS: Não Faltam REFLEXÕES e APRENDIZADOS + A Equipe Com a Palavra Sobre 2024.](2024/2024-12-25-J5rfE1PVDpQ.md) | 01:33:23 | automatica |
