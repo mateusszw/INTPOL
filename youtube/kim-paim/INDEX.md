@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-427 vídeos transcritos, 1 sem legenda.
+552 vídeos transcritos, 1 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -432,3 +432,128 @@
 | 2025-08-10 | [REGIME em CRISE: Globo e Estadão Já Falam em IMPEACHMENT + Vice de RUBIO Volta a Falar.](2025/2025-08-10-r8Zvr-su1xE.md) | 01:11:20 | automatica |
 | 2025-08-09 | [Trump CONVOCA REUNIÃO Com Dudu e Lula DEFENDE o REGIME + Pelo Menos 1 PAUTA Avançará + É o Meu FIM?](2025/2025-08-09-ItSpsej5Aas.md) | 01:11:29 | automatica |
 | 2025-08-08 | [ANISTIA: Vai ou Não Vai?. A Direita Fez sua MAIOR JOGADA Desde 2023 + Críticas ao REGIME Continuam.](2025/2025-08-08-Ia5vx2tntxk.md) | 01:02:24 | automatica |
+| 2025-08-07 | [Dossiê: ATLANTIC-CIA - Mike Benz REVELA o GOLPE Contra BOLSONARO + REGIME Vê Clima PIORAR.](2025/2025-08-07-39iwNA0TnyY.md) | 01:14:20 | automatica |
+| 2025-08-06 | [O REGIME Começa a LARGAR a MÃO: Ministros ISOLAM e Até a GLOBONEWS Achou um ESPECIALISTA Pró-Jair.](2025/2025-08-06-Jl5SdmrfC8Y.md) | 01:06:28 | automatica |
+| 2025-08-05 | [Bolsonaro em PRISÃO Domiciliar: EUA Prometem RETALIAR e TENSÃO Cresce. MERCADO Começa a se PREOCUPAR](2025/2025-08-05-QBcS8J47QAk.md) | 01:06:27 | automatica |
+| 2025-08-04 | [Magnitsky: Lula Acende ALERTA no BB + MEGA Manifestações: Bolsonaristas CHOCAM Com Sua FORÇA.](2025/2025-08-04-in-4An-UaQk.md) | 01:06:17 | automatica |
+| 2025-08-03 | [Risco MAGNITSKY Começa a CRESCER na Mídia + A Pergunta de MILHÃO Contra DUDU + Os Números INCÔMODOS.](2025/2025-08-03-go1PfZq-_Tg.md) | 01:07:26 | automatica |
+| 2025-08-02 | [Magnitsky: RISCO Detectado. Caiu a Ficha? + A Demitida e as Narrativas + 2026: Eduardo vs Todos.](2025/2025-08-02-RnDq6hEYRC8.md) | 01:12:49 | automatica |
+| 2025-08-01 | [A 1ª RUPTURA: Maioria do [CENSURADO] se RECUSOU a Assinar a CARTA e um NÃO Quis Ir a Jantar.](2025/2025-08-01-PvGY7mc8rr8.md) | 01:06:09 | automatica |
+| 2025-07-31 | [Dossiê: O DIA M CHEGOU - Tarifa, Sanções e Narrativas. Os DETALHES Que NÃO Podem Ser IGNORADOS.](2025/2025-07-31-7Y2STL1dhBg.md) | 01:17:30 | automatica |
+| 2025-07-30 | [Dossiê: A TRAJETÓRIA - O Bode FEDORENTO e a Tropa do Dedé. A Linha do TEMPO: Eduardo e Nikolas.](2025/2025-07-30-xWX1QeOvyJE.md) | 01:11:24 | automatica |
+| 2025-07-29 | [Regime SENTIU o GOLPE e Já Fala de Lula DERROTADO em 2026 + Globo e CNN Preocupados com a Direita?](2025/2025-07-29-2uUCbJTVo4w.md) | 01:18:54 | automatica |
+| 2025-07-28 | [Os Áudios VAZADOS de Bolsonaro no INQUÉRITO + Trump CONFIRMA Tarifa e Eduardo COBRA Aliados.](2025/2025-07-28-ukg8u4H5Zwc.md) | 01:06:03 | automatica |
+| 2025-07-27 | [A Ficha NÃO Caiu ou É CARA de PAU? + Movimentos COORDENADOS Contra Bolsonaros + Ajuda Virou Crítica?](2025/2025-07-27-5R98j5eEm_M.md) | 01:12:46 | automatica |
+| 2025-07-26 | [Dossiê: O REGIME - Jogos de Poder no SUBMUNDO do LOBBY. Bolsonaro BAGUNÇOU o Tabuleiro.](2025/2025-07-26-8mJvwcJ6iqc.md) | 01:23:16 | automatica |
+| 2025-07-25 | [HOJE Pode Ser o GRANDE DIA, Diz GLOBO + Clima no OLIMPO Piora e FUX Incomoda + Dudu e a PORTA ABERTA](2025/2025-07-25-VMtdTDfAfew.md) | 01:20:37 | automatica |
+| 2025-07-24 | [GLOBO Afirma: Pela 1ª VEZ a Ficha CAIU Para os [CENSURADO] + Temer vs Eduardo + BOA NOTÍCIA do MUSK.](2025/2025-07-24-CfDeeg0ozW8.md) | 01:06:53 | automatica |
+| 2025-07-23 | [Dia HISTÓRICO: Até a GLOBO DEFENDEU Bolsonaro + A União NÃO Pode Ser SÓ Narrativa + Nota de Eduardo.](2025/2025-07-23-qoF_xAnykrU.md) | 01:18:19 | automatica |
+| 2025-07-22 | [4x1: Fux VOTA a FAVOR de Bolsonaro + Censura e as ÚLTIMAS 24h Livre? + Sabatina de Eduardo e Paulo.](2025/2025-07-22-wDiVZx7U1JM.md) | 01:08:29 | automatica |
+| 2025-07-21 | [COMEÇAM a CULPAR Lula Pela CRISE + Eduardo: SILÊNCIO Preocupa + Mudança de Conceito EXPÕE o Sistema.](2025/2025-07-21-AMRdH9nn4_0.md) | 01:12:44 | automatica |
+| 2025-07-20 | [Trump vs Lula: Uso de MAVs, ARREGADA de Haddad e Sanções + A MALANDRAGEM da TURMA de Uma VARIÁVEL Só](2025/2025-07-20-De3bnjg4KvI.md) | 01:06:21 | automatica |
+| 2025-07-19 | [O Dia do Jair: Da TORNOZELEIRA ao CANCELAMENTO dos VISTOS. O Conflito BRASIL-EUA Tá Só Começando.](2025/2025-07-19-7F2cVsc9HuM.md) | 01:11:54 | automatica |
+| 2025-07-18 | [Lula ATACA na CNN Internacional, Trump Rebate e MANDA Nova CARTA + Instrumentalização da Crise.](2025/2025-07-18-_AhikcznKDw.md) | 01:13:50 | automatica |
+| 2025-07-17 | [IOF Amplifica CRISE do Tarifaço + Eduardo e os GESTOS Que FALAM MUITO + Os COWBOYS do LOBBY da FPA.](2025/2025-07-17-Cp1lCKkO4yM.md) | 01:11:38 | automatica |
+| 2025-07-16 | [CRISE Escalou: Globo REVELA Uso de ROBÔS, Trump, OTAN e Seção301 + Eduardo, Reuniões e Confusões.](2025/2025-07-16-5aebyZzyUgQ.md) | 01:03:48 | automatica |
+| 2025-07-15 | [PGR Quer Bolsonaro Condenado + Trump SOBE o Tom + Eduardo Traça o Limite. E Agora, Brasil?](2025/2025-07-15-WWoCuj3g8YM.md) | 01:08:51 | automatica |
+| 2025-07-14 | [Assessor de Trump CONFIRMA o FATOR Bolsonaro na DECISÃO + História da CENSURA Ganha Revelação.](2025/2025-07-14-wcVPxganOL4.md) | 01:08:12 | automatica |
+| 2025-07-13 | [Os 2 Eduardos se Chocam + Bastidores do EMPRESARIADO e Acenos do Congresso + É só Um Ponto de Vista?](2025/2025-07-13-By9gMlEnESU.md) | 01:07:38 | automatica |
+| 2025-07-12 | [Os DONOS do Brasil se UNEM na MENTIRA + Análise Fria: Do PL à Eduardo, do CAOS à UNIDADE. Tem Jeito?](2025/2025-07-12-IWCuF-kFGC8.md) | 01:23:21 | automatica |
+| 2025-07-11 | [Dossiê: LULA vs TRUMP - Até ONDE Vai a NARRATIVA? Quando a LOUCURA Começa a Revelar a Verdade.](2025/2025-07-11-zshiZ_6LegQ.md) | 01:10:55 | automatica |
+| 2025-07-10 | [Dossiê: 9 de Julho - TARIFAS de Trump SURGEM em Dia SIMBÓLICO. E Agora? Reações e Lições da História](2025/2025-07-10-UrUEuQNQCuo.md) | 01:13:28 | automatica |
+| 2025-07-09 | [CAÇA as BRUXAS: Trump VOLTA a DEFENDER Jair e Governo do EUA Oficializa Crítica + E o Lula Hein?](2025/2025-07-09-u_nroKcfFyc.md) | 01:02:18 | automatica |
+| 2025-07-08 | [DEIXEM JAIR EM PAZ: Trump e Eduardo Bolsonaro BAGUNÇAM o Tabuleiro e os Planos para 2026.](2025/2025-07-08-_zVU4giGimA.md) | 01:03:47 | automatica |
+| 2025-07-07 | [Lula e IOF: As Críticas ESCONDEM Algo PIOR + Melo Araújo REVELA Jogo SUJO + Lisboa vs Realidade](2025/2025-07-07-qcYNMMatrls.md) | 01:11:21 | automatica |
+| 2025-07-06 | [CID Mentiroso + Lula: TRAIÇÕES Expostas + Trump, Eneas, CASOS PERDIDOS e Eleições 2026 Explosivas](2025/2025-07-06--0pUsbv2ohc.md) | 01:14:10 | automatica |
+| 2025-07-05 | [Gabinete do Amor TURBINADO Com Jurídico + A Nova INVENÇÃO Contra Eduardo + IOF: Pra que Congresso?](2025/2025-07-05-RpBp6KO1rhY.md) | 01:10:05 | automatica |
+| 2025-07-04 | [O Mudinho de Bolsonaro SURPREENDE De NOVO + Eduardo Por TRÁS de TUDO? + Descolamento do Mundo Real.](2025/2025-07-04-Py2NfB7Lav0.md) | 01:12:58 | automatica |
+| 2025-07-03 | [Lula DOBRA a Meta e Congresso DESEMBARCA + Wajngarten TABELA Com Dudu e Espertão é PEGO MENTINDO.](2025/2025-07-03-I6TP8HWaY4g.md) | 01:11:32 | automatica |
+| 2025-07-02 | [LULA, o Bico de Codorna e o Poder de Século XXI + Jair Faz PAUSA FORÇADA e EDUARDO Aponta o Caminho.](2025/2025-07-02-l5p3IoxL-B4.md) | 01:17:07 | automatica |
+| 2025-07-01 | [CRISE no Planalto + Globo PULANDO do Barco + O Sistema em Modo Vale-Tudo Contra Bolsonaro.](2025/2025-07-01-N3TiK2KGONM.md) | 01:13:28 | automatica |
+| 2025-06-30 | [Lula PERDE a Amizade dos ROTHSCHILDS + Manifestação: Do TAMANHO à FOTO. Jair MIROU No PONTO Central.](2025/2025-06-30-50RiHW49jOw.md) | 01:08:53 | automatica |
+| 2025-06-29 | [Consórcio ARREPENDIDO Com Lula e [CENSURADO]? + A Disputa na 7ª REPÚBLICA e o Conflito Geracional.](2025/2025-06-29-iDb1c0e850Q.md) | 01:15:22 | automatica |
+| 2025-06-28 | [Globo Deixa ESCAPAR Que Os [CENSURADO] Tem LADO + Eduardo VOANDO e a Turma do DEDÉ ENTRA EM PÂNICO.](2025/2025-06-28-dn2Xh9yKN50.md) | 01:18:09 | automatica |
+| 2025-06-27 | [Dia TRISTE: A Internet MUDA Para SEMPRE + Crise do IOF Expõe o FIM da ERA Que Se Aproxima.](2025/2025-06-27-EkT_yTvjUw4.md) | 01:09:34 | automatica |
+| 2025-06-26 | [Dossiê: A 7ª REPÚBLICA - Sem Ver, BOLSONARO Acertou o CENTRO do Problema. A Queda da ERA Lula-FHC.](2025/2025-06-26-fw0VMxlPg5Q.md) | 01:23:19 | automatica |
+| 2025-06-25 | [Acareações, Mentiras do CID, a Minuta "SEMELHANTE" e FELIPE "N" + Efeito Eduardo e Lula HUMILHADO.](2025/2025-06-25-b7MXLOJK7vA.md) | 01:06:09 | automatica |
+| 2025-06-24 | [Dossiê: ARQUITETOS - Como FHC e LULA Destruíram o Brasil? + 23 Anos Depois, a Profecia se Cumpre.](2025/2025-06-24-JSFUG4GH5gE.md) | 01:18:19 | automatica |
+| 2025-06-23 | [Lula PERDENDO a GLOBO e Até Sua Base Foge + Mensagens de CID EXPÕEM Raiva + O Candidato Plano B](2025/2025-06-23-oIIdkBfNrYs.md) | 01:04:13 | automatica |
+| 2025-06-22 | [Sinal dos Tempos: DIREITA Rompe a Bolha + Os FRUTOS de Jair e Eduardo Já Começam a Mudar o Jogo.](2025/2025-06-22-3UDO4tnXxdM.md) | 01:16:50 | automatica |
+| 2025-06-21 | [Dossiê: A RAIZ – Lula VAI Executar o PLANO Que NÃO É Dele? + A Política do Descolamento da Realidade](2025/2025-06-21-htiFVOVblhg.md) | 01:14:03 | automatica |
+| 2025-06-20 | [Chegou o Dia: Lula DENUNCIA o PT + Tá Preso, Tá Solto: o Homem do Relógio + Jair e a MUDANÇA De ERA.](2025/2025-06-20-jzhmu5Nd4tQ.md) | 01:21:06 | automatica |
+| 2025-06-19 | [Caso CID: Câmara é PRESO e Advogado Investigado + Datafolha Mostra PETISMO em Queda. Qual a Causa?](2025/2025-06-19-lRW_fTB4tEM.md) | 01:09:48 | automatica |
+| 2025-06-18 | [Metrópoles EXPÕE Vínculo de POLÍTICOS no Caso INSS + Abin Paralela: Jair, a FARSA e o Jogo de 2026.](2025/2025-06-18-MFX_dIdlbMo.md) | 01:13:17 | automatica |
+| 2025-06-17 | [Dossiê: FATOR B – Cid RODOU, Vazador SURGE e Rothschild, Dedé e Dirceu MIRAM Eduardo Bolsonaro](2025/2025-06-17-zhRtYr5CeEU.md) | 01:23:36 | automatica |
+| 2025-06-16 | [Lula na Berlinda: Governismo de Oposição e COMPARAÇÃO Com Biden + Penin e Carluxo: A Mesma RAÍZ?](2025/2025-06-16-T9M0Y4bl9do.md) | 01:14:29 | automatica |
+| 2025-06-15 | [O Potencial dos CASOS Gilson e VEJA–Cid + UNIÃO Contra CENSURA e o PODER dos Rothschilds.](2025/2025-06-15-QrJX95k8J3s.md) | 01:04:47 | automatica |
+| 2025-06-14 | [Cid e Gilson: Tá PRESO, Tá SOLTO. Revista Veja PUBLICA Parte 2 das Mensagens + A União ao Avesso.](2025/2025-06-14-4nAYjc9D8Ns.md) | 01:04:17 | automatica |
+| 2025-06-13 | [CID MENTIU: Revista Veja EXPÕE Mensagens Que Revelam Delator Caindo da ARMADILHA Jurídica de JAIR.](2025/2025-06-13-zTrN7TTzAXE.md) | 01:08:40 | automatica |
+| 2025-06-12 | [Dossiê: A COR DO GATO - Liberdade em JOGO e o DESTINO da Direita. OLAVO Avisou, O Ciclo se Repetirá?](2025/2025-06-12-TnwEU5GlD-A.md) | 01:24:37 | automatica |
+| 2025-06-11 | [Dossiê: DEPOIMENTO DE JB - Globo AFIRMA Que Jair Foi BEM e Fatos ESCONDIDOS Começam a Emergir.](2025/2025-06-11-IjJBfGuaYW0.md) | 01:12:39 | automatica |
+| 2025-06-10 | [Dossiê: DEPOIMENTO DE CID - Jair INOCENTADO e as REVELAÇÕES Históricas Que FORTALECEM da Direita.](2025/2025-06-10-iznNyBWs_tI.md) | 01:05:12 | automatica |
+| 2025-06-09 | [O PROBLEMA do 8/1 Que o Sistema Evita + Gabinete do Amor ESPIONA a Direita com Dinheiro Público.](2025/2025-06-09-Tx7nqW7ZXkA.md) | 01:09:55 | automatica |
+| 2025-06-08 | [Imprensa Emite SINAIS de ALERTA: Sistema Trincando? + Lula, a Polícia Moral e o Ciro na Mira.](2025/2025-06-08-V71Eof2PaVQ.md) | 01:08:02 | automatica |
+| 2025-06-07 | [Lula: Vídeo NÃO É IA, o Crepúsculo Chegou + Nova AÇÃO de Trump Pela Liberdade + Dudu é OFICIALIZADO](2025/2025-06-07-9Xs2z3io3vQ.md) | 01:06:22 | automatica |
+| 2025-06-06 | [Globo AFIRMA que Lula NÃO É Favorito em 26 + Musk vs Trump: A BRIGA Leverá ao FIM da Aliança?](2025/2025-06-06-Z40fIKpgHhw.md) | 01:14:44 | automatica |
+| 2025-06-05 | [Bolsnaro x Isentões: A Fome Pelo PODER DETURPA Fatos + Lula DERRETENDO Na Quaest.](2025/2025-06-05-Krufuf6rhI4.md) | 01:05:01 | automatica |
+| 2025-06-04 | [TURBILHÃO: Zambelli, Leo Lins, MC Poze e CENSURA + Lula CRUZA o Limite e Reforça Pedido a Xi.](2025/2025-06-04-CmdL17DPnJ4.md) | 01:12:17 | automatica |
+| 2025-06-03 | [Isentões RECLAMAM: Eduardo ESTRAGA o Jogo + Lula: A CRISE Tem Data MARCADA e o SENADO é Problema.](2025/2025-06-03-3nt4LB7tdw8.md) | 01:06:42 | automatica |
+| 2025-06-02 | [Lula ELEVA o TOM Contra Trump + Eduardo AVANÇA e Inaugura Fase de Protagonismo.](2025/2025-06-02-c49OWOD2vB4.md) | 01:11:46 | automatica |
+| 2025-06-01 | [Sinal Amarelo dos EUA: LULA Mede o CAOS Fiscal + IOF, Lobby Oculto e os Bastidores do Clube de Davos](2025/2025-06-01-_ZP4R_HHDXc.md) | 01:02:37 | automatica |
+| 2025-05-31 | [CNN Traz a ÍNTEGRA da Carta do TRUMP + Lula DESABA Em Pesquisa e VÊ Aliados PULANDO do Barco.](2025/2025-05-31-XI32Tkrf7Y0.md) | 01:08:34 | automatica |
+| 2025-05-30 | [NYT Expõe CARTA de Trump e Eduardo Ganha FORÇA em 2026 + ABIN do PT Espionou a Própria Esquerda?](2025/2025-05-30-22u1f6Arb1k.md) | 01:20:02 | automatica |
+| 2025-05-29 | [EUA Elevam o Jogo, Eduardo é INJUSTIÇADO e a Direita se PERDE em Seus Próprios Labirintos Internos.](2025/2025-05-29-zz1e1oX7oRU.md) | 01:07:34 | automatica |
+| 2025-05-28 | [Eduardo SERÁ PUNIDO. Diz Globo + Lula AGE Nos BASTIDORES e Consórcio Começa a RECUAR.](2025/2025-05-28-XsL0ZJVPyjw.md) | 01:16:49 | automatica |
+| 2025-05-27 | [Dossiê: EDUARDO NO EXÍLIO - O Inquérito, os FALSOS Amigos e a Mídia Vendida. O Dia Que o País PAROU.](2025/2025-05-27-OpVAVhNQdQo.md) | 01:17:07 | automatica |
+| 2025-05-26 | [2026: Eduardo SURGE Como Nome FORTE + O Coveiro CONTRA Jair + Confessaram: Plano é VOLTAR com FHC.](2025/2025-05-26-Xtc0qz4VCAQ.md) | 01:08:35 | automatica |
+| 2025-05-25 | [É TIRANIA, Diz Estadão. Aldo COBRA Desculpas + Lula Se HUMILHA Por Janja + O Plano de Empobrecimento](2025/2025-05-25-7PU-wzSgDbQ.md) | 01:07:02 | automatica |
+| 2025-05-24 | [Recado da GLOBO Pra EDUARDO: Olha a Prisão + Aldo Rebelo e a UNIÃO do BR + De ONDE Partem as ORDENS?](2025/2025-05-24-pz0AIMh7VrY.md) | 01:09:59 | automatica |
+| 2025-05-23 | [EUA-BR: Globo Já Fala em “QUANDO”, Não Mais “SE” + Guga Dobra a Meta e PT Enterra a Soberania.](2025/2025-05-23-EwkFmQcnFew.md) | 01:02:16 | automatica |
+| 2025-05-22 | [EUA-BR: Rubio AUMENTA Pressão e Guga Chacra SURPREENDE + Lula É EXPOSTO Por Lupi e Petista na Mynd.](2025/2025-05-22-w64HejgN0pQ.md) | 01:09:22 | automatica |
+| 2025-05-21 | [Lula Quer TRAVAR Bolsonaro a QUALQUER Custo + CPMI do INSS Avança e Novo Banco na Berlinda.](2025/2025-05-21-P9XxPDPs19w.md) | 01:01:38 | automatica |
+| 2025-05-20 | [NARRATIVA Contra Bolsonaro RUIU + Globo ESFRIA Com Lula + Bancos MANOBRAM Contra CPMI do INSS.](2025/2025-05-20-RGm0Q_jJ1N0.md) | 01:18:25 | automatica |
+| 2025-05-19 | [Lula: Viagem FRACASSA, O Escândalo Cresce e PT Desiste do CENTRÃO + 3ª VIA Expõe MAIS Garras](2025/2025-05-19-nBukN4KWATw.md) | 01:08:50 | automatica |
+| 2025-05-18 | [Dossiê: DNA DO LOBBY - O Novo HOMEM do KLAUS e os Documentos Que os REVELAM Bastidores.](2025/2025-05-18-gxSGwVGJpcU.md) | 01:21:32 | automatica |
+| 2025-05-17 | [LULA Cercadk: CPMI AVANÇA, Relator AMIGO e BANCOS Entram Em CAMPO + Eduardo Na MIRA!](2025/2025-05-17-m62QpVPvq_Q.md) | 01:09:04 | automatica |
+| 2025-05-16 | [Lula vê GLOBO e GLOBALISTAS Recuando + A Pergunta SEM Resposta e o CONSELHO de OLAVO.](2025/2025-05-16-HwX3zPbyRzc.md) | 01:13:08 | automatica |
+| 2025-05-15 | [Dossiê: IRMÃO SAM 2.0 - A CONFISSÃO Do Aparato Internacional CONTRA Bolsonaro. Algo INÉDITO ou Não?](2025/2025-05-15-GNSHktwg1tE.md) | 01:11:15 | automatica |
+| 2025-05-14 | [Lula ESPUMANDO com TRAIÇÃO no Núcleo Duro e Globo PASSA o TRATOR: agora tá na MÃO do JAIR!](2025/2025-05-14-aqCw44YAojc.md) | 01:07:37 | automatica |
+| 2025-05-13 | [Lula é DESMASCARADO Pela Globo e CNN Discute DESEMBARQUE do Judiciário + 2026: Ideologia vs Direita.](2025/2025-05-13-_IVNWWjarWQ.md) | 01:05:45 | automatica |
+| 2025-05-12 | [INSS: Foi Lula que PEDIU, Diz Veja Sobre IRMÃO no Sindnapi + Sinais Trocados: TRUMP e a Direita BR.](2025/2025-05-12-MUmG8JM9dNk.md) | 01:09:48 | automatica |
+| 2025-05-11 | [INSS: Globo e Lula se UNEM Contra Bolsonaro + Temer LIDERA os Governadores? + O Sistema NUNCA Caiu.](2025/2025-05-11-k8fuJpG1ORk.md) | 01:16:26 | automatica |
+| 2025-05-10 | [Lula, MST e o Min Esconde-Esconde: Reunião OCULTA e Ofício Contra a Polícia + O ESTRANHO no NINHO.](2025/2025-05-10-ukXfxcZQWWM.md) | 01:12:41 | automatica |
+| 2025-05-09 | [LULA e INSS: Globo DESTACA Que AGU Excluiu SINDICATO do Irmão + Caso RAMAGEM e a Porta Giratória.](2025/2025-05-09-PBvAIOh6H8s.md) | 01:09:26 | automatica |
+| 2025-05-08 | [INSS: NOVO Relatório e o Horizonte Sombrio de LULA + Anistia, 2026 e a NOVA DIREITA Pensante.](2025/2025-05-08-ozAGkvu73JM.md) | 01:07:47 | automatica |
+| 2025-05-07 | [INSS: Lula Com MEDO de CPMI, o "Stefa 5%", o IRMÃO, e Novas REVELAÇÕES + Bolsonaro: a Visita dos EUA](2025/2025-05-07-tgAcAVxyf0M.md) | 01:07:27 | automatica |
+| 2025-05-06 | [Dossiê: A CONCILIAÇÃO - As Raízes de LULA e GLOBO Estão JUNTAS em 1935 + A Agência Por Trás de TUDO.](2025/2025-05-06-sNvDrPHR5Ac.md) | 01:23:44 | automatica |
+| 2025-05-05 | [Dossiê: UP-ARENA – Do Arquivo INÉDITO da USAID à Nova UDN e o GenARMA da CIA (Parte 6)](2025/2025-05-05-gl5IHDzZCmc.md) | 01:33:28 | automatica |
+| 2025-05-04 | [INSS: Lula PARTICIPOU de REUNIÃO Com a Contag no PLANALTO + CPI do Master e os Donos do Brasil.](2025/2025-05-04-txpkc81_yf8.md) | 01:06:45 | automatica |
+| 2025-05-03 | [SANÇÕES: Enviado de TRUMP Chega em 48h ao BRASIL + INSS: Lupi CAIU e Até Imprensa COBRA CPI.](2025/2025-05-03-bMlH55Y0Xfs.md) | 01:03:48 | automatica |
+| 2025-05-02 | [Pausa no INSS, Para BOTÃO de EMERGÊNCIA da Democracia + Antipetismo: PROBLEMA ou SOLUÇÃO?](2025/2025-05-02-CBipLhVxmZE.md) | 01:14:19 | automatica |
+| 2025-05-01 | [Lupi CONFESSOU e Lula quer BARRAR a CPI do INSS + O CONTRATO, os 20% Rastro da ESQUERDA São ANTIGOS](2025/2025-05-01-k8_j6jArLtU.md) | 01:09:09 | automatica |
+| 2025-04-30 | [Dossiê: INSS - A Turma de LULA-DIRCEU-GABAS ou Bolsonaro? Qual a ORIGEM do ESCÂNDALO?](2025/2025-04-30-la-ssll9hbs.md) | 01:06:16 | automatica |
+| 2025-04-29 | [ANISTIA: A Pesquisa e a "SOLUÇÃO" do Sistema + INSS: Escândalo CRESCE, e GLOBO e LULA Jogam JUNTOS.](2025/2025-04-29-PXGd3vSZyec.md) | 01:07:57 | automatica |
+| 2025-04-28 | [Anistia e Obstrução: PLANO de Sóstenes INCOMODOU o [CENSURADO] + BOAS Notícias Para LIBERDADE e 26?](2025/2025-04-28-tl3tpwTKBOg.md) | 01:03:46 | automatica |
+| 2025-04-27 | [INSS: GLOBO Tem Acesso EXCLUSIVO a Material Comprometedor + Democracinha Paradoxal de R$ 11 Mil.](2025/2025-04-27-F8e--nFokTM.md) | 01:03:24 | automatica |
+| 2025-04-26 | [Débora: FUX Rompe e Aponta LACUNAS nos Autos + Globo: Collor é SINAL pra Jair + Trump vs Rothschild.](2025/2025-04-26-Vb7h3M6nARQ.md) | 01:19:21 | automatica |
+| 2025-04-25 | [ANISTIA: O Plano de OBSTRUÇÃO do PL + UTI: o ERRO de Cálculo do [CENSURADO] + INSS, Collor e Ciro](2025/2025-04-25-UPI4s9jL7Zc.md) | 01:06:44 | automatica |
+| 2025-04-24 | [ESCÂNDALO do INSS: Do IRMÃO de LULA às Denúncias Antigas + Jair INTIMADO na UTI + O Vexame de Lula.](2025/2025-04-24-dfnHAOLwP00.md) | 01:06:27 | automatica |
+| 2025-04-23 | [Julgamento de Filipe: FUX Volta a Divergir e ATÉ Esquerda RECLAMA + 2026: O Plano do SISTEMA Podre.](2025/2025-04-23-w_2_VZVpZ6s.md) | 01:05:57 | automatica |
+| 2025-04-22 | [Filipe Martins Será PRESO Se For FILMADO? + VEXAME de LULA: Centrão REIJEITANDO Cargo + Crise no PT](2025/2025-04-22-J0NSZ0kIUGY.md) | 01:04:56 | automatica |
+| 2025-04-21 | [Os [CENSURADO] REBATEM os Rothschild + Centrão e Bancos NÃO Querem Eduardo + O FOCO de Lula em 2026.](2025/2025-04-21-bnPCRMUgI6Q.md) | 01:13:59 | automatica |
+| 2025-04-20 | [Dossiê: 2015 - Dos QUARTÉIS aos TRIBUNAIS. FHC e LULA Nos LEVAM de VOLTA a CRISE.](2025/2025-04-20-pBTmDRV1ZtM.md) | 01:07:10 | automatica |
+| 2025-04-19 | [GLOBO Joga LULA Aos Leões + Críticas Internacionais INCOMODAM os [CENSURADO] + Páscoa: Ovo vs Golpe.](2025/2025-04-19-xXBTNO3ZfNw.md) | 01:03:01 | automatica |
+| 2025-04-18 | [Lula: ESCÂNDALO com o Peru e ABIN + Acabou o TEMPO Para EXCEPCIONALIDADES? + União Didireita vs JAIR](2025/2025-04-18-REje5fklU5A.md) | 01:09:16 | automatica |
+| 2025-04-17 | [Jair vs Lula: Anistia e ADELIO + EXTRADIÇÃO Choca Até a GLOBO + [CENSURADO] vs TheEconomist](2025/2025-04-17-8bJJXWVwOcc.md) | 01:04:10 | automatica |
+| 2025-04-16 | [Anistia: 300 Votos e Motta NÃO Conseguirá BARRAR Por Muito Tempo, Diz GLOBO + A Extradição FALHOU.](2025/2025-04-16-QVN5bq5G3lU.md) | 01:01:36 | automatica |
+| 2025-04-15 | [ANSTIA PROTOCOLADA: Assinaturas GARANTIDAS, e Agora? + Dedé e Lemann CONTRA a Direita em Harvard.](2025/2025-04-15-NbSp7SmOEsU.md) | 01:06:43 | automatica |
+| 2025-04-14 | [LULA Volta a Ser COBRADO Pelo [CENSURADO] e Resolve AGIR + Bolsonaro: E Se Fosse o FIM? Vão ACORDAR?](2025/2025-04-14-RwbT5W-40R0.md) | 01:10:51 | automatica |
+| 2025-04-13 | [Dossiê: O 3º BRASIL - Brasil Oficial, Real e SECRETO. Geisel, a Sabotagem COMEÇOU 20 anos Antes.](2025/2025-04-13-O-xROKCGSkE.md) | 01:11:45 | automatica |
+| 2025-04-12 | [Anistia: LULA e GLEISE São COBRADOS Pelo [CENSURADO] + Jornalista da Globo DEFENDE Pautar](2025/2025-04-12-cGtnXMEf8aE.md) | 01:03:15 | automatica |
+| 2025-04-11 | [Anistia CONQUISTA 257 Assinaturas + Bolsonaro e o PLANO da ROTA22 + CONFUSÕES de Janones e Braga](2025/2025-04-11-wGDz8stOK2U.md) | 01:09:28 | automatica |
+| 2025-04-10 | [Dossiê: ESPÍRITO TUPINIQUIM - Censura, CBF e PCdoB Pra BARRAR a Direita em 26 + GlauberBraga CASSADO](2025/2025-04-10-CEYRiRrTV1w.md) | 01:10:59 | automatica |
+| 2025-04-09 | [Dossiê: A GRANDE FARSA - Soros e Ford vs Manifestação da ANISITA, Termina em LULA e FHC.](2025/2025-04-09-wvmx_RBtpFE.md) | 01:21:27 | automatica |
+| 2025-04-08 | [Dossiê: MASTER - Da MULTA de Filipe Martins ao ESCÂNDALO e a DELAÇÃO que Choca, Mas NÃO Choca.](2025/2025-04-08-w9dzxuSFL28.md) | 01:18:03 | automatica |
+| 2025-04-07 | [Manifestação: ANISTIA em Pauta e 2026 PASSA Por Bolsonaro, Diz GLOBO + O ELO Mais FORTE da Corrente](2025/2025-04-07-TqWOi6uapOk.md) | 01:07:16 | automatica |
+| 2025-04-06 | [JB: MANIFESTAÇÃO, Nova VITÓRIA Jurídica e ANISTIA + Petista ELOGIA Jair + LULA: Destruição Planejada](2025/2025-04-06-UoqUcQHP-zU.md) | 01:17:08 | automatica |
+| 2025-04-05 | [Bolsonaro Reúne 7 Governadores Pela ANISTIA + Esquerda "DEFENDE" Jair de Abusos + Trump vs Sistema](2025/2025-04-05-TXwjQ40J43k.md) | 01:10:17 | automatica |
