@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-775 vídeos transcritos, 2 sem legenda.
+900 vídeos transcritos, 2 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -781,4 +781,129 @@
 | 2024-08-24 | [A ENTREVISTA: Tagliaferro FALA com a OESTE + Marçal vs Carlos: O DILEMA das REDES + Ciro e a Paraná.](2024/2024-08-24-SxZEx9CDdsM.md) | 01:21:23 | automatica |
 | 2024-08-23 | [Bolsonaro vs Marçal: a RUPTURA e o Carlos + Glen PARTE 10 - Querem o FIM dos Inquéritos. E o ARAS?](2024/2024-08-23-0yBmkYTa-nE.md) | 01:18:08 | automatica |
 | 2024-08-22 | [Glenn PARTE 9: Erros, Contradições e Reclamações + O TWEET de Pablo Marçal + Uma Aposta Muito ERRADA](2024/2024-08-22-GEJVUZzXx_s.md) | 01:07:20 | automatica |
+| 2024-08-21 | [A HARMONIA e o HERÓI: Chegamos ao FIM? + Bolsonaro: MARÇAL vs NUNES - A Coisa Escalou de Vez.](2024/2024-08-21-ZW2Fy_Abd68.md) | 01:13:30 | automatica |
+| 2024-08-20 | [Glenn PARTE 8: Frota e NY + JAIR tem 3 CHANCES de Disputar 2026 + Daniela Lima MENTE e TOMA Checada.](2024/2024-08-20--Oh_YDaB_Hw.md) | 01:09:16 | automatica |
+| 2024-08-19 | [A SAÍDA do Twitter e a TORCIDA Suspeita + Se VERDADE Vencer, o Que ESPERAR? + O FIM do Tá na Lei?](2024/2024-08-19-vLhhuO0VQ9c.md) | 01:12:45 | automatica |
+| 2024-08-18 | [FIM do TWITTER? Elon Musk FECHA Operação no Brasil + PARTE 7: Glenn CRUZOU a Linha. Lá vem Confusão.](2024/2024-08-18-TEAGo2dA3E0.md) | 01:11:00 | automatica |
+| 2024-08-17 | [Glenn PARTE 6 e o "NÃO PRECISA MAIS" + O GOLPE de Lira, Segundo a GLOBO + Bolsonaro: NUNES vs MARÇAL](2024/2024-08-17-DWu7JPdNoCw.md) | 01:18:14 | automatica |
+| 2024-08-16 | [O Suspeito dos VAZAMENTOS e a PARTE 5 + Bolsonaro e Aras AVISARAM em 2021 + Qual FUTURO Esperar?](2024/2024-08-16-HAAG8xR6oeE.md) | 01:15:11 | automatica |
+| 2024-08-15 | [Glenn PARTE 4: Lula e PT Entram em CAMPO + Consórcio SOBE o TOM em Editoriais + Juristas se DIVIDEM.](2024/2024-08-15-_PuIbWYC6nc.md) | 01:10:47 | automatica |
+| 2024-08-14 | [Dossiê: GLENN 2.0 - Análise das 3 PARTES Já VAZADAS + As REAÇÕES do Petismo e do Establishment.](2024/2024-08-14-hweezVXnIwY.md) | 01:05:00 | automatica |
+| 2024-08-13 | [Bolsonaro: NUNES vs MARÇAL - Entre o FREIO de MÃO e a PONDERAÇÃO + A Entrega do BRASIL ao Dinheiro.](2024/2024-08-13-fd9HOpJZ-NQ.md) | 01:16:07 | automatica |
+| 2024-08-12 | [Bolsonaro 26? Pra GLOBO, TCU Desmontou Embasamento da PF + A Entrevista de JOBIM + Trump VS Direita.](2024/2024-08-12-NTjytfykJtM.md) | 01:10:31 | automatica |
+| 2024-08-11 | [O ERRO BISONHO: Caso Filipe Martins + Dilmo3: PREJUÍZO na Petrobras e ARROCHO no Pobre + Alianças 26](2024/2024-08-11-inC-2ELcpk8.md) | 01:08:36 | automatica |
+| 2024-08-10 | [Filipe Martins foi "SOLTO" + Boulos PROCESSA Marçal e NANDO MOURA se Perde + Direita VENCE e VENCE.](2024/2024-08-10-kkEldE0m7KQ.md) | 01:01:30 | automatica |
+| 2024-08-09 | [DEBATE em SP: Marçal, Boulos e Nunes + Lula ENTRA em CAMPO no Caso Bolsonaro + Direita Vence Uma.](2024/2024-08-09-1WH-okDCHlU.md) | 01:05:22 | automatica |
+| 2024-08-08 | [Bolsonaro de ELEGÍVEL em 26? Nova REVIRAVOLTA no TCU + Lula-Globo MENTEM Juntos + Começou a Eleição!](2024/2024-08-08-IBwSH59XVS4.md) | 01:09:23 | automatica |
+| 2024-08-07 | [Consórcio PERDE Paciência com Lula + A Porta-Giratória da ÉTICA Vermelha + O Arrocho a TODO Custo.](2024/2024-08-07-cvpA1DqkEyw.md) | 01:06:33 | automatica |
+| 2024-08-06 | [LULA é VAIADO e Globo Vai PRA Cima + Chegou o Dia: O PONTO CRUCIAL da Eleição + O Brasil Sem RUMO.](2024/2024-08-06-sxxEnetycC0.md) | 01:09:37 | automatica |
+| 2024-08-05 | [CRASH Global: LULA Com NOVOS Problemas + Maduro e Esquerda Sem LIMITES + Faria Lima CONTRA o Brasil.](2024/2024-08-05-kBCoqcsmeUY.md) | 01:09:23 | automatica |
+| 2024-08-04 | [F.Martins EXPÕE o Que é a Esquerda + MADURO: E Se TUDO For TEATRO? + BOLSONARO vs ZEMA: As Cobranças](2024/2024-08-04-IZipsLk1Hh4.md) | 01:13:49 | automatica |
+| 2024-08-03 | [As NOVAS GAFES de Lula: Hora de PASSAR Pano + MADURO Não Vai dar Tchau? + Desinformando com Números](2024/2024-08-03-2ij8qPpbI-Y.md) | 01:04:30 | automatica |
+| 2024-08-02 | [Maduro Vira FARDO Pra Lula e EUA Sobe o TOM + MBL Sobe no BARCO de Bolsonaro? + O Lado B do Problema](2024/2024-08-02-Kop3dkvOlVo.md) | 01:11:33 | automatica |
+| 2024-08-01 | [E Agora Lula? EUA Reconhce VITÓRIA da Oposição + Bolsonaro CONSOLIDA Oposição + Desembarque Continua](2024/2024-08-01--9Q67MWTqjc.md) | 01:03:38 | automatica |
+| 2024-07-31 | [Lula Fala Com Biden: O TEMPO de Maduro Está ACABANDO + Imprensa APROVEITA CRISE e RIFA Lula e PT](2024/2024-07-31-GLAkXQmdt4k.md) | 01:12:08 | automatica |
+| 2024-07-30 | [Dossiê: VENEZUELA - Lula Controla o DESTINO de MADURO + Celso Amorim e Carter Center: Cadê as ATAS?](2024/2024-07-30-hQxczUqeSnc.md) | 01:06:28 | automatica |
+| 2024-07-29 | [Maduro: Qual o VEREDITO Final? Chegamos ao FIM? + Mídia CHAMA Lula de EXTREMISTA + BTG e JBS Brigam.](2024/2024-07-29-lAGlAJAyeq8.md) | 01:07:40 | automatica |
+| 2024-07-28 | [Randolfe TRAI Lula e APOIA Bolsonaristas + GLOBO Publica MENTIRA + A Ascenção Soberana da Direita.](2024/2024-07-28-b8sYjlNMpqM.md) | 01:02:54 | automatica |
+| 2024-07-27 | [Olimpíadas: JANJA Engana MÔNICA BERGAMO + Maduro FECHA o País + Bolsonaro, Milei e os ROTHSCHILD.](2024/2024-07-27-j21oO9r2R68.md) | 01:12:00 | automatica |
+| 2024-07-26 | [Dossiê: O SISTEMA - O STATUS QUO agiu CONTRA Bolsonaro + Foi PREMEDITADA + Os AGENTES São Conhecidos](2024/2024-07-26-UkfxZ2SM4aE.md) | 01:17:08 | automatica |
+| 2024-07-25 | [Maduro BOLSONARISTA: A Imprensa PERDE a VERGONHA + PF Contra MBL, e Agora? + Tabata, Leman e SOROS.](2024/2024-07-25-Ofoa5vvbcbY.md) | 01:06:41 | automatica |
+| 2024-07-24 | [LULA Se SUPERA: O PIX dos Impostos e as HERANÇAS + Globalismo e BACEN + Eleições e CHORO da Mídia.](2024/2024-07-24-fhHuZaLbqKw.md) | 01:14:59 | automatica |
+| 2024-07-23 | [LULA e o SIGILO do Ministro + GLOBO Inventa Narrativa Pró-Biden + A Máquina CONTRA os Conservadores.](2024/2024-07-23--qnc51o1ExY.md) | 01:05:20 | automatica |
+| 2024-07-22 | [Biden DESISTE e SOROS Já APONTA Sucessor + Momento DECISIVO no Brasil + BOLSONARO vs LULA e MÁQUINA.](2024/2024-07-22-zC7_ao_KXJE.md) | 01:22:53 | automatica |
+| 2024-07-21 | [Lula e Globo AFUNDANDO Juntos + Quem MANDA no BRASIL Hoje? + Direita DIANTE de Oportunidades.](2024/2024-07-21-FZHCP1jUqis.md) | 01:12:15 | automatica |
+| 2024-07-20 | [Ministro SUPREMO Elogia BOLSONARO e FOLHA Mostra OUTRO Lado + Análise CONFIRMA Vitória da Direita](2024/2024-07-20-I4FYDsqbIVo.md) | 01:07:57 | automatica |
+| 2024-07-19 | [Globo IRRITA Até ISENTÕES Pra Blindar LULA + TRUMP: Mundo VAI Mudar em 2024 + Os 2 Grandes ACERTOS.](2024/2024-07-19-kyRlDKWiqc0.md) | 01:06:59 | automatica |
+| 2024-07-18 | [GAFES: Consórcio PROTEGE Lula + Direita AVANÇARÁ Com a IA ? + Manipulação e Candidatos: DEU Ruim?](2024/2024-07-18-EZF8n2oij_0.md) | 01:13:24 | automatica |
+| 2024-07-17 | [A Orquestração e os MEMES do Haddad: NOVA Crise pro LULA e pra Esquerda + Os SUJEITOS de SORTE.](2024/2024-07-17-RTj9Oa1TaNM.md) | 01:04:41 | automatica |
+| 2024-07-16 | [Dossiê: BERLIM - O NOVO Globalismo do SOROS, Lula e Boulos + Bolsonaro e o GRAMPO: Honestidade e FIM](2024/2024-07-16-TgnaktfQQ-8.md) | 01:23:31 | automatica |
+| 2024-07-15 | [TRUMP e o FIM da Era Liberal + O Caso de BOLSONARO é Maior do Que Ele + Globo, Lula e Velhos ERROS.](2024/2024-07-15-i4_ptHC9upQ.md) | 01:18:59 | automatica |
+| 2024-07-14 | [Caso TRUMP: O Que Já PODEMOS Afirmar? + Caso KIM PAIM: Esclarecimentos + Agendas IMPACTADAS.](2024/2024-07-14-E3RHysgb2jg.md) | 01:04:27 | automatica |
+| 2024-07-13 | [DILMO, Dedé e os ROCKEFELLERS Brasileiros + Faltou Dinheiro? Arrocha no Povo + Triginho Econômico.](2024/2024-07-13-D7X3J1vnO_I.md) | 01:13:31 | automatica |
+| 2024-07-12 | [Dossiê: TORDESILHAS - Rockefeller, Moreira Salles e Dulles. A ORIGEM do Campeão Nacional.](2024/2024-07-12-RxMjCx9eY-c.md) | 01:10:49 | automatica |
+| 2024-07-11 | [Bolsonaro DERROTA Lula e GLOBO MENTE Sobre a CARNE + Nova PROVA Isentando F. Martins + Boulos e PT.](2024/2024-07-11-1vjX38Qqupo.md) | 01:05:57 | automatica |
+| 2024-07-10 | [Perseguição a JAIR: ATÉ Filho de MIRIAM Já tá INCOMODADO + Novo ESCÂNDALO Lulista + VITÓRIA a Frente](2024/2024-07-10-qhQtKT-_0ME.md) | 01:15:20 | automatica |
+| 2024-07-09 | [Bolsonaro: ESQUEÇA os 6,8 Milhões, Já se FALA em U$68 Mil + Lula e JBS: Uma NOVA Ajuda?](2024/2024-07-09-eIWT7hTFzhs.md) | 01:05:20 | automatica |
+| 2024-07-08 | [Dossiê: ROTHSCHILD 2 - Sarney, Collor, FHC, Lula e as ORDENS da FAMÍLIA + Jair ACERTOU sem Ver.](2024/2024-07-08-Ad7eXXQG_Xw.md) | 01:18:52 | automatica |
+| 2024-07-07 | [Lula SURTA Ao Ser COMPARADO a Biden + Recado de JAIR no CPAC + A Globo se SUPERA, Baixeza sem FIM.](2024/2024-07-07-zB0py6F9NYM.md) | 01:09:56 | automatica |
+| 2024-07-06 | [Dossiê: 2021 - A ODISSÉIA da Direita. Do "QUASE LÁ" de Bolsonaro ao Dia 8 e NADALIM no CPAC.](2024/2024-07-06-qG9jDbEwsJo.md) | 01:13:53 | automatica |
+| 2024-07-05 | [LULA, Vai dar M... Diz Editor EXECUTIVO do GLOBO + O Pacote de MALDADES da RT + Indiciamento do Jair](2024/2024-07-05-UckkscRJ7Zs.md) | 01:12:07 | automatica |
+| 2024-07-04 | [Paz Entre LULA e BANQUEIROS: O Fim do Teatro + Jogada ARROJADA Da Direita + Os DONOS do BR Não Param](2024/2024-07-04-TUjtrz9AeVk.md) | 01:14:37 | automatica |
+| 2024-07-03 | [Dossiê: VP-SALLES - Lula e as EXIGÊNCIAS dos DONOS do BRASIL + De VOLTA ao PASSADO: Anos 2000 e JB.](2024/2024-07-03-dLPy82BunEo.md) | 01:11:03 | automatica |
+| 2024-07-02 | [Lula e Dólar: CRISE Sem FIM? + JB se ENFIA Em Confusão GLOBAL + Henkel e a PRISÃO de Paula Marisa.](2024/2024-07-02-Y-Aw4ZV7E5w.md) | 01:09:47 | automatica |
+| 2024-07-01 | [Lula VS Jair: Precisamos FALAR de Le Pen + Biden e CIA Contra F.Martins? + O FALSO Golpe e o TEATRO.](2024/2024-07-01-pZ1feq9NWR4.md) | 01:19:14 | automatica |
+| 2024-06-30 | [ALIADOS de Lula Viram CASO de POLÍCIA + Estadão CRUZOU a Linha: ANTÍDOTO + VITÓRIA Certa da Direita?](2024/2024-06-30-voKCUOHXrlc.md) | 01:13:17 | automatica |
+| 2024-06-29 | [Eleição EUA: Deu RUIM pra Esquerda + LULA Terá um PÉSSIMO 2º Semestre + De ONDE Vem as ORDENS ?](2024/2024-06-29-drmFVuDNJ3k.md) | 01:08:19 | automatica |
+| 2024-06-28 | [Lula ALOPRA e Globo o REBATE + Abraji e JBS: CONSELHÃO e Coincidências + Os DONOS do Brasil?](2024/2024-06-28-N8kNkKwiixY.md) | 01:09:18 | automatica |
+| 2024-06-27 | [Lula FALOU o que NÃO Devia + Bolsonaro, a FUMAÇA e F.Martins + Poder Supremo e FHC Unidos de Novo.](2024/2024-06-27-p1o6thXE-1Q.md) | 01:12:12 | automatica |
+| 2024-06-26 | [Lula é DESMASCARADO na GLOBO + Esquerda BRIGANDO Por Kim Paim + Fumaça e Jogatina: Lá VEM o ESG.](2024/2024-06-26-Fag7kSjRWbo.md) | 01:12:56 | automatica |
+| 2024-06-25 | [Dossiê: WALTER LINK - Lula e ROCKEFELLER Contra o Brasil + É PIOR do Que Parece e NÃO Tão SOZINHOS.](2024/2024-06-25-z3IOJwzTwls.md) | 01:26:49 | automatica |
+| 2024-06-24 | [LULA Já SABE Que Será ABANDONADO + EMBATES e Alianças: Henkel, Consta e PF + Kássio e 2026.](2024/2024-06-24-BczJK1LK1OA.md) | 01:10:58 | automatica |
+| 2024-06-23 | [A TRETA Varrida para DEBAIXO do TAPETE + Lula Toma MAIS um ENQUADRO + VITÓRIAS e Provas do JAIR.](2024/2024-06-23-9t0PykvdCzU.md) | 01:17:24 | automatica |
+| 2024-06-22 | [O Pedido do Congresso dos EUA e a Demogracinha + Direita TEM Motivos Pra COMEMORAR + Faça a ESCOLHA.](2024/2024-06-22-ey7P6RFaei4.md) | 01:02:26 | automatica |
+| 2024-06-21 | [Dossiê: BACEN – Paul Volcker, Lula e o FHC te ENGANARAM + Da FLUTUAÇÃO "Suja" ao TEATRO da Panaceia.](2024/2024-06-21-FcP3ktZCPCE.md) | 01:10:26 | automatica |
+| 2024-06-20 | [TEATRO de LULA é EXPOSTO e GLOBO Edita VÍDEO Pra Blindá-lo + ARMIFICAÇÃO Econômica Vermelha.](2024/2024-06-20-MDYfcFKe8gI.md) | 01:08:18 | automatica |
+| 2024-06-19 | [Globo ENQUADRA Lula em Editorial + Jair, VALDEMAR, Os ÔNUS e os BONÛS + O MONSTRO e a Nove Dedos.](2024/2024-06-19-awNQVIH8miQ.md) | 01:11:56 | automatica |
+| 2024-06-18 | [Chegou o Dia: LULA é DESMASCARADO Pela Esquerda + GABINETE da Ousadia (Parte 4) + Os Imediatistas.](2024/2024-06-18-GTHsG89oFNU.md) | 01:04:27 | automatica |
+| 2024-06-17 | [Lula NÃO Consegue ESTANCAR a CRISE + Sorria e Seja MONITORADO + Bolsonaro, o BOZO e as "Denúncias".](2024/2024-06-17-EZSpvfo87rA.md) | 01:13:20 | automatica |
+| 2024-06-16 | [GABINTE DA OUSADIA: Esquerda com MEDO da Globo + INTRIGA Com Michelle Bolsonaro + Vítoria da Direita](2024/2024-06-16-rkCkHwEZpOQ.md) | 01:00:32 | automatica |
+| 2024-06-15 | [Dossiê: LULA-JBS - A "Visão Estratégica" e o PACTO de PAZ. É Hora do CHAPÉU ALHEIO do POVO.](2024/2024-06-15-aQstxvTaeS0.md) | 01:16:23 | automatica |
+| 2024-06-14 | [LULA Recebe 3 ULTIMATOS e Esquerda FALA em GOLPE + Haddad e o PACTO com o PIB + Confusão na Direita.](2024/2024-06-14-TUsdpImtW_I.md) | 01:16:02 | automatica |
+| 2024-06-13 | [GLOBO Chama LULA de BADERNEIRO + Gabinete da OUSADIA Confessa MÉTODO + Dória FALA de BOLSONARO.](2024/2024-06-13-IfDYDME0cYA.md) | 01:05:38 | automatica |
+| 2024-06-12 | [ARROZGATE: Globo Fala em CRIME e Cobra PF + Gabinete da Ousadia: NOVO ESCÂNDALO - Parte 2 e 3.](2024/2024-06-12-sDucNU3j0h8.md) | 01:13:03 | automatica |
+| 2024-06-11 | [Dossiê: GABINETE DA OUSADIA - Mídia EXPÕE A Articulação DIGITAL da Esquerda. E Agora Lula?](2024/2024-06-11-k9t8WSshZRE.md) | 01:15:36 | automatica |
+| 2024-06-10 | [Dossiê: EFEITO CAZUZA - Lula Repete Jogo FHC-Globo + Bolsonaro e a PREVISÃO de OLAVO em 2016.](2024/2024-06-10-LFd5UosIT0k.md) | 01:24:38 | automatica |
+| 2024-06-09 | [Dossiê: O DIVÓRCIO - Lula IMPICHADO e Bolsonaro ELEGÍVEL? O Que Está ACONTECENDO no Brasil?](2024/2024-06-09-FSbWexe-evc.md) | 01:28:23 | automatica |
+| 2024-06-08 | [ARROZ-GATE: Lula Vai GANHAR uma CPI? + Todos CONTRA o Governo: HADDAD Conseguiu + Janones e Fakes.](2024/2024-06-08-fw0w2VMzkYk.md) | 01:05:26 | automatica |
+| 2024-06-07 | [ATENÇÃO no ARROZ: é PIOR que IMAGINAM!!! + Lula VÊ 2026 Desaparecer + Bolsonaro e o REPLAY de 4 Anos](2024/2024-06-07-4a1hj24lBSw.md) | 01:04:23 | automatica |
+| 2024-06-06 | [Dossiê: OS MACUNAÍMAS - A Lei do RETORNO Nunca FALHA + Bolsonaro e o CAVALO de PAU.](2024/2024-06-06-kWiDyQiiNDI.md) | 01:17:15 | automatica |
+| 2024-06-05 | [Lula vs Brasil: SÓ Bolsonaro ELEGÍVEL Resolve + Nikolas Se SUPEROU !!! + Consórcio Tá Endireitando?](2024/2024-06-05-J93K84k6wTE.md) | 01:10:39 | automatica |
+| 2024-06-04 | [Esquerda DIZ Que LULA ACABOU + GLOBO Faz SINAL Pra TEMER + Reviravolta em ROMA e a Turma ESG.](2024/2024-06-04-Fp6EFgshNuk.md) | 01:08:31 | automatica |
+| 2024-06-03 | [Mídia CONFIRMA Que LULA Usou BOLSONARO + Finalmente um DEPUTADO Fez a Pergunta + PF Quer ACELERAR.](2024/2024-06-03-4iEr9ZLXyJ8.md) | 01:05:16 | automatica |
+| 2024-06-02 | [ADEUS LULA: Filho FEIO Ninguém Quer + Consórcio vs [CENSURADO] + Disputas em SP EXPÕE Fragilidades.](2024/2024-06-02-Ex0WgIge3Qc.md) | 01:11:54 | automatica |
+| 2024-06-01 | [Alckmin JOGA Lula Aos Leões + Crise se Alastra: ESTABLISHMENT Teme VOLTA de Bolsonaro + Acorda Agro.](2024/2024-06-01-k2CZ1Iflquc.md) | 01:10:10 | automatica |
+| 2024-05-31 | [Dossiê: NOCAUTE - Lula e Globo Diante da ENCRUZILHADA + Bolsonaro se CACIFA Pra 2025 + DESCONFIE.](2024/2024-05-31-99-IWqQVHB0.md) | 01:03:31 | automatica |
+| 2024-05-30 | [Ressaca da DERROTA: Até a GLOBO HUMILHA Lula e Felipe Neto SURTA + Jair e Direita Seguem VENCENDO.](2024/2024-05-30-qHPv6p5PgPg.md) | 01:12:31 | automatica |
+| 2024-05-29 | [4 VITÓRIAS em 1 Dia: LULA Perde CHÃO com a Direita + O RASTRO do Dinheiro: Bolsonaro vs LULA e ONGs.](2024/2024-05-29-v_GBoDNO96Q.md) | 01:11:35 | automatica |
+| 2024-05-28 | [Acabou o AMOR? Consórcio CRITICA Politização da PF + LULA é EXPOSTO Pelo Legado de Bolsonaro.](2024/2024-05-28-NbareBmuP8w.md) | 01:05:52 | automatica |
+| 2024-05-27 | [LULA Vê Crise Piorar e 2026 Fica DISTANTE + Bolsonaro, Trump e o HORIZONTE a Frente + Os "Sensatos".](2024/2024-05-27-HcwaqyXyX2k.md) | 01:04:52 | automatica |
+| 2024-05-26 | [Lula é VAIADO e DESEMBARQUE se Intensifica + O Rancor Contra Bolsonaro + Chegou a Vez do Cóscio.](2024/2024-05-26-MsnQabPjLrg.md) | 01:03:21 | automatica |
+| 2024-05-25 | [O Vice de 2026 Se ENTREGA: Ego ou Burrice? + Lula PERDE pra Bolsonaro e DESAPROVAÇÃO é Maioria.](2024/2024-05-25-DW7XfXuglww.md) | 01:03:55 | automatica |
+| 2024-05-24 | [Lula com MEDO de 2026, Diz IMPRENSA + Bolsonaro e Aldo Rebelo: CANCELA ou DEFENDE ? + Super ACORDÃO](2024/2024-05-24-HLtRrNQelLc.md) | 01:18:14 | automatica |
+| 2024-05-23 | [Haddad ELOGIA Bolsonaro SEM QUERER + Lula 4 SOBE no TELHADO, Diz Consórcio + MORO e PETISTAS Unidos.](2024/2024-05-23-HPi8N16nb1Y.md) | 01:10:26 | automatica |
+| 2024-05-22 | [Dossiê: LÍNGUA SOLTA - Entre os CHUCROS e os SENSATOS Não Tem BOLSONARO + A Festa de LULA e DIRCEU](2024/2024-05-22-CQqSpmcBooU.md) | 01:15:40 | automatica |
+| 2024-05-21 | [LULA e Judiciário se UNEM no ESG + A Direita PERMITIDA Se MOVE de NOVO + A Marcha Para o ABISMO.](2024/2024-05-21-IU3NCyIt9d8.md) | 01:03:25 | automatica |
+| 2024-05-20 | [Lula e o DENUNCISMO + DIRCEU Se UNE a Direita "CIVILIZADA" + PL das ONGs: Surgem Os OPOSITORES](2024/2024-05-20-DMVE4LrY6qo.md) | 01:04:11 | automatica |
+| 2024-05-19 | [Lula ESCOLHE Markinho Censura + A ROTA de FUGA Controlada: É Esse o PLANO? + Surfistas de TRAGÉDIAS.](2024/2024-05-19-vTaYj3BoNaY.md) | 01:08:04 | automatica |
+| 2024-05-18 | [Impresa DESMACARA Lula: NÃO Era BEM Assim? + Pacheco APRONTA Mais Uma + SOROS e a Indústria de DANOS](2024/2024-05-18-DyZ8yRwALw4.md) | 01:04:59 | automatica |
+| 2024-05-17 | [Sorria: Os VOLUNTÁRIOS Estão te VIGIANDO + O Homem PERDIDO de Lula + Quando MENTIR Está LIBERADO.](2024/2024-05-17-kgcKB39w0TU.md) | 01:08:43 | automatica |
+| 2024-05-16 | [Direita VENCEU De NOVO: O Que Está ACONTECENDO? + Parceria LULA-GLOBO Foi ABALADA? CRISE na Esquerda](2024/2024-05-16-BT8CPf-w-xo.md) | 01:14:33 | automatica |
+| 2024-05-15 | [Lula e Globo SÃO DERROTADOS + Mercadores do Caos: A MENTIRA Passou do Limite + A Reunião em NY.](2024/2024-05-15-5b4GP6UsDUg.md) | 01:15:37 | automatica |
+| 2024-05-14 | [Lula RECEBE Recado do POVO e GLOBO Fica Em SITUAÇÃO Delicada + O Apagão de Ideias e a NOVA DENÚNCIA.](2024/2024-05-14-DvgmHRAUo5g.md) | 01:06:02 | automatica |
+| 2024-05-13 | [Dossiê: O RESGATE - Reviravolta no Futuro da Direita + Tabuleiro GLOBAL: Bolsonaro vs Lula.](2024/2024-05-13-5Tpd5_wJ5IQ.md) | 01:15:30 | automatica |
+| 2024-05-12 | [A Globo QUASE ENCURRALOU o Petismo + A Negação dos Jornalistas + Lula vs 50Bi: ATENÇÃO Na Realidade.](2024/2024-05-12-epV3tvsAqHA.md) | 01:03:19 | automatica |
+| 2024-05-11 | [Lula e Globo: TÁ DIFÍCIL de ESCONDER + Os HERÓIS e os OPORTUNISTAS + Esquerda BUGA com Carluxo.](2024/2024-05-11-Jq6B-GyrKRQ.md) | 01:08:03 | automatica |
+| 2024-05-10 | [LULA: Consórcio CRITICA a CENSURA e Fala em TEATRO + O Cavalo CARAMELO, a GloboLixo e o DIAGNÓSTICO.](2024/2024-05-10-jAHtg90nHPk.md) | 01:08:21 | automatica |
+| 2024-05-09 | [SEM SAÍDA: Lula Parece PERDIDO e GLOBO Não Consegue AJUDAR + Mais Um ROMPIMENTO e o Que NINGUÉM Vê?](2024/2024-05-09-NwtoIs_6kJo.md) | 01:09:04 | automatica |
+| 2024-05-08 | [Prioridades do TIME LULA Causam ESPANTO + Nova INVESTIGAÇÃO Contra a Direita + Politização Vermelha.](2024/2024-05-08-cC3HJtSSxFk.md) | 01:05:26 | automatica |
+| 2024-05-07 | [ARTIMANHAS do Lula na Calada da Noite + GLOBO Encomenda Estudo CONTRA Jair + Temos TUDO Pra VENCER.](2024/2024-05-07-btfo1jRUXeE.md) | 01:15:27 | automatica |
+| 2024-05-06 | [Dossiê: ZEITGEIST - As ENTRANHAS da VELHA ERA + Lula vs Jair: A Democracia Global Totalitária.](2024/2024-05-06-GwF09zgM1a4.md) | 01:19:15 | automatica |
+| 2024-05-05 | [Lula e Globo vs Madonna e Chuvas + Bolsonarismo MODERADO: Estadão ENTREGA o PLANO + Futuro e 2026.](2024/2024-05-05-sKXQG4ZSVqc.md) | 01:16:54 | automatica |
+| 2024-05-04 | [Lula em APUROS: O Acordão Pra 2026 e o Jair "FAZEDOR de REIS" + Os ABSURDOS dos Petistas e E.Leite.](2024/2024-05-04-Fs6mJsiS1-E.md) | 01:07:40 | automatica |
+| 2024-05-03 | [LULA em QUEDA: Petismo Vê DESEMBARQUE da Impresa e CRISE + Bolsonarismo em Seu MELHOR MOMENTO.](2024/2024-05-03-ZbeUvkRRpe0.md) | 01:06:47 | automatica |
+| 2024-05-02 | [Ato do LULA: Petistas FALAM em DERROTA FINAL e Vitória da DIREITA em 2026 + O Tal "Risco Controlado"](2024/2024-05-02-Ji2WQGx9k7k.md) | 01:03:52 | automatica |
+| 2024-05-01 | [Lulistas JÁ Sentem o BAFO no CANGOTE + Bolsonaro DEFINE a ORDEM do Dia + A INTERNACIONAL Esquerdista](2024/2024-05-01-bw1108A0cwM.md) | 01:04:32 | automatica |
+| 2024-04-30 | [Lula vs Bolsonaro: AZAR de UM e a SORTE do OUTRO + Acredite: O Consórcio DEFENDEU o Bolsonarismo.](2024/2024-04-30-OnE24NcqvE4.md) | 01:05:18 | automatica |
+| 2024-04-29 | [GLOBO vs LULA: Acendeu o SINAL AMARELO. Vem DESEMBARQUE? + Bolsonaro, Nikolas e Carluxo: A DIREITA.](2024/2024-04-29-NF1pFj56BIc.md) | 01:02:59 | automatica |
+| 2024-04-28 | [Globo RECONHECE que JAIR Tava Certo + Abril MARCA Vitórias da Direita e FIM Melancólico do Dilmo.](2024/2024-04-28-sKAvlMc_8xA.md) | 01:10:12 | automatica |
+| 2024-04-27 | [O FIM do Lula: CRISE Tomou PROPORÇÃO SEM Precedentes + Felipe Neto vs Lira + Um Caminho à VITÓRIA.](2024/2024-04-27-a3laJw_G3Lo.md) | 01:24:36 | automatica |
+| 2024-04-26 | [FIM da LUA de MEL: E Agora Lula? + Bolsonaro PROVOU Que Estava CERTO + MUSK Diz Que Vai DEPOR no BR.](2024/2024-04-26-rTHnDRtd5J0.md) | 01:01:11 | automatica |
+| 2024-04-25 | [O Epicentro da CENSURA: Rumble Se UNE a Musk e Esquerda Vai aos EUA + As AGÊNCIAS Amigas do Dilmo.](2024/2024-04-25-IiXhd_pdynU.md) | 01:04:33 | automatica |
+| 2024-04-24 | [Establishment VAI Pra CIMA do TWITTER FILES + Lula REVELA Plano com Globalistas + Bolsonaro e o ATO.](2024/2024-04-24-DWaW7Cb8S_Q.md) | 01:08:57 | automatica |
+| 2024-04-23 | [Lula HUMILHA Haddad e Alckmin + Dirceu e a Centro-Direita: Qual o INTERESSE Por Trás da Fala?](2024/2024-04-23-yewy72w2mnY.md) | 01:16:40 | automatica |
+| 2024-04-22 | [Bolsonaro CHOCOU a Esquerda e GLOBO Falou a Verdade + Lula MARCHA pro FIM do Governo.](2024/2024-04-22-7Yt9t_8vsys.md) | 01:06:16 | automatica |
+| 2024-04-21 | [Elon vs Establishment: É Hora de PISAR no FREIO + Bolsonaro: VITÓRIAS e DIAS Melhores No HORIZONTE.](2024/2024-04-21-8UTYMBza2Z0.md) | 01:04:46 | automatica |
+| 2024-04-20 | [GDO 2.0: A Reação do Establishment + ATÉ o GLOBO Critica a CENSURA + Lula ACABOU Segundo 3 Jornais.](2024/2024-04-20-Nz7bOkmlJwU.md) | 01:05:14 | automatica |
+| 2024-04-19 | [Musk vai DEPOR e Direita JÁ se Movimenta + Estadão CONFIRMA que LULA Acabou + FHC, Soros e ONU.](2024/2024-04-19-GNiVKo-xJGI.md) | 01:03:18 | automatica |
 |  |  |  | erro |
