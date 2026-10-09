@@ -27,10 +27,14 @@ jobs:
           deno-version: v2.x
       - run: pip install -U "yt-dlp[default]"
       - name: Baixar transcrições
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
         run: |
           LIMIT="${{ github.event.inputs.limit || '3' }}"
           if [ "$LIMIT" = "0" ]; then ARGS="--all --sleep 8"; else ARGS="--limit $LIMIT"; fi
           mkdir -p youtube
+          # o YouTube barra IPs do GitHub sem login: secret opcional com o cookies.txt de uma conta secundária
+          if [ -n "$YT_COOKIES" ]; then printf '%s' "$YT_COOKIES" > "$RUNNER_TEMP/cookies.txt"; ARGS="$ARGS --cookies $RUNNER_TEMP/cookies.txt"; fi
           python3 scripts/youtube_transcripts.py $ARGS 2>&1 | tee youtube/ultimo-log.txt
       - name: Commit
         if: always()

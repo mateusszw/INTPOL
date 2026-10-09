@@ -11,6 +11,9 @@ Uso:
   python3 scripts/youtube_transcripts.py --all --sleep 8     # importação completa (retomável)
   python3 scripts/youtube_transcripts.py --ids ID1 ID2       # vídeos específicos
 
+Em servidores (GitHub Actions) o YouTube pede login ("confirm you're not a bot"): rode no seu
+computador ou passe --cookies cookies.txt de uma conta secundária.
+
 Requer: pip install yt-dlp
 """
 import argparse
@@ -67,9 +70,14 @@ def paragraphs(lines, video_id: str, span: int = 60) -> str:
     return "\n\n".join(f"[{hms(t)}](https://youtu.be/{video_id}?t={t}) {' '.join(p.split())}" for t, p in paras)
 
 
+COOKIES = None  # arquivo cookies.txt (formato Netscape), via --cookies
+
+
 def ydl(opts=None):
     import yt_dlp  # type: ignore
     base = {"quiet": True, "no_warnings": True, "ignoreerrors": False}
+    if COOKIES:
+        base["cookiefile"] = COOKIES
     return yt_dlp.YoutubeDL({**base, **(opts or {})})
 
 
@@ -149,7 +157,10 @@ def main():
     g.add_argument("--all", action="store_true")
     g.add_argument("--ids", nargs="+")
     ap.add_argument("--sleep", type=float, default=5, help="pausa entre vídeos (segundos)")
+    ap.add_argument("--cookies", help="cookies.txt do YouTube (necessário em IPs de datacenter)")
     args = ap.parse_args()
+    global COOKIES
+    COOKIES = args.cookies
 
     out_dir = ROOT / "youtube" / args.name
     out_dir.mkdir(parents=True, exist_ok=True)
