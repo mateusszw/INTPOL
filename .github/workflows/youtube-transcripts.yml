@@ -21,12 +21,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install yt-dlp
+      # o yt-dlp precisa de um runtime JavaScript para o YouTube
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+      - run: pip install -U "yt-dlp[default]"
       - name: Baixar transcrições
         run: |
           LIMIT="${{ github.event.inputs.limit || '3' }}"
           if [ "$LIMIT" = "0" ]; then ARGS="--all --sleep 8"; else ARGS="--limit $LIMIT"; fi
-          python3 scripts/youtube_transcripts.py $ARGS
+          python3 scripts/youtube_transcripts.py $ARGS 2>&1 | tee youtube/ultimo-log.txt
       - name: Commit
         if: always()
         run: |
