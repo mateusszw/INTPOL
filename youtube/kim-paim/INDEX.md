@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-900 vídeos transcritos, 2 sem legenda.
+1000 vídeos transcritos, 2 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -906,4 +906,104 @@
 | 2024-04-21 | [Elon vs Establishment: É Hora de PISAR no FREIO + Bolsonaro: VITÓRIAS e DIAS Melhores No HORIZONTE.](2024/2024-04-21-8UTYMBza2Z0.md) | 01:04:46 | automatica |
 | 2024-04-20 | [GDO 2.0: A Reação do Establishment + ATÉ o GLOBO Critica a CENSURA + Lula ACABOU Segundo 3 Jornais.](2024/2024-04-20-Nz7bOkmlJwU.md) | 01:05:14 | automatica |
 | 2024-04-19 | [Musk vai DEPOR e Direita JÁ se Movimenta + Estadão CONFIRMA que LULA Acabou + FHC, Soros e ONU.](2024/2024-04-19-GNiVKo-xJGI.md) | 01:03:18 | automatica |
+| 2024-04-18 | [ELON-X: Comissão dos EUA Dilvuga DOCUMENTOS SIGILOSOS e Cobram BIDEN + Análise do RELATÓRIO Público.](2024/2024-04-18-DkDlqbhXXmk.md) | 01:02:37 | automatica |
+| 2024-04-17 | [Caldo ENGROSSOU: Lira ACENA Pra Musk e a Direita + A Reunião de LULA Pra CONTER a CRISE](2024/2024-04-17-AlIV8zYPPow.md) | 01:02:39 | automatica |
+| 2024-04-16 | [Elon Musk e Congresso dos EUA + Haddad JOGA Lula Aos LEÕES + Bateu o DESESPERO na Esquerda.](2024/2024-04-16-W_MUQwisgZQ.md) | 01:16:44 | automatica |
+| 2024-04-15 | [Elon Musk e o VENTILADOR + Algo JÁ MUDOU: Imprensa Começa a CRITICAR a Globo e a Censura.](2024/2024-04-15-QKHi_3CvXYA.md) | 01:10:17 | automatica |
+| 2024-04-14 | [Elon vs Sistema: "CENSURA Precisa Acabar", diz FOLHA + Globo e DIRCEU se UNEM + Direta MARCA Gols.](2024/2024-04-14-EIdzBR5Cpik.md) | 01:03:53 | automatica |
+| 2024-04-13 | [Elon Musk se ESPANTA Com Lula + ISENTÕES Contra Liberdade + Analista VOLTA a EXPOR Lula para BRICS.](2024/2024-04-13-sx9zwprd9dc.md) | 01:15:20 | automatica |
+| 2024-04-12 | [Elon Musk: RECUO ESTRATÉGICO? Vem Reação? + Lula QUEBRA Recordes (Negativos) + DIREITA e as REFORMAS](2024/2024-04-12-M041sx0lBVg.md) | 01:08:48 | automatica |
+| 2024-04-11 | [Twitter Files EXPÕE Nelipe Feto + Elon REVELA Próximos PASSOS + Confusão Chega aos BRICS.](2024/2024-04-11-ub0MskFCxqw.md) | 01:12:22 | automatica |
+| 2024-04-10 | [Caso ELON MUSK Começa a DESACELERAR + Os ALARDES Estéticos + Dilmo APRONTA Contra Brasil.](2024/2024-04-10-eymUMGeW2_o.md) | 01:08:39 | automatica |
+| 2024-04-09 | [Elon Musk CRUZOU A LINHA e Foi Pra Cima de LULA + Até a GLOBO Critica a CENSURA, e Agora?](2024/2024-04-09-enD8GzWgXXA.md) | 01:13:05 | automatica |
+| 2024-04-08 | [Elon Musk: NOVAS REVELAÇÕES das AGÊNCIAS Internacionais, ANATEL e as Narrativas.](2024/2024-04-08-UbfJCD4xURU.md) | 01:16:56 | automatica |
+| 2024-04-07 | [Dossiê: ELON MUSK - O Futuro do Brasil e das REDES. O Que Já Podemos AFIRMAR Sem MEDO de ERRAR?](2024/2024-04-07-jUqt78RHP2E.md) | 01:09:13 | automatica |
+| 2024-04-06 | [A QUEDA DO REI: Lula vê CRISE se ALASTRAR pela Esquerda. ANÁLISE do PIOR Momento do Governo.](2024/2024-04-06-beXPodSO-kQ.md) | 01:09:33 | automatica |
+| 2024-04-05 | [Dossiê: LULA DA SILVA - As ENTRANHAS do Establishmente e do Consórcio + O Despertar dos Adormecidos](2024/2024-04-05-j_PVgZeB3Gw.md) | 01:15:06 | automatica |
+| 2024-04-04 | [Delação e Denúncias: DILMO Enfrenta NOVA CRISE + Falta de LIBERDADE e Forças OCULTAS.](2024/2024-04-04-mU3mopWQpKM.md) | 01:11:31 | automatica |
+| 2024-04-03 | [Lula, Direceu e o BEIJA-MÃO + As INJUSTIÇAS Contra BOLSONARO e Direita + Turminha do SOROS Apronta.](2024/2024-04-03-VCET33VSOfI.md) | 01:06:00 | automatica |
+| 2024-04-02 | [Dossiê: OS 2 PILARES - Lula Foi AVISADO e NÓS Também + Da INJUSTIÇA ao ESG, o PLANO do Fracasso.](2024/2024-04-02-lei1lSZZwQY.md) | 01:21:24 | automatica |
+| 2024-04-01 | [Lula: a INTERFERÊNCIA Tem Limite? + A ERA dos Amigos do REI Voltou + Ref. Tributária do Carbono.](2024/2024-04-01-g_V2_B3ieL0.md) | 01:06:41 | automatica |
+| 2024-03-31 | [Bolsonaro: Nova FARSA Revelada + Dilmo: do APARELHAMENTO à Cuba + De 1964 ao NOVO Mundo e a Direita.](2024/2024-03-31-Jzae0DOS17Q.md) | 01:02:33 | automatica |
+| 2024-03-30 | [Bolsonaro vs Lula: Do URÂNIO às RUAS e as CRISES + Maduro PEDIU Arrego e BOULOS Chegou ao FIM.](2024/2024-03-30-UMltnnfIMzY.md) | 01:07:51 | automatica |
+| 2024-03-29 | [Macron FINALMENTE Revela Seus INTERESSES + Lula PERDE Aliados e JAIR só CRESCE + Cadê o FREIO ?](2024/2024-03-29-_R_BHLD4CKc.md) | 01:08:34 | automatica |
+| 2024-03-28 | [Lula e Macron: Traição e MEDO de VAIAS + GOL da Direita no Congresso + O Caminho do SUCESSO EM 2026](2024/2024-03-28-QcINlMMdwG4.md) | 01:13:26 | automatica |
+| 2024-03-27 | [Bolsonaro e Orban: a TRAMA é MUITO Maior + Chegou o Dia: MADURO Desmascara Lula + Macron no Brasil.](2024/2024-03-27-UHzXrWjx2ZM.md) | 01:11:06 | automatica |
+| 2024-03-26 | [Dossiê: HUNGRIA - O Caso Bolsonaro, a CIA. O Que LULA NÃO Quis Saber?](2024/2024-03-26-WAedg4QsAvc.md) | 01:09:27 | automatica |
+| 2024-03-25 | [Dossiê: MARIELLE - Esquerda e a GLOBO Não Aceitam a VERDADE + Bolsonaro, Anistia, CPIs e Congresso.](2024/2024-03-25-AbjDydfjXhs.md) | 01:09:26 | automatica |
+| 2024-03-24 | [LULA Tenta se DESCOLAR do FRACASSO dos ATOS + o SUMIÇO de 3 Delações + Bolsonaro VAI Processar.](2024/2024-03-24-W5uDYcGt5YE.md) | 01:02:54 | automatica |
+| 2024-03-23 | [Dossiê: ÁUDIOS - Os MISTÉRIOS de CID, as DESCONFIANÇAS de Bolsonaro e as PREOCUPAÇÕES dos Vermelhos.](2024/2024-03-23-NrIq2dYg7EM.md) | 01:04:49 | automatica |
+| 2024-03-22 | [Áudios do CID: Defesa de BOLSONARO se Pronuncia + SIGILOS de Lula e Dia 8 + Novo CAPÍTULO: Caso Roma](2024/2024-03-22-iPHQ8nDKY9k.md) | 01:04:20 | automatica |
+| 2024-03-21 | [O VEXAME de Lula: Os Móveis de Bolsonaro + Lira CRITICA a PF + A CIA Visita Itamaraty e o Caso JBS.](2024/2024-03-21-1-YdbK2APD4.md) | 01:05:53 | automatica |
+| 2024-03-20 | [Bolsonaro INDICIADO: F.Neto Tá PREOCUPADO + Globo EXPÕE Lula: o FIM Tá Próximo? + BOULOS Desidrata.](2024/2024-03-20-28y1SUx6Dn8.md) | 01:04:24 | automatica |
+| 2024-03-19 | [Lula AJUDA Bolsonaro e Globo SURTA + A Subida de TOM Contra as "EXCEÇÕES" + Petistas Se ENTREGARAM.](2024/2024-03-19-aUaXYCKOzqw.md) | 01:04:16 | automatica |
+| 2024-03-18 | [Bolsonaro Vive Seu MELHOR Momento + ROMPEU: Estadão Aponta FIM do Governo + Isentões INSATISFEITOS.](2024/2024-03-18-1RjQnx-39V0.md) | 01:06:05 | automatica |
+| 2024-03-17 | [BOLSONARO e a Nova MENTIRA da GLOBO + Alckmin TRAIRÁ Lula em 2026? + Soros e Ford CONTRA a Petrobras](2024/2024-03-17-FOLxdfODAzg.md) | 01:14:34 | automatica |
+| 2024-03-16 | [CERCO à Bolsonaro: O ÁLIBI Dado Pela GLOBO + Esquerdistas DENUNCIAM Lula e Biden + Dirceu VOLTOU.](2024/2024-03-16-qWjKXFCK8Js.md) | 01:04:11 | automatica |
+| 2024-03-15 | [Dossiê: D.PRIMER - O APARATO Internacional da CENSURA, a Disputa Trump-Jair VS Biden-Lula.](2024/2024-03-15-7VlO1eiQPjI.md) | 01:09:08 | automatica |
+| 2024-03-14 | [A CRISE do Gov LULA é PIOR Do Que se Imagina + Petrobras: NOVO Conselheiro ESG + Klaus VENCEU no BR.](2024/2024-03-14-ofAMRx4mnDc.md) | 01:11:54 | automatica |
+| 2024-03-13 | [Lulismo vs Bolsonarismo na ARENA Internacional + O Laudo da ORELHA e o Dia 8 + Boulos DERRETENDO.](2024/2024-03-13-1iN3EkAreCo.md) | 01:02:51 | automatica |
+| 2024-03-12 | [Consórcio Critica ABUSOS Jurídicos + Dilmo: MENTIRAS e CRISE + Lições do CHEGA para a Direita do BR.](2024/2024-03-12-pjkTRtT47Mw.md) | 01:06:34 | automatica |
+| 2024-03-11 | [NOVA Versão de CID sobre Bolsonaro + Direita VENCE Enquanto CRISE se INTENSIFICA na Esquerda.](2024/2024-03-11-xA74xN-f4C8.md) | 01:08:57 | automatica |
+| 2024-03-10 | [ESCÂNDALO dos Precatórios: Nova DENÚNCIA e TESTEMUNHA + Os DESASTRES de LULA + Roberto Motta ERROU.](2024/2024-03-10-URREwXuhsXg.md) | 01:08:06 | automatica |
+| 2024-03-09 | [O Grande ACERTO de Tarcísio + Bolsonaro, ANISTIA e o INOCENTADO + TEATRO das TESOURAS na Petrobrás.](2024/2024-03-09-vWpX5-vJG0w.md) | 01:12:35 | automatica |
+| 2024-03-08 | [ANÁLISE: Uma VITÓRIA Histórica Pra DIREITA e Nosso FUTURO + NIKOLAS Mexeu No VESPEIRO Proibido.](2024/2024-03-08-tZhenoj08ko.md) | 01:08:20 | automatica |
+| 2024-03-07 | [Dia de VITÓRIAS: Levante Jurídico, CCJ, Nikolas e PGR + Lula Vive PIOR Momento, o CAOS Tomou Conta.](2024/2024-03-07-XET1lIJlLaU.md) | 01:02:23 | automatica |
+| 2024-03-06 | [Direita VENCE, Ganha CCJ e Bolsonaro CONVIDA Tarcísio pro PL + Dilmo e Ifood: Novo CAMPEÃO Nacional?](2024/2024-03-06-7ft0TjSoAhQ.md) | 01:05:35 | automatica |
+| 2024-03-05 | [Dossiê: THE REPORT - Denúncia Contra ALIADO do DILMO Revela SABOTAGEM Contra o Governo Bolsonaro](2024/2024-03-05-tBJhh_vK3hk.md) | 01:08:02 | automatica |
+| 2024-03-04 | [Bolsonaro: Até o CONSÓRCIO Vê a PARCIALIDADE + "PROFIÇIONALISMO" do PT + Pacheco CONTRA Anistia.](2024/2024-03-04-N5ERF3YWFkY.md) | 01:10:09 | automatica |
+| 2024-03-03 | [Dossiê: LEGADO NEFASTO - Lula e FHC nos Arquivos da C.I.A. + O Que o PASSADO nos REVELA?](2024/2024-03-03-fw4A-3zvuO0.md) | 01:15:23 | automatica |
+| 2024-03-02 | [Bolsonaro: PF NÃO ACHA "Mensagens Sensíveis" + Caso CONSTANTINO e o MSIa + Lula e PIB: ALERTA Aceso.](2024/2024-03-02-REMuB_y8d3U.md) | 01:12:48 | automatica |
+| 2024-03-01 | [SEM QUERER: Bolsonaro EXPÕE o PLANO da Esquerda + LULA é CRITICADO Por TRAIÇÃO e Vassalagem.](2024/2024-03-01-1I_OonCLbkE.md) | 01:10:38 | automatica |
+| 2024-02-29 | [Bolsonaro: Dados da PESQUISA Que NÃO Mostraram + Injustiças São RECONHECIDAS + MST Contra Lula?](2024/2024-02-29-VF77Qt24hmQ.md) | 01:12:34 | automatica |
+| 2024-02-28 | [Bolsonaro REVELA Bastidor + Lula DERRETE e Tem PROBLEMAS Seríssimos  + SOROS Preocupado com FUTURO.](2024/2024-02-28-1hgpV1pvGKY.md) | 01:08:39 | automatica |
+| 2024-02-27 | [Lula FOGE de Pergunta e Isentões Começam a DESEMBARCAR + A FORÇA de Bolsonaro e a REAÇÃO da Máquina.](2024/2024-02-27-bEUp2dP9Ejo.md) | 01:14:50 | automatica |
+| 2024-02-26 | [Dossiê: ATO HISTÓRICO - Bolsonaro CONSEGUIU o Que QUERIA + Jornalista RETIDO e o TEMOR da Esquerda.](2024/2024-02-26-AUEI1PcN0Io.md) | 01:16:40 | automatica |
+| 2024-02-25 | [Bolsonaro: Um DIA Que Já ENTROU Para HISTÓRIA + Lula e Haddad: Um PLANO de IMPOSTO Mundial.](2024/2024-02-25-qI1e3Ms_Pl4.md) | 01:02:37 | automatica |
+| 2024-02-24 | [Bolsonaro: o ATO e os CONFLITOS + Dossiê: O AGENTE DILMO - DENÚNCIA de 1997 se CONFIRMA (Parte 2).](2024/2024-02-24-PId2WU2xS0Y.md) | 01:14:41 | automatica |
+| 2024-02-23 | [Dossiê: O AGENTE DILMO - As DENÚNCIAS de ENÉAS Contra LULA + Soros, Eike Batista e Sérgio Moro.](2024/2024-02-23-wTFcpr2tp50.md) | 01:14:18 | automatica |
+| 2024-02-22 | [Bolsonaro: A Polêmica Antes do ATO + Lula e Blinken: MÍDIA ESCONDE Conteúdo da Agenda + Adeus J.Pan?](2024/2024-02-22-jsvdOJTVdCQ.md) | 01:07:22 | automatica |
+| 2024-02-21 | [A CRISE e o TEATRO: Lula, Globo e Esquerda + Opositor Vê GRANDEZA de Bolsonaro + Saidinha sem Defesa](2024/2024-02-21--2FvGcxB2IE.md) | 01:14:14 | automatica |
+| 2024-02-20 | [Dilmo: Metrópoles REVELA que NÃO Foi GAFE, Foi ESTRATÉGIA + Caos e Consórcio: A Serviço de QUEM ?](2024/2024-02-20-x4e9vDgEgWM.md) | 01:04:03 | automatica |
+| 2024-02-19 | [Dossiê: MUNDO EM CHOQUE - Lula CRIA CRISE Internacional. Analisando o VERDADEIRO Objetivo.](2024/2024-02-19-Dyl-7nCUF1I.md) | 01:08:05 | automatica |
+| 2024-02-18 | [O Cálculo de JAIR, os NOVOS Apoios e ISENTÕES + FUGA de Mossoró: Ex-Funcionário REVELA Bastidores.](2024/2024-02-18-eG0iffJxQl4.md) | 01:12:50 | automatica |
+| 2024-02-17 | [Dossiê: MAESTROS - As Ligações da FUGA com SOROS e a Fund.FORD + Bolsonaro, o ATO e o FIM de ROMA](2024/2024-02-17-xpGkyIxuoPQ.md) | 01:08:22 | automatica |
+| 2024-02-16 | [Caldo Engrossou: ATO de Bolsonaro É FORTALECIDO + O Desfecho do Caso de ROMA e os ARROUBOS de Lula.](2024/2024-02-16-jT7WNnQ5QTU.md) | 01:03:54 | automatica |
+| 2024-02-15 | [Bolsonaro: NOVA Mentira NÍVEL Daniela Lima + UOL Revela SABOTAGEM de Diplomatas + Carnaval Vermelho.](2024/2024-02-15-RfRaPB7jVdQ.md) | 01:05:48 | automatica |
+| 2024-02-14 | [A CONVOCAÇÃO de Bolsonaro é DISTORCIDA Pela Mídia + FIM da Oposição e as MENTIRAS do Dilmo.](2024/2024-02-14-Th7SK8WCO5k.md) | 01:04:20 | automatica |
+| 2024-02-13 | [Dossiê: GLOBO-TIME - A CPI Esquecida e o AVÔ do MENSALÃO + Plano CONTRA Bolsonaro é CONFIRMADO.](2024/2024-02-13-gT7BFfWVXSw.md) | 01:25:56 | automatica |
+| 2024-02-12 | [Dossiê: DULLES - Marinho, Mesquista, IBAD e Hanna. Um PASSADO de GOLPES e INTERESSES Escusos.](2024/2024-02-12-WstvQmL9-kk.md) | 01:32:02 | automatica |
+| 2024-02-11 | [Bolsonaro: ACHARAM os DISQUETES + Fortalecimento da DIRETA + ESCÂNDALO: Lula e Agência da ONU.](2024/2024-02-11-QE2k6x-6irI.md) | 01:00:54 | automatica |
+| 2024-02-10 | [Bolsonaro: Esquerda CONFESSA que PLANO Deu ERRADO + A Mão da GLOBO e a TRAIÇÃO Internacional.](2024/2024-02-10-9kNm3X_-aco.md) | 01:06:48 | automatica |
+| 2024-02-09 | [Bolsonaro: um DIA Histórico e INESQUECÍVEL + Existe FUTURO pro Brasil? 2024 Só Está COMEÇANDO.](2024/2024-02-09-DsphKOC69Q0.md) | 01:08:16 | automatica |
+| 2024-02-08 | [Os EVENTOS: Lula vs Bolsonaro + Rockefeller-Estadão: a PARCERIA Via CFR + O Fator Arthur Lira e 2025](2024/2024-02-08-EKixo1gvQg0.md) | 01:07:00 | automatica |
+| 2024-02-07 | [Evento do Dilmo: ESCANDALO é REVELADO! + Atualizações Abin + Deltan, Soros e o Dinheiro.](2024/2024-02-07-Y0QYWBKg4G4.md) | 01:14:40 | automatica |
+| 2024-02-06 | [Dossiê: A FUNDAÇÃO - Nova INVESTIGAÇÃO Desenterra TRAIÇÃO à Bolsonaro + Deltan, Moro e Aras.](2024/2024-02-06-xwqkQRAY_60.md) | 01:12:35 | automatica |
+| 2024-02-05 | [Busca CONTRA Carlos MIOU e Delação do CID Desanda + Dilmo NAUFRAGANDO  + Bukele VENCE e PSOL Alopra.](2024/2024-02-05-S0qoZ3LPlD0.md) | 01:03:19 | automatica |
+| 2024-02-04 | [ABIN: Até a PF Desmente NARRATIVAS do Consórcio + 8 de Janeiro: INJUSTIÇA vs MANOS + Crime Compensa?](2024/2024-02-04-Kli8F9sK-0o.md) | 01:07:25 | automatica |
+| 2024-02-03 | [REVIRAVOLTA: Carlos, Ramagem, o ASSESSOR e o GUARDIÃO + Bolsonaro fez DEPOIMENTO se Remarcado.](2024/2024-02-03-5C_X3mJeCP4.md) | 01:02:54 | automatica |
+| 2024-02-02 | [A Grande VITÓRIA de Torres + Bolsonaro: a LIVE e as ENTRELINHAS + Abin, NARRATIVAS e o PL2630.](2024/2024-02-02-lUDdUCR_WcM.md) | 01:12:06 | automatica |
+| 2024-02-01 | [ABIN: Narrativas DERRETENDO e o DESCASO com o Brasil + VENCEMOS o Ibest + DILMO: Elites vs Povo.](2024/2024-02-01-zJIZXl57-6Q.md) | 01:05:03 | automatica |
+| 2024-01-31 | [Caso CARLUXO: A Nova ABIN do Dilmo e o DEPOIMENTO + Uma Vitória da LIBERDADE e a Demissão no Estadão](2024/2024-01-31-2GZsjMogrOw.md) | 01:02:44 | automatica |
+| 2024-01-30 | [Dossiê: CARLUXO - A Operação DANIELA LIMA e as Pontas Soltas. O Que NINGUÉM Viu e as INCONSISTÊNCIAS](2024/2024-01-30-psu4EXkApgE.md) | 01:06:33 | automatica |
+| 2024-01-29 | [Bolsonaro HUMILHA Lula e IMPRENSA da Destaque + Caso ABIN-Ramagem + Mudanças na PGR e o Inquisidor.](2024/2024-01-29-6ZiauOU6Aaw.md) | 01:06:32 | automatica |
+| 2024-01-28 | [Dossiê: ABIN-SNI - O Passado que o LULA, Genoíno, o PT e o Consórcio Tentam ESCONDER.](2024/2024-01-28-eUGd21qmaXA.md) | 01:14:38 | automatica |
+| 2024-01-27 | [RAMAGEM: Os Sorrisos da GLOBO e a VITÓRIA das Redes + Lula & Biden, Musk & BYD: O Mundo ENLOUQUECEU.](2024/2024-01-27-diMtwYxMYoA.md) | 00:59:48 | automatica |
+| 2024-01-26 | [RAMAGEM: Uma Análise FRIA e a Cortina de Fumaça + Mantega e as MALDADES do Dilmo + O Risco do PNE.](2024/2024-01-26-gHN2OyD1WAk.md) | 01:09:00 | automatica |
+| 2024-01-25 | [Cargos Para AMIGOS e a Volta do RADICAL + Dilmo e a AJUDA pra Elite + ALCKMIN Quer BANIR a Direita.](2024/2024-01-25-t5MngkAXd6Y.md) | 01:08:24 | automatica |
+| 2024-01-24 | [MARIELLE: Brazão, Bolsonaro e a Esquerda + DENÚNCIA: Golpe CONTRA a Direita + O Monopólio Mental.](2024/2024-01-24-2PfyVJner3E.md) | 01:04:25 | automatica |
+| 2024-01-23 | [REVIRAVOLTA no Caso JORDY e ATUALIZAÇÕES do Padre + O Plano de Lula: a VERDADE é Verde e ESG.](2024/2024-01-23-8iS6YzM09cg.md) | 01:07:41 | automatica |
+| 2024-01-22 | [Dossiê: DICOTOMIA - O Confronto LULA vs CONSÓRCIO + Itaú com MEDO de TRUMP + Os ABSURDOS de GENOÍNO](2024/2024-01-22-aVXcntN8dqU.md) | 01:12:46 | automatica |
+| 2024-01-21 | [O Choque de PERÍCIAS e a VERDADE Abafada + MYND Reaparece + TRUMP e JAIR: Ele SABIA o que Falar.](2024/2024-01-21-TGkLHKPVTh0.md) | 01:08:54 | automatica |
+| 2024-01-20 | [Bolsonaro, JORDY e o Sistema LEGAL + O AFAGO de Lula Aos CAMPEÕES Nacionais + Picanheira ARREPENDIDA](2024/2024-01-20-So8RkUWiD7Q.md) | 01:07:09 | automatica |
+| 2024-01-19 | [O Celular do JORDY e os PLANOS da Oposição + Bolsonaro, Trump e um PROJETO Para VENCER a Esquerda.](2024/2024-01-19-7zGN7GH72y8.md) | 01:08:03 | automatica |
+| 2024-01-18 | [Dossiê: OS AGENTES FORD - Boulos, FHC e Lula a DESESTABILIZAÇÃO Planejada CONTRA Bolsonaro.](2024/2024-01-18-VKUUKFQ-3Ng.md) | 01:08:27 | automatica |
+| 2024-01-17 | [Vitória de TRUMP e Volta de Bolsonaro + Turma do LULA em DAVOS: Crédito de Carbono e Vassalagem.](2024/2024-01-17-_2HHK2HRt5E.md) | 01:06:16 | automatica |
+| 2024-01-16 | [Patrícia Lelis e LULA: o ESCÂNDALO + Jair vs Valdemar: Uma DIREITA que Faz INVEJA e o MEDO do Dirceu](2024/2024-01-16-4BQXrC285HM.md) | 01:03:00 | automatica |
+| 2024-01-15 | [Dossiê: ARNS-FREIRE - Lula, a TRAIÇÃO e as ORDENS de GENEBRA. Os Dossiês do SNI Desmascaram Ministra](2024/2024-01-15-d58Clfj9yNA.md) | 01:14:18 | automatica |
+| 2024-01-14 | [Folha e Estadão ABANDONAM Lula + BASTIDOR: Como Nasce um ESCÂNDALO + Jair VENCE e Mostra Perseguição](2024/2024-01-14-KREWdiJuX88.md) | 01:07:10 | automatica |
+| 2024-01-13 | [NOVA Era do LULA 3.0: "Judiciarismo de Coalização" com a GLOBO + ESCÂNDALO Ministerial e Insegurança](2024/2024-01-13-dCriVIt0k8g.md) | 01:06:25 | automatica |
+| 2024-01-12 | [Lula: Revela que SONHAVA Com um POLÍTICO no Supremo + JovemPan VENCEU a Censura + Caos Educacional.](2024/2024-01-12-N7qkxIyQ1hU.md) | 01:05:14 | automatica |
+| 2024-01-11 | [A MÁQUINA de PROPAGANDA: A Importação da Agenda + Lula: O PEDIDO à Pacheco e a AJUDA da ONU.](2024/2024-01-11-KkbTkb5gHgo.md) | 01:05:08 | automatica |
+| 2024-01-10 | [Agenciado na MYND no Governo + O INTOCÁVEL e o NOVO Ministro da Justiça + Dia 8 FRACASSOU Pra Mídia.](2024/2024-01-10-9XOqI4pNchw.md) | 01:02:39 | automatica |
 |  |  |  | erro |
