@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-1124 vídeos transcritos, 3 sem legenda.
+1245 vídeos transcritos, 7 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -1131,4 +1131,129 @@
 | 2023-09-07 | [O Choro dos CÚMPLICES: A Festa do Dilmo + As FOTOS Com Bolsonaro, e Agora? + Confusão no Governo.](2023/2023-09-07-x6USbrs-36s.md) | 01:06:03 | automatica |
 | 2023-09-06 | [Dilmo RADICALIZA e Enfrenta RACHA na Esquerda + Dossiê do GOVERNO Contra Bolsonaro + Valdemar e MBL.](2023/2023-09-06-itCxan5FOCg.md) | 01:10:02 | automatica |
 | 2023-09-05 | [Dossiê: HUDSON - Desde 1967 NADA é Por ACASO. Dilmo, Pacheco, Klaus, C.Roma e a VASSALAGEM.](2023/2023-09-05-pVTRIB_ffV4.md) | 01:14:47 | automatica |
+| 2023-09-04 | [Desinformação COMPROVADA: Globo e o Blecaute + Dilmo INOVA Nas INDICAÇÕES + Valdemar vs Bolsonaro.](2023/2023-09-04-xSiG7hWnql8.md) | 01:08:42 | automatica |
+| 2023-09-03 | [Inacreditável: FOLHA Critica GLOBONEWS + Isentões COMEÇAM a Questionar Censura + Projeto Bolsonaro.](2023/2023-09-03-BppPAl6uwTY.md) | 01:08:04 | automatica |
+| 2023-09-02 | [ESCÂNDALO: PF e Ministro de LULA  + BOLSONARO: Adv de Cid DESMENTE Globo + PACHECO Recebe ALERTA.](2023/2023-09-02-ahMSSapUTrc.md) | 01:09:20 | automatica |
+| 2023-09-01 | [REVIRAVOLTA: Estadão TEM Acesso a CONTRATO das Câmeras + Pedido de Lula AJUDA Bolsonaro + CPI ONGs.](2023/2023-09-01-maCy1cmbUoI.md) | 01:05:11 | automatica |
+| 2023-08-31 | [As 11 MENTIRAS de GDIAS. E o Dino? + LULA Já Fala em REELEIÇÃO + CAOS: Simone Tebet APELA pra Fé.](2023/2023-08-31-wB1PHyckwwU.md) | 01:07:29 | automatica |
+| 2023-08-30 | [CPMI: Nova SUSPEITA das Câmeras e GDias + GREVE: Lula QUEBROU o País? + PEDALADA e Economia CRIATIVA](2023/2023-08-30-KWfQF3g8XVI.md) | 01:01:27 | automatica |
+| 2023-08-29 | [Dossiê: CARBOLULA - Todos os CAMINHOS Levam ao Clube de Rom* + Bolsonaro REAGE Contra MENTIRAS.](2023/2023-08-29-MhB6Uzc1mCw.md) | 01:13:11 | automatica |
+| 2023-08-28 | [Dossiê: ESTOCOLMO - De 1972 à 2023 Lula e o Clube de Rom* CONTRA a Soberania e a FAVOR do ESG.](2023/2023-08-28-iupGk5hqrQA.md) | 01:11:32 | automatica |
+| 2023-08-27 | [Bolsonaro: MÍDIA Começa a MUDAR o TOM + Dilmo: Pedaladas SÃO um RISCO Real? + CPI das ONGs](2023/2023-08-27-wthRW2soV_Q.md) | 01:05:34 | automatica |
+| 2023-08-26 | [Dossiê: MADLULA - Dimo, FHC e o Clube de Roma + A FORÇA de Bolsonaro Segundo PESQUISA da CNN.](2023/2023-08-26-sP8_G6gz5Ss.md) | 01:12:50 | automatica |
+| 2023-08-25 | Ampla 2024 | 00:00:07 | sem_legenda |
+| 2023-08-24 | [Casos Bolsonaro: GLOBO Triste e Valdemar ARREGA + Futuro OTIMISTA à Frente + Dilmo TRAIU o BRICS.](2023/2023-08-24-gNQ3dpbpjeY.md) | 01:07:46 | automatica |
+| 2023-08-23 | [Bolsonaro Ganha um TRUNFO e CNN Também RECEBE a "Ordem" do Amor + Dilmo SENTE e MENTE Pra Esquerda.](2023/2023-08-23-yWUdJ0LiDUk.md) | 01:07:50 | automatica |
+| 2023-08-22 | [Dossiê: MONEY - Dilmo de TROIA e o FLAGRA na Globo + PL-T: Jair vs Valdemar e o  + Imposto Sindical.](2023/2023-08-22-uiB-Ok-hM8M.md) | 01:03:07 | automatica |
+| 2023-08-21 | [Com PROBLEMAS, Dilmo APROVEITA Cortina de Fumaça + Bolsonaro: GLOBO Revela o PLANO e a NARRATIVA.](2023/2023-08-21-fnEx9T7RFGQ.md) | 01:06:06 | automatica |
+| 2023-08-20 | [BOLSONARO: Mídia Tenta Se Desculpar + Dilmo: Pedaladas, Petrobras e Escândalo + Kássio e Mendonça.](2023/2023-08-20-LVGOezly4MA.md) | 01:06:46 | automatica |
+| 2023-08-19 | [Dossiê: DESCONFISSÃO - Bolsonaro e as REVIRAVOLTAS que CHOCARAM os Picanheiros + G.Dias Encrencado.](2023/2023-08-19-UI6elZsUrrg.md) | 01:06:02 | automatica |
+| 2023-08-18 | [Dossiê: A CONFISSÃO - As PEÇAS Que NÃO Se Encaixam. Bolsonaro, Cid e Delgatti + O FOCO Agora é Outro](2023/2023-08-18-gKZ_k9eXZX0.md) | 01:12:58 | automatica |
+| 2023-08-17 | [G.DIAS Sabia de TUDO: Novas REVELAÇÕES! + O Conteúdo da LIGAÇÃO Lula-Biden + Cortina de Fumaça e PAC](2023/2023-08-17-x24Hw-oRjUc.md) | 01:01:25 | automatica |
+| 2023-08-16 | [Dilmo LIGA pra Biden: JAIR na MIRA? + O Verdadeiro APAGÃO e o CAOS Econômico + Confusão Lira-Haddad.](2023/2023-08-16-lH2mgY1v1P4.md) | 01:06:46 | automatica |
+| 2023-08-15 | [Bolsonaro LIDERA e Valdemar APRONTA + O PLANO Dilmo-Biden e o CONTROLE das Redes + PAC Verde e ESG](2023/2023-08-15-y269YijOnEw.md) | 01:03:51 | automatica |
+| 2023-08-14 | Futuro | 00:00:07 | sem_legenda |
+| 2023-08-13 | [Bolsonaro: NARRATIVAS Floparam e GLOBO Apelou + Dilmo e 34 Anos de TRAIÇÃO + Crise Política à Vista.](2023/2023-08-13-Qih9in-nEbI.md) | 01:06:52 | automatica |
+| 2023-08-12 | [Bolsonaro, Cid e Wassef: O Que NINGUÉM Disse? + Dilmo e Seu DESEJO PESSOAL + PROVAS Contra MST.](2023/2023-08-12-WCtaSdyG4zw.md) | 01:05:14 | automatica |
+| 2023-08-11 | [Jair vs Lula: Deu B.O. + Dino Entrega IMAGENS Pela Metade + Crise e FALTA de Diesel? E o PAC?](2023/2023-08-11-Oro8E-WW-mA.md) | 01:03:57 | automatica |
+| 2023-08-10 | [O FIM da CPI do MST e as TRAIÇÕES + Escândalo Ministerial e IMPOSTO da Shein + Dilmo, Haddad e ESG.](2023/2023-08-10-Ps_HEr9IdhU.md) | 01:03:59 | automatica |
+| 2023-08-09 | [Dossiê: SEM PODERES - O FIM da  Soberania do Congresso + CPMI e MST: Deu Ruim  pro PT.](2023/2023-08-09-gtv9IuAno30.md) | 01:08:56 | automatica |
+| 2023-08-08 | [Dino TEM que Entregar Imagens + Bolsonaro, VAZAMENTOS e a Globo + ESG: Lula e Mineradoras.](2023/2023-08-08-uASJqnvpKxU.md) | 01:08:20 | automatica |
+| 2023-08-07 | [A VERDADE Sobre ZEMA Está nas VACAS + Lula EXPULSOU o Povo da PRAIA? + Bolsonaro NÃO Tem Paz.](2023/2023-08-07-B_H5mVZGumo.md) | 01:08:37 | automatica |
+| 2023-08-06 | [Bolsonaro: ESCÂNDALO Fake e QUEBRANDO Regra + Pergunta PROIBIDA: Salles e CPMI + ESG: Lula e Noruega](2023/2023-08-06-JOgCf9uhVTE.md) | 01:06:01 | automatica |
+| 2023-08-05 | [Dossiê: FORA DA MESA - Os BASTIDORES da Disputa LULA vs BOLSONARO + Dino, as Câmeras e os BLOQUEIOS.](2023/2023-08-05-02AWe5dt6i0.md) | 01:02:09 | automatica |
+| 2023-08-04 | [CPMI: Fotógrafo CONVOCADO e Dino DOBRA Aposta + PL2630 Volta dia 9 + Bolsonaro vs Lula: Petro e ESG.](2023/2023-08-04-ek7OsBrxEns.md) | 01:05:26 | automatica |
+| 2023-08-03 | [Caso ZAMBELLI: Bolsonaro PROFETIZOU e Ela NÃO Ouviu + Dirceu Com MEDO da Globo + CPI das ONGs](2023/2023-08-03-4z-XkMfuvGg.md) | 01:04:33 | automatica |
+| 2023-08-02 | [G.Dias Será INDICIADO, Afirma GLOBO + Omar Aziz ENCURRALA Dino + Lula Deixou Planalto DESPROTEGIDO?](2023/2023-08-02-TgbhL-0Tlyc.md) | 01:02:22 | automatica |
+| 2023-08-01 | [Documento SECRETO: Gov Dilmo IGNOROU Protocolo no Dia 8 + Valdemar, o Centro e Bolsonaro.](2023/2023-08-01-t8Jq0hagJsM.md) | 01:01:36 | automatica |
+| 2023-07-31 | [As VAKINHAS do Lula, do PT e de Bolsonaro + A VOLTA das CPIs e Agenda ESG + Mídia CONTRA Judiciário.](2023/2023-07-31-KNUzQ-INeus.md) | 01:03:42 | automatica |
+| 2023-07-30 | [Dino NEGA Imagens a CPMI, Por Quê? + FOLHA Defende Bolsonaro CONTRA Lula + ESG e Petismo UNIDOS.](2023/2023-07-30-SNQ5-D-srek.md) | 01:06:22 | automatica |
+| 2023-07-29 | [Dilmo ASSUME Trabalhar Com Biden + Bolsonaro: DOR de CABEÇA pela Frente + Tebet e a Dupla Sertaneja.](2023/2023-07-29-NJOsQOTfasM.md) | 01:06:05 | automatica |
+| 2023-07-28 | [Bolsonaro: Mais uma VAZAMENTO e Embate com Ala do PL + Lula e Pokemon: Tebet, Reinaldo e Leitão.](2023/2023-07-28-Q9MhMQ5_wr8.md) | 01:02:30 | automatica |
+| 2023-07-27 | [Dossiê: POKELULA - Dilmo HUMILHA Tebet, Lira faz FAKE e Até Miriam Leitão Critica + Bolsonaro e 2024](2023/2023-07-27-OAH-kq0F9ms.md) | 01:00:54 | automatica |
+| 2023-07-26 | [Bolsonaro DOBRA Valdemar e EXPÕE Dilmo + Verbas e Punição: Adeus JovemPAN? + Kim vs Miriam no Top10.](2023/2023-07-26-9uxTT2DTR2M.md) | 01:01:03 | automatica |
+| 2023-07-25 | [Lula-Globo: REVELADO o $$$ de Publicidade e a AGENDA Central ESG + Bolsonaro Contra Magda.](2023/2023-07-25-jBm6I6Stefo.md) | 01:01:31 | automatica |
+| 2023-07-24 | [VALDEMAR vs BOLSONARO: Novo Embate + Dilmo NÃO é Comunista: diz General a Favor do PL2630.](2023/2023-07-24-ffk6whl3Mfw.md) | 01:03:57 | automatica |
+| 2023-07-23 | [A LENDA Voltou! NOVO Escândalo + Dilmo RECEBE Ordens + Pacote "Bolsonarista" e Dino TUCANO?](2023/2023-07-23-Qw68CZIUw4k.md) | 01:05:09 | automatica |
+| 2023-07-22 | [Jair e 02: A Retaliação do Dilmo ? + Mídia CRITICA Pacote da Democracia + Valdemar APRONTA de Novo.](2023/2023-07-22-6KCrGhSjr4g.md) | 01:07:28 | automatica |
+| 2023-07-21 | [Bolsonaro DESBANCARIZADO e Futuro da CPMI + TRAIÇÕES: Dilmo se UNE a Turma do MORO e Neoliberais.](2023/2023-07-21-jc_XFi7pbYE.md) | 01:01:00 | automatica |
+| 2023-07-20 | [Dossiê: LULOGLOBISMO - Extirpando Um DIAGNÓSTICO + A Civilidade VEM dos Selvagens e Bolsonaro?](2023/2023-07-20-R_ULJChnptc.md) | 01:07:55 | automatica |
+| 2023-07-19 | [Lulista PROCURADO pela Justiça e Dados ENGANOSOS + Bolsonaro: ESQUECIMENTO ou Revisão?](2023/2023-07-19-8kuNSFdzGPY.md) | 01:09:33 | automatica |
+| 2023-07-18 | [Bolsonaro PREOCUPA Globo e Lula + Esquerda CRITICA Dilmo e Entreguismo + A ÍNTEGRA da Polêmica.](2023/2023-07-18-chlnYaIE6k0.md) | 01:08:50 | automatica |
+| 2023-07-17 | [Consórcio Quer FIM da Direita, MAS Ventos Estão MUDANDO + Dilmo, Impostos e DANÇA das CADEIRAS.](2023/2023-07-17-EvvMp4_uUeo.md) | 01:03:02 | automatica |
+| 2023-07-16 | [Dossiê: Dilmo-Klaus - O PT e as FORÇAS Transnacionais + Bolsonaro e o Espantalho + Miojo Tributário.](2023/2023-07-16-mCKl87HVLGA.md) | 01:09:04 | automatica |
+| 2023-07-15 | [Bolsonaro OVACIONADO e PL Com PROBLEMAS + Reforma 3s SEM Alíquota + Consórcio CRITICA Politização.](2023/2023-07-15-7aOUcQoMg9M.md) | 01:02:41 | automatica |
+| 2023-07-14 | [Haddad REVELA Plano do IMPOSTO do PECADO + Retratação: PASSOU do Limite? + Bolsonaro, Valdemar e PL.](2023/2023-07-14-IvNLkn71EQE.md) | 01:01:37 | automatica |
+| 2023-07-13 | [Coisa de Maluco: Bolsonaro e o PLANO de Do Val + O "Derrotei" PASSOU do Limite + Deforma Tributária.](2023/2023-07-13-0T6KaFbekq4.md) | 01:07:26 | automatica |
+| 2023-07-12 | [Depoimento de Cid: DERROTA do Dilmo + Valdemar CONTRA Bolsonaro? + CPI-ONGs: Revelações e Propostas.](2023/2023-07-12-KWGJ_NglZr0.md) | 01:06:40 | automatica |
+| 2023-07-11 | [FATIAMENTO da Reforma e HUMILHAÇÃO do Haddad + DEPOIMENTO de CID + Bolsonaro, Carlos e Tarcísio.](2023/2023-07-11-QL12Ce8QrLI.md) | 01:02:29 | automatica |
+| 2023-07-10 | [Dossiê: 1995 - As RESPOSTAS Estão no PASSADO + Bolsonaro ACERTA Mais UMA e Fala da Agenda ESG.](2023/2023-07-10-_Um7xFb0BE4.md) | 01:01:43 | automatica |
+| 2023-07-09 | [Agora a Globo CONFIRMA que Bolsonaro ESTÁ Certo + TV do PT Sairá do Papel? + Eleições 2024 e 2026.](2023/2023-07-09-dqDKvWVPy8k.md) | 00:57:36 | automatica |
+| 2023-07-08 | [Reviravolta no CONSÓRCIO: Jair Tinha Razão? + PT Quer MUDAR Reforma no Senado e Centrão FAZ a Festa.](2023/2023-07-08-NXX3Cx3I9Po.md) | 01:03:58 | automatica |
+| 2023-07-07 | [Reforma Tributária: DESTAQUES são a Última ESPERANÇA + Bolsonaro: Uma VITÓRIA e Muitas Confusões.](2023/2023-07-07-VQQB_MxhKz0.md) | 01:06:10 | automatica |
+| 2023-07-06 | [Dossiê: REFORMA TRIBUTÁRIA - Os JABUTIS e o ANTIGO Plano + IPVA Verde, Bolsonaro e Direita.](2023/2023-07-06-mfQUjfe2P_U.md) | 01:05:44 | automatica |
+| 2023-07-05 | [FIM do HC do Dilmo: AVISO foi Dado + R.Tributária: O SEGREDO do IVA e a Pressa dos Picanheiros.](2023/2023-07-05-JXniQWJ0f7I.md) | 01:03:19 | automatica |
+| 2023-07-04 | [Dossiê: MEA-CULPA - Dilmo e Bolsonaro TÊM Passado Revirado + IPVA Verde na Reforma Tributária .](2023/2023-07-04-f0A7hUzMouY.md) | 01:08:08 | automatica |
+| 2023-07-03 | [CRISE: Dilmo PERDE Apoio PODEROSO + Reforma Tributária da FOME + Bolsonaro SEGUE Mandando.](2023/2023-07-03-TSibAxoSKCw.md) | 01:03:30 | automatica |
+| 2023-07-02 | [Bolsonaro: as HIENAS e o Jhonny Bravo + Alckmin JÁ Quer se DISTANCIAR do Dilmo + Comida Mais Cara?](2023/2023-07-02-wIqJBypObLs.md) | 01:10:20 | automatica |
+| 2023-07-01 | [Bolsonaro: 3 CAMINHOS de Anistia, o 5x2, a ENTREGA dos Espólios e as PRIMEIRAS Movimentações.](2023/2023-07-01-4hAGxqbDggU.md) | 01:08:04 | automatica |
+| 2023-06-30 | [Dossiê: DEMOCRACIA RELATIVA - Dilmo, FORO de SP e Um PASSADO Esquecido e o CONTRAPONTO de Bolsonaro.](2023/2023-06-30-dXnYfKzJKjs.md) | 01:07:50 | automatica |
+| 2023-06-29 | [Dossiê: A SÚMULA - Vazamento Leva CPI ao CORAÇÃO do Mercado Financeiro + Globo ADMITE Derrota CPMI.](2023/2023-06-29-ETxXIqnFKfs.md) | 01:04:14 | automatica |
+| 2023-06-27 | [CPMI: Revelações CHOCANTES Sobre CASO dos Hotéis + Bolsonaro APONTA Direção em Entrevista + CPI ONGs](2023/2023-06-27-lc-aStN8BqQ.md) | 01:04:42 | automatica |
+| 2023-06-26 | [Bolsonaro ENTRA em Campo CONTRA Reforma da Maldade + Plano do DILMO para COMUNICAÇÃO e 2026.](2023/2023-06-26-RFoKvw0sbNw.md) | 01:02:23 | automatica |
+| 2023-06-25 | [URGENTE: Imposto do PECADO é Oficializado + Marcon REVELA que JB Salvou o Dia + Justiça e Reformas.](2023/2023-06-25-iNHTYcjUUtA.md) | 01:00:54 | automatica |
+| 2023-06-23 | [Dossiê: O ENTREGUISTA - Dilmo, Novo PACTO Financeiro e o Relatório CONFIDENCIAL da Abin.](2023/2023-06-23-LTKYznXsDbY.md) | 01:11:56 | automatica |
+| 2023-06-22 | [Dossiê: OPERAÇÃO INCOMUM - Revelada AJUDA do Biden pro Dilmo + Alckmin e Haddad e a PEÇA Central.](2023/2023-06-22-epjz5aXDeuU.md) | 01:08:49 | automatica |
+| 2023-06-21 | [CPMI: a VITÓRIA de Verdade e DERROTA do Lula + Operação da Globo FALHOU + CPI das ONGS Avança!](2023/2023-06-21-9BFCEpENJDg.md) | 01:06:54 | automatica |
+| 2023-06-20 | [Lula: Live FRACASSA e DENÚNCIAS Aparecem + Soros e Folha com MEDO da CPI + DIREITA: Pesquisa INÉDITA](2023/2023-06-20-SlUFSn5d7vU.md) | 01:08:19 | automatica |
+| 2023-06-19 | [Jornalistas CRITICARAM Globo e Dilmo + Vento FAVORÁVEL Pra BOLSONARO + PLANO pra CONVOCAR G.Dias.](2023/2023-06-19-kwtipN4lPiE.md) | 01:08:56 | automatica |
+| 2023-06-18 | [Novas CONVOCAÇÕES da CPMI + Bolsonaro: BASE em Vários Estados + Dilmo ATACA Soberania Nacional.](2023/2023-06-18-K0oqaxzYrIg.md) | 01:04:37 | automatica |
+| 2023-06-17 | [Dossiê: CELULAR DO CID - Novos ENVOLVIDOS e Destino de Bolsonaro ARRASTA Tarcísio pra CONFUSÂO.](2023/2023-06-17-BHEx_lwI31I.md) | 01:02:42 | automatica |
+| 2023-06-16 | ["O ROTEIRO DO GOLP*" - Revista Veja REVELA Mensagens de CID + CPI  ONG: Agora Vai? + Monark e Do Val](2023/2023-06-16-Wigjs8UeY18.md) | 01:02:56 | automatica |
+| 2023-06-15 | [Dossiê: DILMO-SOROS - A História por TRÁS da FOTO e do RACHA + FHC Perdeu Para BOLSONARO e Olavo.](2023/2023-06-15-DF4rQ2tK-Rg.md) | 01:18:33 | automatica |
+| 2023-06-14 | [Folha faz DENÚNCIA GRAVE Contra G.DIAS + PEDALADA: Nova ACUSAÇÃO Contra Jair + Lula FRACASSA em Live](2023/2023-06-14-SqXg4qh-CqI.md) | 01:11:13 | automatica |
+| 2023-06-13 | [BOLSONARO vs DILMO + KIM vs MONARK + Ana Priscila na CPMI Dia 8 + PERIGOS da Reforma Tributária.](2023/2023-06-13-VVQYcJ6ou7A.md) | 01:00:30 | automatica |
+| 2023-06-12 | [Dossiê: ACENOS ESTRANHOS - Haddad, BANQUEIROS e Dilmo + Tarcísio e Direita + Plano B do PL2630.](2023/2023-06-12-pAFLTONF4Fo.md) | 01:11:18 | automatica |
+| 2023-06-11 | [Dossiê: O GIGANTE - Jabutis e o PACOTE de Maldades do Dilmo + DEVASSA Não PEGA Bolsonaro e CPIs.](2023/2023-06-11-B9G75TekIgA.md) | 01:01:56 | automatica |
+| 2023-06-10 | [Dossiê: ZONA CINZENTA - Lula, Soros e Neto pelo BEM da Picanha + Bolsonaro NÃO É Esquecido.](2023/2023-06-10-m8uFyZY9358.md) | 01:08:22 | automatica |
+| 2023-06-09 | [Lula DERRETE em NOVA Pesquisa da GLOBO + Ministro VAIADO e o Cavalo de Tróia que SABOTA Aliados.](2023/2023-06-09-K1h5lvOnl1g.md) | 01:06:31 | automatica |
+| 2023-06-08 | [Bolsonaro, a FOTO e Mendonça + Dilmo: DANÇA das CADEIRAS e Desprestígio + ESG, Lobby e Paulo Guedes.](2023/2023-06-08-UKMQtbZDvic.md) | 01:00:45 | automatica |
+| 2023-06-07 | [Dilmo em Apuros: VAIAS e FUGA de Jornalistas + PT pede Canal de TV pro Ministério + CPMI e Ramagem.](2023/2023-06-07-7xe9m56TTRQ.md) | 01:07:32 | automatica |
+| 2023-06-06 | [Julgamento de BOLSONARO e Confusões no PL + Lira ENQUADROU Dilmo de Novo + CPMI: Primeiros Passos.](2023/2023-06-06-AuB-ZqnkRVI.md) | 01:09:20 | automatica |
+| 2023-06-05 | [Novo ESCÂNDALO Ministerial + Dilmo SEM Paz: Mídia ELOGIA Alckmin, Esquerda VIVE CISMA, Padilha-Rui.](2023/2023-06-05-ox3XuXOt6G8.md) | 01:05:41 | automatica |
+| 2023-06-04 | [Dossiê: RODA DA FORTUNA - Dilmo, Alckmin e INTERESSES de Sempre + PROBLEMAS na Cãmara e na Mídia.](2023/2023-06-04-RT4J29AFH2k.md) | 01:12:59 | automatica |
+| 2023-06-03 | [Dilmo Enfrenta PROTESTOS Contra Haddad + Jair FALA sobre FUTURO + Maldades, Narrativas e Linguiça.](2023/2023-06-03-dRUuz0tH7-k.md) | 01:08:28 | automatica |
+| 2023-06-02 | Agenda Short Intro | 00:00:07 | sem_legenda |
+| 2023-06-01 | [No FLAGRA: G.Dias, FALSIFICAÇÃO e CPMI + DERROTA: Lula é TRATORADO pela Câmara e ENTREGA Tudo.](2023/2023-06-01-UunTuLigDWs.md) | 01:01:01 | automatica |
+| 2023-05-31 | [Dossiê: 13.13 - LULA Entre MURROS e NARRATIVAS. Crise com a Globo, Militância e DERROTA no Congresso](2023/2023-05-31-Rtw6C-yaH8c.md) | 01:09:47 | automatica |
+| 2023-05-30 | [Dossiê: MADURO - A VERDADEIRA Narrativa que a GLOBO e Dilmo ESCONDERAM + As MALDADES dos Bancos.](2023/2023-05-30-_qGrDBDlRGg.md) | 01:07:34 | automatica |
+| 2023-05-29 | [Pra GLOBO, se Lula NÃO Acordar, Bolsonaro VOLTA + Maduro Está no Brasil + Racha CRESCE na Esquerda.](2023/2023-05-29-si1wxpbASws.md) | 01:05:42 | automatica |
+| 2023-05-28 | [DILMO em CRISE: Globo e os X9 do PT + CPMI dia 8: TERMÔMETRO do Lira + TERRA ARRASADA: Haddad e 2026](2023/2023-05-28-eFOF2N8dSW8.md) | 01:04:55 | automatica |
+| 2023-05-27 | [REUNIÃO de EMERGÊNCIA: Dilmo Pede SOCORRO + Globo: PT com MEDO de Bolsonaro em 2024 + CPMI e Maia.](2023/2023-05-27-AKIYMFkM1A8.md) | 01:07:40 | automatica |
+| 2023-05-26 | [Manifestações do MBL e a Vitória de Bolsonaro + CPMI: Fala do PRESIDENTE + Esquerda CRITICA Lula.](2023/2023-05-26-walJMwinvI8.md) | 01:11:21 | automatica |
+| 2023-05-25 | [Dossiê: OS RACHAS - Janones ABRE Crise e Dilmo ENTREGA os ANÉIS + Direita e Manifestações PróAlckmin](2023/2023-05-25-_V_T2Y1Se8w.md) | 01:06:46 | automatica |
+| 2023-05-24 | [MARINA vs LULA: Após HUMILHAÇÃO, Já se Fala em DEMISSÃO + Escândalo no AR e Crise na CPMI do dia 8?](2023/2023-05-24-hcqy1foRrbw.md) | 01:05:46 | automatica |
+| 2023-05-23 | [Dilmo: HUMILHADO pela Marina, ABANDONADO pelo PACHECO e CPMI Avança + Juiz AFASTADO, Deltan e MBL.](2023/2023-05-23-yGhyh3Xh99c.md) | 01:03:40 | automatica |
+| 2023-05-22 | [CPIs: Novas REVELAÇÕES e o MEDO do Dilmo + Sabotagem CONTRA Bolsonaro + Esquerda RACHA Contra Ibama.](2023/2023-05-22-3yY1q0z02_I.md) | 01:05:25 | automatica |
+| 2023-05-21 | [TRAIÇÃO: Dilmo e o Boto-Cinza + Esquadrão Picanheiro da MENTIRA + Haddad PERDIDO Com as Redes.](2023/2023-05-21-h4oxtzHPOzg.md) | 01:05:17 | automatica |
+| 2023-05-20 | [A Entrevista EXCLUSIVA de Bolsonaro e os PLANOS + Por Que DILMO foi Pro G7? + Coincidência da Marina](2023/2023-05-20-1QFGkiVRHkw.md) | 01:04:36 | automatica |
+| 2023-05-19 | [Dossiê: NOVOS TEMPOS - Dilmo e Alckmin AVANÇAM nas SOMBRAS + Bolsonaro TERÁ a Palavra Final.](2023/2023-05-19-WwLJTP5cUiY.md) | 01:06:30 | automatica |
+| 2023-05-18 | [ALIADOS INESPERADOS Contra GLOBO e Marina + CPI do MST e o MEDO do PT + O Projeto de País do LULA.](2023/2023-05-18-BPR1pBSvKK8.md) | 01:07:11 | automatica |
+| 2023-05-17 | [PL2630 Volta na CALADA da Noite + Bolsonaro: As MENSAGENS Reveladoras + Deltan CASSADO, e o Moro?](2023/2023-05-17-6hU-AfXRTqA.md) | 01:11:14 | automatica |
+| 2023-05-16 | [Dossiê: "MÁFIA VERDE" - O Plano de DILMO e FHC pro NEOGOVERNO Brasileiro + PL2630, OAB e Agência.](2023/2023-05-16-tmjzeBoqwFY.md) | 01:12:20 | automatica |
+| 2023-05-15 | Shorts - Barco 15 de maio. | 00:00:07 | sem_legenda |
+| 2023-05-14 | [Dossiê: CASTELO DE AREIA - Lula ABANDONADO por Pacheco, Lira, PSB, Kassab e Temer?](2023/2023-05-14-D5KksTj3T5E.md) | 01:04:01 | automatica |
+| 2023-05-13 | [Bolsonaro PROCESSARÁ Lula por Mentiras + Ciro REAPARECE Humilhando o PT + Governo AFUNDANDO Rápido.](2023/2023-05-13-rA3xO2a5Wuc.md) | 01:06:24 | automatica |
+| 2023-05-12 | [CRISE a Vista: Dilmo ATACA Agro e Congresso + CPMI Subiu no TETO? + PL2630 e as FakeNews da Mídia.](2023/2023-05-12-b3Eu6p4CBAA.md) | 01:03:40 | automatica |
+| 2023-05-11 | [ORÇAMENTO SECRETO do Dilmo e FelipeNeto + Pesquisa ASSOMBRA Lula + Telegram e a VOLTA da NORMALIDADE](2023/2023-05-11-dquv0ai1QvE.md) | 01:02:37 | automatica |
+| 2023-05-10 | [Folha REVELA Gabinete de MAVs pró-Dilmo + PL2630 Vira BATALHA Comercial + Telegram na MIRA de Novo?](2023/2023-05-10-byXnSA_I8Vo.md) | 01:06:27 | automatica |
+| 2023-05-09 | [MANOBRA: PL da Globo PAUTADO Hoje + MOEDA COMUM no BC: Galípolo Vem Aí + Celular de Bolsonaro.](2023/2023-05-09-h-kXmWRkv98.md) | 01:01:00 | automatica |
+| 2023-05-08 | [MEDO: o PT Defendeu Bolsonaro? + PL2630: Mentirosos QUEREM Controlar + Voltando no Tempo.](2023/2023-05-08-lcLE6BCb9is.md) | 01:06:42 | automatica |
+| 2023-05-07 | [Esquerda DEFENDE Bolsonaro de PERSEGUIÇÃO + Dilmo DESCUMPRE PL2630 + CPMI do Dia 8 VAI Sair?](2023/2023-05-07-XTdrBCzWbQw.md) | 01:04:43 | automatica |
+| 2023-05-06 | [LUXO de Lula CHOCA Jornalistas + NOVA Manobra pra APROVAR PL2630 + Gula do PT e Ajuda de na CPMI 8/1](2023/2023-05-06-u_uHHLAhsVE.md) | 01:04:53 | automatica |
+| 2023-05-05 | [Bolsonaro: Limão VIRANDO Limonada + PL2630: Regulamentação Via Judiciário? + CPMI dia 8 e do MST.](2023/2023-05-05-Lx3-JMgAV_g.md) | 01:09:19 | automatica |
+| 2023-05-04 | [Bolsonaro: O que NINGUÉM Reparou? + PL2630 tem PLANO "B" e "C" + O que DILMO Quer ESCONDER?](2023/2023-05-04-_JPFtvYM50I.md) | 01:08:23 | automatica |
+| 2023-05-03 | [Dossiê: [BANIDO] - PL2630, Globo e Dilmo PERDEM por Hora, mas o Que ACONTECEU? Como Chegamos Aqui?](2023/2023-05-03-oRiH-YM4uxo.md) | 01:13:27 | automatica |
+| 2023-05-02 | [DIA D: Brasil UNIDO Contra a GLOBO e o PL2630 + Randolfe e Dino ACIONAM a Justiça + JAIR vs LULA.](2023/2023-05-02-6AOTMkxJGq0.md) | 01:05:48 | automatica |
+| 2023-05-01 | [Bolsonaro: FINALMENTE Falaram a VERDADE + PL2630: Globo PERDE a Mão + CPI do MST ou do CONSELHÃO?](2023/2023-05-01-qFJBVdZK6YE.md) | 01:05:20 | automatica |
 |  |  |  | erro |
