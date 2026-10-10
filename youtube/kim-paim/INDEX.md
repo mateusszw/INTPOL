@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-1465 vídeos transcritos, 11 sem legenda.
+1574 vídeos transcritos, 26 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -1480,5 +1480,130 @@
 | 2022-09-17 | [Campanha de LULA Pede ARREGO pra Ex-CANDIDATOS + Bolsonaro GANHA Reforços + JANJA e LULA Derrapam.](2022/2022-09-17-zqejKBcdrBU.md) | 01:04:20 | automatica |
 | 2022-09-16 | [JB Dispara: Rio PREOCUPA Lula, diz GLOBO + Nova CARTA e PRESSÃO Internacional + Voto de Direita.](2022/2022-09-16-MBG69fQGaCE.md) | 01:02:52 | automatica |
 | 2022-09-15 | [17 Dias: Campanha de LULA entra em PARAFUSO + Bolsonaro CRESCE em NOVO Eleitorado + Lula e ESG.](2022/2022-09-15-WeUEtHsrzJQ.md) | 01:04:39 | automatica |
+| 2022-09-14 | [TATUAGEM: Bolsonaro vs Lula + Coluna do GLOBO Ataca PARÁNA PESQUISA + Europa CONTRA Agro-BR](2022/2022-09-14-GmsMYqoVRoM.md) | 01:05:41 | automatica |
+| 2022-09-13 | [Lula é HUMILHADO na CNN e Ataca o AGRO + Crise na Campanha do PT e Pesquisa da GLOBO + ESG e Wokes.](2022/2022-09-13-AkuRLiefvSo.md) | 01:10:21 | automatica |
+| 2022-09-12 | [Bolsonaro: VIRADA em Pesquisa INTERNA + Lula DESESPERADO com SP + Dirceu TEME ser PRESO + ESG 2023.](2022/2022-09-12-_jE867K9baM.md) | 01:07:26 | automatica |
+| 2022-09-11 | [Aliados do Lula IMPEDEM Cristãos na ONU + Novo ATAQUE ao AGRO + Jair ATRAI mais APOIO!](2022/2022-09-11-SuYqXA5fNxA.md) | 01:05:01 | automatica |
+| 2022-09-10 | Recorte pra shorts 1 | 00:00:07 | sem_legenda |
+| 2022-09-09 | [Fim do LULA: a FALA Mais ABSURDA e Briga no PT. Nem a MÍDIA Abafou + Bolsonaro AMPLIA Liderança.](2022/2022-09-09-0ocLD2MM-10.md) | 00:59:59 | automatica |
+| 2022-09-08 | [Dossiê: BICENTENÁRIO - Bolsonaro VENCEU. Qual o RESULTADO de Ontem? + Lula SEM Estratégia pra REAÇÃO](2022/2022-09-08-MU3vtCOdO04.md) | 01:00:58 | automatica |
+| 2022-09-07 | [Desespero: PTISTAS Acreditam que LULA Bateu TETO + MBL Ajudando JANONES? + Bolsonaro SEGUE CRESCENDO](2022/2022-09-07-5FCwF41ZcPk.md) | 00:59:38 | automatica |
+| 2022-09-06 | [Estrategista do LULA vira ALVO da Mídia + Bolsonaro LIDERA em NOVA Pesquisa + Ciro ROMPE com o PT.](2022/2022-09-06-fUgrZ8hJbfI.md) | 01:03:14 | automatica |
+| 2022-09-05 | [Ladeira ABAIXO! Lula terá REUNIÃO de EMERGÊNCIA para REVER Estratégia + Michelle ATACADA pela FOLHA.](2022/2022-09-05-vtOcoVT3tP4.md) | 01:01:32 | automatica |
+| 2022-09-04 | [Busca e Apreensão: MORO e IMPACTO Eleitoral + Lula VOLTA a "Derrapar" com IGREJA + Marina Silva ESG.](2022/2022-09-04-JF0I9TyTLDg.md) | 01:03:25 | automatica |
+| 2022-09-03 | [Lula "DESLIZA" e IMPRENSA tenta PROTEGÊ-LO + Sites de DIREITA viram ALVO + Notícias da Eleição.](2022/2022-09-03-68VvfIeTj_Y.md) | 01:00:29 | automatica |
+| 2022-09-02 | Shorts dia 2-9 | 00:00:07 | sem_legenda |
+| 2022-09-01 | [Lula MUDA Estratégia com MEDO de JAIR, diz FolhaSP + Boric e Lula: NOVA Entrevista na TIME.](2022/2022-09-01-RcLS-p_8Rv8.md) | 01:04:33 | automatica |
+| 2022-08-31 | [PESQUISAS: Imprensa MUDA Discurso + Bolsonaro vs Lula: O FIM da Eleição + Pacheco SABOTANDO de Novo?](2022/2022-08-31-Da--F40Vvu0.md) | 01:03:57 | automatica |
+| 2022-08-30 | [O Dia depois do DEBATE: Lula FOGE e quer MUDAR REGRAS, e Bolsonaro tem BOAS Notícias (ÁUDIO RUIM)](2022/2022-08-30-RxZhUU0I_jA.md) | 01:01:36 | automatica |
+| 2022-08-29 | [Dossiê: O DEBATE  - Bolsonaro vs Lula = Quais os RESULTADOS? O que Jair GANHOU e o que Lula PERDEU?](2022/2022-08-29-XNhEZ09Oa2E.md) | 01:05:12 | automatica |
+| 2022-08-28 | [Debate: NARRATIVA Contra BOLSONARO + Lula e ANÚNCIOS de Condenação + Agro: DISPUTA e MENTIRAS.](2022/2022-08-28-kH0AWLvPcGw.md) | 01:02:26 | automatica |
+| 2022-08-26 | [Dossiê: LULA na GLOBO - As ENTRELINHAS do Discurso + Agro vs MST = ESG + Bonner e o chá de COMADRES.](2022/2022-08-26-EOQDP8IK1Dw.md) | 00:59:59 | automatica |
+| 2022-08-25 | [Bolsonaro CRESCE em Questões CHAVE + Silêncio de LULA e JORNAL Nacional + Confusões: PT e JANONES.](2022/2022-08-25-n-fyGzGyGbQ.md) | 01:00:45 | automatica |
+| 2022-08-24 | [TEATRO: Ciro na Globo + Bolsonaro  DISPAROU no Sudeste + Lula e o Pedido de SILÊNCIO pra Jornalista.](2022/2022-08-24-d7lVxJffMiY.md) | 01:02:36 | automatica |
+| 2022-08-23 | [Dossiê: SABATINA - Bolsonaro VENCEU na GLOBO, Entenda + A COLA do Jair +Confusões na 3ª Via.](2022/2022-08-23-jCOGWJW-abg.md) | 01:01:49 | automatica |
+| 2022-08-22 | [Com MEDO do Agro, LULA Esconde REGULAÇÃO do Setor + Bolsonaro CRESCE entre INDECISOS + ESG e Europa.](2022/2022-08-22-wxMwcajNDKw.md) | 01:02:13 | automatica |
+| 2022-08-21 | [Comício FRACASSOU e LULA se Envolve em POLÊMICAS +  Candidatos de BOLSONARO Liderando em 7 Estados.](2022/2022-08-21-6BQoplXKWSs.md) | 00:59:14 | automatica |
+| 2022-08-20 | [Lula FUGIU de Sabatina e REVELOU MEDO de 2º Turno + JB VENCE em ÁREA da ESQUERDA +Confusão no PT-MBL](2022/2022-08-20-OG7D-Vlmiec.md) | 00:58:43 | automatica |
+| 2022-08-19 | [Dossiê: ENCOMENDADO - Globo PAGOU Pesquisa DATAFOLHA e Nova CONFUSÃO na FIESP + Análise Eleitoral](2022/2022-08-19--IYYgt8KpDY.md) | 01:04:11 | automatica |
+| 2022-08-17 | [Dossiê: O TOM da ELEIÇÃO - Bolsonaro vs Lula - ATENÇÃO as Propostas + Pesquisa da GLOBO Falhou?](2022/2022-08-17-voBEXea8QnU.md) | 01:00:29 | automatica |
+| 2022-08-16 | [Globo PAGOU Pesquisa e PT já ESTAVA Esperando + Lula APAGA FakeNews + Bolsonaro: GRANDES Entregas.](2022/2022-08-16-TA2Jy9Od10Q.md) | 00:59:40 | automatica |
+| 2022-08-15 | [Ventos FAVORÁVEIS: Lula se Esvazia + JANONES: Teu PASSADO te CONDENA + Esquerda quer PACTO VERDE.](2022/2022-08-15-7baMYYkx36I.md) | 01:04:56 | automatica |
+| 2022-08-14 | [Cara a Tapa: Bolsonaro HUMILHA Lula + Haddad PAGA Anúncios + Michelle vs Janja: MÍDIA Problematiza.](2022/2022-08-14-l7r34xdwd4M.md) | 01:08:06 | automatica |
+| 2022-08-12 | [Bolsonaro CRESCE e o PT Critica PESQUISAS + Carta do LULA foi um FRACASSO + Censura & Fakes.](2022/2022-08-12-WXZ5v76NqTc.md) | 01:07:40 | automatica |
+| 2022-08-11 | [Lula é Chamado de LADRÃO, FUGIU de Evento e PERDEU na Justiça + Globo: BONORO passa de 630 MILHOES.](2022/2022-08-11-8poHGkAyVmM.md) | 00:56:54 | automatica |
+| 2022-08-10 | [Bolsonaro ULTRAPASSA Lula + PT Desobedece JUSTIÇA + Michelle vs Janja + LULA Defende ESG na Fiesp.](2022/2022-08-10-dcsaKwuaxbA.md) | 01:00:32 | automatica |
+| 2022-08-09 | [Aplaudido de Manhã e MITANDO à Noite: Bolsonaro no FLOW e DESESPERO do PT + Michelle vs Janja.](2022/2022-08-09-ZAw5dA4nxLU.md) | 01:01:22 | automatica |
+| 2022-08-08 | [Dossiê: MOEDA & CARTA - Fiesp e LULA. E Agora? Haddad CRITICA Alckmin e PT Joga a TOALHA. 3ª PARTE.](2022/2022-08-08-o_BRQJgWjPQ.md) | 00:58:28 | automatica |
+| 2022-08-07 | [Dossiê 2ª Parte: O ELO DA CARTA - A Ligação entre LULA, ONGs e Políticos + Bonoro, PRF e Tias do ZAP](2022/2022-08-07-qpQjF8fp-m0.md) | 01:02:57 | automatica |
+| 2022-08-06 | [Dossiê: CARTA DO LULA - O Jogo das SOMBRAS por trás de um GOLPE MIDIÁTICO + Bolsonaro tem 86%.](2022/2022-08-06-S12Gx9oLvGA.md) | 01:04:32 | automatica |
+| 2022-08-05 | [ELEIÇÕES: Globo MUDA Regra, JB se APROXIMA até no Datafolha + LULA e Mensagem SUBLIMINAR da XP.](2022/2022-08-05-0UBK1eVw5ys.md) | 00:59:57 | automatica |
+| 2022-08-04 | [Lula PEGO no FLAGRA: o Fiasco, o Jatinho e o DESRESPEITO a LEI Eleitoral + VITÓRIA Acachapante de JB](2022/2022-08-04-B9eLliIBceM.md) | 01:02:04 | automatica |
+| 2022-08-03 | [Filhos de BOLSONARO em INVESTIGAÇÃO nos EUA + Lula e FECHAMENTO de Rádios e TVs + MST dá ULTIMATO.](2022/2022-08-03-QeDTzIDnjcc.md) | 01:04:47 | automatica |
+| 2022-08-02 | Recorte pra shorts 2 | 00:00:07 | sem_legenda |
+| 2022-08-01 | [GLOBO fez REUNIÃO com Haddad + FAKES e Candidatura de MENTIRA + Kim Paim sofre ATAQUES dos MOROs.](2022/2022-08-01-vn7DTbqzY9E.md) | 01:00:54 | automatica |
+| 2022-07-31 | [Dossiê: E AGORA LULA? - Blogs SUJOS, Dinheiro, CONFISSÕES, Emails, Perseguição & FARC.](2022/2022-07-31-PHKRMG286Eg.md) | 01:08:06 | automatica |
+| 2022-07-30 | [Capotou! A União de MORO e LULA: Rosângela da 1º Passo + AGRO é Ameaçado pelo PT + A NOVA Carta.](2022/2022-07-30-2UOZ-X4ViDE.md) | 01:02:38 | automatica |
+| 2022-07-29 | [Dia HISTÓRICO: Mais um LEGADO de Bolsonaro + LULA Mentiu até SOBRE o PT + Brasil SURPREENDE de Novo!](2022/2022-07-29-DAZ1TsKP1rA.md) | 00:59:36 | automatica |
+| 2022-07-28 | [SABOTAGEM: O Filho do Ex-Vice de LULA + Bolsonaro HUMILHA Di Caprio + Foro de SP: REUNIÃO no Brasil.](2022/2022-07-28-UYhF1iyd7ZI.md) | 01:00:55 | automatica |
+| 2022-07-27 | [Dossiê: PAI dos RICOS - Passado OBSCURO de LULA com BANQUEIROS + Turma do MORO numa ENRASCADA.](2022/2022-07-27-aOCIL8eZDqw.md) | 01:04:28 | automatica |
+| 2022-07-25 | [CONVENÇÃO: Globo ATACA Bolsonaro e Michelle + PT é Derrotado nas REDES + Arthur MBL Será INVESTIGADO](2022/2022-07-25-86is2qKwWYY.md) | 01:06:42 | automatica |
+| 2022-07-24 | [Globo ATACA JovemPan e Evangélicos + SEM Fertilizantes: PLANO do LULA para o Agro + Motos e Eleição.](2022/2022-07-24-3PIvqvLqh4k.md) | 01:01:52 | automatica |
+| 2022-07-23 | Shorts ESG e 202, dia 23 de Julho | 00:00:07 | sem_legenda |
+| 2022-07-22 | [Dossiê: TENDÊNCIA de ALTA - JB Cresce e Lula NÃO Acredita em 1º Turno + KÁSSIO Surpreende o Brasil.](2022/2022-07-22-S_5_iGkEM4U.md) | 00:59:29 | automatica |
+| 2022-07-21 | Shorts dia 21-7 | 00:00:07 | sem_legenda |
+| 2022-07-20 | [Os IMPACTOS da REUNIÇÃO: Perguntas em ABERTO e Algumas CONCLUSÕES + TEMER Ajuda LULA e PT em QUEDA.](2022/2022-07-20-FgiMuOxIYqM.md) | 01:00:22 | automatica |
+| 2022-07-19 | [Dossiê: A REUNIÃO - Bolsonaro, EMBAIXADORES  e Militares. O Que está ACONTECENDO?](2022/2022-07-19-w5pGi_eWxbQ.md) | 01:02:03 | automatica |
+| 2022-07-18 | Shorts dia 18-7 | 00:00:07 | sem_legenda |
+| 2022-07-17 | [Dossiê: TEU PASSADO TE CONDENA - Lula, Cineasta, Globo, Anitta e a Bandeira. Da SECA à CENSURA.](2022/2022-07-17-44w1kZVV2XI.md) | 01:01:38 | automatica |
+| 2022-07-16 | [Novo ESCÂNDALO no PT + Jair e MENTIRAS sobre Gasolina + Tragédia no PR: NÃO Houve MOTIVAÇÃO Política](2022/2022-07-16-KS5lyfje9mA.md) | 01:03:56 | automatica |
+| 2022-07-15 | [Bolsonaro vs Lula: BANDEIRA do BR + INTERFERÊNCIA Externa na Eleição + CRISE na Mídia: Globo e CNN.](2022/2022-07-15-TUgfLLPXaYY.md) | 00:59:44 | automatica |
+| 2022-07-14 | Short Pesq 2022-2023, dia 14/7 | 00:00:07 | sem_legenda |
+| 2022-07-12 | [Novo ESCÂNDALO: A Seletividade da TURMA do LULA +  Bolsonado MUDA Eixo Global: o Diesel RUSSO.](2022/2022-07-12-DMgzNewCrhw.md) | 01:00:42 | automatica |
+| 2022-07-11 | [Brasil 2023: O PIOR CENÁRIO + Mídia SURFA em TRAGÉDIA + Lula, MST e CRISE Alimentar.](2022/2022-07-11-4rOU17Y-S-w.md) | 01:04:48 | automatica |
+| 2022-07-10 | Short do Dossiê dia 10 de Julho | 00:00:07 | sem_legenda |
+| 2022-07-09 | [DESESPERADO: Lula Aciona JUSTIÇA contra MEDIDA de Bolsonaro + PT & Foro de SP: NOVA Constituição.](2022/2022-07-09-6ojqglozWlo.md) | 01:05:51 | automatica |
+| 2022-07-08 | [Interferência INTERNACIONAL nas Eleições: LULA vs BONORO + CIRO ataca LULA + Valério DESISTE de IR.](2022/2022-07-08-mby7TqWdPyg.md) | 01:01:21 | automatica |
+| 2022-07-07 | Shorts dia 7--7 | 00:00:07 | sem_legenda |
+| 2022-07-05 | Teste Intro Shorts - 2 | 00:00:07 | sem_legenda |
+| 2022-07-03 | [O AVAL de Lula: NOVOS Áudios do Marcos Valério + SEGREDOS da FOTO Manipulada + Bonoro com Mãe de KIM](2022/2022-07-03-WZ4KUdlsWY0.md) | 01:01:43 | automatica |
+| 2022-07-01 | [Bolsonaro VENCE o PT no SENADO: Economia vai DECOLAR + DATENA Desiste e MORO recebe APOIO de PTista.](2022/2022-07-01-o3Na3TINTVk.md) | 01:02:41 | automatica |
+| 2022-06-30 | [CENSURA das REDES: Lula EXPLICA o Plano + CPI do MEC: Atualizações e Composição - Quem Vai MANDAR?](2022/2022-06-30-XYDx6ikJhO8.md) | 01:02:35 | automatica |
+| 2022-06-29 | [Lula FUGIU de Bolsonaro em Evento + AGRO em RISCO: Bolsonaro vs Lula + TRAIÇÃO Desmascarada.](2022/2022-06-29-CycIczJxpIM.md) | 01:02:25 | automatica |
+| 2022-06-28 | [Dossiê: MULTIPOLARIDADE - Bolsonaro AVANÇA em 2 FRENTES + Direita JÁ VENCEU, diz Folha de SP](2022/2022-06-28-AuhCdzH5-VQ.md) | 01:03:20 | automatica |
+| 2022-06-26 | Teste Intro Shorts - 1 | 00:00:07 | sem_legenda |
+| 2022-06-25 | [VAZAMENTOS para GLOBO: Bolsonaro e MEC, qual a VERDADE? + Vitória Histórica e DESESPERO na Esquerda.](2022/2022-06-25-zzh_QjvuutI.md) | 01:04:43 | automatica |
+| 2022-06-24 | [Estadão: As Propostas PERIGOSAS do LULA + Bolsonaro REBATE a GLOBO + Ativismo JUDICIAL e Midiático.](2022/2022-06-24-BuhydEvXHjE.md) | 01:04:00 | automatica |
+| 2022-06-23 | [Prisão do MEC: Pergustas & Respostas. O que ESTÁ por Trás? + MANIPULAÇÃO da Esquerda e da Mídia.](2022/2022-06-23-vzbXBM6Mr-Q.md) | 01:03:03 | automatica |
+| 2022-06-22 | [CPI da Petrobrás: 120 Assinaturas e o MEDO de Lula + Alckmin: JB DESMANCHOU o PTismo + Caem Máscaras](2022/2022-06-22-CdcH6jKKD0E.md) | 00:58:52 | automatica |
+| 2022-06-21 | [LULA quer PROIBIR Jesus nas ESCOLAS + Petrobrás: CPI, Mudanças e Pressões + BOLSONARO Acerta de NOVO](2022/2022-06-21-9JkMpgAK7nk.md) | 01:03:01 | automatica |
+| 2022-06-20 | [Aliado de LULA Vence e QUER SOLTAR Presos +BOLSONARO: CPI de Petro + GLOBO: Amazônia NÃO é do Brasil](2022/2022-06-20-Vp4UZBlKNyg.md) | 01:03:41 | automatica |
+| 2022-06-19 | [Dossiê: O NEGOCIADOR (Parte 2) - Lula ENVOLVIDO em OUTROS CASOS + BOLSONARO no Caso ABÍLIO DINIZ.](2022/2022-06-19-I1GF7F5ywQQ.md) | 01:04:52 | automatica |
+| 2022-06-18 | [Dossiê: O NEGOCIADOR - Lula REVELA Ajuda a CRIMINOSOS + Renan Calheiros e FHC estão LIGADOS?](2022/2022-06-18-zf3tF1L7k1w.md) | 01:07:30 | automatica |
+| 2022-06-17 | [Lula SABIA de TUDO! Manipulação de FOTOS + VAZEMENTOS Sensíveis para O GLOBO? + TCU no pé do MORO.](2022/2022-06-17-raElRaeExII.md) | 01:03:29 | automatica |
+| 2022-06-15 | [EDUCAÇÃO: Bonoro ACERTA Mais UMA + A Desinformação do LULA sobre BNDES + PGR, Centrão e Judiciário.](2022/2022-06-15-uAkE-lAscX4.md) | 00:58:33 | automatica |
+| 2022-06-14 | [VITÓRIA de Bolsonaro: GASOLINA Mais Barata + Aliado de LULA Revela PLANOS + Amazônia, ONU e Foro SP.](2022/2022-06-14-rpAPTgb09M4.md) | 01:02:50 | automatica |
+| 2022-06-13 | [A ARMADILHA de Bolsonaro, Segundo a FOLHA + Lula: DIRCEU e DILMA de Volta nos HOLOFOTES.](2022/2022-06-13-xFxM4tJgCtA.md) | 01:03:05 | automatica |
+| 2022-06-12 | [Dossiê: EXÉRCITO VERMELHO - Lula e seus LACAIOS Estão de VOLTA + BOLSONARO nos EUA: Lenda do Asfalto](2022/2022-06-12-8U8ZLUHJDcs.md) | 00:59:12 | automatica |
+| 2022-06-11 | [Dossiê: EMBATES & VITÓRIAS - Bolsonaro e Aras vs Judiciário + LULA e as PRISÕES de OPOSITORES.](2022/2022-06-11-v4iBwuDs2lQ.md) | 01:06:13 | automatica |
+| 2022-06-10 | [A AJUDA que FALTA para Bolsonaro + LULA: o Que Era RUIM ficou PIOR + MBL Quer ELEGER Haddad.](2022/2022-06-10-zNuBoyxPbfU.md) | 01:04:13 | automatica |
+| 2022-06-09 | [Mudanças na CAMPANHA de Bolsonaro + Tarcísio vs TAPETÃO + Lula, Alckmin e XP - Uma AMIZADE Antiga?](2022/2022-06-09-PjPSRpctLWs.md) | 01:00:19 | automatica |
+| 2022-06-08 | [Bolsonaro: Clima ESQUENTA no Brasil + MORO foi IMPEDIDO pela Justiça + LULA e a Reforma Jurídica.](2022/2022-06-08-XseNDk04oyA.md) | 01:00:34 | automatica |
+| 2022-06-07 | [Dossiê: PEC da Família vs Programa NEFASTO do LULA. Boas NOTÍCIAS vs o FIM da SOBERANIA Nacional.](2022/2022-06-07-RA4nt6sxvto.md) | 01:07:50 | automatica |
+| 2022-06-06 | [Dossiê: GALINHAS VERDES - Como LULA Deu um GOLPE na Esquerda + O Segredo da XP e o VOTO ÚTIL.](2022/2022-06-06-qcEy02XyY0s.md) | 00:58:50 | automatica |
+| 2022-06-05 | [Lula: PRISÃO de Bolsonaro e RADACALISMO Verde + MÁSCARAS e TRAIÇÕES: Alckmin, XP e Imprensa](2022/2022-06-05-2ZPS7o5Ho9o.md) | 01:03:59 | automatica |
+| 2022-06-04 | [MANIPULADOR: Bolsonaro FEZ Lula ATACAR PSDB? + LULA Promete REGULAR MÍDIA de NOVO e REVOLUÇÃO Cult.](2022/2022-06-04-cYqsQUa5c7Q.md) | 00:58:45 | automatica |
+| 2022-06-03 | [Bolsonaro: VITÓRIAS e REVOLUÇÃO + LULA Contra o AGRO + Educação: Entre BROWNIES e INSETOS](2022/2022-06-03-0qBEkeZrnzs.md) | 01:05:43 | automatica |
+| 2022-06-02 | [Deu RUIM? Chama BOLSONARO + LULA e a NOVA Polícia do FORO de SP + Globo: é o FIM da CONCESSÃO?](2022/2022-06-02-53B1khD3wM8.md) | 01:04:25 | automatica |
+| 2022-06-01 | [Bolsonaro MITA e LULA é Pego na MENTIRA + GLOBO, e o Selo do DATAFOLHA + MORO Unido com ALVOS da LJ.](2022/2022-06-01-MMvP1ig34BM.md) | 01:00:36 | automatica |
+| 2022-05-31 | [BOLSONARO Deu um DIRETAÇO na GLOBO + Encontro LULA-DORIA + Político de Direita CASSADO](2022/2022-05-31-2Fu9DVk-9gQ.md) | 01:03:01 | automatica |
+| 2022-05-30 | Shorts dia 30-5 | 00:00:07 | sem_legenda |
+| 2022-05-29 | [Encontros: Bolsonaro com Cristãos VS Lula com Temer + GLOBO em Silêncio para AJUDAR Lula + ESG.](2022/2022-05-29-VIqIlTVtqhA.md) | 01:04:53 | automatica |
+| 2022-05-28 | Shorts dia 28-5 | 00:00:07 | sem_legenda |
+| 2022-05-27 | [Dossiê: MALANDRAGEM - Datafolha, DESCOBERTAS da Mídia, Anitta, Carne VEGETAL, Regulamentação e ESG.](2022/2022-05-27-PUG0jEIaPWM.md) | 01:04:11 | automatica |
+| 2022-05-26 | [VITÓRIA de Bolsonaro é o GOLPE do GOLPE + Lula, FHC e uma TESE Duvidosa + Reação ANTI-Controle.](2022/2022-05-26-n3tY7Y3fLhE.md) | 01:05:14 | automatica |
+| 2022-05-25 | [Dossiê: CORAÇÃO BANDIDO - Segurança, NOVA CONSTITUIÇÃO, Agro, MP e Nomeações - O Embate de 2022.](2022/2022-05-25-yiRvoayvhZ8.md) | 01:01:37 | automatica |
+| 2022-05-24 | [Levantamento INTERNACIONAL: Bolsonaro é o MAIOR + LULA: Sabotagem e Desespero + DORIA Une PT e PSDB](2022/2022-05-24-uXZk7hVtLoI.md) | 01:00:09 | automatica |
+| 2022-05-23 | [Lula BATEU no TETO + Bolsonaro e Guedes vs HERANÇA MALDITA + MORO Volta a ATACAR a Soberania do BR.](2022/2022-05-23-M4u0lLPtmRo.md) | 01:00:07 | automatica |
+| 2022-05-22 | [Bolsonaro em 1º LUGAR na Paraná PESQUISAS + LULA: Nova CONSTITUIÇÃO e Ataque a EMPRESÁRIOS + A FOME.](2022/2022-05-22-T1-i-ifbkSk.md) | 00:59:55 | automatica |
+| 2022-05-21 | [Dossiê: BOLSOMUSK - A Verdade sobre os ATAQUES da Imprensa CONTRA Bolsonaro + LULA e Crise na GLOBO.](2022/2022-05-21-myzONOz6O38.md) | 00:58:58 | automatica |
+| 2022-05-20 | [Eleições: Bolsonaro e Tarcísio DECOLAM + GUEDES: Brasil está CONDENADO a CRESCER! + Musk no BRASIL](2022/2022-05-20-EGK-WMhWnuM.md) | 01:04:33 | automatica |
+| 2022-05-19 | [OFICIAL! Bolsonaro em 1º LUGAR em PESQUISA + Legislativo: VITÓRIA do Governo + O NOVO Pré-Sal AZUL](2022/2022-05-19-lZCBvzJDn54.md) | 01:08:35 | automatica |
+| 2022-05-18 | [Bolsonaro SALVOU o DIA! + Caso de POLÍCIA: PT da Bahia + Moro e MBL: Problema na JUSTIÇA e CASSAÇÃO.](2022/2022-05-18-cktVJEb4-vI.md) | 01:01:59 | automatica |
+| 2022-05-17 | [Dossiê: Lula e a NOVA Rota do PODER - ESG, Ducumentos da ONU e Muito DINHEIRO! 2022 o Ano DECISIVO.](2022/2022-05-17-aPnDkLJn9LI.md) | 01:03:42 | automatica |
+| 2022-05-16 | [Lula quer REVOGAR "Educação Conservadora" + Bolsonaro: VAIAS Manipuladas? + Delivery ESG é REALIDADE](2022/2022-05-16-rMJ8TKwfo5U.md) | 01:04:52 | automatica |
+| 2022-05-15 | [LULA: Passado DISTANTE, mas IMPORTANTE + Gasolina: BURLARAM o PLP11 + Bolsonaro e NOVOS Apoios.](2022/2022-05-15-pBsVK2BMAgk.md) | 01:03:24 | automatica |
+| 2022-05-14 | [Esquema de CORRUPÇÃO: Lula e NOVO Marqueteiro + Arthur do MBL CONFIRMA Tudo + Mendonça SALVA o Dia.](2022/2022-05-14-rr-N30DRmmk.md) | 01:02:35 | automatica |
+| 2022-05-13 | [Dossiê: O ESQUEMA - Nando Moura REVELA Lado OBSCURO da 3ªVIA + JB vs LULA + Notícias INACREDITÁVEIS.](2022/2022-05-13-jON4BQLKOu8.md) | 01:02:42 | automatica |
+| 2022-05-12 | Shorts dia 12-5 | 00:00:07 | sem_legenda |
+| 2022-05-11 | [Bolsonaro: o NOVO Ministro + As AMEAÇAS do Lula após o FRACASSO + O SELO para poder VIVER.](2022/2022-05-11-PMHlXsXpx74.md) | 01:03:57 | automatica |
+| 2022-05-10 | [JB: a CABEÇA do Chacorro + Lula e Alckmin DEFENDEM Governo Mundial + LAWFARE: Perseguição Jurídica.](2022/2022-05-10-7DFzmktIECo.md) | 01:02:24 | automatica |
+| 2022-05-09 | [FOLHA de SP: "Vai ter GOLPE. Passe a Informação" + Lula NÃO quer MELINDRAR Doria + Alerta de JB](2022/2022-05-09-b6MBYd0lbbs.md) | 01:01:14 | automatica |
+| 2022-05-08 | [Dossiê: LULA com CHUCHU - Lula "ALVEJA" a Soberania 26 vezes + As MENTIRAS do Discurso LIDO.](2022/2022-05-08-EMC8r4D76Ls.md) | 01:06:05 | automatica |
+| 2022-05-07 | [Imprensa: O "GOLPE" de Bolsonaro + Lula MEXE para NÃO Perder ELEIÇÃO + MBL sai em DEFESA do PTismo.](2022/2022-05-07-KCQgOI9RTYY.md) | 01:06:23 | automatica |
+| 2022-05-06 | [Bolsonaro e a MULTIDÃO + Globo PEDE para ACEITAR Lula + Imprensa vs Militares + Pauta VERDE.](2022/2022-05-06-HchQAE04Vto.md) | 01:04:13 | automatica |
+| 2022-05-05 | Shorts sobre a Time | 00:00:07 | sem_legenda |
+| 2022-05-04 | [Lula: A GLOBO estava QUEBRADA e foi SALVA + Bolsonaro vs Anita: AMAZÔNIA e REGULAÇÃO.](2022/2022-05-04-lGybDVDzetk.md) | 01:03:11 | automatica |
+|  |  |  | erro |
 |  |  |  | erro |
 |  |  |  | erro |
