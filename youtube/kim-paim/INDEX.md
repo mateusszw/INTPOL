@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-2033 vídeos transcritos, 117 sem legenda.
+2158 vídeos transcritos, 117 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -2154,6 +2154,131 @@
 | 2020-10-18 | [Bolsonaro: Mais uma VITÓRIA no Horizonte + Senado quer LIMITAR o STF + O Ganha-Ganha das ELEIÇÕES](2020/2020-10-18-uHkFjE_GJwM.md) | 00:48:05 | automatica |
 | 2020-10-18 | [Sérgio Moro QUER lhe Vacinar e se UNE a Dória, Amoedo e MBL](2020/2020-10-18-bEQSWmBIGrU.md) | 00:05:50 | automatica |
 | 2020-10-17 | [Dossiê: PAZ - Bonoro PACIFICOU o STF + Dória e OBRIGATORIEDADE + Projeto de PODER do Moro + Eleições](2020/2020-10-17--33Pdck5Pqo.md) | 00:58:51 | automatica |
+| 2020-10-16 | [Os 308 de Bolsonaro e a EXPANSÃO da Esquerda](2020/2020-10-16-U1nrJ3Kn8sM.md) | 00:59:09 | automatica |
+| 2020-10-15 | [Dossiê: "CHEIROSO" - O Amigo do FUJÃO + 2022 = Controle Eleitoral + PGR vs Aulas + A Direita CHATA!](2020/2020-10-15-kTxqECZCjiI.md) | 00:59:30 | automatica |
+| 2020-10-14 | [MBL, NOVO e a Piada do JUDICIÁRIO + Bolsonaro vs VOTO do Futuro + DÓRIA, Espião e a Bahia](2020/2020-10-14-ovRzjuO05a4.md) | 00:58:53 | automatica |
+| 2020-10-11 | [Dossiê 2021: Maia, o ÚLTIMO HOMEM em Pé + Os AVANÇOS da AGENDA de JB + CONSOLIDAÇÃO na Esquerda](2020/2020-10-11-r4XcBVRzdfw.md) | 01:02:12 | automatica |
+| 2020-10-10 | [Dossiê: CHILIQUE - Família MORO e MAIA Chorando na REDE + Antas e Lemann JUNTOS + Esquerda ACORDOU](2020/2020-10-10-KCbGdxFxLAk.md) | 01:01:21 | automatica |
+| 2020-10-09 | [Bolsonaro e Falas POLÊMICAS contra a Direita + Joice pode PERDER Mandato + Foro de SP e Globalistas](2020/2020-10-09-7PbbEK02S00.md) | 00:57:35 | automatica |
+| 2020-10-08 | [Dossiê: FRENTE AMPLA - Plano da ESQUERDA toma Forma + Bate-Boca no STF + JB quer acabar com LavaJato](2020/2020-10-08-3JIFV7oNzAI.md) | 01:00:01 | automatica |
+| 2020-10-07 | [Senador REVELA: Kassio SEGUE linha de ARAS  + Mais 1 ano SEM Aulas + Weintraub CONTRA Foro de SP](2020/2020-10-07-GoDajbfPQuE.md) | 00:57:12 | automatica |
+| 2020-10-06 | [MORO - O FUJÃO usa STF contra JB + Kassio e CANDIDATO de Bonoro + PAZ de PG/Maia +ESQUERDA Aquecendo](2020/2020-10-06-wVeUVwE6EEw.md) | 01:08:29 | automatica |
+| 2020-10-03 | [VAZAMENTOS: Moro e Antas criando o CAOS + Mais RESPOSTAS sobre STF + Frente AMPLA da Esquerda](2020/2020-10-03-DLe0orqRL5c.md) | 00:51:29 | automatica |
+| 2020-10-02 | [CONFIRMADO! Kássio no STF - A Luz no FIM do Túnel + Controle da VERDADE e DINHEIRO para Esquerda](2020/2020-10-02-CJrUfe_F9Bg.md) | 00:55:55 | automatica |
+| 2020-09-30 | [Novas PRISÕES e VAZAMENTOS + MORO volta pra ATRAPALHAR + Bolsonaro PREOCUPADO com 2021 + DEBATE EUA](2020/2020-09-30-edGDcVcbdMY.md) | 00:54:54 | automatica |
+| 2020-09-29 | [Aras e MP MIRAM em: Dória, Joice, Maia e Barbalho + Esquerda LARGOU na FRENTE + História EDITADA](2020/2020-09-29-KKbRh3A2L-c.md) | 01:02:13 | automatica |
+| 2020-09-28 | [Concorrência INTERNA do PRTB à PRESIDÊNCIA +Senado Tem DATA p/ NOVO STF +F.Neto e FUTURO da Esquerda](2020/2020-09-28-okkoI89alY8.md) | 00:56:46 | automatica |
+| 2020-09-27 | [STF: CONFUSÃO em 3 Atos - Nas Eleições, FakeNews e Segurança + Senado Quer MELAR novo STF?](2020/2020-09-27-Iz_qR7SJkiI.md) | 00:44:37 | automatica |
+| 2020-09-26 | [Novos AVANÇOS Aliança BR-EUA + FALTAM 18 dias pro NOVO STF + Alcolumbre faz de tudo pela REELEIÇÃO](2020/2020-09-26-8W-Gsx2xkRo.md) | 00:53:13 | automatica |
+| 2020-09-25 | [Dossiê: TEMPO - Bolsonaro JÁ sabia da VERDADE desde 1996, A Batalha contra o COMUNISMO terá um FIM!](2020/2020-09-25-aSH5IfbAFRU.md) | 00:39:27 | automatica |
+| 2020-09-25 | [SEGREDO por trás do GARIMPO, a luta Bolsonaro é contra amigos do Foro de SP](2020/2020-09-25-IjZ_EjbttxQ.md) | 00:10:47 | automatica |
+| 2020-09-24 | [REELEIÇÃO - FHC e MORO Tentam IMPEDIR JB e TRABALHAM por BATORÉ + TV-Doria+SlpGiants e FNeto JUNTOS](2020/2020-09-24-GbJZgDuN98c.md) | 00:51:14 | automatica |
+| 2020-09-23 | [Aliança BR-EUA e Bolsonaro na ONU = LIBERDADE + VAZAMENTO Sigiloso?  + PL2630 = 5anos de Prisão](2020/2020-09-23-lIQT8Vv0oVo.md) | 01:02:08 | automatica |
+| 2020-09-23 | [Entrevista: Min. FÁBIO FARIA - Fake News, Planos futuros do Governo, Conservadorismo e mais.](2020/2020-09-23-f9mpymxVIqw.md) | 00:46:18 | automatica |
+| 2020-09-21 | [Foro de SP: TODA Oposição se UNE contra o BRAISL + GilDiniz DENUNCIA Plano do DÓRIA, MDB e DEM](2020/2020-09-21-H4MzKi8uBQU.md) | 00:51:38 | automatica |
+| 2020-09-20 | [Allan na MIRA de TODOS + Querem ATINGIR Bonoro + Aliança HISTÓRICA Brasil e EUA contra Foro de SP](2020/2020-09-20-mqZjzBoBlbA.md) | 00:54:55 | automatica |
+| 2020-09-19 | [DUPLA: Moraes e Moro - Inquéritos e CORTINA de Fumaça para MAIA + O RECADO do Gen. HELENO](2020/2020-09-19-bv_kwwRgqa0.md) | 00:52:33 | automatica |
+| 2020-09-18 | [(RECORTE) PL da Joice - PRISÕES, Multas, LEGALIZAÇÃO SlpGiants e mais Mecanismos de CENSURA](2020/2020-09-18-hSXXum4pXAg.md) | 00:24:31 | automatica |
+| 2020-09-18 | [Dossiê: DESINFORMAÇÃO - PL da JOICE, PRISÕES e LEGALIZAÇÃO SlpGiants + O Novo MEC do Lemann](2020/2020-09-18-L2v9C0vUs9M.md) | 01:02:50 | automatica |
+| 2020-09-17 | [AGU defende MAIA e ALCOLUMBRE + F.Faria REVELA mais planos do Gov + O ACENO do MEC para a Oposição](2020/2020-09-17-CobsPI0Ga10.md) | 00:51:58 | automatica |
+| 2020-09-15 | [FHC e PROIBIÇÃO da Reeleição de BONORO + Dossiê: MORO, Globo e o BANESTADO + WITZEL cairá dia 17/9](2020/2020-09-15-y3qPJsUfPsw.md) | 01:00:28 | automatica |
+| 2020-09-14 | [MORO no STF (?) + POLÊMICA dos Impostos das IGREJAS e BOLSONARO + AJUDEM o Salles + ABRINDO Economia](2020/2020-09-14-nOO3_kCihFU.md) | 00:46:06 | automatica |
+| 2020-09-13 | [SURGE Prefeito BOLSONARISTA no RJ, JOICE processou CIDADÃO, Dória OFICIALIZA União PSDB+DEM+MDB](2020/2020-09-13-clkflsuCK58.md) | 00:48:38 | automatica |
+| 2020-09-12 | [MORO e MORAES - A Volta dos que NÃO Foram, e agora BOLSONARO? + Líder do Gov Defendeu Lula](2020/2020-09-12-Mqjvc2TKs0I.md) | 00:51:58 | automatica |
+| 2020-09-11 | [Grupo Dória e a ROTA da Seda + Lula de VOLTA com o FORO de SP + Primeiras MUDANÇAS no STF + AMAZÔNIA](2020/2020-09-11-k8fiAROUxn4.md) | 00:54:43 | automatica |
+| 2020-09-10 | [Mudanças SUBSTANCIAIS no STF e MITADA + PF na cola do PT e OAB + Pressão INTERNACIONAL contra o BR](2020/2020-09-10-EiPk6nsrGBE.md) | 00:54:39 | automatica |
+| 2020-09-09 | [Enfim GOVERNO Esclarece ESTRATÉGIA (e são MUITO Boas) - FakeNews + Slp Giants + Mídia + Mourão](2020/2020-09-09-7GsejesKXgE.md) | 00:58:31 | automatica |
+| 2020-09-08 | [RUPTURA: Olavo vs Bolsonaro + os FALSOS Apoiadores + PLANOS e SEGREDOS da Esquerda](2020/2020-09-08-u7MjL-oXBaM.md) | 01:01:08 | automatica |
+| 2020-09-07 | [Dossiê: Bolsonarismo - NOVIDADES caso ADÉLIO + Traidores, Heróis e a HISTÓRIA Perdida + Moro e FHC](2020/2020-09-07-3qxEHsnbwmQ.md) | 00:56:56 | automatica |
+| 2020-09-06 | [3 GOVERNADORES na MIRA de Aras + Povo IGNORA Governadores + A ação MAIS SUJA da Mídia e NovaEsquerda](2020/2020-09-06-b6nLl7usP0I.md) | 00:51:46 | automatica |
+| 2020-09-05 | [FUX e o Novo STF + BASTIDORES Caso MBL + UNIÃO de Moro e RANDOLFE + Dirceu e NewLeft vs Filhos de JB](2020/2020-09-05-mnrQvCOJn58.md) | 00:56:27 | automatica |
+| 2020-09-04 | [Dossiê: SEM RESPOSTA - As CARTAS Marcadas da Lava-Jato e STF + Bolsonaro RAIZ voltou com TUDO](2020/2020-09-04--c7UMx4lvtY.md) | 00:52:41 | automatica |
+| 2020-09-03 | [NOVAS REVELAÇÕES - Bolsonaro FALOU pra Moro se DEMITIR + STJ pede PRISÃO Witzel + a "Saúde" do NOVO](2020/2020-09-03-LA2w5YtzFX8.md) | 00:52:25 | automatica |
+| 2020-09-02 | [Bolsonaro e sua missão](2020/2020-09-02-B_zJydn0UKc.md) | 00:02:20 | automatica |
+| 2020-09-02 | [Deltan FORA da Lava-Jato + ESPIÃO de Witzel + Secom DESMENTE Globo + DESINFORMAÇÃO do Bem e Eleições](2020/2020-09-02-4evR_wO9WSE.md) | 00:50:19 | automatica |
+| 2020-09-01 | [Toffoli pode AJUDAR Witzel + FALSOS Conservadores e Liberais + Bolsonaro VIDENTE + Joice CONFIRMADA](2020/2020-09-01-nfow6z9T-A0.md) | 00:58:38 | automatica |
+| 2020-08-31 | [Bolsonaro REJEITOU Witzel + o ALERTA de TRAÍRAS de Eduardo B. + Esquerda SOFREU Censura + 33 Obras](2020/2020-08-31-Mr_Gxx0wB4I.md) | 00:51:33 | automatica |
+| 2020-08-30 | [Briga: MINISTRO vs Milicos + VAZAM informações para ATRAPALHAR Bolsonaro + PGR pede PRISÃO de WITZEL](2020/2020-08-30-OW55g771Zgk.md) | 00:50:35 | automatica |
+| 2020-08-29 | [Dossiê Witzel: o EPÍLOGO dum FALSÁRIO - A MALDIÇÃO do RJ + Corrupção + Delações + Vazamentos](2020/2020-08-29-wh7j3QkprE0.md) | 00:57:47 | automatica |
+| 2020-08-28 | [WITZEL poderia ter sido PRESO + Impeachment foi LIBERADO](2020/2020-08-28-ruozDSC2ZB8.md) | 00:02:22 | automatica |
+| 2020-08-28 | [URGENTE! Witzel CAIU! + Briga interna no STF + A Pergunta que MORO não RESPONDEU + Paz com as TVs](2020/2020-08-28-CZOcvtXwMCs.md) | 00:53:24 | automatica |
+| 2020-08-27 | [Olhes as NOVAS REGRAS... Aonde o Brasil vai parar?](2020/2020-08-27-Gxeeormobks.md) | 00:01:32 | automatica |
+| 2020-08-26 | [Dossiê: ILUSIONISTA - Roberto Jefferson se juntou a Maia e Alcolumbre CONTRA BOLSONARO?](2020/2020-08-26-8pXrGR1oXvo.md) | 01:05:35 | automatica |
+| 2020-08-25 | [Dossiê: GURUS do STF - Tudo se ENCAIXOU + Gov. CONTRA PL-FakeNews + IMPRENSA + REELEIÇÃO Maia e Batô](2020/2020-08-25-Em3HjpCXz_4.md) | 00:51:28 | automatica |
+| 2020-08-24 | [Bolsonaro PEITOU a Globo e Jornalistas + COMPREENDENDO a Emenda da DAMARES e BRIGAS na Direita](2020/2020-08-24-gs2v-PaBAUU.md) | 00:58:57 | automatica |
+| 2020-08-23 | [EXCLUSIVO! Kim entrevista CH1NESA que manda um ALERTA para o Brasil](2020/2020-08-23-sspBoEqlV1M.md) | 00:16:06 | automatica |
+| 2020-08-23 | [LÍDER do Gov. vs PAUTAS Morais + Carluxo VOLTOU + Incidente da BARRAGEM + MÍDIA se CONTRADIZ](2020/2020-08-23-eqQ9jgYn83o.md) | 00:55:39 | automatica |
+| 2020-08-21 | [TRAIÇÕES na Base do Governo + ARAS a FAVOR Impeachment do Witzel + Mídia REMEDIADA + Eleição SP/PR](2020/2020-08-21-qmKfVR-tSq0.md) | 00:50:49 | automatica |
+| 2020-08-20 | [Min.STF CHUTOU o Balde + Dobradinha SP/RJ + Boas NOVAS por TODOS os Lados - Mundo, Estados, Governo](2020/2020-08-20-ZEap2YHvvYo.md) | 00:49:42 | automatica |
+| 2020-08-19 | [Dossiê: INJUSTIÇA - A Corrupção da INTELIGÊNCIA + Todas as PEÇAS se ENCAIXAM + Maioria pra VENCER](2020/2020-08-19-L4ie_AERARo.md) | 00:56:09 | automatica |
+| 2020-08-18 | [IMPOSIÇÕES do STF + Globo CELEBRA Corrupção + Disputa em SP + MENDONÇA e MOURÃO](2020/2020-08-18-xRSGbrdTfPQ.md) | 00:56:33 | automatica |
+| 2020-08-17 | [Família MORO e o CASO da Menina + Treta Kim com Lula e GLOBO + Atualizações: GLOBO, PSL, WITZEL](2020/2020-08-17-eSl_S6pGWqA.md) | 00:56:57 | automatica |
+| 2020-08-16 | [NOVIDADES!!! Doleiro e Globo + AYAN e Silêncio GERAL + GRAMPO do Witzel + Príncipe PREFEITO SP](2020/2020-08-16-SInLUxUWgL8.md) | 00:51:15 | automatica |
+| 2020-08-15 | [Acredite no Brasil - Maior campanha Bolsonarista](2020/2020-08-15-_U-GEOOg66Y.md) | 00:01:52 | automatica |
+| 2020-08-15 | [Dossiê: +18 - Globo DELATADA! + AYAN Investigado NOVAMENTE + Witzel GRAMPEADO + PSL e Bolsonaro](2020/2020-08-15-7A7ZoKGPa8E.md) | 01:04:24 | automatica |
+| 2020-08-14 | [Movimento SENSACIONAL de Bolsonaro - O jogo pode MUDAR por COMPLETO + Choro de MORO + ESPIÃO do Aras](2020/2020-08-14-kwDa72H3h0g.md) | 00:52:58 | automatica |
+| 2020-08-13 | [VERDADES DURAS e Dança das Cadeiras + Delação contra WITZEL + Dória IRRESPONSÁVEL + Projeto2020](2020/2020-08-13-wNoUhMhe6-w.md) | 00:45:39 | automatica |
+| 2020-08-13 | [PROJETO: Eleições 2020 - Ajude o Brasil](2020/2020-08-13-KEjJJ1IbLCc.md) | 00:05:09 | automatica |
+| 2020-08-11 | [Parte 2: KiM vs BOB + Eleição2020 + MPF contra Damares e Bonoro + PL Censura + ARAS, Mendonça e STF](2020/2020-08-11-wryoJez-CAU.md) | 00:55:20 | automatica |
+| 2020-08-10 | [Kim Paim na MIRA de Bob Jeff - O que Roberto pensa de OLAVO e os Filhos de BOLSONARO?](2020/2020-08-10-ejFKj6-zP6w.md) | 00:54:38 | automatica |
+| 2020-08-09 | [O PTB está ENGANANDO os Bolsonaristas? A pior OPOSIÇÃO do Mundo, o PASSADO desmente os Mentirosos](2020/2020-08-09-qhKTdev07i0.md) | 00:42:18 | automatica |
+| 2020-08-08 | [Dossiê: SINCRONIA - STF+MORO+Veja+Globo, CPI Michelle Bolsonaro, Bola FORA do BobJeff e Mourão](2020/2020-08-08-W3OjWYey6Vw.md) | 00:51:36 | automatica |
+| 2020-08-07 | [Segredos de um INFILTRADO, Randolfe AJUDANDO Moro, Globo e CNN em CRISE, Atualizações OLAVO e MAIS](2020/2020-08-07-j7yeCgRttNY.md) | 00:55:45 | automatica |
+| 2020-08-06 | [Olavo PERSEGUIDO, Toffoli CONSELHEIRO de MORO, 3 Impeachments RJ-SC-POA, Aras vs Senadores](2020/2020-08-06-xr7jHaOGs_U.md) | 00:55:31 | automatica |
+| 2020-08-04 | [FACHIN vs ARAS, AÇÃO de Bolsonaro Sobre Censura AVANÇA, GLOBO + Robin Hood + Impostos](2020/2020-08-04-ggKUsV-M8sI.md) | 00:54:19 | automatica |
+| 2020-08-03 | [DONOS da VERDADE - Fantástico e Globo + Novo Presidente STF + Contradições LAVAJATISTAS + Bolsonaro](2020/2020-08-03-gRc1mYDVPn8.md) | 00:54:39 | automatica |
+| 2020-08-02 | [BOAS NOTÍCIAS + MAIA e o PL 2630 + ASSUNTO Mais IMPORTANTE do BR + ARAS na Corda Bamba](2020/2020-08-02-x7MqAOYWsFs.md) | 00:52:59 | automatica |
+| 2020-07-31 | [A TROCA das CPIs - LavaJato vs FakeNews + VITÓRIA de Bolsonaro + Allan sai do BR + Operações PF](2020/2020-07-31-cADab8OaLLw.md) | 00:52:45 | automatica |
+| 2020-07-30 | [STF causa BLOQUEIO GLOBAL a Bolsonaristas](2020/2020-07-30-SZSGZosBGxY.md) | 00:03:09 | automatica |
+| 2020-07-30 | [Dossiê: LAVAJATISMO - O que ARAS fez? Enfim se Revelou? - A maior TRAMA de PODER da República](2020/2020-07-30-7AmO4ltRXZo.md) | 01:01:33 | automatica |
+| 2020-07-29 | [Prefeito de BOB Jeff com RenovaBR, ARAS faz primeiras REVELAÇÕES sobre Lava-Jato, TOFFOLI e FakeNews](2020/2020-07-29-7dwWmh3KLeI.md) | 00:50:44 | automatica |
+| 2020-07-28 | [STF SUSPENDEU Impeachment de WITZEL, A FORÇA da família Bolsonaro, RACHA no Centrão, PF+FN+Tabata](2020/2020-07-28--UHW8s-EMvA.md) | 00:54:43 | automatica |
+| 2020-07-27 | [Jogada de Mestre - GRANDE Mídia RECONHECEU Bolsonaro + BIOGRAFADO + Não FALE do MBL + Direita 2020](2020/2020-07-27-R4ty0SoBtk0.md) | 00:52:46 | automatica |
+| 2020-07-25 | [Dossiê: ESPERANÇA - Bolsonaro já AGIU, Moraes MUDOU de OPINIÃO, ARAS 6 Delações, Novidades MORO+MBL](2020/2020-07-25-_XUAIsRI6Eg.md) | 00:56:36 | automatica |
+| 2020-07-24 | [CHAPA Mandetta-Moro 2022 + Bolsonaro PRAGMÁTICO + Novidades 2021 + VEJA aponta Bolsonaro REELEITO](2020/2020-07-24-KenSkHZzBe8.md) | 00:31:26 | automatica |
+| 2020-07-24 | [ARAS salva a Sexta! Denúncia contra MORO + 6 Delações](2020/2020-07-24-IIKN1xK6nTc.md) | 00:03:07 | automatica |
+| 2020-07-23 | [Bolsonaro ABANDONOU Bia Kicis? + Caso MBL + PF vs Gov. DÓRIA + R.MAIA AJUDA Globo + Doação ESTRANHA](2020/2020-07-23-exl2KcQR5l0.md) | 00:49:49 | automatica |
+| 2020-07-22 | [O Silêncio de MORO, ARAS consegue DADOS da LavaJato, Deltan CONTRA Toffoli, Mourão tem fala ESTRANHA](2020/2020-07-22-poZb3-wDeAY.md) | 00:46:22 | automatica |
+| 2020-07-22 | [AYAN (MBL) abriu o BICO!?!?!? Deputados, GOVERNADOR,  Vereadores e Jornalistas foram citados?!?!](2020/2020-07-22-Uam_FrZcak4.md) | 00:02:30 | automatica |
+| 2020-07-21 | [Dossiê: Xadrez4D - Flávio Bolsonaro vs Marinho + NovaEsquerda quer OURO + Mídia diz: Bonoro REELEITO](2020/2020-07-21-IF7_3HL2GOI.md) | 00:58:05 | automatica |
+| 2020-07-20 | [BOLSONARO Ganha Territorio e ARTICULA + Ministros ALINHADOS + MIDIA Assume Que Direita E DEMOCRATICA](2020/2020-07-20-ue7R7B8VG0g.md) | 00:49:00 | automatica |
+| 2020-07-19 | [ATENÇÃO ao TERRENO Cinza - PTB Oriental + STF e a PL-FakeNews + MOURÃO e RAMOS em reuniões estranhas](2020/2020-07-19-pozXX-lj6Rg.md) | 00:49:04 | automatica |
+| 2020-07-17 | [PSDB perdeu BLINDAGEM de Moro, Acabou DINHEIRO da Rouanet, Live do LACOMBE, Descobertas da CPMI+STF](2020/2020-07-17-T50Y9gR4CQM.md) | 00:45:06 | automatica |
+| 2020-07-16 | [PF pegou o Alckmin, ALCOLUMBRE age contra governo](2020/2020-07-16-im4xayYk9E4.md) | 00:03:27 | automatica |
+| 2020-07-16 | [O PLANO de Maia e Alcolumbre para REELEIÇÃO, Joice NÃO ESCREVEU livro, MORO se junta a DÓRIA](2020/2020-07-16-PTxmuUhS__s.md) | 00:46:21 | automatica |
+| 2020-07-15 | [TRETA na Direita, BOAS Notícias, MORO candidato 2022, Joice criando PROBLEMAS](2020/2020-07-15-qfp5dPDigmY.md) | 00:44:04 | automatica |
+| 2020-07-14 | [URGENTE - Ex-Sec.Saúde do Rio DELATOU o WITZEL segundo a VEJA](2020/2020-07-14-X8PT__MnboI.md) | 00:02:10 | automatica |
+| 2020-07-14 | [Dossiê: DUPLICADO - SP tem NOVA CPI FakeNews com AJUDA do MBL, Militares e PGR vs STF, Boas Notícias](2020/2020-07-14-L8e38RjGIZk.md) | 00:53:38 | automatica |
+| 2020-07-13 | [Dossiê: PEÇA CHAVE - Ciro Gomes REVELA plano de MAIA no PL2630, KiM PAiM no GLOBO, Novidades MBL](2020/2020-07-13-bgh7ANikxTI.md) | 00:48:35 | automatica |
+| 2020-07-12 | [Dossiê: TRANSPARÊNCIA - STF e ARAS vs Lava-Jato + GLOBALISTAS + ANTAGONISTA, Mais REVELAÇÕES do MBL](2020/2020-07-12-_UQvboqzCTo.md) | 00:43:22 | automatica |
+| 2020-07-11 | [Dossiê: A TRAMA do MBL - 5TF + CPMI + Políticos, TODOS num XADREZ contra CONSERVADORES](2020/2020-07-11-FcJ-l44sF0s.md) | 01:19:39 | automatica |
+| 2020-07-11 | [VAZOU! Dias TOFFOLI e Irmão + Vazamentos + CONEXÕES com a Oderbrecht  + Irmã de Toffoli](2020/2020-07-11-CQ4PvI_jHLg.md) | 00:16:13 | automatica |
+| 2020-07-10 | [URGENTE! Toffoli DENUNCIADO por Marcelo Odebrecht para a PGR](2020/2020-07-10-gXagPxqofkQ.md) | 00:03:02 | automatica |
+| 2020-07-10 | [REVELADO! Caçada à Bolsonaristas tem DEDO de ExMinistro, ARAS vence Deltan e Moro, MEC definido HOJE](2020/2020-07-10-ECDV4CMZS0E.md) | 00:47:40 | automatica |
+| 2020-07-09 | [CASSAÇÃO Bolsonaro-Mourão, Novo DEPOIMENTO de Moro à PF, MBL+Moro+Facebok CONTRA Bolsonaristas](2020/2020-07-09-QOJj76NoMYo.md) | 00:47:45 | automatica |
+| 2020-07-09 | [STF garante VITÓRIA de ARAS contra Deltan e Lava-Jato](2020/2020-07-09-Ee0pW9mQeks.md) | 00:03:07 | automatica |
+| 2020-07-08 | [Bolsonaro REAGIU! Gen.HELENO precisa ser RESGATADO, Min.SAÚDE deve SAIR, MAIA quer PRISÃO p/FakeNews](2020/2020-07-08-vSTRljbqnEI.md) | 00:43:39 | automatica |
+| 2020-07-08 | [Joice, Facebook e CASSAÇÃO da Chapa BOLSONARO](2020/2020-07-08-RKBHU-SYihI.md) | 00:04:19 | automatica |
+| 2020-07-07 | [General PROCESSOU Olavo de Carvalho e 2 Bolsonaristas](2020/2020-07-07-kq0vmvXAFIk.md) | 00:02:23 | automatica |
+| 2020-07-07 | [Bolsonaro DOENTE, REVELAÇÃO do Inquérito STF, IMPEACHMENT de WITZEL, AMIZADE de MORO e LULA](2020/2020-07-07-N7n3-nM4lY8.md) | 00:50:20 | automatica |
+| 2020-07-06 | [MORO abre diálogo com o PT e se APROXIMA do DEM e PSDB, VAZA possível áudio do Min. da SAÚDE](2020/2020-07-06-MLveQqOSNdQ.md) | 00:09:53 | automatica |
+| 2020-07-06 | [DISPUTA entre Ministros, A estatal Anti-Bolsonaro, MALAFAIA contra Alexandre de Moraes](2020/2020-07-06-9cs_DSt7oFw.md) | 00:43:45 | automatica |
+| 2020-07-05 | [MAIA se aproveitando da LAVA-JATO, PAZ em Brasília = BOAS Notícias, Min.EDUCAÇÃO vai dar CERTO](2020/2020-07-05-UO4J4aGdrxc.md) | 00:47:53 | automatica |
+| 2020-07-04 | [Bolsonaro OUVE o povo, Moro2022 CONFIRMADO, Renato Feder no MEC? MÍDIA quer derrubar MINISTROS](2020/2020-07-04-uyoGyCVCmCw.md) | 00:44:30 | automatica |
+| 2020-07-03 | [Várias BOAS Notícias! MORO e Deltan são PROCESSADOS, Dia BOM para o Governo, Jornalistas Nostradamus](2020/2020-07-03-m0CYQgD__0c.md) | 00:44:48 | automatica |
+| 2020-07-03 | [DÓRIA e Lemann ligados ao Novo Min. da EDUCAÇÃO, possível saída de Ricardo Sallles e Ernesto Araújo](2020/2020-07-03-JRt01LZV5BU.md) | 00:04:49 | automatica |
+| 2020-07-02 | [Reviravoltas no STF e Fake News? Bolsonaro DERROTOU a Globo, Dallangnol se alinha a oposição](2020/2020-07-02-LO1LqwTydmk.md) | 00:04:37 | automatica |
+| 2020-07-02 | [Dossiê: CAMUFLAGEM - Carlos Bolsonaro ALFINETA Secom, Lava-Jato mais ENRASCADA, Governo vs Militares](2020/2020-07-02-3uyonPlocMA.md) | 00:46:20 | automatica |
+| 2020-07-01 | [VITÓRIA de Aras, LavaJato + MORO + Deltan na CORDA BAMBA, Militares TRAPALHÕES, Senado = CENSURA](2020/2020-07-01-I6pzDQPseik.md) | 00:43:44 | automatica |
+| 2020-06-30 | [MENTIRAS do Ministro podem levar a IMPEACHMENT, Ala Militar CONSTRANGIDA, STF+MORO+TSE+FakeNews](2020/2020-06-30-LxREvSBsZKo.md) | 00:43:41 | automatica |
+| 2020-06-30 | [Decotelli SAIU, mas Ala MILITAR quer criar mais PROBLEMAS para Bolsonaro](2020/2020-06-30-50pTZbKt6x8.md) | 00:03:34 | automatica |
+| 2020-06-29 | [Dossiê: DESESPERO - Indícios de ILEGALIDADE, Grampos DESAPARECIDOS, ARAS no pé da LAVA-JATO](2020/2020-06-29-N2i7KFOqVTo.md) | 00:42:13 | automatica |
+| 2020-06-29 | [MILITARES criaram PROBLEMA para Bolsonaro e agora pulam do barco. O caso do novo MEC](2020/2020-06-29-FFPF5XIlhyI.md) | 00:03:52 | automatica |
+| 2020-06-28 | [Dossiê: MEDO - Sérgio Moro reaje contra ARAS, Notícias BOAS pro Brasileiro, MAIA quer adiar eleição](2020/2020-06-28-Rjo1sjSnS3U.md) | 00:38:08 | automatica |
+| 2020-06-28 | [Conjuntura BRASIL/2020 - Não conheci o outro mundo por querer / ESTRELANDO: Let's Dex e LeitadasLoen](2020/2020-06-28-9hBBBOiOF3g.md) | 01:38:24 | automatica |
+| 2020-06-27 | [Dossiê:ENCURRALADO? - ARAS, Mendonça e INTEPOL fecham o cerco contra MORO + DALLAGNOL + Blog4Linhas](2020/2020-06-27-feLcaOFstiI.md) | 00:46:14 | automatica |
+| 2020-06-26 | [ALERTA Jabuti nas Eleições!!! TUDO sobre o novo Min.EDUCAÇÃO, GLOBO de Fora,  Direita POMPOM](2020/2020-06-26-wmkBdUjufJA.md) | 00:43:43 | automatica |
+| 2020-06-26 | [Oswaldo PRESO - CNN tem fontes na PF, Antagonista liga caso a DAMARES](2020/2020-06-26-DT0i81MBxSs.md) | 00:04:25 | automatica |
 |  |  |  | erro |
 |  |  |  | erro |
 |  |  |  | erro |
