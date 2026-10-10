@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-1574 vídeos transcritos, 26 sem legenda.
+1698 vídeos transcritos, 27 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -1604,6 +1604,131 @@
 | 2022-05-06 | [Bolsonaro e a MULTIDÃO + Globo PEDE para ACEITAR Lula + Imprensa vs Militares + Pauta VERDE.](2022/2022-05-06-HchQAE04Vto.md) | 01:04:13 | automatica |
 | 2022-05-05 | Shorts sobre a Time | 00:00:07 | sem_legenda |
 | 2022-05-04 | [Lula: A GLOBO estava QUEBRADA e foi SALVA + Bolsonaro vs Anita: AMAZÔNIA e REGULAÇÃO.](2022/2022-05-04-lGybDVDzetk.md) | 01:03:11 | automatica |
+| 2022-05-03 | [BEIJAR a MÃO de Lula: Sensatez & Pragmatismo + VITÓRIA Jurídica Internacional + Bolsonaro vs SANÇÕES](2022/2022-05-03-aNyvOr8vk78.md) | 01:04:29 | automatica |
+| 2022-05-02 | [Aliança Globo & LULA: Os SÓCIOS + A REELEIÇÃO do JB é um Problema? + Desafios em 2023.](2022/2022-05-02-4FQRQSht_V4.md) | 01:03:20 | automatica |
+| 2022-05-01 | [Dossiê: LULA - Fim da MOEDA Brasileira e ATAQUE a Policiais + PARCERIA: Foro de SP e ROTA da SEDA.](2022/2022-05-01-M3MTUob5WQ8.md) | 01:02:07 | automatica |
+| 2022-04-30 | [Dossiê: CACIQUES - Um Povo CONTROLADO e Sem SOBERANIA + GLOBO Ajuda LULA + Bolsonaro EMPATOU!](2022/2022-04-30-gqjh4skOE04.md) | 01:04:52 | automatica |
+| 2022-04-29 | [LULA: Aliança com GLOBO e HINO Socialista + Bolsonaro vs ONU: Caso MORO e ESG + CIRO Humilhado.](2022/2022-04-29-rEVrmoHx1T4.md) | 01:07:13 | automatica |
+| 2022-04-28 | [Recado da GLOBO para LULA + Bolsonaro, Daniel e 1º de Maio + Carne CONTROLADA: o ESG Avança.](2022/2022-04-28-eu2NuCRrcY4.md) | 01:08:27 | automatica |
+| 2022-04-27 | [Solução da GRAÇA: 3 Critérios + Globo e PT: Acordo SECRETO e Ajuda pro LULA + Bolsonaro e Twitter.](2022/2022-04-27-QbhcV86Z1IA.md) | 01:00:53 | automatica |
+| 2022-04-26 | [ELON Musk & Twitter: As Primeiras MUDANÇAS + Bolsonaro vs Justiça: Meio-Ambiente e Graça.](2022/2022-04-26-oW0wMiDK-LI.md) | 01:06:52 | automatica |
+| 2022-04-25 | [Dossiê: 24 de ABRIL - Bolsonaro RESISTIU Contra o GOLPE "Aliado" + Gen. HELENO e a PESQUISA do LULA.](2022/2022-04-25-6uLRLPROzwU.md) | 01:10:10 | automatica |
+| 2022-04-24 | [SOBERANIA Nacional: Bolsonaro vs Mundo + Desespero e DEMISSÃO no PT + Direita BR: Brigas e Processos](2022/2022-04-24-t0HpDdl31U4.md) | 01:07:14 | automatica |
+| 2022-04-23 | [Dossiê: PARASITA - Lula vs Bolsonaro. É Hora de ESCOLHER o Caminho + MILITARES Apoiam Bolsonaro.](2022/2022-04-23-UeUQbqG6ah8.md) | 01:03:27 | automatica |
+| 2022-04-22 | [Dossiê: INDULTO - Toda AÇÃO Gera uma REAÇÃO. Os PRÓXIMOS Passos + PT se ENCONTRA com BIGTECHS.](2022/2022-04-22-Mjg4GgJbPXc.md) | 01:02:39 | automatica |
+| 2022-04-21 | [Bolsonaro, e Agora? + Arthur MBL Renuncia e MORO Lacra + Crise no PT Gera MUDANÇAS](2022/2022-04-21-b6vaMiCS6i8.md) | 01:10:50 | automatica |
+| 2022-04-20 | [OMC: Mundo NÃO Sobrevive sem AGRO-BR + Bolsonaro ESCONDE 11 PTistas + 3ª Via PERTO da Desistência.](2022/2022-04-20-mkJg5tDMfbA.md) | 01:00:21 | automatica |
+| 2022-04-19 | [OFICIAL! Regulação das REDES Está no PLANO da Federação do PT + Bolsonaro VENCE em 12 Estados](2022/2022-04-19-3iEzYY90cww.md) | 01:02:07 | automatica |
+| 2022-04-18 | [CPMI das FakeNews CHEGA ao FIM + FHC e LULA: Aliança Avança + Bolsonaro FAVORITO no Interior.](2022/2022-04-18-kOHpy-TtoKo.md) | 01:00:09 | automatica |
+| 2022-04-17 | [PT Admite VITÓRIA de Bolsonaro + TCU: O "amigo" do Moro + LIRA e O Globo: Congresso2023.](2022/2022-04-17-dMcmrs86Des.md) | 00:58:48 | automatica |
+| 2022-04-16 | [Dossiê: NOVA TESOURA - Bolsonaro vs INIMIGOS Internos + Guedes: "Tinha CRONOGRAMA" para a QUEDA.](2022/2022-04-16-AvO8rSQhB5M.md) | 01:08:11 | automatica |
+| 2022-04-15 | [Crise: PT Preocupado com MÍDIA e REDES + Bolsonaro MITO e ESG na PAN + Moro JOGA a Toalha.](2022/2022-04-15-4w7porbELlk.md) | 01:01:51 | automatica |
+| 2022-04-14 | [Fala de LULA sobre VITÓRIA de Bolsonaro + FRAUDE: Moro na MIRA do MP + PL2630 e Regulação em 2023.](2022/2022-04-14-94jtJA5WcPY.md) | 01:02:15 | automatica |
+| 2022-04-13 | [Novo Favorito: PSDB e Empresários APOSTAM em Jair + Contra-Ataque do Governo, PL2630 e FIM do MBL.](2022/2022-04-13-rrLu1YqyZQc.md) | 01:01:02 | automatica |
+| 2022-04-12 | [GOLPE do PT: o Legislativo PARALELO + Bolsonaro EMPATA e o Brasil CRESCE + Moro e Lula mais PRÓXIMOS](2022/2022-04-12-UFqclvk9o_I.md) | 01:01:02 | automatica |
+| 2022-04-11 | [Dossiê: ENTRE O FIM E O CAOS - Bolsonaro e seu MAIOR DESAFIO + A 3ªVia se UNE ao PT nos EUA.](2022/2022-04-11-SIL_ybhAM9M.md) | 00:59:38 | automatica |
+| 2022-04-10 | [Dossiê: 2023 - Querem TOMAR o País à FORÇA + GLOBO, Veja e Folha DEFENDEM Lula + Moro foi HUMILHADO.](2022/2022-04-10-UuODWDOE0oQ.md) | 01:01:08 | automatica |
+| 2022-04-09 | [Lula-Alckmin: A VERDADE e o PASSADO que Eles QUEREM ESCONDER + MORO: Encontro SUSPEITO nos EUA.](2022/2022-04-09-zU6O-bkvkcU.md) | 00:59:58 | automatica |
+| 2022-04-08 | [JB DECOLA e  Tarcísio FAVORITO + FIM do LULA: GLOBO Tenta, MAS Ex-Ministro JOGA a TOALHA + KASSIO](2022/2022-04-08-HoWlh8ma04U.md) | 01:06:41 | automatica |
+| 2022-04-07 | [Bolsonaro vs Lula: CRISE no PT + PL2630 Vitória (ainda NÃO ACABOU) + A JOGADA de André Mendonça.](2022/2022-04-07-1dEfRrghXzs.md) | 01:04:46 | automatica |
+| 2022-04-06 | [Dossiê: PL2630 - A VERDADE sobre o LOBO em Pele de CORDEIRO + Lula ATACA Pauta da FAMÍLIA e VALORES.](2022/2022-04-06-vb_vNTQt83E.md) | 01:07:22 | automatica |
+| 2022-04-05 | [Bolsonaro 2022: BOAS Notícias! + Moro com MEDO, diz GLOBO + LULA Falou DEMAIS e Nova INVASÃO PTistas](2022/2022-04-05-s15CjsOaumA.md) | 01:07:58 | automatica |
+| 2022-04-04 | [JB VENCERÁ, diz RANDOLFE + Veja: Rosângela MANDA no MORO + DORIA quer se UNIR a LULA e TEBET ao ESG.](2022/2022-04-04-U3av9tOhvYU.md) | 01:06:21 | automatica |
+| 2022-04-03 | [Bolsonaro vs Lula: EMPATOU + Moro TRAIU a Todos e Ex-Folha se ENTREGA + SEMI-Presidencialismo 2030](2022/2022-04-03-Eva4CllIJMo.md) | 01:00:41 | automatica |
+| 2022-04-02 | [1º de Abril: Dia da VERDADE - Bolsonaro BATE Recorde, Moro FORA de 2022 e Doria ENCURRALADO](2022/2022-04-02-t2EsDyclxsI.md) | 00:59:34 | automatica |
+| 2022-04-01 | [Dossiê: BLEFE - União de TRAIDORES vs Coerência de Bolsonaro. A Eleição começa a se DEFINIR](2022/2022-04-01-qmPgQKqL20s.md) | 01:03:04 | automatica |
+| 2022-03-31 | [Dossiê: DIA D - Bolsonaro INOCENTE, Moro e Deltan se COMPLICAM, PSDB Fecha com PT e LULA com Foro-SP](2022/2022-03-31-iCE8ASvhnu4.md) | 00:59:43 | automatica |
+| 2022-03-30 | [Dossiê: AMIZADE ANTIGA - O Dedo do PT e da 3ª VIA  no CASO  do MEC + Lula PEGOU economista do Moro](2022/2022-03-30-j2xWkXLHvFQ.md) | 00:57:44 | automatica |
+| 2022-03-29 | [Bolsonaro: Coerência e Liberdade + Moro, FHC, Alemanha e AGENDA VERDE + Mudanças no MEC e INTERESSES](2022/2022-03-29-qX6SaAK4rQY.md) | 01:01:47 | automatica |
+| 2022-03-28 | [IRMÃO de Moro é AMIGO do DONO do Robô + FHC Revela Amizade com LULA + Globo e Agenda VERDE](2022/2022-03-28-F38rEIZUwsQ.md) | 00:51:25 | automatica |
+| 2022-03-27 | [Dossiê: O Robô – Comportamento INAUTÊNTICO & Impulsionamento com ATAQUES PRÓ-MORO.](2022/2022-03-27-sl2IWzQAWx4.md) | 01:07:16 | automatica |
+| 2022-03-26 | [Dôssie: 7 AÇÕES - 4 Dias até o COLAPSO Verde CONTRA Bolsonaro + Novo CANDADITO: Foi TUDO Planejado?](2022/2022-03-26-NluF6TI9gEM.md) | 00:59:16 | automatica |
+| 2022-03-25 | [A IMPRENSA disse: "JOGADA de MESTRE" de Bolsonaro + Lula COGITA se ALIAR ao Moro (ESG).](2022/2022-03-25-B2QkCjSPYIk.md) | 01:02:40 | automatica |
+| 2022-03-24 | [Caso de Polícia: MEC, Dinheiro do Deltan e  CPI do MBL + Moro DEFENDE Sovietes da Educação + JB 2022](2022/2022-03-24-lalFj5GzaJE.md) | 01:05:32 | automatica |
+| 2022-03-23 | [Dossiê: ESG - Moro e Lula CONTRA Bolsonaro. Nem o FUTEBOL Será POUPADO. O destino da AMAZÔNIA.](2022/2022-03-23-uFqhBSIcWf0.md) | 00:59:56 | automatica |
+| 2022-03-22 | [TCU Aprofunda INVESTIGAÇÕES Contra MORO + Eleições 22: Confusões em SP + Gabinete do da CUT e PT.](2022/2022-03-22-kQN4K4RBFMk.md) | 01:00:30 | automatica |
+| 2022-03-21 | [Bolsonaro: RETALIAÇÕES e PRESSÃO Internacional + O VALE-TUDO do MBL para SALVAR Mamãe Falei.](2022/2022-03-21-wTQlkkIuRjI.md) | 00:59:43 | automatica |
+| 2022-03-20 | [Telegram: DESBLOQUEIO e Críticas da GLOBO + MBL nas Páginas POLICIAIS + Brasil é ALVO de Sanções?](2022/2022-03-20-KQHv2vF7WYA.md) | 01:02:57 | automatica |
+| 2022-03-19 | [Telegram: SOLUÇÃO a Caminho + Oposição AVANÇA com Agenda + Amazônia EM RISCO](2022/2022-03-19-5awjRnfLmAc.md) | 01:06:15 | automatica |
+| 2022-03-18 | [Dossiê: SANÇÕES - Brasil de BOLSONARO, é a RÚSSIA de Amanhã? Semipresidencialismo AVANÇA](2022/2022-03-18-jThu_vmVRSo.md) | 01:06:43 | automatica |
+| 2022-03-17 | [GLOBO Esconde a VERDADE sobre Bolsonaro + Alckmin DELATADO e Lula se ESCONDE + Moro TRAIU o MBL](2022/2022-03-17-DwaIGmwHqls.md) | 01:00:13 | automatica |
+| 2022-03-16 | [Lula com PREOCUPADO com Bolsonaro + Rússia: URSS de Volta no Tabuleiro + MBL Ameaçou Antagonista?](2022/2022-03-16-Z8dcWvGKLyk.md) | 01:01:27 | automatica |
+| 2022-03-15 | [Dossiê: EVASÃO DE DIVISAS - MBL na MIRA do MPF. Tudo foi FRIAMENTE Calculado? + Bolsonaro 2022](2022/2022-03-15-7YLWs8ryVEE.md) | 01:09:37 | automatica |
+| 2022-03-14 | [FIM do Telegram e MENSALINHO do Twitter + Novas FALAS do Mamãe Falei e ROMPIMENTO com Moro](2022/2022-03-14-Xzc3AUIyuKw.md) | 01:01:05 | automatica |
+| 2022-03-13 | [Dossiê: SUSPEITOS - MP Amplia INVESTIGAÇÕES Contra MBL + A 3ª Via era um PLANO Antigo?](2022/2022-03-13-zyhC22K1ew8.md) | 01:00:47 | automatica |
+| 2022-03-12 | [Bolsonaro SOBE e PT é Suspenso no Whats + Moro HUMILHADO na CNN e CPI do MBL + DÍVIDAS da Petrobrás](2022/2022-03-12-V9_o8f2mZ2M.md) | 00:59:52 | automatica |
+| 2022-03-11 | [Jair vs Lula: FAVORITISMO Desapareceu? + MBL, Moro e a RASTEIRA no Doria + Rússia: CONTROLE TOTAL](2022/2022-03-11-NlZlvMsFs9Q.md) | 01:03:18 | automatica |
+| 2022-03-10 | [Dossiê: MBL e o HOMEM do DINHEIRO - A Cassação do Arthur + Bolsonaro vs Narrativas + FERLIZIANTES](2022/2022-03-10-l0LR5xKT1M8.md) | 00:58:46 | automatica |
+| 2022-03-09 | [Dossiê: MBL GATE - As Notas Fiscas ESCÂNDALOSAS e Fundador do PT. Datas ESTRANHAS e Montanha Tatra.](2022/2022-03-09-RXrbCzH3ULM.md) | 00:57:53 | automatica |
+| 2022-03-08 | [Fedeu! Vídeo DESMASCARA o MBL + Moro NÃO ROMPE E BLINDA o MBL + Bolsonaro, Lira e FERTILIZANTES.](2022/2022-03-08-O-ajPGDu8tk.md) | 00:58:45 | automatica |
+| 2022-03-07 | [Mamãe Falei: CASSAÇÃO na ALESP e PUNIÇÃO via MP + Time Moro e MANIPULAÇÃO Digital + 2022: JB vs LULA](2022/2022-03-07-mL_cQj9SDKg.md) | 01:01:05 | automatica |
+| 2022-03-06 | [Dossiê: MAMÃE ENGANEI - No RASTRO do DINHEIRO - Arthur DOBRA a Aposta, mas ESQUECE do PASSADO.](2022/2022-03-06-fPClCwfQ_sY.md) | 00:59:09 | automatica |
+| 2022-03-05 | [Dossiê: MAMÃE FALEI - Áudio VAZADO  é apenas a PONTA do ICEBERG + O Lado OBSCURO do MBL](2022/2022-03-05-uTEiaxewXSE.md) | 01:09:31 | automatica |
+| 2022-03-04 | [O Mundo PEDE AJUDA para Bolsonaro + AUTO-SUFICIENTE: Soberania e Força + A Jogada ENSAIADA do MORO](2022/2022-03-04-pZFhWceSj0A.md) | 01:00:53 | automatica |
+| 2022-03-03 | [Bolsonaro CONTRA o MUNDO: PL dos FERTILIZANTES + Rússia: As Semi-PROIBIÇÕES + LULA em QUEDA Livre](2022/2022-03-03-QnNc-eGMViE.md) | 00:59:54 | automatica |
+| 2022-03-02 | [Dossiê: FERTILIZANTES - O Plano B do JB + Lula SABIA de TUDO e PT foi DENUNCIADO](2022/2022-03-02-vA-ECfQUjE4.md) | 01:04:13 | automatica |
+| 2022-03-01 | [Bicho Pegou! Rússia: CONTROLE Implementado + Bonoro e COMPLEXIDADES + Fofoquinha: MORO e WANDERLEI](2022/2022-03-01-IAeACbDlZds.md) | 00:59:39 | automatica |
+| 2022-02-28 | [Dossiê: DESESTABILIZAÇÃO - As Poucas CERTEZAS de uma Questão Complexa + A Coletiva de BOLSONARO](2022/2022-02-28-bP72YpAexSs.md) | 01:00:59 | automatica |
+| 2022-02-27 | [Rússia: Bolsonaro vira ALVO + RACHA em SP: Jair, Tarcísio e Republicanos + Carnaval do Bem](2022/2022-02-27-5qYeybIMofg.md) | 00:59:59 | automatica |
+| 2022-02-26 | [CRIME Eleitoral: Bolsonaro SÓ Queria AJUDAR + Rússia: POSICIONAMENTO e SOBERANIA do BR + TROCA na PF](2022/2022-02-26-5LITvlj47aw.md) | 00:59:02 | automatica |
+| 2022-02-25 | [Rússia: Os IMPACTOS no Brasil e na Política + Bolsonaro: RACHA na Base de 2022 + Novidades PL 2630](2022/2022-02-25-wiGreVJBnLE.md) | 00:57:34 | automatica |
+| 2022-02-24 | [Rússia: RESUMO da Madrugada + Bolsonaro SOBE o Tom + BLOQUEIO de Bens: MORO Encurralado](2022/2022-02-24-OOEbb_f5ggU.md) | 01:01:19 | automatica |
+| 2022-02-23 | [DORIA: Operação da PF em SP é a Ponta do ICEBERG + VIDA: Bolsonaro vs Moro + Oportunismo LULISTA](2022/2022-02-23-9LTiNtDBjB8.md) | 01:03:39 | automatica |
+| 2022-02-22 | [Bolsonaro: Quem ATRAPALHA o Brasil? + Moro ATACA 3ª Via com AJUDA dos Antas + LULA Ligou ALERTA](2022/2022-02-22-NdB_cDzppV8.md) | 01:00:07 | automatica |
+| 2022-02-21 | [TUDO ou NADA: Lula PERDE Favoritismo + Moro ACIONADO na JUSTIÇA + ARAS da XequeMate na CPI do LULA](2022/2022-02-21-A3f9NCEn8TQ.md) | 00:59:29 | automatica |
+| 2022-02-20 | [E$CÂNDALO! As Palestras SECRETAS do MORO + CAMPANHA de Lula tem ALIADO de Moro + Bolsonaro CRESCENDO](2022/2022-02-20--gI6t4hSdt4.md) | 01:00:12 | automatica |
+| 2022-02-19 | [Bolsonaro em SP: Tarcísio com 25% dos VOTOS! + Moro DEFENDE Ditadura Chi.. + Esquerda com MEDO de JB](2022/2022-02-19-5Q-aZmqZfFc.md) | 00:59:52 | automatica |
+| 2022-02-18 | [TCU Aponta CONTRADIÇÃO de Moro em PAGAMENTOS + Briga entre Poderes: Parte 2 + O Grande MEDO de Lula](2022/2022-02-18-6MADLuoG8Ys.md) | 00:59:53 | automatica |
+| 2022-02-17 | [As 5 CONQUISTAS de Bolsonaro na Rússia + Eleições: EMBATE Entre Poderes + LULA na ROTA da SEDA](2022/2022-02-17-IIZyvlWd1Pk.md) | 01:00:31 | automatica |
+| 2022-02-16 | [BolsoMITO: A Grande VITÓRIA de um Dia ÉPICO + PF DESMENTIU o MORO e MBL foi PEGO + PL2630 Avança.](2022/2022-02-16-V5k4HZKXRYg.md) | 00:59:50 | automatica |
+| 2022-02-15 | [Dossiê: NO PÂNICO - Rogério Morgado ATROPELOU Sérgio Moro e o DOLEIRO Youssef em Entrevista.](2022/2022-02-15-hUJSpGRYLdw.md) | 01:09:27 | automatica |
+| 2022-02-14 | [Tarcísio em SP e Carlos FORA das Eleições? + TELEGRAM e REMOÇÃO de Contas + LULA e o FIM da Educação](2022/2022-02-14-O3_nENEiFZU.md) | 01:12:34 | automatica |
+| 2022-02-13 | [Dossiê: O NOVO TEATRO DAS ✂️+ Bolsonaro e a CONCESSÃO da GLOBO + Tarcísio Abandonou E. Bolsonaro?](2022/2022-02-13-EhyxCFdZyds.md) | 01:08:46 | automatica |
+| 2022-02-12 | [Desistiu! MORO Será DEPUTADO + Bolsonaro na Rússia + Atentado CONTRA LULA + Direita e Votos em 22](2022/2022-02-12-vTH5I0Jkyo8.md) | 01:00:33 | automatica |
+| 2022-02-11 | [Novidades da CAMPANHA de Bolsonaro + Falas ENIGMÁTICAS do JB + Moro Busca ALIADO de LULA](2022/2022-02-11-DpGDMXc9QAQ.md) | 00:59:55 | automatica |
+| 2022-02-10 | [2 VÍTÓRIAS do Cidadão COMUM! + LULA e DILMA Pegos no FLAGRA + Bolsonaro: um PRESIDENTE de ENTREGAS](2022/2022-02-10-c4wKFhSfxyk.md) | 01:04:47 | automatica |
+| 2022-02-09 | [Dossiê: MONARK - o FIM do MBL, do Moro e da 3ª Via + PGR Investiga Kataguiri-MBL + JB estava CERTO!](2022/2022-02-09-CpY3C3b9W84.md) | 00:56:48 | automatica |
+| 2022-02-08 | [Comparativo: BOLSONARO x LULA x 3ªvia + Nova ROTA da SEDA avança + Moro: o SUMIÇO de DOCUMENTOS](2022/2022-02-08-eeG_IiLaL0w.md) | 01:02:49 | automatica |
+| 2022-02-07 | [Bolsonaro: VICE e NOVAS Indicações + O Exército de 5000 comitês do LULA + Moro: CONFISCO de Dinheiro](2022/2022-02-07-yCO3q75iIZo.md) | 01:00:38 | automatica |
+| 2022-02-06 | [O Calcanhar de Aquiles do LULA + Randolfe e Moro UNIDOS num Podcast + Bolsonaro e a Direita 2022](2022/2022-02-06-esXRvIK72ys.md) | 01:07:22 | automatica |
+| 2022-02-05 | [Bolsonaro22: Candidatos e Tarcísio + Bens CONGELADOS: Moro Encurralado + Lula, Dirceu e FIM das FFAA](2022/2022-02-05-AcWknQiEjmI.md) | 00:58:49 | automatica |
+| 2022-02-04 | [Ex-Ministro do SUPREMO pede PARA RESPEITAREM o JB+ LISTA Direita 2022 Atualizada + Moro e Kassab](2022/2022-02-04-bEEucBs_z6k.md) | 00:59:08 | automatica |
+| 2022-02-03 | [Banguncinha: Bolsonaro, Aras, Supremo e Imprensa + LOBBY: Moro, Doria e LIDE + Tias do ZAP vs GLOBO](2022/2022-02-03-_cOU_QWG7II.md) | 00:59:59 | automatica |
+| 2022-02-02 | [O BURACO do DORIA Desabou + Bolsonaro na MIRA do Judiciário +MBL Defende Lula e Nine DEFENDE Censura](2022/2022-02-02-D2Rbd2HNo7M.md) | 01:00:01 | automatica |
+| 2022-02-01 | [Governo Segue AVANÇANDO + Novo ESCÂNDALO: U$16M e MORO Joga a TOALHA + TRAIÇÃO: Lula VS Alckmin](2022/2022-02-01-rkrhlxV-pAo.md) | 00:59:56 | automatica |
+| 2022-01-31 | [Moro na MIRA da Receita + A Farofa de Bolsonaro e RUPTURA + LULA e DIRCEU Comandam PSDB](2022/2022-01-31-sdt864Ugi0E.md) | 01:01:10 | automatica |
+| 2022-01-30 | [Fim do DISFARCE: Moro CONTRATOU Marketeiro do LULA + Vice do Jair em 22 + Os DRONES do LULA e DIRCEU](2022/2022-01-30-NvxxtpmjEd4.md) | 01:01:28 | automatica |
+| 2022-01-29 | [Mamateiro! MORO Ficou RICO: R$ 3,5 Milhões + O DEPOIMENTO de Bolsonaro + Lula VOLTA a Ameaçar o BR](2022/2022-01-29-uoijieegIAE.md) | 01:00:30 | automatica |
+| 2022-01-28 | [Bolsonaro REVELA o ROMBO do PT + MBL, MORO e Os R$ 5Mi + Dilma no FORO de SP](2022/2022-01-28-Xft4NIOA8xU.md) | 01:01:19 | automatica |
+| 2022-01-27 | [Bolsonaro22: A Pesquisa que a Mídia ESCONDEU + Cheque em BRANCO: Moro e $100Mi+ Emílio JOGANDO Baixo](2022/2022-01-27-ObLlxMgXHCw.md) | 00:59:54 | automatica |
+| 2022-01-26 | [Bolsonaro: Um GIGANTE Internacional + Olavo e Eleições 2022 + COAF na Cola do Moro](2022/2022-01-26-Ae3k_cun3D4.md) | 00:59:29 | automatica |
+| 2022-01-25 | [CPI do MORO Avança + Lula e FHC Unidos em 22+ Perseguição a Direita + Olavo de Carvalho e seu LEGADO](2022/2022-01-25-J7p9SWZAGCs.md) | 01:06:52 | automatica |
+| 2022-01-24 | [Euforia e Desespero: Moro PRESO em 4 meses? + Bloqueio do TELEGRAM é INEVITÁVEL + Direita vs Direita](2022/2022-01-24-C3oyIHDR-Aw.md) | 01:01:47 | automatica |
+| 2022-01-23 | [A LUTA de Bolsonaro para BARATEAR Gasolina + LULA, Maia e PSDB Unidos + CPI e COAF Contra Moro](2022/2022-01-23-6dPo2cB7a5Q.md) | 00:59:31 | automatica |
+| 2022-01-22 | Dossiê: OS IGUAIS - O Homem que LIGA Lula e Moro + VAZAMENTO de Áudio e CONFUSÕES na Direita | 00:00:07 | sem_legenda |
+| 2022-01-21 | [Dossiê: ROMPIMENTO - BRIGA na Direita Chega ao FIM de uma ERA + Moro PREOCUPADO com Kim Paim](2022/2022-01-21-an4UKQW11xM.md) | 01:06:47 | automatica |
+| 2022-01-20 | [O Vídeo PROIBIDO do AMIGO do MORO + Volta da CPMI e BANIMENTO do Telegram + A Dupla LULA e DIRCEU](2022/2022-01-20-k5RWTGSkNgs.md) | 00:59:45 | automatica |
+| 2022-01-19 | [Dossiê: MÃO INVISÍVEL - Doleiro, MBL, Moro e Bancos. Uma história de AMOR + FHC Revela PLANO](2022/2022-01-19-Qm5DgMRnvqA.md) | 01:03:47 | automatica |
+| 2022-01-18 | [Bolsonaro: o FREIO Contra a CENSURA + O ENROLADO Inquérito de Alvaro Dias + Máquina ILUMINISTA do PT](2022/2022-01-18-55ldpA-6MPA.md) | 00:59:49 | automatica |
+| 2022-01-17 | [Bolsonaro: Encontros DISCRETOS vs Sono PROFUNDO + Briga:CONGRESSO vs Governadores + REJEIÇÃO do Lula](2022/2022-01-17-AAuD3ORL-NM.md) | 01:04:07 | automatica |
+| 2022-01-16 | [Dossiê: REVISIONISMO - O Controle pelo PODER. Do PT ao Lavajatismo + Mensagens VAZADAS Revisitadas](2022/2022-01-16-iSqYKDkSbNI.md) | 00:59:46 | automatica |
+| 2022-01-15 | [Bolsonaro SABIA de TUDO em 2019 + O Dedo de MORO na ANVISA + Denúncia do MBL e a A Nova URSS de Lula](2022/2022-01-15-h9lW8sjN13M.md) | 00:59:25 | automatica |
+| 2022-01-14 | [Lula DEFENDERÁ Foro de SP no México + Moro FORA do Podemos + Tarcísio CONFIRMA Candidatura](2022/2022-01-14-Psy8nDYF0mo.md) | 01:00:18 | automatica |
+| 2022-01-13 | [Sabotagem: Uma CPI, uma Operação-Padrão e um Legislativo PARADO + Moro quer MBL em SP + Juiz do Lula](2022/2022-01-13-Eyyz3LtlfD4.md) | 01:00:39 | automatica |
+| 2022-01-12 | [Governo Aciona AGU Pela LIBERDADE + Moro PERDE mais uma para o TCU + Randolfe PROTOCOLA Nova CPI](2022/2022-01-12-lJ3mk5DuICE.md) | 00:56:32 | automatica |
+| 2022-01-11 | [Bolsonaro ESCANTEIA Vice do Centrão + Racha: Alckmin PREOCUPADO com Lula e Moro SEM DINHEIRO](2022/2022-01-11-oAA3dEGwcz0.md) | 00:58:13 | automatica |
+| 2022-01-10 | [Vice de BOLSONARO e 2 Novas CPIs da Oposição + MBL se Junta ao PT + Moro DILMOU e vê $$$ indo Embora](2022/2022-01-10-HneBMW0_aHA.md) | 01:02:30 | automatica |
+| 2022-01-09 | [Os MOVIMENTOS Políticos de BOLSONARO + Moro Grava VÍDEO com PTista + Dilma REVELA Intenções do PT](2022/2022-01-09-nt7DnbHm3ho.md) | 01:03:15 | automatica |
+| 2022-01-08 | [COMUNA & GL0BALISTA: Liberais CRITICAM Moro + Querem FECHAR o Brasil + REUNIÃO do Doria e Barroso](2022/2022-01-08-30aM5AO9A60.md) | 00:59:52 | automatica |
+| 2022-01-07 | [Dossiê: O SELO - Bárbara na MIRA da Lavajato + Moro HUMILHADO no Aeroporto + Carlos Bolsonaro e 2022](2022/2022-01-07-fs-4V2_ubyU.md) | 00:59:35 | automatica |
+| 2022-01-06 | [Perseguição: BÁRBARA, Fiuza e TELEGRAM + Moro ATACA Tias do Zap + Bolsonaro Fala do CASO ADÉLIO](2022/2022-01-06-Kq82vyZhkx8.md) | 00:59:37 | automatica |
+| 2022-01-05 | [Lula Revela MEDO + Caso ADÉLIO e MELHORAS de Bolsonaro + Moro DESESPERADO pelo FUNDÃO e Direita 22](2022/2022-01-05-pBuRodd5P6A.md) | 00:59:38 | automatica |
+| 2022-01-04 | [Bolsonaro Apresenta MELHORAS + O CAMINHO para DERRUBAR o Telegram + Briga de Políticos da DIREITA](2022/2022-01-04-pBHFQRFSwa8.md) | 01:02:12 | automatica |
+| 2022-01-03 | [Dossiê: CPI do Moro - Advogado CONTRA F.News + Bolsonaro DOENTE em SP + Direita CONTROLARÁ a Câmara](2022/2022-01-03-mEeCLtevbGI.md) | 01:02:26 | automatica |
+| 2022-01-02 | [2022 Começa Com CENSURA - A MORDAÇA que o DORIA Colocou na PM + Os ROBÔS do Lula + AÇÕES do JB](2022/2022-01-02-T2IVD6-MJfk.md) | 01:03:11 | automatica |
+| 2022-01-01 | [2022 Começou: O Grande CONLUIO Contra BOLSONARO - Anulações, Captura do Legislativo e Regulação](2022/2022-01-01-Yowe7TEAR5Y.md) | 01:33:07 | automatica |
+| 2021-12-31 | [Bolsonaro 2022: CPI, Mamateiros e Tias do ZAP - A GAROTA dos Vídeos e a ANITA que NÃO Canta](2021/2021-12-31-eio8aTGZ7lc.md) | 00:57:19 | automatica |
+| 2021-12-30 | [Dossiê: MORO Admite ENVOLVIMENTO de DOLEIRO e Vídeo B0MBA de DENÚNCIA Conta YOUSSEF + Chuvas na BA](2021/2021-12-30-VIlYYmfL4GE.md) | 00:59:45 | automatica |
 |  |  |  | erro |
 |  |  |  | erro |
 |  |  |  | erro |
