@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-1342 vídeos transcritos, 9 sem legenda.
+1465 vídeos transcritos, 11 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -1355,5 +1355,130 @@
 | 2023-01-23 | [PACHECO vs MARINHO e PL vs PT: DIREITA Com CCJ + Cerco Judicial: Jair e CID +  Moeda COMUM do ForoSP](2023/2023-01-23-r4ZeBhCf59s.md) | 01:08:23 | automatica |
 | 2023-01-22 | [Dossiê: REESTRUTURAÇÃO — A Verdadeira MOTIVAÇÃO do Embate DILMO vs FFAA + Bolsonaro e CID na Mira?](2023/2023-01-22-HJKH2OvpMRE.md) | 01:05:27 | automatica |
 | 2023-01-21 | [Dossiê: VAZAMENTOS PROGRAMADOS - A Direita se SABOTA + TRUNFO de Valdemar e Marinho + Crise no UNIÃO](2023/2023-01-21-I9LZvx0EiwQ.md) | 01:10:37 | automatica |
+| 2023-01-20 | [O Cerco: BRAGA Netto, Bolsonaro e a Minuta + Desgoverno em CRISE + Direita, MBL, Boulos e 2024.](2023/2023-01-20-vShA_U8hRDY.md) | 01:03:12 | automatica |
+| 2023-01-19 | [CRISE: Dilmo NÃO Quer CPI e Caso BRAGA NETTO + Boas Notícias no SENADO + CASO das AMERICANAS.](2023/2023-01-19-GoDsj8xLc0s.md) | 01:00:42 | automatica |
+| 2023-01-18 | [Dossiê: DAVOS - Haddad, Marina e as TRAIÇÕES na Esquerda + Dirceu NÃO Quer CPI + Oportunidade em 23.](2023/2023-01-18-Q-nIddRra5k.md) | 01:07:01 | automatica |
+| 2023-01-17 | [Dossiê: OS MESMOS - A Confusão Tem NOME + Prisão de JB: Esquerda Diverge + Marina e Filho do Soros.](2023/2023-01-17-JohMwADQdss.md) | 01:06:57 | automatica |
+| 2023-01-16 | [INELEGÍVEL: Cálculo do PT sobre Bolsonaro + Uma NOVA CPI Vem aí + Dilmo: Desconfiança e SEM Base.](2023/2023-01-16-7BP45j2LRsU.md) | 01:02:20 | automatica |
+| 2023-01-15 | [JB, Ibaneis e Torres: "Se for Abandonado, NÃO CAIRÁ Sozinho" + Forças ENCURRALADAS + Vento Mudando?](2023/2023-01-15-7khqQy8L6jo.md) | 01:03:28 | automatica |
+| 2023-01-14 | [Bolsonaro É INCLUÍDO em Investigação + Depoimento de IBANEIS e a FFAA + O Braço GLOBAL da Direita.](2023/2023-01-14-1M9zlmZCi-s.md) | 01:05:13 | automatica |
+| 2023-01-13 | [O Documento: ACELERA Cerco Jurídico CONTRA Bolsonaro e Torres + Cartão CORPORATIVO e o Dilmo.](2023/2023-01-13-wbSrmQSAF4Q.md) | 01:00:15 | automatica |
+| 2023-01-12 | [Desdobramentos: 7 Deputados na MIRA da Justiça, PEDIDO Contra JAIR e ... + DILMO Quebra PROMESSAS.](2023/2023-01-12-TaYPtW8UDTc.md) | 01:01:09 | automatica |
+| 2023-01-11 | [O Último Evento: SUSPENSÃO de Bolsonaro e PRISÃO de Ex-Ministro + Clima PIORA pro Dilmo, e Agora?](2023/2023-01-11-NyaCa_9IJCI.md) | 00:59:50 | automatica |
+| 2023-01-10 | [CAOS em Brasília: ABIN Avisou, FIM da JovemPan, Pessoas TREINADAS, CPI, Extradição de BOLSONARO e PL](2023/2023-01-10-VjxteEDBzVo.md) | 01:08:54 | automatica |
+| 2023-01-09 | [CAOS Total: Inelegibilidade, CPI, 400 Presos, Governador FORA, Fim dos QGs - Análise COMPLETA.](2023/2023-01-09-HTLFuNuxLHc.md) | 00:58:53 | automatica |
+| 2023-01-08 | [Notícias POSITIVAS: Oposição REAGE e Mídia faz Coro + Saiu PRIMEIRA Pesquisa: Dilmo REPROVADO !!!](2023/2023-01-08-TaN0VxtF9A8.md) | 01:01:31 | automatica |
+| 2023-01-07 | [O Retorno de BOLSONARO e o PLANO Político + Dilmo PRESSIONADO e Com PROBLEMAS na Mídia e Legislativo](2023/2023-01-07-CW4F1RCKtcM.md) | 01:02:01 | automatica |
+| 2023-01-06 | [PIOR Reação do Século21: COLAPSO e Queda Ministerial + Até o "CONSÓRCIO" Está com MEDO dos Vermelhos](2023/2023-01-06-J95Lkqn86Ug.md) | 01:00:21 | automatica |
+| 2023-01-05 | [3 Dias e CRISE Generalizada: 1ª Possível BAIXA, Brigas INTERNAS e Entre PODERES + O Amigo do Soros.](2023/2023-01-05-bjasQ-y7OFA.md) | 01:01:19 | automatica |
+| 2023-01-04 | [DESTINO de BOLSONARO + O Plano B do PL + O Lula 3 será igual a DILMA 2?](2023/2023-01-04-mVx_jjr5L8Q.md) | 01:02:59 | automatica |
+| 2023-01-03 | [SIGILO de Bolsonaro Revelado? + 1º Dia do DESGOVERNO: Caos no Mercado + Reação da DIREITA no Leg.](2023/2023-01-03-LyMOAuuW9fI.md) | 01:01:42 | automatica |
+| 2023-01-02 | [A POSSE VERMELHA: Lixo, Vaias e a Festa da Globo + Haddad foi HUMILHADO + As PRIMEIRAS Medidas.](2023/2023-01-02-YTNmRxv64pA.md) | 01:01:09 | automatica |
+| 2022-12-31 | [Até Logo Bolsonaro! Os RECADOS e as Reflexões para 2023 + Análise de um CICLO e o Legado de uma Era.](2022/2022-12-31-JWuLNggEHMU.md) | 01:13:10 | automatica |
+| 2022-12-30 | [As ÚLTIMAS 48h do ANO: Bolsonaro, NOVA Operação e  Bigadeiro-FAB + 37 Dilmos e o MEDO da Traição.](2022/2022-12-30-NeA3W4RTYUk.md) | 01:04:03 | automatica |
+| 2022-12-29 | [CASO de BSB Vira SIGILOSO e Bolsonaro é ACUSADO de Crime + Estão REESCREVENDO a História + Abismo23.](2022/2022-12-29-ETbWhwBn0qQ.md) | 00:59:36 | automatica |
+| 2022-12-27 | [Temperatura SUBINDO: Mais um Suspeito PRESO e NOVAS informações do CASO + Jair vs Dilmo: Tá CLARO.](2022/2022-12-27-FC02WijzAns.md) | 01:00:52 | automatica |
+| 2022-12-26 | [Caos em Brasília: LOBO Solitário, Maluco ou INFILTRADO? + Protesto Indígena e DETENÇÃO de 10 Pessoas](2022/2022-12-26-fk4Ct_kITiw.md) | 01:02:29 | automatica |
+| 2022-12-25 | [O que há de bom com o mundo? - Parceria com @Estudio5elemento](2022/2022-12-25-DC7iZU9jbK8.md) | 01:19:48 | automatica |
+| 2022-12-24 | [Bolsonaro, TROCA de Comando e a PRF + Retomada em RISCO: A Mídia se ARREPENDEU + Rasteira e Traição.](2022/2022-12-24-tBM5Xi4W8NI.md) | 01:03:46 | automatica |
+| 2022-12-23 | [Bolsonaro e PORTARIA do Min.Defesa + Gov. de Direita que ENCONTRAR Dilmo + Tebet Toma RASTEIRA.](2022/2022-12-23-c9uKqLqoMDU.md) | 01:00:15 | automatica |
+| 2022-12-22 | [NOVA Orientação: Bolsonaro, Porta-Voz e Min.Defesa  + Esquerda CONTRA Bloqueio das Redes?](2022/2022-12-22-toKB8cBkvgk.md) | 01:01:27 | automatica |
+| 2022-12-21 | [Bolsonaro se ENCONTRA com Gen.Villas-Bôas + Apetite Insaciável: Frituras, SABOTAGEM e Traição.](2022/2022-12-21-kuy-PmF-sK0.md) | 01:03:20 | automatica |
+| 2022-12-20 | [O Eixo do PODER Treme: REAÇÃO e VINGANÇA? + PL Pode se BENEFICIAR com CONFUSÃO + Bolsonaro e Mídia.](2022/2022-12-20-PAL4wJG8XHw.md) | 01:01:18 | automatica |
+| 2022-12-19 | [Mudança de TABULEIRO no Fim da Noite + Saudades de Bolsonaro: "Consórcio" Acordou? + 50 Dias de Rua.](2022/2022-12-19-Yx1LyS3aO8s.md) | 00:58:33 | automatica |
+| 2022-12-18 | [Semana Difícil: NEM Tudo São FLORES pro Dilmo + PREOCUPAÇÃO com Maduro, Invasão e REGULAÇÃO do Bem .](2022/2022-12-18--Oo8S5yDkkA.md) | 01:00:26 | automatica |
+| 2022-12-17 | [O ACORDO: As NEGOCIAÇÕES Informais + ESCÂNDALO do Twitter REVELA Sobre o Brasil + Os Arrependidos.](2022/2022-12-17-zvezIwflFJw.md) | 01:00:06 | automatica |
+| 2022-12-16 | [Direita, MegaOperação e TwitterFilles + O DESTINO da Viagem do DIRCEU + ABISMO: A Pulseira Vermelha.](2022/2022-12-16-W5rV5Sc_1hI.md) | 00:59:03 | automatica |
+| 2022-12-15 | [O Dia que a FICHA Caiu + "Consórcio" ELOGIA Legado de Bolsonaro + Direita e a CONFUSÃO do PL.](2022/2022-12-15-ve7dgyPwvAo.md) | 01:02:06 | automatica |
+| 2022-12-14 | [Brasília: O DESENROLAR do Caso + GOLPE na CALADA da Noite + Busca e Apreensão CONTRA Guarda-Chuva.](2022/2022-12-14-nMyoaUkiCtI.md) | 00:59:03 | automatica |
+| 2022-12-13 | [Dossiê: CAOS em BRASÍLIA - O que ACONTECEU nas Últimas HORAS? + Convenção do PL e FREIO na PEC-Rombo](2022/2022-12-13-zMYhnr63mM4.md) | 01:02:57 | automatica |
+| 2022-12-12 | [CEREJA do Bolo e HERANÇA Bendita: Jair, Guedes e o Nióbio + PUNIÇÃO: O Mantra da Picanha.](2022/2022-12-12-2iHxbfpfmO4.md) | 00:58:39 | automatica |
+| 2022-12-11 | [Objetivo de VALDEMAR e PL Comandando SENADO + Picanheiros BRIGAM Entre Si + ESCÂNDALO Twitter Parte4](2022/2022-12-11-uxbVKAzxRns.md) | 01:03:38 | automatica |
+| 2022-12-10 | [Bolsonaro diz: VAMOS VENCER + Direita BANIDA: Escândalo Parte3 + DIRCEU de Volta e os 5 Nomes.](2022/2022-12-10--j-vuSJrqAY.md) | 01:02:33 | automatica |
+| 2022-12-09 | [ESCÂNDALO: Direita foi BOICOTADA no Twitter + Deputados RECUPERAM Contas + Crise Econômica.](2022/2022-12-09-15-TWBzzZxs.md) | 01:01:28 | automatica |
+| 2022-12-08 | [BOLSONARO vs Rede CLANDESTINA + A Confusão do RollsRoyce + Consórcio e a Esquerda Conservadora.](2022/2022-12-08-iCQA85Jm8kI.md) | 01:00:15 | automatica |
+| 2022-12-07 | [Valdemar VOLTAR a Agir + O PRESENTE Deixado por BOLSONARO + A NOVA Ideia da ESQUERDA.](2022/2022-12-07-_4_u6AWzpYA.md) | 00:56:58 | automatica |
+| 2022-12-06 | [A Direita CAMUFLADA e o APETITE Sem FIM + Bolsonarista Raiz: E Agora TARCÍSIO ? + ROMBO Começa Hoje.](2022/2022-12-06-I-TNzKafc0o.md) | 01:00:42 | automatica |
+| 2022-12-05 | [Boas Notícias: Bolsonaro e MUDANÇAS no PL, e a NOVA AÇÃO do Girão + FILME do Dilmo e Metanarrativa.](2022/2022-12-05-G3H0t98MFDQ.md) | 01:04:27 | automatica |
+| 2022-12-04 | [Escândalo no BR? Elon Musk, Twitter e a ESQUERDA + Jair, Liderança e o "Consórcio" + Acabou o AMOR ?](2022/2022-12-04-seBB7gj6o8I.md) | 01:01:40 | automatica |
+| 2022-12-03 | [Bolsonaro e o DESTINO do Brasil: Um Retrospecto + O VAZAMENTO do Ano + A Cota Pessoal do DILMO.](2022/2022-12-03-MCG3wYDo4JE.md) | 01:01:24 | automatica |
+| 2022-12-02 | [BOLSONARO vs PICANHEIROS: A Menina dos Olhos+ Foro de SP Quer DINHEIRO + Pacotão e DEMISSÕES.](2022/2022-12-02-u6ZjiNiYZzA.md) | 01:01:25 | automatica |
+| 2022-12-01 | [Bolsonaro e o "SILÊNCIO", PL Recorre e a FOTO Falsa + Picanheiros: IMPOSTO Sindical e ROMBO.](2022/2022-12-01-T8jQ6Lu9fPU.md) | 01:01:46 | automatica |
+| 2022-11-30 | [BOLSONARO: Jantar do PL, Nota da FFAA e Gen. Villas Bôas + Picanheiros: BRIGA Interna e Regulação.](2022/2022-11-30-6e2vQguVIgM.md) | 01:07:46 | automatica |
+| 2022-11-29 | [Bolsonaro: Forças AJUDANDO a Esquerda? + Ecossistema vs CENSURA das Redes + NOVO Jatinho e NOVA PEC.](2022/2022-11-29-qUsOJvHaYyk.md) | 00:59:47 | automatica |
+| 2022-11-28 | [Relato de CONVERSA com BOLSONARO +A Veja REVELOU o Gabinete da ESQUERDA + O Novo "Teje Preso".](2022/2022-11-28-f-tecwFz6Hk.md) | 01:02:52 | automatica |
+| 2022-11-27 | [Bolsonaro e PL: Trocando Esfera JURÍDICA pela POLÍTICA + Primeiro Round e REGULAÇÃO das REDES.](2022/2022-11-27-Q-Z4x-gswj8.md) | 01:02:59 | automatica |
+| 2022-11-26 | [Valdemar REUNIRÁ o PL e Bolsonaro ACIONA a Justiça + NOVO Fecha Tudo? + Tarcísio e Secretários](2022/2022-11-26-1UHsfhjg5Ic.md) | 00:58:47 | automatica |
+| 2022-11-25 | [Reunião de BOLSONARO e Movimentação do PL, PP e Rep + Tarcísio: DISPUTA em SP + Dilmo e DIFICULDADES](2022/2022-11-25-_QYlLSIUj2c.md) | 01:02:13 | automatica |
+| 2022-11-24 | [E Agora? Desdobramentos da AÇÃO do PL, A RESPOSTA e a Coligação + Um Brasil SEM Consenso?](2022/2022-11-24-PvfMYxazStE.md) | 01:01:34 | automatica |
+| 2022-11-23 | [2 AÇÕES: PL e Senadores. Repercussão e NOVO Pedido + Blocão e Comissões + FANTASMAS estão de Volta?](2022/2022-11-23-WvOC9QzBt14.md) | 00:58:35 | automatica |
+| 2022-11-22 | [É HOJE: Valdemar, TCU e as RUAS + Pode Acontecer TUDO ou NADA + VIGIAS do Alckmin e NOVAS PECs.](2022/2022-11-22-EkWKKFL_uBA.md) | 01:02:55 | automatica |
+| 2022-11-21 | [Áudio VAZADO: Min. do TCU fala sobre o MOMENTO Atual + Da DIRETAS JÁ à 2022: As Ruas e as Redes.](2022/2022-11-21-IObPAeGPmJk.md) | 01:01:51 | automatica |
+| 2022-11-20 | [NOVA Ação de VALDEMAR e do PL + Dilmo ENFRENTA Crise INTERNA + Liberdade VOLTANDO nas Redes?](2022/2022-11-20--Ax5Y3XVv0I.md) | 01:01:21 | automatica |
+| 2022-11-19 | [RUAS Continuam INCOMODANDO o "Consórcio" + PEC do ROMBO: Deu RUIM pro Dilmo, o TOM da Mídia MUDOU.](2022/2022-11-19-5IR45JraZhA.md) | 01:00:20 | automatica |
+| 2022-11-18 | [A VOLTA de Bolsonaro e o RECADO das Ruas + Queda: DILMO Não vai DURAR, segundo Especialistas.](2022/2022-11-18-Zosr7_yxzoo.md) | 00:59:09 | automatica |
+| 2022-11-17 | [Bolsonaro, Ruas e AFASTAMENTO do Min. DEFESA + PEC do ROMBO Abala o País + Carreta FURACÃO e Foro SP](2022/2022-11-17-XPRPhibvi7A.md) | 01:04:17 | automatica |
+| 2022-11-16 | [Novo RELATÓRIO do PL, NOTA do Villas Bôas e Manifestações + Jatinho Parte 2, COP, MST e Meirelles.](2022/2022-11-16-MyxpW6J5SU0.md) | 01:00:03 | automatica |
+| 2022-11-15 | [Dossiê: O JATO - Uma CARONA do Barulho? + Jair PRESO e PEC do ROMBO + Confusões do DILMO na COP.](2022/2022-11-15-6ebkOT8mNx8.md) | 01:03:11 | automatica |
+| 2022-11-14 | [Manifestações e PLANO de Jair para 2024 + IMPEACHMENT: Grupos de SUSTENTAÇÃO + Sem GOVERNABILIDADE?](2022/2022-11-14-IVVyFjBSQKg.md) | 01:00:08 | automatica |
+| 2022-11-13 | [Manifestações: A VIDA Como Ela É + Bolsonaro ARTICULANDO 2023 + CARBONÃO: o NOVO Petrolão?](2022/2022-11-13-a65aJLOTQbQ.md) | 01:09:32 | automatica |
+| 2022-11-12 | [Repercussão da NOTA das FORÇAS + DIVÓRCIO: Acabou a LUA de MEL do DILMO + Alckmin já foi RIFADO?](2022/2022-11-12-zPzga_2EjKY.md) | 01:00:32 | automatica |
+| 2022-11-11 | [O "Consórcio" já FALA em IMPEACHMENT + Reunião das FORÇAS e Manifestações + Colapso: O Brasil Tremeu](2022/2022-11-11-ye1H-j-kLlo.md) | 01:01:53 | automatica |
+| 2022-11-10 | [RELATÓRIO e AÇÕES da Direita + JABUTIS na PEC do ROMBO + Renan, Kassab e ONGS: a NOVA BASE.](2022/2022-11-10-wBm8yAx8sjw.md) | 01:01:50 | automatica |
+| 2022-11-09 | [Bolsonaro e FUTURO do PL + 1º Grande DESAFIO do Tarcísio + AÇÕES Pela Liberdade e AGENDA Verde.](2022/2022-11-09-GAqp0ZwuJIQ.md) | 01:00:56 | automatica |
+| 2022-11-08 | [Já Sentem a FALTA de Bolsonaro: PEC do ROMBO e INCERTEZAS + André Mendonça e LIBERDADE + COP27.](2022/2022-11-08-7Jk5Iee23j4.md) | 00:58:59 | automatica |
+| 2022-11-07 | [Jair vs Barba: Onde Vamos Parar? + Uma MENTIRA a Menos + PLANEJAMENTO vai dar ERRADO?](2022/2022-11-07-6AGt_5oiH8M.md) | 01:01:31 | automatica |
+| 2022-11-06 | [Dossiê: PICANHA - Promessas QUEBRADAS e Amizades ANTIGAS + PL quer Presidência do Senado + CENSURA.](2022/2022-11-06-_f3S5c34-Vo.md) | 01:03:32 | automatica |
+| 2022-11-05 | [Mudanças PROFUNDAS num Horizonte Próximo + Novo EPÍLOGO: o NASCIMENTO da Oposição + Tensões da Sexta](2022/2022-11-05-vJXpInVjNkM.md) | 01:06:47 | automatica |
+| 2022-11-04 | [Bolsonaro: PRESO ou INELEGÍVEL? + Já Estão DIVIDINDO o BOLO + O "Protagonista", o ROMBO e o AMOR.](2022/2022-11-04-kkkdVC98NOw.md) | 00:59:15 | automatica |
+| 2022-11-03 | [Bolsonaro e o RECADO das RUAS + A Falta DINHEIRO e o VICE se Aquecendo ? + Mais Liberdade nas Redes?](2022/2022-11-03-7LHNJbqb1kI.md) | 01:01:26 | automatica |
+| 2022-11-02 | [O Pronunciamento e FUTURO de Bolsonaro + PARALISAÇÕES Continuam + O Homem VERDE e Seus AMIGOS.](2022/2022-11-02-342GF95nGZ0.md) | 01:02:27 | automatica |
+| 2022-11-01 | [PARALISAÇÕES ao Redor do Brasil + OPOSIÇÃO Começa a se ORGANIZAR + A FICHA Já Está CAINDO !!!](2022/2022-11-01-EE1BwULiwds.md) | 00:58:59 | automatica |
+| 2022-10-31 | [É o FIM? Análise do Resultado da ELEIÇÃO + ANÚNCIO IMPORTANTE + Bolsonaro, 2023 e Nova Oposição.](2022/2022-10-31-vZodAFa8OO4.md) | 01:02:38 | automatica |
+| 2022-10-30 | [Bolsonaro CRESCE na RETA FINAL + Ùltimas PESQUISAS do 2º Turno + Compromissos para os INDECISOS !!!](2022/2022-10-30-slsOZVagiTE.md) | 00:59:12 | automatica |
+| 2022-10-29 | [Análise: ÚLTIMO Debate e o FIM da CAMPANHA + Deslizes na RETA FINAL + Novas PESQUISAS e NARRATIVAS.](2022/2022-10-29-tFnTfYXH55U.md) | 01:03:07 | automatica |
+| 2022-10-28 | [Jair vs "Consórcio": A Disputa pela NARRATIVA + OLHO no LANCE: Tracking de Minas + Renan MULTADO.](2022/2022-10-28--V6ZAVc5vWw.md) | 00:58:53 | automatica |
+| 2022-10-27 | [Dossiê: DECISÃO FINAL - Do RESULTADO ao CASO das RÁDIOS - Análise COMPLETA do 2º Turno.](2022/2022-10-27-3p0znWxhFpA.md) | 01:27:53 | automatica |
+| 2022-10-26 | [Atualização: CASO das RÁDIOS +VIRADA de Bolsonaro vs Clima de DESÂNIMO e PREOCUPAÇÃO na ESQUERDA.](2022/2022-10-26-tFaoYb4LMqo.md) | 01:05:06 | automatica |
+| 2022-10-25 | [TÉDIO Não EXISTE no Brasil: DENÚNCIA da Campanha de BOLSONARO + Ventos Continuam FAVORÁVEIS!!!](2022/2022-10-25-iX08wnaXoFw.md) | 01:02:08 | automatica |
+| 2022-10-24 | [Bolsonaro AVANÇA Sobre os INDECISOS + Sabotagem na RETA FINAL? + Última SEMANA de Campanha.](2022/2022-10-24-VNrFN47mJxk.md) | 01:01:30 | automatica |
+| 2022-10-23 | [Bolsonaro SEM FREIO! - Tudo Dando CERTO na RETA FINAL + Furando a BOLHA: Lives, TV e Empresários.](2022/2022-10-23--QKR2weEO1o.md) | 00:58:57 | automatica |
+| 2022-10-22 | [BOLSONARO vs [VC Sabe]: Maré de VIRADA + Bolsonaro CONQUISTA Indecisos + CPI das PESQUISAS.](2022/2022-10-22-6OIWt21h830.md) | 01:00:52 | automatica |
+| 2022-10-21 | Intro 21-10-22 | 00:00:07 | sem_legenda |
+| 2022-10-20 | [JAIR vs [VC Sabe QUEM] - Pesquisas Fazem ESQUERDA entrar em PÂNICO + Meirelles, Ruído e Democracia?](2022/2022-10-20-ZjvyBv3ynrQ.md) | 01:05:27 | automatica |
+| 2022-10-19 | [Análise: Em meio ao CAOS, Bolsonaro CRESCE e Vai MUITO BEM + O Bigode RESISTE +  [CENSUR4DO]](2022/2022-10-19-qTqJsNphQ58.md) | 01:01:12 | automatica |
+| 2022-10-18 | [JAIR vs LULA: Mudança de Tom para "SEGURAR VANTAGEM" + Mentiras e Mídia + Nova INVESTIDA Contra AGRO](2022/2022-10-18-zZZWF1LcZms.md) | 01:05:27 | automatica |
+| 2022-10-17 | [Análise DEBATE: Bolsonaro GANHOU, mas o Que foi GANHO?  E Por Que GANHOU? + Kim Paim o 7º DETRATOR?](2022/2022-10-17-ps-HuI02grE.md) | 01:04:39 | automatica |
+| 2022-10-16 | [DESESTABILIZADO: Lula NÃO SABE como CONTER o CRESCIMENTO de Bolsonaro + FFAA na MIRA da Esquerda.](2022/2022-10-16-prqkWOEkm90.md) | 01:04:55 | automatica |
+| 2022-10-15 | [PRISÃO e Orçamento SECRETO + "Nem  o PT Acredita na VITÓRIA" + Os SINAIS de MG e CRESCIMENTO do JB](2022/2022-10-15-JR_B50ryLyM.md) | 01:05:19 | automatica |
+| 2022-10-13 | [Bolsonaro: o ESCÁRNIO Inaceitável + Um COMÍCIO Muito ESTRANHO + Pacheco PROTEGENDO as Pesquisas?](2022/2022-10-13-nk4Q956Lh-0.md) | 00:59:21 | automatica |
+| 2022-10-12 | Intro 12-10-22 | 00:00:07 | sem_legenda |
+| 2022-10-11 | [O Grupo onde BOLSONARO Perdeu + Dirceu CONFIRMA PLANO de Lula + Pai do FRALDA fez o L e o JANONES.](2022/2022-10-11-13tZS9q_MWE.md) | 01:01:24 | automatica |
+| 2022-10-10 | [Vento SOPRA pra Bolsonaro e LULA Enfrenta DESEMBARQUE + Debates: LULA vai Fugir? + NOVAS Mentiras.](2022/2022-10-10-yTk1_DjwPI0.md) | 01:02:16 | automatica |
+| 2022-10-09 | [Análise: JAIR vs LULA - 7 Dias de VITÓRIA e o Sinal de MUDANÇA da DIREÇÃO + Mentiras do Danones.](2022/2022-10-09-VWRIpOHFPqs.md) | 01:03:18 | automatica |
+| 2022-10-08 | [Bolsonaro na VANTAGEM, Lula PREOCUPADO + Pesquisas MUDANDO: Medo de CPI? + Quem está MENTINDO?](2022/2022-10-08-Om4ZV4VuixQ.md) | 01:01:08 | automatica |
+| 2022-10-07 | [LULA em QUEDA: Nova GAFE e FALTA de Apoio + Bolsonaro e o PODER da MÁQUINA + A Onda VIRA-VOTOS.](2022/2022-10-07-mXBLHk-ZYiQ.md) | 01:03:33 | automatica |
+| 2022-10-06 | [Pesquisas: BOLSONARO na FRENTE e CPI + Lula: Campanha NÃO Embala + ADEUS Pacheco.](2022/2022-10-06-nnnX2K_PtnM.md) | 01:03:10 | automatica |
+| 2022-10-05 | [Análise: MELHOR Dia de TODA a CAMPANHA do Jair + ABANDONO: Lula Começa a PERDER Apoios + Pesquisas.](2022/2022-10-05-Y0T9Q36QMEA.md) | 01:02:49 | automatica |
+| 2022-10-04 | [2º TURNO: Bolso-Zema e Fator "FICHA-CAIU" + Tristeza DOMINA Campanha do LULA + CPI das PESQUISAS ?](2022/2022-10-04-0Huan8Zvqmc.md) | 01:03:01 | automatica |
+| 2022-10-03 | [Análise das Eleições: As VITÓRIAS do JAIR e PROBLEMAS do LULA + Aras pode INVESTIGAR Pesquisas.](2022/2022-10-03-ONHD25xCf44.md) | 01:07:30 | automatica |
+| 2022-10-02 | [Bolsonaro VENCEU no Japão! + Novos APOIOS de Última Hora + Mídia MUDA DISCURSO, ABANDONARAM Lula?](2022/2022-10-02-ZEixkBK9it8.md) | 00:52:42 | automatica |
+| 2022-10-01 | [JAIR vs LULA: Reviravolta na RETA FINAL + REVELADO Bastidor do LULA com GLOBO + Sinais Surgindo!!!](2022/2022-10-01-Qey6QpdhLp8.md) | 01:06:18 | automatica |
+| 2022-09-30 | [Dossiê: DEBATE GLOBO - Bolsonaro VENCEU Lula segundo PESQUISA QUALITATIVA + O Impacto do Neymar.](2022/2022-09-30-w1rAb5hZQQM.md) | 01:05:21 | automatica |
+| 2022-09-29 | [Bolsonaro vs Lula - INTERESSES Internacionais +Análise: JAIR tem MOTIVOS para se ANIMAR.](2022/2022-09-29-604RN3d7C3c.md) | 01:03:50 | automatica |
+| 2022-09-28 | [JAIR vs LULA: Oligarcas e Sindicalistas CONTRA o POVO + Entrevista do Guedes + Lula PERDE na Justiça](2022/2022-09-28-tBSOQGRLGYo.md) | 01:03:08 | automatica |
+| 2022-09-27 | [Bolsonaro vs Lula: Preocupações do DEBATE + Ciro faz DENÚNCIA Contra LULA + Lula ELOGIA Fidel Castro](2022/2022-09-27-bFSLJOM82-U.md) | 01:04:02 | automatica |
+| 2022-09-26 | [LULA Colocou TUDO a PERDER em Nova "GAFE" + Bolsonaro GANHA Apoios INESPERADOS e tem ONDA FAVORÁVEL.](2022/2022-09-26-sK8k7rGMdj0.md) | 00:59:54 | automatica |
+| 2022-09-25 | [ANÁLISE do DEBATE: Bolsonaro VENCE e tem OUTROS Motivos para COMEMORAR + Nem a MÍDIA Ajudou o Lula.](2022/2022-09-25-_BPUMK_0_Ho.md) | 01:02:09 | automatica |
+| 2022-09-24 | [Debate: Bolsonaro VAI, Lula FOGE. Desmentido a DESCULPA + MBL, Ciro e a JOGADA + Mudança em Minhas.](2022/2022-09-24-k-JtuhF0x4I.md) | 01:05:51 | automatica |
+| 2022-09-23 | [ANÁLISE: Jair vs Lula - Mudança de RESULTADO, Nova INTERPRETAÇÃO + Gabas e FHC de Volta com o PT ?](2022/2022-09-23-6MXN7ejHlLc.md) | 01:02:28 | automatica |
+| 2022-09-22 | [Dossiê: SEGREDO - Lula ESCONDE Plano de Governo + Foro de SP Ataca CIRO GOMES + Tesouras 2022.](2022/2022-09-22-XfJt-wn7fCs.md) | 00:58:54 | automatica |
+| 2022-09-21 | [Lula FOGE de Debate, Mas Terá REUNIÃO Secreta + Alerta: Pressão INTERNACIONAL + Bolsonaro na ONU.](2022/2022-09-21-jfsiC2b9QJc.md) | 01:04:43 | automatica |
+| 2022-09-20 | [LULA Chamou MEIRELLES: Políticas que Podem QUEBRAR o Brasil + Bolsonaro CONTRA União Europeia.](2022/2022-09-20-GIvT1SGuoN0.md) | 01:05:11 | automatica |
+| 2022-09-19 | [Dossiê: JAIR vs LULA - O Dado que CHOCOU o LULA - Análise COMPLETA das CAMPANHAS na RETA FINAL.](2022/2022-09-19-bcDMwCIpBhs.md) | 01:02:38 | automatica |
+| 2022-09-18 | [Batalha Psicológica: PESQUISA da GLOBO pode AJUDAR Lula, Entenda + Campanha de BOLSONARO Avança!](2022/2022-09-18-Osnn7ZEIjEs.md) | 01:05:16 | automatica |
+| 2022-09-17 | [Campanha de LULA Pede ARREGO pra Ex-CANDIDATOS + Bolsonaro GANHA Reforços + JANJA e LULA Derrapam.](2022/2022-09-17-zqejKBcdrBU.md) | 01:04:20 | automatica |
+| 2022-09-16 | [JB Dispara: Rio PREOCUPA Lula, diz GLOBO + Nova CARTA e PRESSÃO Internacional + Voto de Direita.](2022/2022-09-16-MBG69fQGaCE.md) | 01:02:52 | automatica |
+| 2022-09-15 | [17 Dias: Campanha de LULA entra em PARAFUSO + Bolsonaro CRESCE em NOVO Eleitorado + Lula e ESG.](2022/2022-09-15-WeUEtHsrzJQ.md) | 01:04:39 | automatica |
 |  |  |  | erro |
 |  |  |  | erro |
