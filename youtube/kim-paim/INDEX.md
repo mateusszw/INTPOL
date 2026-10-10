@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-1000 vídeos transcritos, 2 sem legenda.
+1124 vídeos transcritos, 3 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -1006,4 +1006,129 @@
 | 2024-01-12 | [Lula: Revela que SONHAVA Com um POLÍTICO no Supremo + JovemPan VENCEU a Censura + Caos Educacional.](2024/2024-01-12-N7qkxIyQ1hU.md) | 01:05:14 | automatica |
 | 2024-01-11 | [A MÁQUINA de PROPAGANDA: A Importação da Agenda + Lula: O PEDIDO à Pacheco e a AJUDA da ONU.](2024/2024-01-11-KkbTkb5gHgo.md) | 01:05:08 | automatica |
 | 2024-01-10 | [Agenciado na MYND no Governo + O INTOCÁVEL e o NOVO Ministro da Justiça + Dia 8 FRACASSOU Pra Mídia.](2024/2024-01-10-9XOqI4pNchw.md) | 01:02:39 | automatica |
+| 2024-01-09 | [Dossiê: ATO VERMELHO - Dia 8 de LULA e Globo FRACASSOU + Biden e ONU Mandam RECADO + O Caso do Zema.](2024/2024-01-09-ACVD_8aeeE0.md) | 01:06:12 | automatica |
+| 2024-01-08 | [ESPECIAL 8 de Janeiro: O MARCO DE UMA NOVA ERA - O Início do FIM ou o Começo da REDENÇÃO?](2024/2024-01-08-2ii0Z8kAUQY.md) | 01:09:39 | automatica |
+| 2024-01-07 | [REVELAÇÃO De Ministro de LULA Desmascara o Dia 8 + Bolsonaro e os Hereges + A Pacificação da Picanha](2024/2024-01-07-33RXQbfJT_4.md) | 01:06:52 | automatica |
+| 2024-01-06 | [Escândalo CHOQUEI-MYND: Globo ENTRA em Campo + Lula é DESMENTIDO Pel ESQUERDA + O Campeão Nacional.](2024/2024-01-06-kJDLtSnAqDs.md) | 01:06:42 | automatica |
+| 2024-01-05 | [Dossiê: O LULA ARANHA - Escândalo das FOFOCAS e as ELITES Nacionais. Bancos, Políticos e a GLOBO.](2024/2024-01-05-yhPnMOcAsZQ.md) | 01:17:44 | automatica |
+| 2024-01-04 | [Dossiê: MYND UR BUSINESS - Um GABINETE Ainda PIOR + CPI da FOFOCA e Repercussão Pelo País.](2024/2024-01-04--7vOelAJnzE.md) | 01:12:42 | automatica |
+| 2024-01-03 | [Dossiê: MYND8 - Os PORÕES do TOPO da PIRÂMIDE. Os Vínculos CONCRETOS com a Esquerda e o ABAFA Geral.](2024/2024-01-03-aB2XhpT-EV4.md) | 01:01:43 | automatica |
+| 2024-01-02 | [REVIRAVOLTA no Caso CHOQUEI + O Polêmico EDITORIAL do Estadão + O MEDO da Direita em 2024.](2024/2024-01-02-eshUiYGetCg.md) | 01:05:54 | automatica |
+| 2023-12-31 | [Dossiê: O CALOTE - Lula, Bolsonaro Ou Consórcio? QUEM Vai EXPLICAR ? + Galo DESNUDA a Esquerda.](2023/2023-12-31-Fw4z0_DqETU.md) | 01:03:13 | automatica |
+| 2023-12-30 | [Lula AFRONTA Congresso e ONU Pede PL2630 + ACERTAMOS: 2024 e os Conselhos + SAFRA: O Que NINGUÉM Viu](2023/2023-12-30-Q24l1_M-SxA.md) | 01:04:12 | automatica |
+| 2023-12-29 | [PF Contra NIKOLAS ? + Choquei DESMASCARADA e UNIÃO Globo-Lula + Milei, Trump e Desafios da DIREITA](2023/2023-12-29-Rbp4T0KMXoM.md) | 01:07:50 | automatica |
+| 2023-12-28 | [Dossiê: NEOCOLONIALISMO - Miriam Leitão, LULA, Barbalho e a FALSA Competitividade CONTRA o Brasil.](2023/2023-12-28-XtN3VfB68H8.md) | 01:04:36 | automatica |
+| 2023-12-27 | [Haddad e Globo: A Grande MENTIRA do Diesel + CERCO Contra Bolsonaro: PF e PGR em 24 + CHOQUEI Parte4](2023/2023-12-27-N9JimYNQs-c.md) | 01:03:04 | automatica |
+| 2023-12-26 | [CHOQUEI Parte 3: NOVAS Denúncias + O LUXO de Lula e o DECRETO de Bosonaro + Importando Lacração.](2023/2023-12-26-1_cfOAPYiI8.md) | 01:03:07 | automatica |
+| 2023-12-25 | [LULA vs BOLSONARO: A Verdade do Brasil de 2023 - Atlas Brasileiro, o Almanaque da História Nacional.](2023/2023-12-25-PNfAWErfTFw.md) | 01:24:35 | automatica |
+| 2023-12-24 | [Dossiê: IMPÉRIO DA FOFOCA - A CHOQUEI é APENAS a PONTA do ICEBERG + BigTechs Dão LIÇÕES pro RUMBLE.](2023/2023-12-24-dBlLmuXWjmo.md) | 01:07:49 | automatica |
+| 2023-12-23 | [Dossiê: CHOQUEI - Da IRRESPONSABILIDADE à CENSURA + O Adeus do RUMBLE e a Lição + Ciclo do SALVADOR](2023/2023-12-23-YfzNQlN_OGM.md) | 01:05:12 | automatica |
+| 2023-12-22 | [E Agora Brasil? MERCADO de CARBONO Foi APROVADO + Rating BB: As MENTIRAS Lulistas + Eleições em SP.](2023/2023-12-22-u7kd-47UKDs.md) | 01:05:43 | automatica |
+| 2023-12-21 | [As MENTIRAS de Lula e Orlando Silva + ISENTÕES Dão BOTE Errado + A Decisão da J&F e o Armínio Fraga.](2023/2023-12-21-SicvTUUYUT8.md) | 01:15:22 | automatica |
+| 2023-12-20 | [NOVO Escândalo: Dilmo, JBS e a BUCHA + Juscelino se ENROLA de Novo + A MAMATA da Rouanet e da ONU.](2023/2023-12-20-NNyTD2bSwl0.md) | 01:12:32 | automatica |
+| 2023-12-19 | [Globo DIZ que CASOS de Bolsonaro VÃO Avançar + LULA e FINANCIADORES da Tabata + 2021 e Geladeiras.](2023/2023-12-19-xqMszO8JHZ4.md) | 01:00:29 | automatica |
+| 2023-12-18 | [DELAÇÃO de Cid MUDA de MÃOS + O Que NINGUÉM Viu nas Geladeiras de R$5 Mil + O ZAGUEIRO de Lula.](2023/2023-12-18-l0eJ3UdDJt0.md) | 01:05:03 | automatica |
+| 2023-12-17 | [Dossiê: UEGA - Os AMIGOS do REI Fazem a Festa + Lula PEGO na MENTIRA + Jornalista da Globo CANCELADO](2023/2023-12-17-jJLFunjDmaA.md) | 01:05:22 | automatica |
+| 2023-12-16 | [Lula vs Bolsonaro: a PIRÂMIDE Invertida + Globo, Moro e Batoré + Haddad vs Trump: Economia Nacional.](2023/2023-12-16-834CmbXKV7Y.md) | 01:06:48 | automatica |
+| 2023-12-15 | [Lula Fala que DINO Será um COMUNISTA no Supremo + MPE Pede CASSAÇÃO de Moro + União DiDireita e JBS.](2023/2023-12-15-dOl2ZeC2rTI.md) | 01:04:24 | automatica |
+| 2023-12-14 | [Dossiê: O ABRAÇO - Moro EXPÕE Deltan em MENSAGENS. A Repercussão de um Dia FATÍDICO.](2023/2023-12-14-f8jExsB93Vs.md) | 01:07:43 | automatica |
+| 2023-12-13 | [A SABATINA do Fatídico dia 13 + Bolsonaro ELEGÍVEL? Os FATORES que PODEM Influenciar 2026.](2023/2023-12-13-K0aRANHSsrk.md) | 01:09:00 | automatica |
+| 2023-12-12 | [Dossiê: PULOU DO CAVALO - Nando Moura  nos DOCUMENTOS da CPMI + O AMOR de Kassab-Dino & Lula-JBS.](2023/2023-12-12-9k4HMzzWiBc.md) | 01:08:47 | automatica |
+| 2023-12-11 | [Dossiê: PETARDOS - Relatórios do SNI Sobre LULA e Seu PASSADO Sombrio + Jair, Milei e Manifestações.](2023/2023-12-11-msH7wSTzcyc.md) | 01:12:48 | automatica |
+| 2023-12-10 | [Janja FALA em PRISÃO de Bolsonaro + FINALMENTE um PLANO Viável da Direita + Os ENSINAMENTOS do UP.](2023/2023-12-10-x3cv2MjDCYE.md) | 01:06:23 | automatica |
+| 2023-12-09 | [58 Segundos: a TRATORADA de Bolsonaro + Estadão DESMENTE Globo + Lula Com MEDO da Direita em 2024.](2023/2023-12-09-1NEMxo2IALg.md) | 01:06:23 | automatica |
+| 2023-12-08 | [O ÚNICO Homem que Lula Tem MEDO em 2024 + Esconderam Binho Galinha + Dilmo DERRETE no IPEC.](2023/2023-12-08-coc-Ix-scb0.md) | 01:02:25 | automatica |
+| 2023-12-07 | [Lula se SUPERA Com DORIA e ESTATAIS + O PDL e a Chance DESPERDIÇADA + Bolsonaro e CRISE Educacional.](2023/2023-12-07-_47uthk_V3c.md) | 01:01:51 | automatica |
+| 2023-12-06 | [Lula Passa VERGONHA nos Jornais da Alemanha + Povo ACORDOU e Governo DERRETE + A Preocupação de JAIR](2023/2023-12-06-sPlyfH4EP-w.md) | 01:08:30 | automatica |
+| 2023-12-05 | [FLAGRA no Min. de LULA na Alemanha + O Avanço e EVOLUÇÃO do Bolsonarismo + A FOTO de Alckmin e Doria](2023/2023-12-05-LUNQLBSxVGo.md) | 01:11:39 | automatica |
+| 2023-12-04 | [Dossiê Histórico: O MARCO - O Nascimento da PERSEGUIÇÃO à DIREITA e os SEGREDOS do Passado.](2023/2023-12-04-KMeQhAYgSqc.md) | 01:13:23 | automatica |
+| 2023-12-03 | [Indicação: SNI Fez Dossiê de Dino em 89 + Lula se Humilha na COP e Enfrenta CRISE na Esquerda.](2023/2023-12-03-MXfYrsfVAag.md) | 01:08:48 | automatica |
+| 2023-12-02 | [Dossiê: A REDESCOBERTA - O Passado do Dino, a TRAIÇÃO do Lula e BOLSONARO Contra os DONOS do MUNDO.](2023/2023-12-02-diCC3_kCJlc.md) | 01:10:24 | automatica |
+| 2023-12-01 | [Consórcio DESESPERADO Com Judiciário + A Gênese do MAL foi EXPOSTA + FISSURA: Lula o NeoLiberal.](2023/2023-12-01-7uhZiG-0EME.md) | 01:02:36 | automatica |
+| 2023-11-30 | [Novo ESCÂNDALO Respinga em LULA + A Indicação do Dino e o ENQUADRO no Consórcio + Haddad vs Jair.](2023/2023-11-30-twbeYD1DVPA.md) | 01:02:12 | automatica |
+| 2023-11-29 | [Indicação SUPEMA: Metrópoles REVELA os Motivos do LULA + COP28 e FIM da Carne + Liberais e Alckmin.](2023/2023-11-29-dHOf5P5NfhU.md) | 01:04:53 | automatica |
+| 2023-11-28 | [Dossiê: RACHADONES - Caso Janones é MUITO MAIOR, Traga o MBL e RESPINGA nas INDICAÇÕES do LULA.](2023/2023-11-28-Y8NJhqcsQnU.md) | 01:07:36 | automatica |
+| 2023-11-27 | [Dossiê: DANDO UM TRANCO - O Plano do DIRCEU e Lula + Delação MIOU, Dino na CORTE e Manifestações.](2023/2023-11-27-YF5zVH1y170.md) | 01:10:00 | automatica |
+| 2023-11-26 | [Dossiê: TRUCULÊNCIA - ESCÂNDALO no Lulismo RESGATA Passado Obscuro e CONSÓRCIO Recria TESOURA.](2023/2023-11-26-cB3QTqu8WjY.md) | 01:08:34 | automatica |
+| 2023-11-25 | [Dossiê: PECFICAÇÃO - A Artimanha de LULA Numa Mão e a MÁGICA na OUTRA. Após 1 ano a RESPOSTA Aperece](2023/2023-11-25-r64s2vlJVdk.md) | 01:11:32 | automatica |
+| 2023-11-24 | [Dossiê: A PEC - A MAIOR Crise do ANO + Lula, Pacheco e Lira: O Que JÁ se SABE e o QUE Vem Por Aí?](2023/2023-11-24-aRARWgO0ixQ.md) | 01:02:50 | automatica |
+| 2023-11-23 | [VITÓRIAS: Bolsonaro, PL e Direita + PEC Cria CRISE pra Lula + NOVO ESCÂNDALO: Juscelino Apronta.](2023/2023-11-23-tBoP-5kGVAs.md) | 01:01:50 | automatica |
+| 2023-11-22 | [Lula DERRETEU em Pesquisa e Haddad vem com CONTABILIDADE CRIATIVA + Bolsonaro, Tributária e Direita.](2023/2023-11-22-PctXfrjBSCU.md) | 01:12:20 | automatica |
+| 2023-11-21 | [Lula ACELERA PLANO Contra MILEI e Brasil + O Segredo de Carlos Teixeira + Jair vs Valdemar e Duda.](2023/2023-11-21-LKTaVonbi0Y.md) | 01:17:18 | automatica |
+| 2023-11-20 | [VITÓRIA do Milei é DERROTA pro Lula + PT e Globo CONTRA Estadão + Bolsonaro e o CASO da Bandeira.](2023/2023-11-20-Zbxs5bnyxLQ.md) | 01:12:46 | automatica |
+| 2023-11-19 | [Estadão SERÁ Cassado? LULISTAS Vão pro TUDO ou NADA + Globo ABAFA e Põe CULPA em Bolsonaro.](2023/2023-11-19-Gld3cwEl_Nw.md) | 01:04:26 | automatica |
+| 2023-11-18 | [A Dama do CV Expõe e HUMILHA Lula + JB vs Dilmo: Sem VASSALAGEM + Cuidado com o POKEMON.](2023/2023-11-18-3emkasOJW8o.md) | 01:06:50 | automatica |
+| 2023-11-17 | [Dossiê: PORTO DE TRAIÇÕES - Vazamento dos CONCHAVOS dos OPORTUNISTAS + DAMA do CV: Escândalo Parte 5](2023/2023-11-17-7jMPPqf8TSU.md) | 01:12:56 | automatica |
+| 2023-11-16 | [Escândalo SEM FIM: Funcionários DESCUMPREM Lei e GLOBO Entra em Campo + TRAIÇÃO à Vista: JB e 2026.](2023/2023-11-16-Dj6PecWWcg4.md) | 01:08:43 | automatica |
+| 2023-11-15 | [Escândalo do CV: MDH PAGOU Viagem e MJ Deu ANDAMENTO + Lula Tá PERDIDO e Alckmin se SUPERA.](2023/2023-11-15-twWEcVOWjmw.md) | 01:06:03 | automatica |
+| 2023-11-14 | [Novo ESCÂNDALO do CV: Qual a DESCULPA Agora Lula? + O Repatriado Picanheiro Reaparece + Títulos ESG.](2023/2023-11-14-UrjrhlYvzbI.md) | 01:02:43 | automatica |
+| 2023-11-13 | [ESCÂNDALO: As Visitas do CV, e Agora Lula? + O CUSTO Bolsonaro e os Traíras + O Repatriado da Globo.](2023/2023-11-13-Kwg52tYwNTA.md) | 01:04:37 | automatica |
+| 2023-11-12 | [Delação: Procurador vs O Intocável de Lula + Ministro Defende MST + Dilmo e o IMPOSTO Progressivo.](2023/2023-11-12-Q6ZWu9xkxhI.md) | 01:05:56 | automatica |
+| 2023-11-11 | [A Delação da GLOBO: Um SURTO de Verdade + Jair vs Lula: A Repatriação, a REFORMA e a CRISE Econômica](2023/2023-11-11-2DBq97i5-i8.md) | 01:07:10 | automatica |
+| 2023-11-10 | [Dossiê: A BUCHA - Ela Ainda EXISTE Entre NÓS!!! + Bolsonaro vs Bucheiros: A REFORMA e o Consórcio.](2023/2023-11-10-B5W-cTlMqCs.md) | 01:15:38 | automatica |
+| 2023-11-09 | [FRACA e NARRATIVA: Procurador VOLTA a CRITICAR Delação + Bolsonaro PEITA a Reforma e VALDEMAR o Traí](2023/2023-11-09-RwdhkW0_LiY.md) | 01:07:06 | automatica |
+| 2023-11-08 | [Bolsonaro: PGR DESMORALIZA Delação de Cid + O ALERTA da RENÚNCIA do Aliado de LULA + Tributária.](2023/2023-11-08-1mJTtn4VmJU.md) | 01:08:16 | automatica |
+| 2023-11-07 | [Milei DENUNCIA Lula e MERCADO se Desespera com META + Direita: DEFESA da Soberania EXPÕE Picanheiros](2023/2023-11-07-BzUGkFXatUE.md) | 01:12:31 | automatica |
+| 2023-11-06 | [O ENEM do Lula: LACRAÇÃO e Críticas ao AGRO + Bolsonaro: PLANO pro SENADO + VAZOU o Estudo do ROMBO!](2023/2023-11-06--K7vFZ1s-jo.md) | 01:01:09 | automatica |
+| 2023-11-05 | [Dossiê: ESPÓLIOS - A União "DiDireita" Quer Virar PSDB + DELAÇÃO Fraca! A ENTREVISTA do Procurador.](2023/2023-11-05-Fhr2Wgc7Bfk.md) | 01:04:30 | automatica |
+| 2023-11-04 | [Dossiê: BURSCHENSCHAFT - A Maior Sociedade SECRETA do Brasil. As FAMÍLIAS e os OLIGOPÓLIOS Nacionais](2023/2023-11-04-qVMfIJMQjlw.md) | 01:14:53 | automatica |
+| 2023-11-03 | [GLOBO Tentou, MAS Lula HUMILHOU Haddad + Bolsonaro: o PLANO pra 2024, o Partido e o LEGADO.](2023/2023-11-03-wgCkLHxU0Y0.md) | 01:04:50 | automatica |
+| 2023-11-02 | [Novos ESCÂNDALOS: Juscelino e Petrobras + GLO: a DERROTA de LULA + Jair e Brasil: a CHANCE Perdida.](2023/2023-11-02-_ogXbusnM_s.md) | 01:09:54 | automatica |
+| 2023-11-01 | [Lula e Haddad em APUROS: O Fracasso GENERALIZADO + Bolsonaro vs Valdemar: FUTURO da Direita e do PL.](2023/2023-11-01-vLIo-FheJRE.md) | 01:10:16 | automatica |
+| 2023-10-31 | [Haddad SURTOU e Dilmo COLOCOU País à DERIVA + O Pescador de TROUXAS e OBA-OBA do Mercado.](2023/2023-10-31-LQPHQIzYewg.md) | 01:02:50 | automatica |
+| 2023-10-30 | [Feitiço CONTRA o Feiticeiro: LULA e as Articulações ESCRACHADAS + JB e PL: Valdemar APRONTA de NOVO.](2023/2023-10-30-Nc8YtsZUjJE.md) | 01:08:22 | automatica |
+| 2023-10-29 | [Entenda a CRISE do Lula com a Militância e DESEMBARQUE da Base + O Grande ACERTO da DIREITA.](2023/2023-10-29-vf-xFXQzr_0.md) | 01:05:24 | automatica |
+| 2023-10-28 | [Dia L: Lula DESAUTORIZA Haddad, MÍDIA Pula do Barco e Mercado DESABA + Bolsonaro: o FOCO da Direita.](2023/2023-10-28-TXo0jND32e8.md) | 01:07:18 | automatica |
+| 2023-10-27 | [Por que Bolsonaro? É o SOBRENOME? + A Preocupação RIDÍCULA do Dilmo + Ramagem MARCA um GOLAÇO !!!](2023/2023-10-27-l0hVk5oAjBg.md) | 01:06:15 | automatica |
+| 2023-10-25 | [Lula e o Fujão: CAOS na Segurança e o "CONTROVERSO" Acordo GLOBAL + Adeptos do GRUPO-H e o ISENTÃO.](2023/2023-10-25-MRuJHBow3VM.md) | 01:02:53 | automatica |
+| 2023-10-24 | [Dossiê: CPI 1989 - Os RELATÓRIOS sobre Lula, PT e LOVEJOY. O Plano CONTRA o Brasil.](2023/2023-10-24-yvceLqMWfgs.md) | 01:15:04 | automatica |
+| 2023-10-23 | [Cadeira do LULA Está ESQUENTANDO + Bolsonaro vs Banqueiro: O Embate ESG + Milei e FUTURO da Direita.](2023/2023-10-23-wXIYyR5Cfao.md) | 01:02:11 | automatica |
+| 2023-10-22 | [FRUSTRAÇÃO: Lula DESMASCARADO Pela Base + Monark e Valdemar UNIDOS Contra Bolsonaro + Selo VERDE.](2023/2023-10-22-dxSm8G1H7-Q.md) | 01:14:37 | automatica |
+| 2023-10-21 | [Dossiê: MEIAS-MENTIRAS - Lula, Moro, OCDE, Bolsonaro e a FALSA Polarização + Brasil à VENDA: €12,00B](2023/2023-10-21-gU_hTNHx9yA.md) | 01:09:51 | automatica |
+| 2023-10-20 | [Dossiê: A PONTE - o ACORDÃO Entre LULA, Biden e MADURO + Haddad, MILEI e ESG + Janones tá MAL.](2023/2023-10-20-PfF6Qd8J_qI.md) | 01:06:16 | automatica |
+| 2023-10-19 | [Novo ESCÂNDALO: Caiu o PRESIDENTE da EBC + Waack EXPÕE a Globo! + Bolsonaro, COAF e PIX de R$2,00.](2023/2023-10-19-udh8R8d8hg0.md) | 01:04:49 | automatica |
+| 2023-10-18 | [Bolsonaro INOCENTADO e G.Dias POUPADO + Lula e PT: As Ações SOMBRIAS + Crise na Esquerda e Economia.](2023/2023-10-18-dZXOifMpGjQ.md) | 01:06:48 | automatica |
+| 2023-10-17 | [O Servidor INTOCÁVEL de Lula + Enganação: A FALSA Crítica INTERNACIONAL + BANCARROTA à Brasileira.](2023/2023-10-17-WF3RBVwE7pY.md) | 01:03:01 | automatica |
+| 2023-10-16 | [Dossiê: OS PIRATAS - Lula, Henry Wickham, a AGENDA ANTI-BRASIL e os Heróis ESQUECIDOS.](2023/2023-10-16-XiJlfsOdm0s.md) | 01:12:01 | automatica |
+| 2023-10-15 | [Bolsonaro EXPÕE a Farsa no Norte + Lula Se EQUILIBRA Entre RACHA + Nelipe Foca e o Caso do BIS.](2023/2023-10-15-VwjZAhHdMR0.md) | 01:06:02 | automatica |
+| 2023-10-14 | [O ALERTA de Jair e Alexandre Garcia + Esquerda ASSUME Censura + As PLANTAS que Valem OURO e SOROS.](2023/2023-10-14-JgEP7Gb--Qs.md) | 01:08:24 | automatica |
+| 2023-10-13 | [Mordendo o PRÓPRIO Rabo: Lula e o Consórcio São DESMASCARADOS + A Fixação em Bolsonaro e PL-Carbono.](2023/2023-10-13-ROZ6RIh4Veg.md) | 01:05:35 | automatica |
+| 2023-10-12 | [O LOBBY do MAL: Mais REVELAÇÕES do Tenório + Lula e Marina: A Imposição do ATRASO + Calote e Batcu.](2023/2023-10-12-iSTxEhQwb5s.md) | 01:02:00 | automatica |
+| 2023-10-11 | [ESCÂNDALO do Servidor: Lula e Esquerda Expostos + 130 ONGs: Imposto do PECADO + Isentões REVOLTADOS.](2023/2023-10-11-qOAdrdXtEjA.md) | 01:07:27 | automatica |
+| 2023-10-10 | [Dossiê: A FAMÍLIA - Lula, os ROTHSCHILD, a Compra do Acre e Mauá. A Armadilha da DÍVIDA Começa em 22](2023/2023-10-10-M5fjhDR6vWQ.md) | 01:09:10 | automatica |
+| 2023-10-09 | [Dossiê: FUNDAÇÃO FORD - Lula, FHC e a ORIGEM do Teatro. Até PADRE Cícero Alertou.](2023/2023-10-09-1TPrRhiNysM.md) | 01:10:49 | automatica |
+| 2023-10-08 | [Lula vs Jair: O CONFLITO e o Consórcio + Temer DEFENDEU o Dia 8? + Estão COMPRANDO o Brasil.](2023/2023-10-08-YWTu7WaPfKU.md) | 01:07:50 | automatica |
+| 2023-10-07 | [Lula: A MENTIRA do Caso ISOLADO e a GLOBO + Esquerda vs Bolsonaro: A CONFISSÃO da Insegurança.](2023/2023-10-07-3cw-_OnAY-s.md) | 01:02:23 | automatica |
+| 2023-10-06 | [Dossiê: OVO DA SERPENTE - Argentinos REVELAM Tudo. E aí DILMO? + Itaipu e a VOLTA dos MAVs.](2023/2023-10-06-2Lb-ayC0QUI.md) | 01:08:08 | automatica |
+| 2023-10-05 | [MAIS um ESCÂNDALO: Lula, GLOBO e R$4 Milhões + Valdemar APRONTA e Crédito de Carbono é APROVADO.](2023/2023-10-05-Jyko_qPkkSY.md) | 01:06:43 | automatica |
+| 2023-10-04 | [Escândalo INTERNACIONAL: Dilmo e Hermanos + Vitórias da DIREITA e Choro da Mídia + Haddad e a CRISE.](2023/2023-10-04-eR9DCrFNHUw.md) | 01:06:27 | automatica |
+| 2023-10-03 | [Dossiê: OPORTUNISTAS - Esqueletos SAEM do Armário. Os DESAFIOS de Lula e Bolsonaro até 2026.](2023/2023-10-03-wq0QTmjz53c.md) | 01:07:19 | automatica |
+| 2023-10-02 | [Dossiê: WOKES - A Encruzilhada de LULA Diante RACHA na Base + FOLHA Defende JAIR da LavaJato2.0.](2023/2023-10-02-mnG5yoBI1kg.md) | 01:11:36 | automatica |
+| 2023-10-01 | [O EXPOSED de Valdemar e o OPORTUNISMO Laranja + A Indignação SAIU de Controle + Dilmo DERRETENDO.](2023/2023-10-01-G4KQDL4Xi0s.md) | 01:05:37 | automatica |
+| 2023-09-30 | [Bolsonaro MAIS FORTE do Que Nunca e PETISTAS Jogam a TOALHA + LULA Traiu PROMESSA e Enfrenta CRISE.](2023/2023-09-30-Iox3DLTKIj8.md) | 01:03:45 | automatica |
+| 2023-09-29 | [Lula vs Bolsonaro: Eles NÃO ERAM IGUAIS + Mendonça SALVA a LIBERDADE + Crise ENTRE Poderes e Haddad.](2023/2023-09-29-4vapWrFKfSA.md) | 01:04:16 | automatica |
+| 2023-09-28 | [LULA Sofre com Obstrução do CONGRESSO + Consórcio Se REBELA e COLAPSO Vem Aí + Bolsonaro e Direita.](2023/2023-09-28-qUSBOv_QPuM.md) | 01:05:01 | automatica |
+| 2023-09-27 | [Dossiê: CONVERGENTE - Lula e Soros MAIS UNIDOS do Que NUNCA + Direita TEM Oportunidade à Frente.](2023/2023-09-27-ct7-bwi6f5k.md) | 01:02:32 | automatica |
+| 2023-09-26 | [3 Escândalos em 1 Dia: LULA e GLOBO em SILÊNCIO + Bolsonaro e a ONDA Esquecida + Haddad: ESG Vem Aí.](2023/2023-09-26-RZh4zW62r28.md) | 01:04:53 | automatica |
+| 2023-09-25 | [Lula-Lemann: O Novo ESCÂNDALO no MEC + Bolsonaro Fala sobre FUTURO no CPAC + Consórcio Acordando?](2023/2023-09-25-ld2wwtTmZig.md) | 01:06:56 | automatica |
+| 2023-09-24 | [Dossiê: AS 13 PERGUNTAS - A Reação dos ALIADOS, o Ghost Writer e União ESTRANHA + Sol do LULA se Pôs](2023/2023-09-24-cqAYLoJhiBo.md) | 01:05:29 | automatica |
+| 2023-09-23 | [Dossiê: A VERDADE DÓI - Petistas DESMACARAM Lula, o RACHA se Intensifica? + "Didireita" Com Carbono](2023/2023-09-23-Kc-kmw1soWE.md) | 01:07:36 | automatica |
+| 2023-09-22 | [DELAÇÃO e Dia 8: Nem TUDO Que RELUZ é OURO + ONU, JBS e Marco Temporal + LULA e Crise Arrecadatória.](2023/2023-09-22-BZy0fQhczOo.md) | 01:06:37 | automatica |
+| 2023-09-21 | [Lula e Biden: PROMESSAS e FRALDAS + Voltra do DPVAT e Gasolina ESG + Julgamentos e Marco Temporal.](2023/2023-09-21-BcB-HNNhb08.md) | 01:06:27 | automatica |
+| 2023-09-20 | [Lula na ONU: Globo DESTACA Alinhamento ao Biden + Nova PESQUISA Abala PT + Bolsonaros vs Petismo.](2023/2023-09-20-_o6ulhpInCE.md) | 01:00:27 | automatica |
+| 2023-09-19 | [Lula PEDE Ajuda à BLACKROCK e Biden + Folha DESMASCARA o PT + FIM do Uber? + Tias do Zap e NPC do PT](2023/2023-09-19-LgFlX9VPKlo.md) | 01:09:06 | automatica |
+| 2023-09-18 | [Consórcio CRITICA Lula e Dino, e COMUNISTA Defende Bolsonaro + Dilmo no ONU com ESG e Green Bonds.](2023/2023-09-18-Dw76BmMXYMw.md) | 01:03:11 | automatica |
+| 2023-09-17 | [FIM de Uma ERA: Consórcio e Lula se DIVORCIAM? + Militância do PT em CRISE + Cuba, ONU e Carbono.](2023/2023-09-17-rgyBzgIZKPQ.md) | 01:01:32 | automatica |
+| 2023-09-16 | [Bolsonaro e o ZAP Salvador + Dia 8: Até a ESQUERDA Reclama + DataFolha PREOCUPA Lula.](2023/2023-09-16-QYM6xwqm6dg.md) | 01:07:50 | automatica |
+| 2023-09-15 | Sinais | 00:00:07 | sem_legenda |
+| 2023-09-14 | [Bolsonaro: ATUALIZAÇÕES da Delação, REPERCUSSÃO do Julgamento e IMPACTO Político + Lula e Militância](2023/2023-09-14-naJfVjOxhB4.md) | 01:06:25 | automatica |
+| 2023-09-13 | [Dossiê: AGENTE 03 - Eduardo PROMOVE Cisão e BOLSONARO Quebra Silêncio + O Inverno CHEGOU pro Lula.](2023/2023-09-13--cGynPWiLfk.md) | 01:16:52 | automatica |
+| 2023-09-12 | [Delação do Cid: PRIMEIRAS Informações + Bolsonaro e Lava-Jato 2.0 + Dilmo Passa VERGONHA de Novo.](2023/2023-09-12-4BVmGLBtWoQ.md) | 01:08:03 | automatica |
+| 2023-09-11 | [LULA: Novo ESCÂNDALO Ministerial e VERGONHA no G20 + Mídia Questiona DELAÇÃO Cid + Nikolas e Neymar.](2023/2023-09-11-Av1gBjZBcO0.md) | 01:04:54 | automatica |
+| 2023-09-10 | [Bolsonaro: DELAÇÃO de Cid e ELEIÇÕES + LULA no G20: SANÇÕES Contra o BRASIL? + Mídia vs Esquerda.](2023/2023-09-10-n4Oh9s_yjFk.md) | 01:04:15 | automatica |
+| 2023-09-09 | [Sen. AMERICANO Confronta LULA + "GAFES" do Dilmo e sua VIAGEM + Risco FISCAL e CONFUSÃO na Esquerda.](2023/2023-09-09-fR9xuIIh5L4.md) | 01:02:21 | automatica |
+| 2023-09-08 | [Fracasso do Dia 7: MUITA Narrativa, POUCO Povo + Bolsonaro e Eleições + Desdobramentos da Lava-Jato.](2023/2023-09-08-bX4W5pfzQzQ.md) | 01:09:29 | automatica |
+| 2023-09-07 | [O Choro dos CÚMPLICES: A Festa do Dilmo + As FOTOS Com Bolsonaro, e Agora? + Confusão no Governo.](2023/2023-09-07-x6USbrs-36s.md) | 01:06:03 | automatica |
+| 2023-09-06 | [Dilmo RADICALIZA e Enfrenta RACHA na Esquerda + Dossiê do GOVERNO Contra Bolsonaro + Valdemar e MBL.](2023/2023-09-06-itCxan5FOCg.md) | 01:10:02 | automatica |
+| 2023-09-05 | [Dossiê: HUDSON - Desde 1967 NADA é Por ACASO. Dilmo, Pacheco, Klaus, C.Roma e a VASSALAGEM.](2023/2023-09-05-pVTRIB_ffV4.md) | 01:14:47 | automatica |
 |  |  |  | erro |
