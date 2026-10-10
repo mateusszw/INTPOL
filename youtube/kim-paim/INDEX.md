@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-1914 vídeos transcritos, 111 sem legenda.
+2033 vídeos transcritos, 117 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -2029,6 +2029,131 @@
 | 2021-02-25 | [JovemPan: MORO pode Ser PRESO! + Daniel Silveira LIVRE em Breve? + DORIA e sua CRUELDADE](2021/2021-02-25-oPf1IcLVodY.md) | 00:57:33 | automatica |
 | 2021-02-24 | [A Ação mais CRUEL do Doria + Juristas discutem CRIMES do Time MORO +  JB Chocou o Mercado](2021/2021-02-24-xZGBVnkDmyc.md) | 00:59:31 | automatica |
 | 2021-02-23 | [Time MORO FORJOU Depoimento + Áudio "Vazado" da Petrobrás + Dep em RISCO no Conselho de Ética](2021/2021-02-23-Euy1UIa1E5g.md) | 00:58:14 | automatica |
+| 2021-02-22 | [Enfim Algumas BOAS Notícias + Dinheiro SEM Dono? + Máquina de MOER do STF pode Avançar](2021/2021-02-22-wNii1KqqZGY.md) | 00:57:52 | automatica |
+| 2021-02-21 | [Mais 1 INQUÉRITO... Mercadores do CAOS + Contra-Ataque a Caminho? + Bolsonaro e Petrobrás](2021/2021-02-21-u96ZLy9ppvg.md) | 00:58:39 | automatica |
+| 2021-02-20 | [Daniel foi MANIPULADO ? + Novo INQUÉRITO do Fim do Mundo + PNLD e o Lemann](2021/2021-02-20-xOJwPYKiWkM.md) | 00:56:53 | automatica |
+| 2021-02-19 | [DANIEL SILVEIRA: Surge NOVO Inquérito que MIRA mais Deputados + A. de Moraes MUDOU de Idéia](2021/2021-02-19-9zyla-en304.md) | 01:02:01 | automatica |
+| 2021-02-18 | [DANIEL SILVEIRA: Cassação, Prisão, Julgamento](2021/2021-02-18-8pj9feqjkQI.md) | 01:15:07 | automatica |
+| 2021-02-17 | [Dossiê: DANIEL SILVEIRA - Dep. foi PRESO por Alexandre de Moraes + O que NINGUÉM Percebeu](2021/2021-02-17-8haE3bNfPiA.md) | 00:59:30 | automatica |
+| 2021-02-15 | [Dossiê: MAGAZINE - As NEGOCIATAS do Poder + Mudanças ELEITORAIS para 2022 + PNLD ganha mais INIMIGOS](2021/2021-02-15-dSD_sSmssWQ.md) | 00:57:20 | automatica |
+| 2021-02-13 | [Bolsonaro Tem PROVAS Contra MORO + Doria SEM Partido + VITÓRIA do T-Livre + CIÚMES dos Bolsonaristas](2021/2021-02-13-UR6D0bko2JA.md) | 01:01:58 | automatica |
+| 2021-02-12 | [JB Tem mais um PROBLEMA para Resolver + DORIA Perdeu De Novo! + Otismismo do 339 vs 10 Anos em CASA](2021/2021-02-12-QJSU-5Jv2VA.md) | 00:59:59 | automatica |
+| 2021-02-11 | [Dossiê: DADOS - Proteja-se se for Capaz + DORIA Sofre DERROTA no PSDB + TCU Avança CONTRA Moro](2021/2021-02-11-RDU3qpSQs6U.md) | 00:59:52 | automatica |
+| 2021-02-10 | [Doria foi CONDENADO e JB foi INOCENTADO + Kassio Lula Livre? + Agora parece que VAI](2021/2021-02-10-Gcx68VAx5z8.md) | 00:59:59 | automatica |
+| 2021-02-09 | [Bolsonaro e MBL no mesmo partido? + MAIA precisa de Internação Hospitalar + A Consulta INFORMAL](2021/2021-02-09-XMbvOptN6pc.md) | 00:53:51 | automatica |
+| 2021-02-08 | [A ORDEM é Baixar a Temperatura no STF e no Parlamento + FINALMENTE Descobiram o Obvio + Atenção IoT](2021/2021-02-08-bAKkJXJnYWM.md) | 00:57:34 | automatica |
+| 2021-02-07 | [PF pede Indiciamento de GOV Ligado a DORIA + Amigo de MORO e A.MORAES Saindo de FININHO + JB vai bem](2021/2021-02-07-b1LQutPH8L0.md) | 01:01:22 | automatica |
+| 2021-02-06 | [Dossiê: PROCURADO$ - STJ Pede investigação CRIMINAL Contra LAVAJATISTAS + Crises CONFIRMAM o Cenário](2021/2021-02-06-VQ18fp4iqCI.md) | 00:59:21 | automatica |
+| 2021-02-05 | [Cenário é BOM, mas CCJ Assusta + MORO o Russo dos VAZAMENTOS + MAIA cria CRISE no DEM e namora PSL](2021/2021-02-05-K1aMjI6datA.md) | 00:58:50 | automatica |
+| 2021-02-04 | [Bolsonaro: PAUTA de Costumes é PRIORIDADE + STF Quer BIA Fora da CCJ? + Doria, Moro com MEDO](2021/2021-02-04-FvMGuQqS6hw.md) | 00:57:08 | automatica |
+| 2021-02-03 | [A Jóia da COROA é Nossa! + VOTO Auditável VAI Avançar + DORIA vs Constantino + 6x1 Virou 5x2](2021/2021-02-03-8xbwRhp89lI.md) | 00:59:09 | automatica |
+| 2021-02-02 | [6x1 com Direito a CHORO + FOFOCAS e Bastidores do Novo Biênio + Os PLANOS do Governo](2021/2021-02-02-uuXp8YgmZM0.md) | 01:03:14 | automatica |
+| 2021-02-02 | [VITÓRIA do Governo com 302 VOTOS! Maia Chorou!](2021/2021-02-02-ltQzs4C2kh8.md) | 00:02:19 | automatica |
+| 2021-02-01 | [MAIA quer PAUTAR Impeachment HOJE! + DEM e PSDB Abandonam Baleia + Temer e a Nova Rota da Seda](2021/2021-02-01-OX4U0JJK-vU.md) | 00:59:31 | automatica |
+| 2021-01-31 | [Faltando 24h MAIA Sugere GOLPE + Caso ASSESSORA da Joice + COVAS Fecha SP e vai se DIVERTIR](2021/2021-01-31-gfUwNttTIn0.md) | 00:55:49 | automatica |
+| 2021-01-30 | [Bolsonaristas enfim NO PODER + Debandada do DEM Garante até 3 CADEIRAS+ Os NOVOS Ministros](2021/2021-01-30-wPTt6Y8fj2Y.md) | 00:55:08 | automatica |
+| 2021-01-29 | [Faltando 3 dias Tivemos o DIA dos VAZAMENTOS + A Pá de Cal CONTRA Baleia + DORIA Persegue PREFEITOS](2021/2021-01-29-vPwo6i8ng4Y.md) | 00:57:19 | automatica |
+| 2021-01-28 | [Dossiê: Dia D - A Reta para VITÓRIA + MAIA Sairá de Brasília + Voto AUDITÁVEL tem Desafios](2021/2021-01-28-74U9-Nc6E2Y.md) | 00:59:13 | automatica |
+| 2021-01-27 | [🚨URGENTE: Pedido de PRISÃO do Prefeito de Manaus + MAIA irá trabalhar com o Doria + Resumo do dia](2021/2021-01-27-cZ2vhPOLO3k.md) | 00:03:28 | automatica |
+| 2021-01-27 | [Faltam 5 Dias e TRAIÇÕES não Param! DEM deixa o MAIA e MOURÃO Joga Contra GOV + Pazuello DEMITIDO](2021/2021-01-27-6Hr2GgY-chI.md) | 00:58:59 | automatica |
+| 2021-01-26 | [O Segredo do Maia e FOFOCAS dos Bastidores de Brasília + Doria Ganha CHIFRES e JB só Vence e Vence](2021/2021-01-26-JEC0XHv-Aew.md) | 00:57:16 | automatica |
+| 2021-01-25 | [Faltam 7 DIAS e o Cenário é BOM! + BRIGA no STF e os 4 CANDIDATOS para Vaga + Perseguição Nas REDES](2021/2021-01-25-M3Hod7LG_18.md) | 00:59:27 | automatica |
+| 2021-01-23 | [Governo VENCE em Todos os CENÁRIOS + Psol SALVOU o Dia + Cliente de MORO acusado de CORRUPÇÃO!](2021/2021-01-23-AnQZTozWVhQ.md) | 00:59:38 | automatica |
+| 2021-01-21 | [BOA Notícia: 256 na Câmara + as 60 mil doses que SUMIRAM + Aras x NARRATIVA do IMPEACHMENT](2021/2021-01-21-0ywA4YgUqag.md) | 00:59:50 | automatica |
+| 2021-01-20 | [Golpe DUPLO: o NOVO Golpe de Maia e Doria + REVERSÃO na pres. da Câmara + MBL e BBB21](2021/2021-01-20-9Vgvy5Ciz78.md) | 00:59:47 | automatica |
+| 2021-01-19 | [O GOLPE de MAIA e as TRAIÇÕES Contra JB + DORIA vs BOLSONARO: Batalha FINAL têm data, lugar e hora](2021/2021-01-19-l2LceA15ZhU.md) | 00:59:29 | automatica |
+| 2021-01-18 | [O Marketing SUSPEITO do DORIA Precisa de EXPLICAÇÕES + ENEM Lacrou e Muito! + TEMER o NOVO Lobbysta](2021/2021-01-18-dbtKD14l8Po.md) | 00:57:56 | automatica |
+| 2021-01-17 | [ARAS Abre INVESTIGAÇÃO! + Mordaça nas Redes: CALARAM o Min Saúde + A BAGUNÇA antes de SAIR](2021/2021-01-17-7EOrmkhmB_E.md) | 00:59:59 | automatica |
+| 2021-01-16 | [AMAZONAS: cortina de FUMAÇA para o Doria + JB foi CALADO pela BIGTECH](2021/2021-01-16-2YK4MCppcBo.md) | 00:56:50 | automatica |
+| 2021-01-15 | [Dossiê: OXIGÊNIO - A VERDADE sobre a CRISE e seus Agentes + Doria ESCONDE Dados e Planeja Marketing](2021/2021-01-15-TlIYJ-KTTGk.md) | 00:59:11 | automatica |
+| 2021-01-14 | [PROIBIRAM uma Pizza! Qual o próximo passo?](2021/2021-01-14-fcV_vIAtY24.md) | 00:03:59 | automatica |
+| 2021-01-14 | [O Caso dos 70% Mais Contagioso e os Banquinhos de Madeira](2021/2021-01-14-_cYKz2k8Fag.md) | 00:06:44 | automatica |
+| 2021-01-14 | [DELATARAM o Mandetta + Eficácia PODE ser MENOR + PM vs DORIA + COMPLIANCE da Mordaça!](2021/2021-01-14-GMAlgnJvlic.md) | 00:44:09 | automatica |
+| 2021-01-13 | [DORIA o MÁGICO dos 49% + Maia o PERSEGUIDOR de Famílias + os 39 x 37 do SENADO](2021/2021-01-13-0h17veI7NAU.md) | 01:00:13 | automatica |
+| 2021-01-12 | [FURO! CNN diz que DORIA foi CALADO pela CH1N.4 + Bancada AGRO Traiu o Gov? + PT vs MORO no Senado](2021/2021-01-12-Tb41_8cN4DI.md) | 00:59:23 | automatica |
+| 2021-01-11 | [OFICIAL! Doria ESCONDEU, mas Eficácia é 65% + MAIA na MIRA da PF + Futuro das REDES e o DEDO de Moro](2021/2021-01-11-XAzIJH8A9SM.md) | 00:59:54 | automatica |
+| 2021-01-10 | [Bolsonaro na MIRA e ALIADO Inesperado + DORIA pede para ESQUECER Ciência + Gov Numa SINUCA de Bico](2021/2021-01-10-gLEYrJv--n4.md) | 00:57:34 | automatica |
+| 2021-01-09 | [Não é o FIM! Mas o Império Contra-Atacou + LIRA indica APOIO ao V0T@ AUDITÁVEL + Sujeira do DORIA](2021/2021-01-09-W_Nua2YxADM.md) | 00:59:23 | automatica |
+| 2021-01-08 | [Vitória do Gov. à VISTA: Reviravolta no PSL! + DORIA faz JOGADA de Marketing + 2022 e PROBLEMAS](2021/2021-01-08-MhoF52xwBe8.md) | 00:59:39 | automatica |
+| 2021-01-07 | [Maia Vencendo no TAPETÃO? + O que PODERÁ acontecer ao BRASIL + Dória RECUOU com MEDO do TRATORAÇO](2021/2021-01-07-wLpuR3pvWdg.md) | 00:58:34 | automatica |
+| 2021-01-06 | [STF Interferindo nas ELEIÇÕES e o PRIMEIRO candidato do SENADO + BLOQUEARAM as Investigações](2021/2021-01-06-fNoGNM3IeXw.md) | 00:59:56 | automatica |
+| 2021-01-05 | [Governo tem 300 VOTOS + Batoré SALVOU STF + Blocão: do MBL ao PT + ANVISA Pede MAIS Documentos](2021/2021-01-05-CcJVzfFR3E4.md) | 00:58:18 | automatica |
+| 2021-01-04 | [Os 185 Problemas se BALEIA Vencer + FATIAMENTO da Política Avança + As PROIBIÇÕES se Você RECUSAR](2021/2021-01-04-aYtkvrGxJug.md) | 00:57:15 | automatica |
+| 2021-01-04 | [O Ano Sem FIM - 3º Episódio: Segunda Parte (Retrospectiva 2020)](2021/2021-01-04-IHXjATLXQ-M.md) | 01:02:03 | automatica |
+| 2021-01-03 | [O Ano Sem FIM - 3º Episódio: Primeira Parte (Retrospectiva 2020)](2021/2021-01-03-txtPrledUHQ.md) | 01:12:12 | automatica |
+| 2021-01-03 | [Nova VAGA do STF: Começam as ARTICULAÇÕES + Produto do DORIA foi REJEITADO + TRETAS Precisam Acabar](2021/2021-01-03-ULd3IeHfPFA.md) | 01:01:10 | automatica |
+| 2021-01-02 | [Dossiê: 2021 - A Mensagem de ERNESTO e sua CONEXÃO com: Dória, Rota da SEDA, Democracia e ELEIÇÕES](2021/2021-01-02-dOQAxNTt-ok.md) | 00:59:53 | automatica |
+| 2021-01-01 | [Dias de Tensão - 2º Episódio: Segunda Parte (Retrospectiva 2020)](2021/2021-01-01-54yTn7Hlh18.md) | 01:04:30 | automatica |
+| 2020-12-31 | [2020 - Dias de Tensão - 2º Episódio: Primeira Parte (Retrospectiva 2020)](2020/2020-12-31-yWp0tLJH2so.md) | 01:11:31 | automatica |
+| 2020-12-30 | [Pres. CÂMARA: Gov VENCERIA Disputa, mas PERDERIA Mesa Diretora + PRESSÃO no FUX + FNeto e Trancoso](2020/2020-12-30-NOVSytuR1C8.md) | 01:00:36 | automatica |
+| 2020-12-29 | [Fantoche do MAIA Promete: CPIs e investigações CONTRA o Gov. se VENCER + MORO Passa VERGONHA](2020/2020-12-29-21S5FrzxAZs.md) | 00:59:52 | automatica |
+| 2020-12-28 | [Governo DISPARA: 300 Votos para VITÓRIA + RAMOS de Saída + Doria PERSEGUE Prefeitos](2020/2020-12-28-3C7uAiKrTFc.md) | 00:58:56 | automatica |
+| 2020-12-27 | [Os TROPEÇOS dos Dep. BOLSONARISTAS + População DERROTA Governador + Recado de JB aos Amigos do DÓRIA](2020/2020-12-27-JMm0dyh9jzY.md) | 00:55:56 | automatica |
+| 2020-12-26 | [DISPUTA na Câmara: TRAIÇÃO da Base do Governo? + os VAZAMENTOS de áudio da Bia DÓRIA + Natal 2020](2020/2020-12-26-09tPurZpWmE.md) | 00:59:38 | automatica |
+| 2020-12-25 | [2020 - Como tudo Começou - 1º Episódio (Retrospectiva 2020)](2020/2020-12-25-nQQbpSx4xmI.md) | 01:03:09 | automatica |
+| 2020-12-24 | [Dória FOGE e CIENTISTAS têm RECEIO + MAIA Escolhe CANDIDATO e ESQUERDA fala em PACTO + Especial 2020](2020/2020-12-24-lzHvcuSHqGA.md) | 01:00:50 | automatica |
+| 2020-12-24 | [TalKiM Show   ALESSANDRO SANTANA #004](2020/2020-12-24-2K7MFB9ynfQ.md) | 02:54:41 | automatica |
+| 2020-12-23 | [Boas NOTÍCIAS: Oswaldo VAI Andar e MAIA Sofre DERROTA + Reformulação do Cenário POLÍTICO Brasileiro](2020/2020-12-23-tvqZmzTzlTE.md) | 00:59:35 | automatica |
+| 2020-12-22 | [ALERTA: Algo GRANDE Está ACONTECENDO! + CASO Oswaldo Eustáquio + Movimentações do DÓRIA.](2020/2020-12-22-fwCr9QVzqDo.md) | 00:57:40 | automatica |
+| 2020-12-21 | [VAZARAM Documentos dos "AMIGOS" do Dória! + DISPUTA Interna no STF + JB e o Partido para 2022](2020/2020-12-21-VkzkLhC8-Ss.md) | 00:59:21 | automatica |
+| 2020-12-20 | [Alexandre de Moraes ACONSELHA Moro +  MAIA Garante DERROTAR Bolsonaro + ROUANET pode VOLTAR](2020/2020-12-20-Jj7vzfoO2oY.md) | 00:59:02 | automatica |
+| 2020-12-19 | Dossiê: HERÓI - Paulo Guedes CONTRA o FIM de Tudo + A Desarticulação de um PLANO | 01:09:22 | sem_legenda |
+| 2020-12-18 | Kássio e a LIVE de Bolsonaro + STF foi MUITO Além da OBRIGATORIEDADE + o FUNDEB do Maia e Esquerda | 00:58:16 | sem_legenda |
+| 2020-12-17 | [Bolsonaro ASSUME a Dianteira CONTRA Maia + PROBLEMAS no Senado + LIBERADO  Vender 25% do BR](2020/2020-12-17-e6mOVvcXZvI.md) | 01:02:08 | automatica |
+| 2020-12-17 | TalKiM Show - CARLOS NADALIM - Um Homem de Evidências #003 | 02:04:50 | sem_legenda |
+| 2020-12-16 | [As 4 POLÊMICAS de Bolsonaro: Dória, CEAGESP, Aliança e o Parabéns + DERROTA Conservadora no Senado](2020/2020-12-16-Udzi0frGDTw.md) | 00:58:16 | automatica |
+| 2020-12-15 | [MAIA: Desidratando e Sendo INVESTIGADO + JB "RESPONSABILIDADE é Tua" + SlpGiants SEM Resposta](2020/2020-12-15-G3kNQMOr9JI.md) | 00:57:22 | automatica |
+| 2020-12-14 | [SleepingGiants: As PONTAS SOLTAS Deixadas pela MÍDIA + MAIA, em queda, Decide HJ o seu CANDIDATO](2020/2020-12-14-Xd_1OeAuhSQ.md) | 00:58:47 | automatica |
+| 2020-12-14 | [Danilo Gentilli no FLOW Podcast - Direito de Resposta](2020/2020-12-14-AEVE2mmVBeI.md) | 00:30:46 | automatica |
+| 2020-12-13 | [Revelado! Os DONOS do SleepingGiants APARECERAM! + o Caso do CNDH apoiando a OPOSIÇÃO + RECADO do JB](2020/2020-12-13-dxC7gOpYjgc.md) | 00:58:57 | automatica |
+| 2020-12-12 | [A HYDRA Voltou + Candidato do GOVERNO ao Senado DECOLA? + MAIA, Dória e Randolfe CONTRA o BR](2020/2020-12-12-FFqkp3onBYc.md) | 00:58:27 | automatica |
+| 2020-12-12 | TalKiM Show - Douglas Garcia - A Máquina #002 | 01:54:46 | sem_legenda |
+| 2020-12-11 | [Dossiê: RESET - Dória VENDEU o BR + Contagem de VOTOS: Maia vs JB + ROUANET Secou!](2020/2020-12-11-1e-caSPaFhQ.md) | 00:57:41 | automatica |
+| 2020-12-10 | [MAIA: "Bolsonaro está DESESPERADO" + o Ministro DEMITIDO e o Centrão + DÓRIA se DEU MAL!!!](2020/2020-12-10-JHAyLeiUVmE.md) | 00:59:00 | automatica |
+| 2020-12-09 | Senado PODE ter um "MAIA" como Presidente + DÓRIA Vaza REUNIÃO e Tem ENCONTRO "Suspeito" | 00:53:35 | sem_legenda |
+| 2020-12-08 | [Governo JÁ ARTICULA Presidência do Senado + A.Moraes OBRIGA JB a Depor + Anvisa CONTRA o Dória](2020/2020-12-08-sPcM4ABamy4.md) | 00:58:25 | automatica |
+| 2020-12-07 | [STF Proibiu REELEIÇÃO - Planalto COMEMORA! + Homologação DELAÇÃO Fim do Mundo + MORO $$$ e SlpGiants](2020/2020-12-07-jLrw0EYS6i0.md) | 00:57:29 | automatica |
+| 2020-12-06 | [DOSSIÊ: ALL-IN - Prints de ZAP do PLANO do JB, Partindo com TUDO pela PRESIDÊNCIA da Câmara](2020/2020-12-06-CGmENtCksuE.md) | 00:59:14 | automatica |
+| 2020-12-05 | [Batoré REELEITO - Análises se CONFIRMAM e POLÊMICAS Surgem + SUB-ORNO e DÓRIA + Inquérito FimDoMundo](2020/2020-12-05-g899BxIOjL8.md) | 01:00:24 | automatica |
+| 2020-12-04 | [No FLAGRA - Dória Foi PEGO! + STF 3x0 a Favor da REELEIÇÃO + MORO e Manipulação da MERCADO](2020/2020-12-04-BfoYEzl_8XQ.md) | 00:53:05 | automatica |
+| 2020-12-04 | [Me SALVEM - Cadê o esgoto?](2020/2020-12-04-5yu93o_mwb0.md) | 00:06:00 | automatica |
+| 2020-12-03 | [Dossiê: 265x240 - BOLSONARO Hoje está VENCENDO o Maia + 3º MANDATO de JB + MORO Defendendo LULA](2020/2020-12-03-qNJFlIFWn0c.md) | 00:55:39 | automatica |
+| 2020-12-02 | [URGENTE: V4c1nação Começa + BOLSONARO Está com PEPINO nas MÃOS + R$2,7 Milhão p/ MONITORAR Kim Paim](2020/2020-12-02-axjyi3BMkkQ.md) | 00:57:26 | automatica |
+| 2020-12-01 | [Moro FOGE do País e ABALA Segurança Jurídica BR + Dória FECHANDO SP + DISPUTA Presidência da CÂMARA](2020/2020-12-01--NKWSl-1X-M.md) | 00:59:03 | automatica |
+| 2020-11-28 | [Dossiê: ARQUITETADO - Bolsonaro TEM 5 Dias segundo A. de Moraes + O Novo DEPOIMENTO de MORO](2020/2020-11-28-z8p6JFyOkl0.md) | 00:57:33 | automatica |
+| 2020-11-27 | [DELAÇÃO do FIM do Mundo! Brasília TREMEU + Dória IGNORA Anvisa + ERNESTO Faz GOL, mas o MURÃO...](2020/2020-11-27-EfSz6llyL2k.md) | 00:59:28 | automatica |
+| 2020-11-27 | [URGENTE! Delação Qualicorp assinada: SERRA, AÉCIO, JUCA foram DELATADOS](2020/2020-11-27-6uYq8Oazy6I.md) | 00:02:13 | automatica |
+| 2020-11-26 | [Dossiê: C3 - Três na Cola do MORO + REELEIÇÃO: STF Julga dia 4 + ARAS Traiu o BR?](2020/2020-11-26-5MO_ttCUXJ8.md) | 00:55:54 | automatica |
+| 2020-11-25 | [MAIA Põe JB abaixo de 50% + DÓRIA Promete CADEIA se NÃO seguir REGRAS + Estou SENDO Monitorado?](2020/2020-11-25-EPRfbEIPn8w.md) | 00:55:16 | automatica |
+| 2020-11-24 | [Bolsonaro VENCERÁ – 238 vs 230? + Dória PASSA a PERNA nos LAVA-JATISTAS + Mídia FALA em 3ªONDA](2020/2020-11-24-8-UdtWP59Pg.md) | 00:57:31 | automatica |
+| 2020-11-23 | [FRENTE AMPLA Avançando + Vídeo POLÊMICO de Bolsonaro + Aliados VÊEM Vitórias para 2021](2020/2020-11-23-wjUO7W9wP5g.md) | 00:58:41 | automatica |
+| 2020-11-23 | [URGENTE! Dória CONTRATA um Antagonista. Moro vai TRABALHAR pro PSDB?](2020/2020-11-23-X7hZO4tJZPg.md) | 00:03:19 | automatica |
+| 2020-11-22 | [Dossiê: FIADOR - Dívida de GRATIDÃO da Globo com o Moro + Carrefour FINANCIA os Amigos do Huck](2020/2020-11-22-UAzm1eMxiAk.md) | 00:57:15 | automatica |
+| 2020-11-21 | [Caso Carrefour o que NINGUÉM viu? + MORO quer IMPEDIR Reeleição no TAPETÃO + JB COMUNA de Direita?](2020/2020-11-21-xLKcCLCCBxk.md) | 00:54:31 | automatica |
+| 2020-11-20 | [Dossiê: NO FLAGRA - MANIPULAÇÃO do iluMINISTRO com PARTICIPAÇÃO do MORO + Bolsonaro FOCADO em 2021](2020/2020-11-20-Ex3uTM0QiI8.md) | 00:54:22 | automatica |
+| 2020-11-18 | [Nem TUDO está PERDIDO + TSE Deve EXPLICAÇÕES, Cabe uma CPI + Bolsonaro MANDA Recado pro MUNDO](2020/2020-11-18-HFKBmAY88S8.md) | 00:56:46 | automatica |
+| 2020-11-17 | [DOÓRIA! São Paulo FECHARÁ Dia 30](2020/2020-11-17-gtFOiyG4KOE.md) | 00:05:29 | automatica |
+| 2020-11-15 | [DESTINO do Brasil Será DECIDIDO Hoje - O Futuro da Direita + JBS Contrata MORO + FIM da Era PTista](2020/2020-11-15-BrWIVuQmxoY.md) | 00:53:26 | automatica |
+| 2020-11-14 | [MILICOS contra Bolsonaro? O caso Pujol](2020/2020-11-14-ati3QL2ksNg.md) | 00:05:29 | automatica |
+| 2020-11-04 | [Momentos de TENSÃO - Bolsonaro faz PRONUNCIAMENTO Importantíssimo + a Vitória NÃO está GARANTIDA](2020/2020-11-04-LVvIU-VTctY.md) | 00:55:52 | automatica |
+| 2020-11-02 | [Dossiê: SENADO em Números - Realidade vs Utopia + DÓRIA e SleepingGiants + São Tomás e POLÍTICA](2020/2020-11-02-RTTo274EsBQ.md) | 00:55:27 | automatica |
+| 2020-11-01 | Dossiê: 257 - A Virada do GOVERNO para TRISTEZA da Oposição + Como BOLSONARO Conquistou a MAIORIA | 00:47:44 | sem_legenda |
+| 2020-10-31 | ["Bolsonaro" na FARIA LIMA + Puristas e ROMANTICOS + Esquerda quer EXPULSAR Lula + Foro de SP](2020/2020-10-31-Hi5yLkXXxYg.md) | 00:59:44 | automatica |
+| 2020-10-30 | [Vitórias: Aliança BONORO 2021 e V do PG + Lula e Ciro = FRENTE AMPLA + Dória e DADOS Não ENTREGUES](2020/2020-10-30-vIv1Fu2Qpbg.md) | 00:58:44 | automatica |
+| 2020-10-29 | [Salles por um FIO e as LIÇÕES do Caso SUS + Governo REBATE Barros + O BR não será um CIRCO](2020/2020-10-29-9eoBtqX2gpE.md) | 00:54:48 | automatica |
+| 2020-10-27 | [Dossiê: MBL - Falcatruas, Conluio com DEM+PSDB+XH1NA + OBRIGATÓRIO = 7 Votos STF + Centrão Trapalhão](2020/2020-10-27-OySMwOskGTA.md) | 00:58:51 | automatica |
+| 2020-10-26 | [Bolsonaro REFORÇA a NÃO OBRIGATORIEDADE + Pacificação no PLANALTO e as RESPOSTAS sobre o Centrão](2020/2020-10-26-hPDJ5jUd2_g.md) | 00:53:31 | automatica |
+| 2020-10-25 | [A QUEDA de um Ministro e os INTERESSES do Centrão + Recado do Bolsonaro + ESCÂNDALO na Globo](2020/2020-10-25-w6xE6515C3E.md) | 00:57:22 | automatica |
+| 2020-10-24 | [Os 5 dias de Jair e os 2 VOTOS pela OBRIGATORIEDADE do STF + Anvisa APROVOU + Governador CAIU](2020/2020-10-24-m0sbapl0FUM.md) | 01:01:45 | automatica |
+| 2020-10-23 | [Urgente! ANVISA liberou DÓRIA a coprar 6 milhões e produzir mais 40](2020/2020-10-23-pc8dkUG-GkQ.md) | 00:01:34 | automatica |
+| 2020-10-23 | [CONFLITO: Salles vs Ramos + DÓRIA vai ao STF + Fux EMPURRA Agenda 2030](2020/2020-10-23-3CvIIgPiWj0.md) | 00:52:28 | automatica |
+| 2020-10-22 | [Prazo 48h de Dória: Bonoro vs OBRIGATORIEDADE, Impeachment e Decisão da ANVISA + Sabatina do Kássio](2020/2020-10-22-WOAEvVfyaac.md) | 00:57:37 | automatica |
+| 2020-10-21 | [Bolsonaro fala em TRAIDORES e Garante: NÃO COMPRAREMOS + Justiça PEGA Dória + Moro e Xande UNIDOS](2020/2020-10-21-eE4gXfMjTzI.md) | 00:53:47 | automatica |
+| 2020-10-20 | [Bonoro agindo nos BASTIDORES + Garras do PSDB + O Livro do MORO + Chefão da NSA com Guedes e Ernesto](2020/2020-10-20-Dv9humTaRvI.md) | 00:49:59 | automatica |
+| 2020-10-19 | [Encontro HISTÓRICO - Bolsonaro com CHEFÃO da NSA + Moro = Vergonha + LOBBY de Maia e Nova Esquerda](2020/2020-10-19-BM4mo4MXYfk.md) | 00:59:53 | automatica |
+| 2020-10-18 | [Bolsonaro: Mais uma VITÓRIA no Horizonte + Senado quer LIMITAR o STF + O Ganha-Ganha das ELEIÇÕES](2020/2020-10-18-uHkFjE_GJwM.md) | 00:48:05 | automatica |
+| 2020-10-18 | [Sérgio Moro QUER lhe Vacinar e se UNE a Dória, Amoedo e MBL](2020/2020-10-18-bEQSWmBIGrU.md) | 00:05:50 | automatica |
+| 2020-10-17 | [Dossiê: PAZ - Bonoro PACIFICOU o STF + Dória e OBRIGATORIEDADE + Projeto de PODER do Moro + Eleições](2020/2020-10-17--33Pdck5Pqo.md) | 00:58:51 | automatica |
 |  |  |  | erro |
 |  |  |  | erro |
 |  |  |  | erro |
