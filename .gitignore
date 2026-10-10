@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+youtube/import-log.txt
+cookies*.txt
