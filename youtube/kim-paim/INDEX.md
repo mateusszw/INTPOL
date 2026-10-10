@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-2158 vídeos transcritos, 117 sem legenda.
+2282 vídeos transcritos, 117 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -2279,6 +2279,131 @@
 | 2020-06-27 | [Dossiê:ENCURRALADO? - ARAS, Mendonça e INTEPOL fecham o cerco contra MORO + DALLAGNOL + Blog4Linhas](2020/2020-06-27-feLcaOFstiI.md) | 00:46:14 | automatica |
 | 2020-06-26 | [ALERTA Jabuti nas Eleições!!! TUDO sobre o novo Min.EDUCAÇÃO, GLOBO de Fora,  Direita POMPOM](2020/2020-06-26-wmkBdUjufJA.md) | 00:43:43 | automatica |
 | 2020-06-26 | [Oswaldo PRESO - CNN tem fontes na PF, Antagonista liga caso a DAMARES](2020/2020-06-26-DT0i81MBxSs.md) | 00:04:25 | automatica |
+| 2020-06-25 | [PLANO de Bolsonaro = BASE de apoio, Min da Comunicação vai tentar a Paz com a GRANDE MÍDIA](2020/2020-06-25-t-mnLRy8mlw.md) | 00:04:47 | automatica |
+| 2020-06-25 | [Um DIA com MUITAS notícias BOAS, Bolsonaristas e PT se UNEM (Milagre aconteceu), WITZEL+JOICE+STF](2020/2020-06-25-rLl83QT1WJk.md) | 00:36:54 | automatica |
+| 2020-06-25 | [William Bonner DESMASCARADO pelo deputado Ricardo Arruda](2020/2020-06-25-NZo7spk8CeE.md) | 00:03:11 | automatica |
+| 2020-06-24 | [ARAS PERDEU e candidatos de LULA e MORO ganham cargos, BOLSONARO vence no TSE, Coincidências PF+STF](2020/2020-06-24-HWzaKAbFyc8.md) | 00:28:24 | automatica |
+| 2020-06-23 | [ADIAMENTO das Eleições2020, Quem é NOVO Min. Educação? Impeachment de WITZEL, TSE julga Bolsonaro](2020/2020-06-23-tChNQB5Xn-I.md) | 00:31:09 | automatica |
+| 2020-06-23 | [Novas PRISÕES, O novo plano de Bolsonaro segundo o Jornal da Cidade](2020/2020-06-23-NsTgv9mrJw0.md) | 00:03:01 | automatica |
+| 2020-06-22 | [Dossiê: VILÃO - Os VAZAMENTOS de Sérgio Moro e seu PASSADO revelam NOVAS informações sobre o PLANO](2020/2020-06-22-75gNCbI_EkE.md) | 00:46:07 | automatica |
+| 2020-06-21 | [Dossiê: Plano MORO - Sérgio Moro e o PARTIDO dos Procuradoes, O lado SOMBRIO da Lava-Jato](2020/2020-06-21-9IxPl-dhqXc.md) | 00:40:03 | automatica |
+| 2020-06-20 | [MÍDIA ajudando STF, RACHADINHA descoberta pelo PT, Jorginho e Mendonça, Vitória contra GLOBO](2020/2020-06-20-hRWvFemowz4.md) | 00:41:27 | automatica |
+| 2020-06-20 | [Kim Paim - 31/05/19 Palestra Congresso Movimento Brasil Conservador - Notícias podem ser atemporais](2020/2020-06-20-_fSk4LBj72A.md) | 00:40:50 | automatica |
+| 2020-06-19 | [Dossiê: QUEIROZ - Moro + Witzel + Time Lava-Jato querem "Justiça" - 6ªFase: a MATURIDADE da Direita](2020/2020-06-19-vYiQiWaxEOU.md) | 00:53:21 | automatica |
+| 2020-06-18 | [O PLANO - 3 Atos para derrubar BOLSONARO](2020/2020-06-18-bIH73A_Or4w.md) | 00:06:03 | automatica |
+| 2020-06-18 | [QUEIROZ foi PRESO! Sérgio MORO pode ter agido contra ABRAHAM, Quem é JORGINHO o conselheiro?](2020/2020-06-18-YE1e8YhDyNQ.md) | 00:42:42 | automatica |
+| 2020-06-17 | [Bolsonaro VAI agir! NÃO É CLICK BAIT - Resumo dos acontecimentos da madrugada e perseguições do STF](2020/2020-06-17-KMfw6ZCcnis.md) | 00:30:25 | automatica |
+| 2020-06-16 | [STF: fim ou o começo? Abraham: Prisão vs Demissão, Sérgio Moro CELEBRA Prisão da SARA, Bolsonaro...](2020/2020-06-16-ySp5AvXVEMo.md) | 00:50:46 | automatica |
+| 2020-06-15 | [Abraham tem PRISÃO PREVENTIVA solicitada por Randolfe Rodrigues, caso Sara Winter](2020/2020-06-15-i4cGf4SCgd4.md) | 00:04:24 | automatica |
+| 2020-06-14 | [Dossiê: COINCIDÊNCIAS - Nando Moura + Ayan + Frota, China FOFOQUEIRA, Resposta dos Deputados ao povo](2020/2020-06-14-QX0TG_Zzni8.md) | 00:42:54 | automatica |
+| 2020-06-13 | [Dossiê: DEX - Bolsonaro ACORDOU, Governo REBATEU o STF, Deputados aliados vs VERDADES duras](2020/2020-06-13-xyr8hwUnQNI.md) | 00:39:49 | automatica |
+| 2020-06-12 | [Sérgio Moro LACRADOR, Generais e esquerda JUNTOS, mais REVELAÇÕES do MBL, OLAVISTA na Comunicação](2020/2020-06-12-riS37nDG92M.md) | 00:32:06 | automatica |
+| 2020-06-12 | [URGENTE! STF diz que EXÉRCITO NÃO é poder moderador, decisão foi tomada a mando do FORO DE SÃO PAULO](2020/2020-06-12-Kj9Lmxo6djA.md) | 00:04:27 | automatica |
+| 2020-06-11 | [DENUNCIA - Máquina pública contra Bolsonaro, Min Abraham Weintraub está certo sobre universidades](2020/2020-06-11-qdnaVdEt2ao.md) | 00:02:20 | automatica |
+| 2020-06-11 | [Fábio Faria o NOVO Ministro é PTista? Witzel 69x1, MBL: BASTIDORES das ações, VITÓRIAS de Bolsonaro](2020/2020-06-11-_VoNVV86D8E.md) | 00:37:28 | automatica |
+| 2020-06-10 | [Bolsonaro GRAMPEADO, Witzel tem IMPEACHMENT aceito, MBL pego no FLAGRA e CONFIRMAM no Twitter](2020/2020-06-10-R_bedbO7ZaY.md) | 00:03:59 | automatica |
+| 2020-06-10 | [Dossiê: STF Chinês - Alexandre de Moraes + DÓRIA + Embaixador Chinês = ??? / Impeachment de Witzel](2020/2020-06-10-BmWBvt7f84Y.md) | 00:48:20 | automatica |
+| 2020-06-09 | [TSE e CASSAÇÃO de Bolsonaro, Arthur MBL denunciado, crimes da MÍDIA, filha de DIRCEU e Corinthians](2020/2020-06-09-lJh5Dnz0Nq4.md) | 00:36:14 | automatica |
+| 2020-06-09 | [General Min. da SAÚDE acha ENGRAÇADINHO sua filha de 12 anos ser de ESQUERDA](2020/2020-06-09-TGWqYGTwy4M.md) | 00:00:37 | automatica |
+| 2020-06-08 | [VAZOU! Vídeo de grupo privado do MBL onde eles planejam DERRUBAR BOLSONARO](2020/2020-06-08-iiTqvaQeZoc.md) | 00:01:14 | automatica |
+| 2020-06-08 | [MAIA fala de IMPEACHMENT, STF vergonha INTERNACIONAL, Joice e Moro alinhados, MÍDIA foi fichada](2020/2020-06-08-KVnhikdYn_c.md) | 00:33:02 | automatica |
+| 2020-06-07 | [OLAVO deu um ULTIMATO, Novas REVELAÇÕES da Joice trazem RESPOSTAS, Sobrou até pra BOLSONARO](2020/2020-06-07-r8Ibuc2C51g.md) | 00:53:00 | automatica |
+| 2020-06-05 | [Família MORO em: PROPINA e EXTORSÃO, ARAS desenterrou DELAÇÃO bomba, Joice Prefeita + Moro Vice](2020/2020-06-05-f9gEKvNPiV4.md) | 00:33:42 | automatica |
+| 2020-06-05 | [BOMBA! Joice Hasselmam é pega em FLAGRANTE, Peppa tinha gabinete de perfis com CPF falsos](2020/2020-06-05-PKpMu8WpFvw.md) | 00:03:04 | automatica |
+| 2020-06-04 | [MORO e DELTAN com medo de ARAS, REVELAÇÕES inquérito FakeNews, JOYCE PEPPA quer te CENSURAR](2020/2020-06-04-I4yEpgwG8-g.md) | 00:41:57 | automatica |
+| 2020-06-03 | [Dossiê: LAGOSTA - Alexandre de Moraes no CENTRO do Furacão, GABINETE DA LAGOSTA contra Bolsonaro?](2020/2020-06-03-_12La6zULaM.md) | 00:50:54 | automatica |
+| 2020-06-02 | [Joice Hasselmam REVELA mais um PLANO do STF - PEPPA não sabe guardar segredo](2020/2020-06-02-yXrVaNOkP6M.md) | 00:03:27 | automatica |
+| 2020-06-02 | [STF RECUOU! Bolsonaro RENASCEU das CINZAS, Manifestações em Curitiba, Nova Esquerda DESESPERADA](2020/2020-06-02-d9si6zp8-k8.md) | 00:35:00 | automatica |
+| 2020-06-01 | [Bolsonaro NÃO caiu, mas o Brasil ROMPEU por completo, protestos VIOLENTOS pelo país, MÍDIA = MENTIRA](2020/2020-06-01-gFNTncTm4KA.md) | 00:35:08 | automatica |
+| 2020-05-31 | [BOLSONARO diz: "Tudo aponta para uma CRISE", Impeachment de WITZEL avançando, MANIFESTAÇÕES 31/05](2020/2020-05-31-L3MbaxVYgTk.md) | 00:22:18 | automatica |
+| 2020-05-31 | [DENÚNCIA! - Estão MANIPULANDO votação para APROVAR CENSURA do Whatsapp e Redes Sociais](2020/2020-05-31-3Tg7490GdfA.md) | 00:03:58 | automatica |
+| 2020-05-30 | [EXÉRCITO prepara militares para OPERAÇÕES de GLO, mais VAZAMENTOS de planos, PT volta com tudo](2020/2020-05-30-sp4HsUdaNv8.md) | 00:22:05 | automatica |
+| 2020-05-30 | [LIVE: Eduardo Bolsonaro + Douglas Garcia + Filipe Barros - Onde estão as liberdades na DEMOCRACIA?](2020/2020-05-30-gnxXFZFYbQ0.md) | 01:09:02 | automatica |
+| 2020-05-29 | [RODRIGO MAIA fala em Impeachment de Bolsonaro e critica Abraham - PT e MBL agindo em paralelo](2020/2020-05-29-hzFFwnRvcuA.md) | 00:04:00 | automatica |
+| 2020-05-28 | [Censura do STF - PT e GLOBO se unem ao PLANO, BOLSONARO prepara CONTRA-ATAQUE](2020/2020-05-28-O0SrUvmnlqE.md) | 00:37:37 | automatica |
+| 2020-05-27 | [Dossiê: WITZEL RODOU - Moro pode CAIR no COVIDÃO, Deputados dão como certo IMPEACHMENT do WITZEL](2020/2020-05-27-puHvH5EUpL0.md) | 00:33:55 | automatica |
+| 2020-05-26 | [Dossiê: Saúde deu PT - OMS+PT+China+STF, Ministros CAÇADOS pelo Senado, DÓRIA amplia Quarentena](2020/2020-05-26-b1HnGIcxfc0.md) | 00:34:15 | automatica |
+| 2020-05-26 | [WITZEL e esposa INVESTIGADOS pela PF - Resumo de TODO o caso, Entenda o que está acontecendo](2020/2020-05-26-Oz6k7kaaCKY.md) | 00:04:43 | automatica |
+| 2020-05-25 | [Dossiê: SERGIO MORO no FANTÁSTICO - Novas mentiras de um velho mentiroso, Golpe do PT + OAB](2020/2020-05-25-v43UPey5osg.md) | 00:33:29 | automatica |
+| 2020-05-25 | [BOLSONARO 2022 - Lançamento da campanha OFICIAL pela reeleição - EU votei em Bolsonaro foi pra isso!](2020/2020-05-25-1ZiQMaV8ow4.md) | 00:00:39 | automatica |
+| 2020-05-24 | [GLOBO MANIPULANDO - Até onde vai a canalhice?](2020/2020-05-24-Im-f-H5zpmk.md) | 00:01:08 | automatica |
+| 2020-05-24 | [Witzel DENUNCIADO em áudio VAZADO! Impeachment do DÓRIA avançando, STF+CNN+FOLHA = Lobby Medicamento](2020/2020-05-24-H0XA6qOct3A.md) | 00:37:32 | automatica |
+| 2020-05-23 | [Dossiê: REUNIÃO MINISTERIAL - Consequências da REVELAÇÃO, Reação de Pessoas-CHAVE, WITZEL sem TEMPO](2020/2020-05-23-zGk_NYeH6KM.md) | 00:39:54 | automatica |
+| 2020-05-23 | [Globo MENTIU sobre Bolsonaro, e precisou PEDIR DESCULPA AO VIVO - William Bonner mentiroso](2020/2020-05-23-vUkZyoWSnCk.md) | 00:02:19 | automatica |
+| 2020-05-22 | [Olavo de Carvalho fala sobre o VAZAMENTO da REUNIÃO MINISTERIAL](2020/2020-05-22-t3nYgQcq_rY.md) | 00:01:06 | automatica |
+| 2020-05-22 | [VAZOU! Reunião Ministerial - Discurso ÉPICO de Bolsonaro defendendo a liberdade do povo](2020/2020-05-22-O-yHzVwvDZo.md) | 00:05:16 | automatica |
+| 2020-05-22 | [Dossiê: GIGANTES - Nova ferramenta CALANDO Conservadores e Bolsonaristas, STF contra PROTOCOLO](2020/2020-05-22-4n05G_RnCxQ.md) | 00:37:02 | automatica |
+| 2020-05-21 | [ENTREVISTA: Olavo de Carvalho - Militares, Bolsonaro, Quarentena, China e Governadores](2020/2020-05-21-POks6naYpAc.md) | 01:02:44 | automatica |
+| 2020-05-19 | [REVELADO! Plano de DÓRIA + COVAS + RODRIGO MAIA contra o Brasil](2020/2020-05-19-p69gHXlxm3M.md) | 00:02:11 | automatica |
+| 2020-05-19 | [Dossiê: SECOM - Mais um INFILTRADO? Família MORO contra o Brasil, Protestos contra Dória](2020/2020-05-19-7DE4Z4fjJ9w.md) | 00:22:23 | automatica |
+| 2020-05-18 | [Sérgio MORO se une a WITZEL e MBL contra Flávio Bolsonaro, AGU diz que MORO se deu MAL](2020/2020-05-18-dmYRNPwOEJU.md) | 00:26:34 | automatica |
+| 2020-05-18 | [🚨TRUMP falou AOVIVO que tá tomando Cloroquina - BOLSONARO deve lançar o decreto da Cloroquina HOJE](2020/2020-05-18-7MPyG7eVD9w.md) | 00:02:52 | automatica |
+| 2020-05-17 | [Dossiê: MARINHO - Flávio Bolsonaro em novo "ESCÂNDALO", QUEIROZ reaparece nos HOLOFOTES e na MÍDIA](2020/2020-05-17-1sV1TsDD270.md) | 00:30:11 | automatica |
+| 2020-05-17 | [Patriotas INOCENTES Presos, Delação PREMIADA contra WITZEL, Impachment Dória, MANIFESTAÇÕES 17/5](2020/2020-05-17-0_anqlSrpNc.md) | 00:09:40 | automatica |
+| 2020-05-16 | [Quem é o NOVO MINISTRO DA SAÚDE? Nelson Teich SAIU, Nóticias positivas sobre FIM da Quarentena](2020/2020-05-16-mwCovS626XI.md) | 00:39:03 | automatica |
+| 2020-05-16 | [GLOBO Confirmou! WITZEL foi pego pela PF, INQUÉRITO já se encontra no STJ (salvo FORO PRIVILEGIADO)](2020/2020-05-16-0JdK9eB8sB0.md) | 00:14:40 | automatica |
+| 2020-05-15 | [Bolsonaro sobe TOM contra SÉRGIO MORO, WITZEL: Prisões no RIO, CNN: Coppolla x IDDD, Damares Heroína](2020/2020-05-15-VXNQMIGEBU4.md) | 00:43:04 | automatica |
+| 2020-05-14 | [URGENTE! WITZEL pode ser PRESO nas próximas horas -MÁRIO PEIXOTO acabou d ser preso em interceptação](2020/2020-05-14-U_5v716AkVA.md) | 00:01:36 | automatica |
+| 2020-05-14 | [BRIGA no STF, Impeachment de DÓRIA avançando, TRAIDOR no Governo ,Governadores na mira da PF](2020/2020-05-14-PhAvmhQ-d-Q.md) | 00:38:18 | automatica |
+| 2020-05-13 | [Aras vai PROCESSAR Sérgio MORO, Abraham e Damares pedem PRISÃO do STF + Prefeitos + Governadores](2020/2020-05-13-8OkbeqMNaKA.md) | 00:27:17 | automatica |
+| 2020-05-12 | [URGENTE! Moro + Antagonista + Vídeo REUNIÃO Bolsonaro = QUEDA DA BOLSA. Seria um CRIME FINANCEIRO?](2020/2020-05-12-r1KytQZLQh0.md) | 00:01:35 | automatica |
+| 2020-05-12 | [Dossiê: VALEIXO - Sérgio Moro se complica após NOVO DEPOIMENTO - Deu RUIM pro Min. SAÚDE - EP205](2020/2020-05-12-X6AAihOTdvE.md) | 00:30:29 | automatica |
+| 2020-05-11 | [Dossiê: Siga o DINHEIRO - Bolsonaro com DOSSIÊ para DERROTAR a oposição e VENCER a HYDRA](2020/2020-05-11-tLYFRYRkgOw.md) | 00:26:09 | automatica |
+| 2020-05-11 | [VAZOU! Repórteres da GLOBO criticam ALEXANDRE GARCIA - Giuliana Morrone e Gerson Camarotti](2020/2020-05-11-i27YrRBL4Mw.md) | 00:02:18 | automatica |
+| 2020-05-10 | [BOMBA! Bolsonaro FINANCIOU blogs de DIREITA (pagou R$7,00), Manifestação Pró-MORO, Kim Paim na GLOBO](2020/2020-05-10-iCAMIq4fzo8.md) | 00:30:30 | automatica |
+| 2020-05-09 | [Sérgio e Rosângela MORO querem IMPEACHMENT e CAOS, Abraham WEINTRAUB xingou STF, HACKERS em SP](2020/2020-05-09-Hj1Ig4w1nWw.md) | 00:23:26 | automatica |
+| 2020-05-08 | [Dossiê: Eduardo Bolsonaro vs MBL - MBL no centro da Destruição, Bolsonaro contra o STF, e mais](2020/2020-05-08-vXcH3Uyn6W0.md) | 00:37:44 | automatica |
+| 2020-05-08 | [Dossiê: Eduardo Bolsonaro vs Tiamat - MBL no centro da Destruição (RECORTE DOSSIÊ)](2020/2020-05-08-G7s7cN7C0jw.md) | 00:26:35 | automatica |
+| 2020-05-07 | [MILITARES reagem ao STF, GOVERNADORES voltam a perseguir o POVO, Bolsonaristas contra CPMI-FakeNews](2020/2020-05-07-1nC-N0KeMF0.md) | 00:31:51 | automatica |
+| 2020-05-06 | [Dossiê: DEPOIMENTO - Sérgio Moro sem SIGILO - Tramas, Crimes e Narrativa - e agora BOLSONARO???](2020/2020-05-06-MHFtLahtJbc.md) | 00:39:52 | automatica |
+| 2020-05-05 | [MORO quer ajuda da IMPRENSA, DÓRIA aparelha TV, o PLANO por trás do novo DIRETOR da PF, STF recuou](2020/2020-05-05-IX-7pg2SudI.md) | 00:28:50 | automatica |
+| 2020-05-04 | [Sérgio Moro BLEFOU e NÃO tem PROVAS, VAZOU documento OFICIAL do PT com planos, a HYDRA-CPMI voltou](2020/2020-05-04-4R2yI0G2Bd0.md) | 00:31:38 | automatica |
+| 2020-05-03 | [DEPOIMENTO Sérgio Moro: TUDO sobre o depoimento que foi festa entre AMIGOS e acabou em PIZZA](2020/2020-05-03-HhgkBw5aNgE.md) | 00:25:58 | automatica |
+| 2020-05-02 | [Dossiê: GolpeSTF - Depoimento de SÉRGIO MORO na PF contra Bolsonaro - O prólogo do caos brasileiro](2020/2020-05-02-_VZtNCGFIRw.md) | 00:39:39 | automatica |
+| 2020-05-01 | [VAZOU TUDO! Sérgio Moro, Paulo Guedes e PEPPA têm conversas vazadas, VÍDEO BOMBA DA MULHER DE MORO](2020/2020-05-01--6E78DmAFZI.md) | 00:31:35 | automatica |
+| 2020-04-29 | [Dossiê: DISNEY-MORO - Relações entre SÉRGIO MORO e ÁLVARO DIAS trazem NOVAS REVELAÇÕES ao caso](2020/2020-04-29-s_mmwxuD0KQ.md) | 00:28:38 | automatica |
+| 2020-04-28 | [BOMBA: SÉRGIO MORO tem SEGREDOS, VAZA-JATO achou e Alexandre de MORAES blindou MORO em troca da PF](2020/2020-04-28-PtkDcx4Vzag.md) | 00:01:51 | automatica |
+| 2020-04-28 | [Dossiê: JOICE-MORO - Sérgio Moro é TESTEMUNHA de Joice no IMPEACHMENT contra Bolsonaro, PF a venda!](2020/2020-04-28-FIzSNNfUJRI.md) | 00:24:02 | automatica |
+| 2020-04-27 | [Dossiê: VAZA-MORO - SÉRGIO MORO VAZA o PLANO para derrubar BOLSONARO](2020/2020-04-27-sYNnVFXzRtA.md) | 00:59:14 | automatica |
+| 2020-04-26 | [SÉRGIO MORO: VAZAM mais Conversas de WhatsAPP, aparecem mais MENTIRAS - !!! DOSSIÊ ESPECIAL !!!](2020/2020-04-26-OydCW9Y0FAE.md) | 00:34:39 | automatica |
+| 2020-04-25 | [Dossiê: PINÓQUIO - Ségio MORO MENTIU e temos PROVAS, Quem é o NOVO MINISTRO DA JUSTIÇA?](2020/2020-04-25-mLN3v9Cswy0.md) | 00:29:17 | automatica |
+| 2020-04-23 | [MAIA está com MEDO do povo, Dória tem IMPEACHMENT protocolado, O. de CARVALHO se pronuncia](2020/2020-04-23-qUD5ynAewwA.md) | 00:36:14 | automatica |
+| 2020-04-21 | [MAIA abandonado por Deputados, MORO inicia Cor0nga-JATO, Aras prioriza INVESTIGAÇÃO contra Maia](2020/2020-04-21-PiADMv_HXKU.md) | 00:22:44 | automatica |
+| 2020-04-20 | [Dossiê: O INÍCIO DO FIM - Bolsona x Maia - Roberto Jefferson abala Brasília novamente - EP183](2020/2020-04-20-mU76VUzTu54.md) | 00:33:52 | automatica |
+| 2020-04-19 | [Dossiê: Rota da Seda - Email leva a planos do Dória para vender Brasil para CH/NA e os participantes](2020/2020-04-19-dl42ASb2AZw.md) | 00:44:34 | automatica |
+| 2020-04-18 | [Dossiê: PALÁCIO dos BANDEIRANTES - O Novo PSDB Doriano que CHANTAGEIA prefeitos pensando em 2022](2020/2020-04-18-xEyLyB9VNNE.md) | 00:37:40 | automatica |
+| 2020-04-17 | [Nelson Teich: Quem é o NOVO Ministro? Bolsonaro RAIZ voltou, Mundo está REABRINDO = VENCEMOS! -EP180](2020/2020-04-17-W4yyxdAGFSg.md) | 00:32:24 | automatica |
+| 2020-04-16 | [Dossiê: MandettaGate - Bill GATES e Mandetta trabalhando JUNTOS = Caso para FBI+CIA+INTERPOL - EP178](2020/2020-04-16-zDVa2S1n1EI.md) | 00:33:41 | automatica |
+| 2020-04-16 | [Bolsonaro - o MONSTRO tá saindo da jaula, vai sobrar pra MAIA e Governadores](2020/2020-04-16-_urElvu51U8.md) | 00:01:15 | automatica |
+| 2020-04-14 | [SÉRGIO MORO estudando ajudar PRESOS, Coxinha+Suco por $19 = CORRUPÇÃO](2020/2020-04-14-Ppj8GNA2dzE.md) | 00:31:15 | automatica |
+| 2020-04-13 | [Dossiê: ESPIÃO PRESO - Chinês tinha laços com POLÍTICOS, MANDETTA na GLOBO e DITA-Dória - EP176](2020/2020-04-13-TZsYpXz-KMY.md) | 00:35:04 | automatica |
+| 2020-04-11 | [Globo DEFENDENDO Cloroquina em 2016](2020/2020-04-11-kXFnQI4HiOs.md) | 00:02:27 | automatica |
+| 2020-04-09 | [BOLSONARO NOBEL DA PAZ, Mandetta se "DEMITIU", Bolsoquina venceu - EP175](2020/2020-04-09-lXsnU2Yq01A.md) | 00:21:51 | automatica |
+| 2020-04-08 | [MANDETTA quer negociar com TRÁFICO e MILICIA](2020/2020-04-08-IEpoS5yZvYY.md) | 00:00:48 | automatica |
+| 2020-04-08 | [FIM da MENTIRA - Australianos TRABALHANDO e brasileiros PRESOS em casa](2020/2020-04-08-452dARyoLoU.md) | 00:02:17 | automatica |
+| 2020-04-07 | [MANDETTA pai dos Ricos - Alcolumbre ameaça IMPEACHMENT se Bolsonaro demitir Mandetta - EP173](2020/2020-04-07-GDHNsBQpNS4.md) | 00:25:52 | automatica |
+| 2020-04-06 | [Dossiê: HYDRA - PEPPA+STF+PT+MBL+Frota = Os tentáculos do poder - EP172](2020/2020-04-06-1IcpWxZW9Lw.md) | 00:30:07 | automatica |
+| 2020-04-05 | [Dossiê: WITZEL TERCEIRIZADO - Rio comprando sem licitação,  Mais informações sobre MANDETTA - EP171](2020/2020-04-05-GtFAZkZDNa8.md) | 00:27:21 | automatica |
+| 2020-04-04 | [Dossiê: MANDETTA - Traidores não se ESCONDEM para sempre](2020/2020-04-04-jnqUgAVbxKs.md) | 00:33:40 | automatica |
+| 2020-04-02 | [Dossiê: $AÚDE $OCIALISTA - DiretoresComunistas da OMS, China e Dória LUCRANDO com o caos - EP166](2020/2020-04-02-_FXXeY5xlDs.md) | 00:43:01 | automatica |
+| 2020-03-31 | [STF pede AFASTAMENTO de Bolsonaro, Legalidade Governadores, AUSTRÁLIA e Coronga - com Dr. Zimmermann](2020/2020-03-31-X5xcIlrmr3A.md) | 01:05:56 | automatica |
+| 2020-03-30 | [Dossiê: CHINÊS DO ANO - Dória copiou COLLOR, mas invés de Fiat Elba agora temos um GM Tracker](2020/2020-03-30-n_ouRZwSTd8.md) | 00:57:03 | automatica |
+| 2020-03-29 | [BOLSONARO - Histórias do MITO em ROMA, a vida se repete e o Coronga também - História Magister EP164](2020/2020-03-29-hhymdcv7t94.md) | 01:06:22 | automatica |
+| 2020-03-29 | [SILVIO GRINALDO do Jornal Brasil Sem Medo falando sobre o canal](2020/2020-03-29-XBSiYIakpfs.md) | 00:01:22 | automatica |
+| 2020-03-27 | [🚨⚠️CAMINHONEIROS estão passando FOME, se eles pararem o Brasil vai PARAR](2020/2020-03-27-o9qj9h1LvCM.md) | 00:02:17 | automatica |
+| 2020-03-27 | [O Mundo COPIOU Bolsonaro, Médico fez BAND e CNN saírem do ar, DIRETOR da OMS é COMUNISTA - EP162](2020/2020-03-27-RDTgTGe66EE.md) | 00:27:55 | automatica |
+| 2020-03-26 | [FIM do 13º Salário do BOLSA FAMÍLIA por culpa de Rodrigo Maia](2020/2020-03-26-b5yZ8vfyS0k.md) | 00:03:07 | automatica |
+| 2020-03-26 | [Dória DEMITE funcionários públicos TERCEIRIZADOS](2020/2020-03-26-WHzeOwSqtw4.md) | 00:01:00 | automatica |
+| 2020-03-26 | [DÓRIA está vendendo SÃO PAULO para a CHINA](2020/2020-03-26-RqlVNV9N7S4.md) | 00:07:47 | automatica |
+| 2020-03-26 | [Dossiê: GOVERNADORES do CAOS - FIM do 13º do Bolsa Família, Brasil invadido pela China EP-161](2020/2020-03-26-69h6VA6-iA8.md) | 00:29:37 | automatica |
+| 2020-03-24 | [GILMAR MENDES envia PEC para derrubar PRESIDENCIALISMO, UFRJ homenageia a CHINA, MÍDIA quer o CAOS](2020/2020-03-24-TUb-yGoVUm8.md) | 00:31:22 | automatica |
+| 2020-03-23 | [STF se junta à GOVERNADORES para derrubar Bolsonaro criando CRISE FISCAL, Uni.Európeia expõe Rússia](2020/2020-03-23-sdOxHZFmdyk.md) | 00:36:23 | automatica |
+| 2020-03-22 | [Alerta sobre a QUARENTENA feito pelo dono da rede Giraffas](2020/2020-03-22-2-Upmh9n7qA.md) | 00:04:21 | automatica |
+| 2020-03-21 | [Dossiê: DITADOR Dória - Bastidores dos acordos com Comunistas Chineses e CRIME de SONEGAÇÃO FISCAL](2020/2020-03-21-2DK_uS6akH4.md) | 00:34:52 | automatica |
+| 2020-03-17 | [Frota vai protocolar IMPEACHMENT contra Bolsonaro HOJE, CNN+GLOBO+JovemPAN contra o BRASIL - EP153](2020/2020-03-17-_BFIrV3TDW4.md) | 00:29:41 | automatica |
+| 2020-03-17 | [IMAGENS que faltaram no vídeo de ontem sobre a CNN](2020/2020-03-17-8k5_mXB46fo.md) | 00:01:07 | automatica |
+| 2020-03-16 | [CNN é contra GOVERNO e estreia com "PéEsquerda", Reação do Centrão e NewLeft, Repórter chora ao vivo](2020/2020-03-16-wry1W-Xbmfs.md) | 00:27:13 | automatica |
+|  |  |  | erro |
 |  |  |  | erro |
 |  |  |  | erro |
 |  |  |  | erro |
