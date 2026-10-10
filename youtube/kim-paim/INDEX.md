@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-2282 vídeos transcritos, 117 sem legenda.
+2382 vídeos transcritos, 119 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -2403,6 +2403,109 @@
 | 2020-03-17 | [Frota vai protocolar IMPEACHMENT contra Bolsonaro HOJE, CNN+GLOBO+JovemPAN contra o BRASIL - EP153](2020/2020-03-17-_BFIrV3TDW4.md) | 00:29:41 | automatica |
 | 2020-03-17 | [IMAGENS que faltaram no vídeo de ontem sobre a CNN](2020/2020-03-17-8k5_mXB46fo.md) | 00:01:07 | automatica |
 | 2020-03-16 | [CNN é contra GOVERNO e estreia com "PéEsquerda", Reação do Centrão e NewLeft, Repórter chora ao vivo](2020/2020-03-16-wry1W-Xbmfs.md) | 00:27:13 | automatica |
+| 2020-03-12 | [Papo de Mecânica - Brasil vs Austrália - feat Flavio Garage](2020/2020-03-12-rR4CK7yvu-I.md) | 01:45:50 | automatica |
+| 2020-03-12 | [Dossiê: o NOVO tá LIVRES - Carlos Bolsonaro  expõe o gabinete do Patinete de Colete EP148](2020/2020-03-12-TEyhXteGoZQ.md) | 00:21:44 | automatica |
+| 2020-03-12 | [VAZOU!! RODRIGO MAIA fez REUNIÃO com Gilmar Mendes + PT + Aécio + Alcolumbre para DERRUBAR Bolsonaro](2020/2020-03-12-MXUfHKUv9n4.md) | 00:18:34 | automatica |
+| 2020-03-11 | [Dossiê: MBL PATRIOTA$ - Como seu DINHEIRO está indo pra NovaEsquerda - EP147](2020/2020-03-11-iZpDgzOaV6U.md) | 00:23:08 | automatica |
+| 2020-03-10 | [BOMBA! Bolsonaro tem PROVAS DE FRAUDE na eleição de 2018, Centrão+Esquerda+STF na festa da CNN](2020/2020-03-10-U9502Tle2-U.md) | 00:26:07 | automatica |
+| 2020-03-09 | [GLOBO não gosta de crianças, Regina Duarte chama conservadores de Facção, CRISE internacional? ep145](2020/2020-03-09-dTXl95DBKYQ.md) | 00:31:54 | automatica |
+| 2020-03-06 | [Eduardo Bolsonaro expõe gastos do Dória, Amoedo RENUNCIOU presidência do NOVO, Caso Gabriel Monteiro](2020/2020-03-06-WkPvxhvBSXU.md) | 00:24:52 | automatica |
+| 2020-03-05 | [Dossiê: CNN Brasil - De Trabalho Escravo à doações ao Maia+PT+NOVO, LulaLivre, Grampo de Aécio, etc](2020/2020-03-05-j6LwajiVElg.md) | 00:26:12 | automatica |
+| 2020-03-03 | [MORO esculacha CIRO GOMES, CNN estreia 15/03 - Uma retrospectiva temporal da DIREITA - EP140](2020/2020-03-03-8_1NLWEcuos.md) | 00:24:54 | automatica |
+| 2020-03-02 | [CENSURA - EP139](2020/2020-03-02-9xfCYpLc_m4.md) | 00:12:07 | automatica |
+| 2020-02-29 | VAZOU! CIRO GOMES explica PLANO para derrubar o GOVERNO com ajuda de MAIA - EP137 | 00:28:31 | sem_legenda |
+| 2020-02-28 | [URGENTE! Maia articula GOLPE com ajuda INTERNACIONAL do Foro de São Paulo e Comunistas Espanhóis 136](2020/2020-02-28-OllgBfMUCJ4.md) | 00:29:01 | automatica |
+| 2020-02-27 | [BOLSONARO sob ataque, Mídia e CONGRESSO unidos pelo IMPEACHMENT e contra o POVO BRASILEIRO - EP135](2020/2020-02-27-RDOXY8bufV8.md) | 00:31:57 | automatica |
+| 2020-02-21 | [Dossiê: Príncipe CAIO COPOLLA - No reino DÓRIA o MBL e o NOVO são a Aristocracia - EP132](2020/2020-02-21-hWrC97qtVzU.md) | 00:20:03 | automatica |
+| 2020-02-18 | [20 Governadores contra BOLSONARO, Genialidade do ABRAHAM, Janaína SURTOU de vez - EP129](2020/2020-02-18-EFIRfombLXk.md) | 00:24:24 | automatica |
+| 2020-02-17 | [Dossiê MBL e NOVO: TRANS é a nova pauta. A destruição da imagem do NOVO e MBL em 9 meses - EP128](2020/2020-02-17-Zsw5Xyi61-I.md) | 00:33:52 | automatica |
+| 2020-02-15 | [Dossiê: MILITARES - BOLSONARO fez uma CAGADA ao tirar Onyx? - EP126](2020/2020-02-15-J_E5DAQ3grA.md) | 00:22:51 | automatica |
+| 2020-02-14 | [VAZA vídeo de 2013 com BOLSONARO e CARLOS, Papa contra o Comunismo, Cuidado com DATENA - EP124](2020/2020-02-14-vqcbMQK2uHo.md) | 00:28:25 | automatica |
+| 2020-02-11 | [MBL ensinando RELIGIÃO, VITÓRIA próxima: Tabuleiro da CPMI pode ter REVIRAVOLTA a nosso favor -EP121](2020/2020-02-11-WYvIvNLHYd0.md) | 00:25:47 | automatica |
+| 2020-02-10 | [Brasil no OSCAR, FREIXO quer destruir governo BOLSONARO, NOVA ESQUERDA não dorme - EP120](2020/2020-02-10-HRoW-0MFoRE.md) | 00:23:24 | automatica |
+| 2020-02-08 | [Dossiê: MARKETEIROS - Direita expulsa da PAN, Caio Coppola o agente Laranja, MBL escrevendo história](2020/2020-02-08-EKC8uBB7nVo.md) | 00:31:10 | automatica |
+| 2020-02-07 | [Dossiê: COPPOLA vs Min.ABRAHAM, as conexões obscuras entre o NOVO e a ESQUERDA, DeX contra CPMI -117](2020/2020-02-07-dw5k3OFS2nk.md) | 00:29:47 | automatica |
+| 2020-02-04 | [MBL desmascarado pelo Mov.Conservador, Nando Moura xinga Criança e Senhora, Escolas Militares EP115](2020/2020-02-04-FhKUXPCigRk.md) | 00:28:12 | automatica |
+| 2020-02-03 | [Mídia contra Olavo e F.G.Martins, Ataques contra Damares, As últimas CONQUISTAS do governo - EP114](2020/2020-02-03-wcMnQeKspOU.md) | 00:24:14 | automatica |
+| 2020-02-03 | [KimPaim no SERASA - minha CASA CAIU e serei EXPOSTO por estar usando as pessoas no YouTube](2020/2020-02-03-H7H7tK30nSQ.md) | 00:11:44 | automatica |
+| 2020-02-02 | [Dossiê: BOLSONARO vs ADÉLIO, os SEGREDOS que a mídia insiste em ESCONDER - EP113](2020/2020-02-02-R_-VTD0UTjQ.md) | 00:26:08 | automatica |
+| 2020-01-31 | [Desculpas ao FERNANDO MELO  @Comunicação & Política por eu ser uma pessoa desconfiada - EP112](2020/2020-01-31-s80xqwCh5eA.md) | 00:18:34 | automatica |
+| 2020-01-30 | [DÓRIA está criando BigBrother em SP, Min.ABRAHAM atacado pelo MBL, NOVO assume ser de ESQUERDA EP111](2020/2020-01-30-6xf3PP4iIB4.md) | 00:29:20 | automatica |
+| 2020-01-28 | [Dossiê: DÓRIA - A mão invisível por trás do NOVO e da JOVEM PAN - EP109](2020/2020-01-28-c9VIbJiMKDI.md) | 00:27:42 | automatica |
+| 2020-01-27 | [CAIO COPPOLLA começa a fazer PROPAGANDA para o NOVO, DuduBolsonaro humilha Felipe da JovemPAN -EP108](2020/2020-01-27-m1T3o08_7WQ.md) | 00:28:03 | automatica |
+| 2020-01-25 | [Min. Abraham entendeu quem é a JovemPAN, MBL e Soros, A mulher de MORO e a mulher de CÉSAR - EP106](2020/2020-01-25-SGqa48enIio.md) | 00:27:40 | automatica |
+| 2020-01-24 | [O RACHA entre Bolsonaro e Moro se intensifica, AUGUSTO NUNES o último "herói" da JovemPan - EP105](2020/2020-01-24-L055pCr8jp4.md) | 00:24:19 | automatica |
+| 2020-01-22 | [DOSSIÊ ZERO: Olavo de Carvalho - Analisando a Nova Esquerda, NOVO, MBL e afins - EP00](2020/2020-01-22-PIZH9wo9uLg.md) | 00:41:40 | automatica |
+| 2020-01-20 | [Dossiê: CAIO COPPOLLA parte 2, Explicando a linha do tempo dos DOSSIÊS - EP101](2020/2020-01-20-IQb1QtdH4T0.md) | 00:21:06 | automatica |
+| 2020-01-19 | [Dossiê CAIO COPPOLLA, o ex ASSESSOR PARLAMENTAR de um vereador do PartidoSOCIALISTABrasileiro EP100](2020/2020-01-19-d8MD3Fgnuaw.md) | 00:29:50 | automatica |
+| 2020-01-17 | [Nando Moura vendendo LIVRO CONTRA Bolsonaro, em vídeo BOLSONARO fala que MORO será seu sucessor EP98](2020/2020-01-17-y-QEwKM00oo.md) | 00:23:45 | automatica |
+| 2020-01-16 | [DOSSIÊ: Dallagnol - As ligações entre o NOVO, MBL, RenovaBR, LIVRES e empresários - EP97](2020/2020-01-16-l0fv-bdxOlU.md) | 00:40:06 | automatica |
+| 2020-01-15 | [(Episódio Antigo Removido) NANDO MOURA anuncia que vai tocar no FAUSTAO com LOBAO - EP50](2020/2020-01-15-bSGiGL16XQM.md) | 00:05:56 | automatica |
+| 2020-01-14 | [DOSSIÊ JOVEM PAN: Antagonista TORMENTA a ÁSIA, TRIPLICANDO A APOSTA - EP95](2020/2020-01-14-L-bVSG1ARoo.md) | 00:27:34 | automatica |
+| 2020-01-13 | [(Episódio Antigo Removido) DOSSIE PSL -  BOLSONARO PRECISA DEIXAR O PARTIDO - EP34](2020/2020-01-13-qigaNH_uA9g.md) | 00:22:57 | automatica |
+| 2020-01-13 | [DINHEIRO LARANJA vs ALIANÇA: NANDO MOURA E JANAÍNA DOBRAM A APOSTA, LIBERAIS LOUVANDO O $$$$ - EP94](2020/2020-01-13-jx-Sm621u2k.md) | 00:27:39 | automatica |
+| 2020-01-13 | [(Episódio Antigo Removido) NANDO MOURA, MBL, Joven Pan e a Nova ESQUERDA -  EP36](2020/2020-01-13-He9wUmcaARM.md) | 00:15:24 | automatica |
+| 2020-01-12 | [CLUBE DE CANAIS - Algumas informações para os membros](2020/2020-01-12-uZNjfq5bfk8.md) | 00:02:12 | automatica |
+| 2020-01-12 | [DOSSIÊ: Nando Moura, NOVO, MBL, JovemPan: LIBERALISMO O DINHEIRO LARANJA - EP93](2020/2020-01-12-4u__xjto6JM.md) | 00:39:10 | automatica |
+| 2020-01-11 | [ALEXANDRE NAGADO: Cultura POP Japonesa (ENTREVISTA) - EP91](2020/2020-01-11-6m5IDHbL9w0.md) | 01:18:02 | automatica |
+| 2020-01-09 | [OLAVO DE CARVALHO: NETFLIXvsTRANSGRESSÃO, ANANIAS PULOU FORADE VEZ- EP90](2020/2020-01-09-COVarEpQxf4.md) | 00:23:48 | automatica |
+| 2020-01-08 | [CAIO COPPOLLA E SUAS AMIZADES, JANAÍNA ELOGIANDO O M0LUSC0 - EP89](2020/2020-01-08-moAUzB-cvLc.md) | 00:22:26 | automatica |
+| 2020-01-07 | [EmiBêL+NOVO+J0V3MPAN causando encrenca, Net-Fl1x e holywood recebem uma pitada de verdade - EP88](2020/2020-01-07-x4y5R31zobA.md) | 00:23:01 | automatica |
+| 2020-01-06 | [EVANDRO PONTES: A corrupção da inteligência jurídica, É hora do presidente governar com o povo E87](2020/2020-01-06-ynN4iXdsymY.md) | 01:47:15 | automatica |
+| 2020-01-05 | [B0LS0LAV0M0RISM0: A trinca brasileira - EP86](2020/2020-01-05-JesPkiSHRv4.md) | 00:22:26 | automatica |
+| 2020-01-04 | [BOLSO FAZ PIADA DO ANÃO, NETFLIX+RÚSSIA+OLAVO, MBL NAS ELEIÇÕES 2020 - EP85](2020/2020-01-04-tS02PaE-KGg.md) | 00:21:59 | automatica |
+| 2020-01-03 | [B0LS0N4R.0 CONTR4 TODOS: VENENO CONTINUA, F.G. MARTINS PEDE MATURIDADE - EP84](2020/2020-01-03-Lux5GducDck.md) | 00:27:22 | automatica |
+| 2020-01-02 | [OLAVO DE CARVALHO, PLATÃ0 E ARISTÓTELES vs DIR3ITA VEN3N0SA - EP83](2020/2020-01-02-pi3i3sYYafY.md) | 00:27:26 | automatica |
+| 2019-12-31 | [Últimas notícias da DÉCADA & RETROSPECTIVA do Canal - EP82](2019/2019-12-31-UxuZKU05pZI.md) | 00:25:02 | automatica |
+| 2019-12-30 | [OLAVO DE CARVALHO acertou mais uma vez - EP81](2019/2019-12-30-wWheXiXeECE.md) | 00:22:17 | automatica |
+| 2019-12-29 | [LILOVLOG FOI IGNORADO, MEMÓRIA CURTA EP-80](2019/2019-12-29-HgU-hT-rYQA.md) | 00:20:23 | automatica |
+| 2019-12-28 | [D0SS1Ê RAPP - AS CONEXÕES DA NEW CANHORA - EP79](2019/2019-12-28-Qh3x00sfQ84.md) | 00:24:05 | automatica |
+| 2019-12-27 | [NEW ESQU3RDA NOS JORNAIS,  MELHORIAS PARA O NORDESTE, RECORDE NA B0LSA - EP78](2019/2019-12-27-ixm5-faNZPA.md) | 00:26:58 | automatica |
+| 2019-12-26 | [ANANIAS E NOVA LEFT CONTRA O NATAL: DESENHANDO O PACOTE ANTI-CRIME EP77](2019/2019-12-26-S9e_A84X-ys.md) | 00:24:53 | automatica |
+| 2019-12-24 | [KiM PAiM 24 de Dezembro de 2019 - EP76](2019/2019-12-24-gvMl9bz1oX4.md) | 00:05:35 | automatica |
+| 2019-12-23 | [KiM PAiM 23 de Dezembro de 2019 - EP75](2019/2019-12-23-TTWwJm__0W0.md) | 00:22:41 | automatica |
+| 2019-12-22 | [KiM PAiM 22 de Dezembro de 2019 - EP74](2019/2019-12-22-7h28cdJeeVU.md) | 00:24:38 | automatica |
+| 2019-12-21 | [JOVEM PAN e suas coincidências de DATAS - EP73](2019/2019-12-21-3AsOebrAIbc.md) | 00:25:23 | automatica |
+| 2019-12-20 | [KiM PAiM 20 de Dezembro de 2019 - EP72](2019/2019-12-20-etRJRTBjFec.md) | 00:19:07 | automatica |
+| 2019-12-19 | KiM PAiM 19/12/2019 - EP71 | 00:22:24 | sem_legenda |
+| 2019-12-17 | [NOVO RECORDE DA BOLSA, DUDU VOLTA AO COMANDO E PEPPA VOA, LUXEMBURGO APOIA O MOLUSCO - EP69](2019/2019-12-17-zP5wX08SoBY.md) | 00:25:24 | automatica |
+| 2019-12-16 | [HADDAD ELEITO REI PELA ISTOÉ, OLAVO novamente não foi ouvido, VITÓRIA INTERNACIONAL DO B0N0RO - EP68](2019/2019-12-16-9ezm64A9G68.md) | 00:25:58 | automatica |
+| 2019-12-15 | [OLAVO DE CARVALHO manda recado para INSCRITOS, VITÓRIA CRISTÃ, MORO e TARCÍSIO fazendo história EP66](2019/2019-12-15-zIFyTbEZvn4.md) | 00:21:59 | automatica |
+| 2019-12-15 | [OLAVO DE CARVALHO MANDA A REAL PARA NANDO MOURA, JOICE, FROTA, ISENTÕES E A DIREITA PURITANA - EP67](2019/2019-12-15-yiYK7Phgotk.md) | 00:02:42 | automatica |
+| 2019-12-14 | [Sexta-Feira13 RUIM para o BRASIL, TRAMA contra B0N0R0, HACK3RS abrem o bico, PROBLEMAS NO MEC - EP64](2019/2019-12-14-HNMW2XI58pk.md) | 00:26:58 | automatica |
+| 2019-12-13 | [NANDO MOURA É REMOVIDO PELO MAMÃE FALEI, CADÊ O LULA? BONORO HOMENAGEANDO NOSSOS HÉROIS! - EP63](2019/2019-12-13-lTPVCYqcMbQ.md) | 00:27:23 | automatica |
+| 2019-12-12 | [MORO MITA EM CIMA DA OAB, ESTADÃO MENTINDO, RODRIGO MAIA CRIANDO PROBLEMAS, DUVIVER & FolhaSP - EP62](2019/2019-12-12-KG1LFMmTYzI.md) | 00:23:33 | automatica |
+| 2019-12-11 | [É OFICIAL: NANDO MOURA+ARTUR+RAPP TRABALHANDO JUNTOS / ALGUMAS VERDADES DIFÍCEIS DE ENGOLIR - EP61](2019/2019-12-11-x3REW6FYmKg.md) | 00:24:14 | automatica |
+| 2019-12-10 | [OLAVO DE CARVALHO EXPÔS O PLANO, MBL+AYAN+FMB+VERDEVALDO+CENTRÃO JUNTOS? - EP60](2019/2019-12-10-b0WSP21PKP8.md) | 00:27:38 | automatica |
+| 2019-12-09 | [FIM DO MBL, CPMI DAS FAKE NEWS FOI TUDO ARMAÇÃO? O DESFECHO DAS INVESTIGAÇÕES - EP59](2019/2019-12-09-s9Hwdpdolmo.md) | 00:26:47 | automatica |
+| 2019-12-08 | [OLAVO DE CARVALHO PAUTANDO A MÍDIA, NETFLIX SE SUPEROU, DIRECEU E OS ESPIÕES, MBL E PSOL JUNTOS EP58](2019/2019-12-08-5E4JvyZ7fn0.md) | 00:26:44 | automatica |
+| 2019-12-07 | [Raio-X na EDUCAÇÃO - coisas que NUNCA te contaram e COMO MODIFICAR A SUA REALIDADE - EP57](2019/2019-12-07-07nHexRfYcM.md) | 00:39:14 | automatica |
+| 2019-12-06 | [KODHAK TEM VIDA PESSOAL EXPOSTA POR NANDO MOURA - O CLUBE DA LUTA - EP56](2019/2019-12-06-CIZ0KRaF5po.md) | 00:25:50 | automatica |
+| 2019-12-04 | [JOICE e PSL preparados para ATACAR o GOVERNO nas próximas horas, HACKER tem DELAÇÃO homologada EP54](2019/2019-12-04-Epgq-sev6O0.md) | 00:22:02 | automatica |
+| 2019-12-02 | [SERGIO MORO ameaçado de MORTE e OVACIONADO, Queda de vendas da FOLHA, o PLANO Terça Livre - EP52](2019/2019-12-02-OEgwf3u1aD8.md) | 00:18:02 | automatica |
+| 2019-12-01 | [GRANDE GOLPE NAS CRIANÇAS - A ESQUERDA não tem escrúpulos - EP51](2019/2019-12-01-WH6Ywclwx34.md) | 00:11:56 | automatica |
+| 2019-11-29 | [DOSSIÊ AMAZÔNIA: O Segredo das ONGs - EP49](2019/2019-11-29-C5GmXEwxvPE.md) | 00:35:12 | automatica |
+| 2019-11-27 | [NANDO MOURA, GLEISI E MARCELO FREIXO JUNTOS? Cuidados com as cortinas de fumaça - EP47](2019/2019-11-27-NOc-4WZh0lk.md) | 00:16:58 | automatica |
+| 2019-11-16 | [Será o FIM? O ÚLTIMO GOLPE DO JUCIÁRIO CONTRA O BRASIL - EP39](2019/2019-11-16-k1DhsYUrjnE.md) | 00:22:29 | automatica |
+| 2019-11-16 | [CONGRESSO MBL - EU ACERTEI, A NOVA ESQUERDA SE CONSOLIDA - EP40](2019/2019-11-16-deiLs8bl7S8.md) | 00:12:15 | automatica |
+| 2019-11-15 | [MARINHO, BEBIANNO, JOVEM PAN E BOLSONARO - EP37](2019/2019-11-15-i_kikYiBu8I.md) | 00:17:06 | automatica |
+| 2019-11-11 | [VAZOU! Plano para DERRUBAR MORO foi descoberto, BOLÍVIA derrota EVO MORALES - EP33](2019/2019-11-11-R3aA6uy9-L8.md) | 00:49:18 | automatica |
+| 2019-11-10 | [OLAVO 2ªParte - STF, LULA e Felipe Barros (PSL) EP31](2019/2019-11-10-cssL8_jyUiA.md) | 00:10:03 | automatica |
+| 2019-11-08 | [STF E LULA - AS MOVIMENTAÇÕES DA ESQUERDA JÁ COMEÇARAM EP28](2019/2019-11-08-Y5_FX9Q1wSw.md) | 00:21:31 | automatica |
+| 2019-11-07 | [JovemPan SE AFUNDA! Atacou o TERÇA LIVRE, FELIPE passou VERGONHA, PF investigando dono EP26](2019/2019-11-07-9usRb1ZCBIc.md) | 00:12:25 | automatica |
+| 2019-11-05 | [MORAR FORA É DIFÍCIL? Respondendo a inscritos EP24](2019/2019-11-05-pRLkiOgdOfc.md) | 00:13:23 | automatica |
+| 2019-11-04 | [AUSTRÁLIA vs BRASIL - Problema dos baixos salários brasileiros EP23](2019/2019-11-04-OGRy0j8uCKI.md) | 00:05:41 | automatica |
+| 2019-11-04 | [BRIGAS NA DIREITA - Um diagnóstico dos resultados EP22](2019/2019-11-04-CJoeJ4s_TmM.md) | 00:11:00 | automatica |
+| 2019-11-02 | [NANDO, NOVO, JOICE, MBL, FROTA - O CIRCO BRASILEIRO EP20](2019/2019-11-02-p7WW2GvnN2c.md) | 00:13:15 | automatica |
+| 2019-10-27 | [OLAVO fala de NANDO MOURA, LOBÃO e a Fraqueza da Nova Direita EP13](2019/2019-10-27-mqM0-2gjizQ.md) | 00:06:14 | automatica |
+| 2019-10-27 | [OLAVO - NOVO Marxismo, Globalismo, CUIDADO COM PALPITEIROS! EP12](2019/2019-10-27-RDWkUFe75Iw.md) | 00:08:47 | automatica |
+| 2019-10-26 | [FILME CONSERVADOR - Melhor comédia que você vai assistir EP09](2019/2019-10-26-R0fUgaJ1Sgg.md) | 00:13:11 | automatica |
+| 2019-10-23 | [TERÇA LIVRE vazou informação melhor que a PREVIDÊNCIA - EP07](2019/2019-10-23-qO4aoFGKigM.md) | 00:06:31 | automatica |
+| 2019-10-22 | [Lilo vs Peppa e Cronos - A CONQUISTA DO OLIMPO - EP06](2019/2019-10-22-qcxZeVL2uss.md) | 00:08:59 | automatica |
+| 2019-10-13 | [A Jornada do Herói aplicada à sua Vida - EP03](2019/2019-10-13-epsmfTh3ZkU.md) | 00:13:16 | automatica |
+| 2019-10-07 | [JOKER... Estão MENTINDO sobre a mensagem do filme - EP02](2019/2019-10-07-r8rLAbpXYMg.md) | 00:08:47 | automatica |
+| 2019-09-28 | [SEGREDO DO ONE PIECE REVELADO - EP01](2019/2019-09-28-Pj6dVbfM29w.md) | 00:10:11 | automatica |
+|  |  |  | erro |
 |  |  |  | erro |
 |  |  |  | erro |
 |  |  |  | erro |
