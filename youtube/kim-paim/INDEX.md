@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-1698 vídeos transcritos, 27 sem legenda.
+1813 vídeos transcritos, 37 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -1729,6 +1729,131 @@
 | 2022-01-01 | [2022 Começou: O Grande CONLUIO Contra BOLSONARO - Anulações, Captura do Legislativo e Regulação](2022/2022-01-01-Yowe7TEAR5Y.md) | 01:33:07 | automatica |
 | 2021-12-31 | [Bolsonaro 2022: CPI, Mamateiros e Tias do ZAP - A GAROTA dos Vídeos e a ANITA que NÃO Canta](2021/2021-12-31-eio8aTGZ7lc.md) | 00:57:19 | automatica |
 | 2021-12-30 | [Dossiê: MORO Admite ENVOLVIMENTO de DOLEIRO e Vídeo B0MBA de DENÚNCIA Conta YOUSSEF + Chuvas na BA](2021/2021-12-30-VIlYYmfL4GE.md) | 00:59:45 | automatica |
+| 2021-12-29 | [Dossiê: Mais DINHEIRO Revelado - O Impul$ionamento do MORO + ENQUADRO do TCU  e DESESPERO dos Antas](2021/2021-12-29-wGD3MloDUSM.md) | 00:59:17 | automatica |
+| 2021-12-28 | [Enriquecimento INDEVIDO? TCU Enquadrou MORO + CPMI das Fake News MIRA Eleições 2022 + Bolsonaro 2022](2021/2021-12-28-9vR0nbkWmvQ.md) | 00:59:54 | automatica |
+| 2021-12-27 | [Especial 2022 - Um Ano CONTURBADO + AYAN de Volta e MORO Revolucionário + 5TF de OLHO em LulAlckmin](2021/2021-12-27-vTkIvEWAZdU.md) | 01:01:32 | automatica |
+| 2021-12-26 | [Supremo COBRA Explicações de Bolsonaro + Mendonça Pode PARAR a Esquerda + o VACILO de Sérgio MORO](2021/2021-12-26-POmDGatqyuo.md) | 00:59:42 | automatica |
+| 2021-12-25 | [Natal, Família e ESPERANÇA - Bate papo com Arthur Machado](2021/2021-12-25-gmirhGIRjpc.md) | 00:56:33 | automatica |
+| 2021-12-24 | [Natal: DELTAN Negociará com CORRUPTOS, Lula e Moro se UNEM por Governança GLOBAL + União da Direita?](2021/2021-12-24-HoZXrQcgtEc.md) | 01:00:03 | automatica |
+| 2021-12-23 | [Revelação: o PSDB Protegeu o PT + Moro BRIGA com Podemos + Entre CAPAS e BECAS: Suprasumo da Justiça](2021/2021-12-23-2BNGqNsc6rU.md) | 01:00:51 | automatica |
+| 2021-12-22 | [ALERTA contra DIRCEU e LULA Escanteia DILMA + MORO se Une ao MBL/Ayan + Bolsonaro e Direita em 2022](2021/2021-12-22-58ZBeGSH2Vw.md) | 01:02:47 | automatica |
+| 2021-12-21 | [PGR vs JAIR e Vice do Tarcísio + Grupo Doria no Jantar LulAlckmin + AGLOMERAÇÃO Iluminada.](2021/2021-12-21-URIJvbzs1BY.md) | 00:58:27 | automatica |
+| 2021-12-20 | [Show de HORRORES: o Jantar de LULA e ALCKMIN + Eleições no CHILE e Brasil em 22 + VICE de Bolsonaro](2021/2021-12-20-GCvhFCM7a28.md) | 01:00:00 | automatica |
+| 2021-12-19 | [Férias FRUSTRADAS: Bolsonaro vs Judiciário + MORO Defende IDEIAS do PCCh + Confusões na Direita](2021/2021-12-19-W6vevd-5hxE.md) | 01:03:09 | automatica |
+| 2021-12-18 | [Farra do FUNDÃO: Lula e MORO saem GANHANDO + Randolfe vs Mendonça + Bolsonaro tem 48h De NOVO](2021/2021-12-18-jJ_7op-COxc.md) | 00:59:45 | automatica |
+| 2021-12-17 | Carlos GABAS foi INDICIADO! + PF se MANIFESTA: Bolsonaro INELEGÍVEL? + Dirceu PREOCUPADO com HELENO | 01:02:10 | sem_legenda |
+| 2021-12-16 | PF na casa do CIRO + Nova PESQUISA: Bolsonaro LÍDER, da para CONFIAR? + Lula e Alckmin FECHAM Chapa | 00:59:49 | sem_legenda |
+| 2021-12-15 | SUPREMO Manda PGR a Trancar INVESTIGAÇÃO + Moro CONVIDA Chefe de Gabinete do FHC + PF Intima Bonoro | 01:00:37 | sem_legenda |
+| 2021-12-14 | Bolsonaro AGE Contra PASSAPORTE + MP e TCU Querem EXPLICAÇÕES do MORO + DIRCEU Preocupado com LULA | 00:59:28 | sem_legenda |
+| 2021-12-13 | Dossiê: DEPOIMENTO FORJADO - Bolsonaro vs Deltan. Quem tá CERTO? A Saga do PARTIDO dos Procuradores. | 00:59:23 | sem_legenda |
+| 2021-12-12 | [Passaporte AVANÇA e Governadores vão ao Supremo + Moro JANTOU com  TESTEMUNHA do Dirceu + Vice de JB](2021/2021-12-12-Tssuo5oA9ZE.md) | 00:55:27 | automatica |
+| 2021-12-11 | [Dossiê: VÍDEO do Youssef FALANDO do Alvaro Dias. Bolsonaro sabia de TUDO so Moro](2021/2021-12-11-F2ORSE2LXmA.md) | 01:02:15 | automatica |
+| 2021-12-10 | INVASÃO: Min. da SAÚDE foi Hackeado + GLOBO faz PRESSÃO pela PL das FakeNews + Mais uma baixa no PL. | 00:59:34 | sem_legenda |
+| 2021-12-09 | Bolsonaro: BASTIDORES da Entrevista + Moro PEDIRÁ Ajuda ao MBL e AYAN + Dirceu VENCE dentro do PT | 01:02:24 | sem_legenda |
+| 2021-12-08 | [Bolsonaro: Debandada no PL e APUNHALADA de Aliado + PL2630 e DEMOCRACIA Iluminista + Lira e Pautas](2021/2021-12-08-WFHs2NBYamw.md) | 00:59:37 | automatica |
+| 2021-12-07 | [A QUEDA de Braço: Congresso vs STF + CONFLITOS no PL e DURO Recado do JB ao CENTRÃO + Moro HIPÓCRITA](2021/2021-12-07-RaInxGOrKho.md) | 00:59:55 | automatica |
+| 2021-12-06 | [Dossiê: 777 - A Perfeição de um TRAIDOR + Bolsonaro IMPÕE Mudanças no PL + 3 Anos PERDIDOS na SECULT](2021/2021-12-06-qa-uenELgWo.md) | 01:01:46 | automatica |
+| 2021-12-05 | [A Globo DEFENDEU o BOLSONARO e ATACOU o Lula? + Rachadinha do Moro + Candidatos e TRAIÇÕES!](2021/2021-12-05-TnpdoeTcNYI.md) | 00:59:47 | automatica |
+| 2021-12-04 | [Bolsonaro ALVO de NOVO Inquérito + Mais MENTIRAS do Serginho + Doria UNIDO a Lula e Dilma](2021/2021-12-04-7wNCmZuw0aw.md) | 00:59:44 | automatica |
+| 2021-12-03 | [As 4 VITÓRIAS de Bolsonaro + Outras MENTIRAS do Moro e DESEMBARQUE + PODCAST do Lula.](2021/2021-12-03-Wbm1n_2Uktc.md) | 01:05:01 | automatica |
+| 2021-12-02 | [Mendonça: BASTIDORES e Lições de PODER + Rádio Peão: IMPEACHMENT em 2023 num país INGOVERNÁVEL](2021/2021-12-02-hZC60rOilB0.md) | 00:59:57 | automatica |
+| 2021-12-01 | [Respondendo ao MAMÃE FALEI - Deputado que propagou MENTIRAS sobre mim](2021/2021-12-01-jZbVzYkHQqI.md) | 00:02:29 | automatica |
+| 2021-12-01 | [Dossiê: PROIBIDÃO — O AMIGO do Moro (BANESTADO, Lemann e Soros) + Filiação JB  e LIBERDADE](2021/2021-12-01-O9w4_8bvg4M.md) | 00:59:48 | automatica |
+| 2021-11-30 | [O ENGANO: Coppola Mente e APOIA Moro + Chapa LULA-Alckimin AJUDA Tarcísio + Algomeração do Barroso](2021/2021-11-30-jMoiyJhfeAI.md) | 00:59:54 | automatica |
+| 2021-11-29 | [Polêmica do TARCÍSIO: Esclarecimentos do Ministro + Moro FUGIU de JORNALISTAS + Os Campeões de VOTO](2021/2021-11-29-4Eg9_rtsFV8.md) | 00:59:46 | automatica |
+| 2021-11-28 | [STF: Dia 1º – SABATINA do MENDONÇA, Relatora e Placar + Sara Winter vs Bolsonaro + Chapa DORIA-MORO](2021/2021-11-28-PfIkCLO7m5Y.md) | 00:59:34 | automatica |
+| 2021-11-27 | [Lula MILIONÁRIO! Agradeça ao MORO + Bonoro e 22: Tarcísio VOLTA Atrás +20 Celulares do ADV do ADÉLIO](2021/2021-11-27-uHmQusi2jIM.md) | 01:03:35 | automatica |
+| 2021-11-26 | [Dossiê: 5 de Maio - SANTOS CRUZ e a CPMI das Fakes NEWS, Globo, Moro, MBL + PF REABRE o Caso Adélio](2021/2021-11-26-ArcXKzR7M8g.md) | 01:06:24 | automatica |
+| 2021-11-25 | [Rádio Peão: Bolsonaro Imbatível em 2022 + GLOBO Ajuda MORO e Podemos PROCURA Foro de SP](2021/2021-11-25-3XqjaiLQp_Y.md) | 01:02:03 | automatica |
+| 2021-11-24 | [Bolsonaro MARCA Filiação ao PL + MORO passa VERGONHA na CNN + LULA gera PREOCUPAÇÃO no PT](2021/2021-11-24-mUsm59oe1Zo.md) | 00:59:35 | automatica |
+| 2021-11-23 | [Bolsonaro faz MAIS Pedidos ao PL + Finalmente MORO se ASSUME Tucano PSDB + LULA Defende DITADURA](2021/2021-11-23-v9JU1ingqzE.md) | 00:59:59 | automatica |
+| 2021-11-22 | [Prévias do PSDB: Compra de Votos e "ERRO" na Votação + Moro e MBL: Foi TUDO Planejado? + Direita2022](2021/2021-11-22-rKoFQlquzp0.md) | 00:59:56 | automatica |
+| 2021-11-21 | [Dossiê: CONLUIO - General HELENO se Torna ALVO + Derrubando a NARRATIVA + Bonoro e PL](2021/2021-11-21-g0ZdhM-S9Bw.md) | 00:59:57 | automatica |
+| 2021-11-20 | [RACHADINHA do MORO e Rosângela Candidata + Bolsonaro e PL: Novas MOVIMENTAÇÕES + MBL pego no FLAGRA](2021/2021-11-20-4kDD5nFs6Ns.md) | 00:59:48 | automatica |
+| 2021-11-19 | [Dossiê: TIRANOS - Moro e Lula, o FISIOLOGISMO da Corrupção. A CENSURA vs  Destruição da SOBERANIA](2021/2021-11-19-jgam2rfDphA.md) | 00:59:58 | automatica |
+| 2021-11-18 | [CARTA BRANCA: Bolsonaro, PL e o Vice + DIRCEU Avança com PLANO do PT + Nando Moura, Nikolas e MORO](2021/2021-11-18-dPh2MrLzsy0.md) | 01:00:19 | automatica |
+| 2021-11-17 | [Futuro PARTIDÁRIO de Bolsonaro: TUDO Planejado + MORO, o Mago dos Negócios + LULA e Foro de SP](2021/2021-11-17-rL7NPstHtkg.md) | 01:01:03 | automatica |
+| 2021-11-16 | [Bolsonaro põe PRAZO e  PL Deve CEDER + LULA Assume que "DESTRUIU o País + Os MILHÕES de Moro](2021/2021-11-16-igndZqUrgP0.md) | 00:59:58 | automatica |
+| 2021-11-15 | [REVIRAVOLTA: Bolsonaro ADIA Filiação ao PL + Centrão vs Militares + Daniel Silveira com PROBLEMAS](2021/2021-11-15-2xBFg42yeno.md) | 00:59:55 | automatica |
+| 2021-11-14 | [Um DURO Recado + Lula e o SILÊNCIO sobre CUBA + A CAMINHADA de JB com o PL](2021/2021-11-14-3Gg_yXJlstM.md) | 01:10:23 | automatica |
+| 2021-11-13 | [Bolsonaro e PL: O Vice, TARCÍSIO e Problemas + Caso ADÉLIO foi "Por AMOR" + Esquerda Camarão 2022](2021/2021-11-13-ugt1am2b6Hc.md) | 01:01:11 | automatica |
+| 2021-11-12 | [Bolsonaro Segue FORTE para 2022 + Propostas INDECENTES do Amigo Banqueiro + As REDES em 22 sob Risco](2021/2021-11-12-lKlYoUp3tO0.md) | 01:01:21 | automatica |
+| 2021-11-11 | [DISCURSO do Moro: PT Comemora. Mentiras e Hipocrisias + Problema no PL + Judiciário TEME Bolsonaro](2021/2021-11-11-A5GSNxRSLeI.md) | 00:58:08 | automatica |
+| 2021-11-10 | [TRETA: Congresso vs SUPREMO + A Vitória do GOVERNO na Câmara + Jair no PL: Novidades e Infos](2021/2021-11-10-yUocOy7xhmc.md) | 00:59:55 | automatica |
+| 2021-11-09 | [Bolsonaro no PL: O Áudio do VALDEMAR e ALIANÇA de 5 anos + Lula DORME Tranquilo com Alckimin](2021/2021-11-09-Zg7Q10QWcQg.md) | 00:59:16 | automatica |
+| 2021-11-07 | [TRETA Inesperada: Congresso CONTRA o STF e o "Orçamento SECRETO" + Moro e MENSALÃO de Bolsonaro](2021/2021-11-07-oWHDNOrxYBE.md) | 01:00:00 | automatica |
+| 2021-11-06 | [JAIR Contra Todos: MORO faz PACTO com LULA + Alckimin e Pacheco BRIGAM pela vaga de VICE do Molusco](2021/2021-11-06-QpTe1L1lzyI.md) | 00:58:33 | automatica |
+| 2021-11-05 | [Dossiê: A BIOGRAFIA do Biografado - BOLSONARO Faz AFIRMAÇÕES Graves em seu DEPOIMENTO junto a PF](2021/2021-11-05-9Cq3J5-4oLQ.md) | 01:11:35 | automatica |
+| 2021-11-04 | [VITÓRIAS: Caso ADÉLIO Vai AVANÇAR e Governo Destroí METEORO na Câmara + Bolsonaro INELEGÍVEL em 2022](2021/2021-11-04-GlTlSGTJ_wc.md) | 01:00:37 | automatica |
+| 2021-11-03 | [REVELAÇÕES: Protesto Contra JB tem DEDO do PT + Moro e FOTO PROIBIDA e Copia LULA + PL2630 Vem Aí](2021/2021-11-03-fvY6UBuzEws.md) | 00:59:36 | automatica |
+| 2021-11-02 | [Dossiê: HONRA - Bolsonaro MUDA um PARADIGMA + 3 Partidos e PROBLEMAS em 22 + Randolfe vai ao MPF](2021/2021-11-02-FKWti4ObUao.md) | 00:58:59 | automatica |
+| 2021-11-01 | [Bolsonaro Fala VERDADES para o Mundo e se ENCONTRA com TEDROS + LULA, Foro de SP, FARC e 2022](2021/2021-11-01-gjp3cOKBxW8.md) | 00:59:58 | automatica |
+| 2021-10-31 | [Tese CONFIRMADA: Não iam PARAR nos CONSERVADORES + PL2630 Trará o Min. da VERDADE + Robos do MORO](2021/2021-10-31-Bt1XzHZNKAs.md) | 00:59:50 | automatica |
+| 2021-10-30 | [Capas & Beijos: Da RACHADINHA do Batoré ao GOLPE de Bolsonaro + Esquerda PERSEGUE Jogador na JUSTIÇA](2021/2021-10-30-g7XHq6Xt-mI.md) | 00:59:51 | automatica |
+| 2021-10-29 | [DISPAROS EM MASSA: Inocente ou Culpado? — Problemas e Mudanças em 2022 + Lula ACEITA Pacheco de VICE](2021/2021-10-29-5-VQvEcz-rk.md) | 00:59:49 | automatica |
+| 2021-10-28 | [Dossiê: CÁRCERE - BobJeff ROMPE com Bolsonaro e VIRA 3ª Via + Bolsonaro BANIDO das Redes](2021/2021-10-28-OPjU0zh-1L4.md) | 01:01:53 | automatica |
+| 2021-10-27 | [Choro é Livre: Bolsonaro VENCENDO de 3x0+ LIRA Vai pra Cima do PACHECO + 206 é o SEGREDO de 2022](2021/2021-10-27-40BKCBPV55A.md) | 01:06:04 | automatica |
+| 2021-10-26 | [Martelo Batido: PARTIDO e Aliança para 2022 + Mourão NÃO teme Julgamento da Chapa + A Nova da CPI](2021/2021-10-26-OME6fe5q3AA.md) | 00:59:55 | automatica |
+| 2021-10-25 | [Dono do Brasil: VAZAMENTO Sobre o Coração da Política e JB Favorito + 2022 será DEFINIDO por Grupos](2021/2021-10-25-E3GobbtAyjI.md) | 00:59:40 | automatica |
+| 2021-10-24 | [FIM do Telegam e PL2630 + TSE e JULGAMENTO da Chapa JB/Mourão + Alcolumbre e SABATINA do Mendonça](2021/2021-10-24-KSN8CEWIsBY.md) | 00:59:42 | automatica |
+| 2021-10-23 | [Máscara CAIU! Pacheco VICE do LULA em 22 + FIM do Terça-Livre + Guedes FICA: Bastidores da OPOSIÇÃO](2021/2021-10-23-04TPlY_cfsE.md) | 00:59:51 | automatica |
+| 2021-10-22 | [Dossiê: Dos SANTOS - o ELO do Quebra-Cebeça + Allan TRAÍDO por SEGUIDORES + Interpol e Extradição](2021/2021-10-22-F9rBrlzakBY.md) | 01:01:31 | automatica |
+| 2021-10-21 | CPI do LULA: O Elefante PARIU um Rato Radioativo + Primo do Batoré vs MENDONÇA + FIM do Telegram | 00:58:25 | sem_legenda |
+| 2021-10-20 | [Dossiê: REPLAY - LULA é DENUNCIANDO Internacionalmente. Qual o PAPEL do Pacheco? + RENAN e Relatório](2021/2021-10-20-2LmeCSH_Z4I.md) | 00:59:43 | automatica |
+| 2021-10-19 | [OMAR Brigou com RENAN: Bastidores da Confusão + Kássio vs Liberdade de Expressão + AGRO vs Comunas](2021/2021-10-19-5ZOzIRRapl8.md) | 00:59:53 | automatica |
+| 2021-10-18 | [Dossiê: ALTA Frequência - VITÓRIAS e Ritmo de 2022 + Senadores DIVERGEM de Renan + MP vs DAMARES](2021/2021-10-18-vPuqeqORMdc.md) | 01:12:54 | automatica |
+| 2021-10-17 | [ATO Falho! Esquerda ASSUME Rede de "AMOR" + Ciro Gomes DEFENDE Bonoro + Amigos do MORO Ajudam RENAN](2021/2021-10-17-Lr1Xjyr6DrA.md) | 01:03:09 | automatica |
+| 2021-10-16 | [Dossiê: SEM FREIO - O "Vale-Tudo" para DERRUBAR Bolsonaro + Supresa do TSE + Pacheco AJUDA o LULA](2021/2021-10-16-hsJ73HUnAkI.md) | 00:59:53 | automatica |
+| 2021-10-15 | [VITÓRIA na JUSTIÇA: MP Eleitoral é CONTRA Cassação de BOLSONARO + Gabas tem SIGILO Quebrado e MAIS](2021/2021-10-15-sD4uUfqzZSM.md) | 01:03:05 | automatica |
+| 2021-10-14 | [MENDONÇA: Batoré vs Bolsonaro + Descuido: LULA entregou seu PLANO + Pacheco NÃO Quer ABAIXAR ICMS](2021/2021-10-14-pSbMpM7KrM4.md) | 00:59:11 | automatica |
+| 2021-10-13 | [Mendonça: ALCOLUMBRE vai Esperar até 2023 + Renan ASSUME Participação da MÍDIA + JB e Partido pra 22](2021/2021-10-13-78cEcutNCAY.md) | 00:59:18 | automatica |
+| 2021-10-12 | [MALAFAIA vs CENTRÃO - Alcolumbre SAI na Frente + Como RENAN vai PRENDER Pessoas +  Planilhas de JB](2021/2021-10-12-Y1E3dyB7t88.md) | 00:59:26 | automatica |
+| 2021-10-11 | [Briga pelo STF: Malafaia vs Centrão + MORO e PandoraPappers + PLANO de Renan para DRIBLAR Aras](2021/2021-10-11-yGmWzEbjebw.md) | 00:59:04 | automatica |
+| 2021-10-10 | [Bolsonaro: LÍDER da Rede SEM Lei + Renan foi HUMILHADO + Novo GOLPE para IMPEDIR Jair em 2022? +](2021/2021-10-10-wFnG0CzL8Wg.md) | 00:59:09 | automatica |
+| 2021-10-09 | [Dossiê: UNIÃO - LULA Defende BOLSONARO e Glenn o ALLAN. O que está ACONTECENDO? + RENAN o ESCOLHIDO](2021/2021-10-09-7ocNGGV5OnY.md) | 00:59:41 | automatica |
+| 2021-10-08 | [Dossiê: OB - Os REAIS Inter$$es da PL do AB$ORVENTE + LULA Sabe que é BOLSONARO no 2.º Turno](2021/2021-10-08-yXjwu0U-GAw.md) | 00:59:40 | automatica |
+| 2021-10-07 | [Bolsonaro vai DEPOR Presencialmente + VAZAMENTO: Caso Allan e Estagiária + GABAS Apareceu!!!](2021/2021-10-07-dMp1jmK43Rc.md) | 00:58:29 | automatica |
+| 2021-10-06 | [Dossiê: O BANDO  - Tratorando e INDICIANDO Bolsonaro + LULA, o PREFERIDO e Renan, o TRANSPARENTE](2021/2021-10-06-5VeBmaN23tI.md) | 00:59:43 | automatica |
+| 2021-10-05 | [A Reunião SIGILOSA do Lula + O Dia que a INTERNET Parou + Exigências para 2022: Bolsonaro vs PP](2021/2021-10-05-NF0_EpXnRdg.md) | 00:59:40 | automatica |
+| 2021-10-04 | [Pandora Papers: PEGARAM o Paulo Guedes + Lei para IMPEDIR Conservadores em 22 + TSE e Cassação de JB](2021/2021-10-04-UlDVz1z-pmE.md) | 00:59:44 | automatica |
+| 2021-10-03 | [FRACASSO Vergonhoso: Manifestações do LULA - VAIAS e QUEBRA-QUEBRA + Mudanças no Tabuleiro para 2022](2021/2021-10-03-pCY7joWu3Q8.md) | 00:59:12 | automatica |
+| 2021-10-02 | [LULA Vai FUGIR das Manifestações + Confusão: ABIN vs T.S.É. + Destinos de BOLSONARO em 22: PP vs PTB](2021/2021-10-02-uB28N03u4DI.md) | 00:59:23 | automatica |
+| 2021-10-01 | As Mensagens de BOLSONARO + CPI: Objetivo REAL da Convocação do Fakhoury + LULA e MORO Quase JUNTOS | 00:59:38 | sem_legenda |
+| 2021-09-30 | [ATROPELO: Veio da HAVAN na RETA FINAL da CPI + LULA quer Jantar com RENAN + PL2630 Censura a DIREITA](2021/2021-09-30-GMNG_zx-mT8.md) | 00:58:00 | automatica |
+| 2021-09-29 | [Haddad ACREDITA em VITÓRIA de Bolsonaro + Moro, Doria e Mandetta JUNTOS + CPI Ganha SOBREVIDA](2021/2021-09-29-aqlUfHj6MHU.md) | 00:59:54 | automatica |
+| 2021-09-28 | [O Estadista: BOLSONARO Solta Informações sobre INQUÉRITOS, Xande, Economia, CARTA e muito mais](2021/2021-09-28-yZvhuPv8j7Y.md) | 00:59:26 | automatica |
+| 2021-09-27 | [BOAS Notícias: ANTECIPAÇÃO de  Bolsonaro e DISTENCIONAMENTO com Supremo + SÉRGIO MORO de VOLTA em 22](2021/2021-09-27-H1Qf7JqgTrY.md) | 00:59:19 | automatica |
+| 2021-09-26 | [G.D.O. DRIBLA a Justiça + Bolsonaro PAZ e AMOR , ele Mudou? + 2022: Kassab DEVE ao LULA](2021/2021-09-26-TdoS7W9IJUs.md) | 00:56:26 | automatica |
+| 2021-09-25 | [O FIM da MAMATA!!! O Outro LADO da ENTREVISTA de Bolsonaro + Alexandre Garcia DEMITIDO](2021/2021-09-25-kqSUZLqAP0Y.md) | 00:58:56 | automatica |
+| 2021-09-24 | [Bolsonaro MUDA de Estratégia + REVELADO: Ponto FRACO do Renan + LULISTAS Invadem a Bolsa](2021/2021-09-24-ujgFITNc6y4.md) | 00:59:40 | automatica |
+| 2021-09-23 | [Sem VERGONHA: Doria e Dilmas TIRAM a Máscara + Governo ELOGIADO pelo FMI + Turma do Renan AFUNDA CPI](2021/2021-09-23-tOHtywaIjAM.md) | 00:59:07 | automatica |
+| 2021-09-22 | [BOAS Notícias: Google e Twitter DISCORDARAM do Xandy, PRISÃO Revogada + Bolsonaro na ONU e Choro!](2021/2021-09-22-PVsDkNG4W7M.md) | 01:00:00 | automatica |
+| 2021-09-21 | [República das CUECAS: Lula, MBL, Amado e Santos Cruz + JB nos EUA + Aleluia! STJ torna RÉU Gov do AM](2021/2021-09-21-28GbQzXqLps.md) | 00:56:56 | automatica |
+| 2021-09-20 | [Dossiê: 700 - DINHEIRO do Impulsionamento Foi ENCONTRADO + MBL Elogia LULA + Tarcísio em 2022](2021/2021-09-20-daLe6JmbE3M.md) | 00:58:01 | automatica |
+| 2021-09-19 | [Rachadinha Digital + Xadão: "Aguardem o Desenrolar" + LULA, Censura e o Gabinete do AMOR do PT](2021/2021-09-19-6rehCT7gVjw.md) | 00:58:33 | automatica |
+| 2021-09-18 | [Arquivo X - Bolsonaro e o ET + Temer: "SEM Recuo do Xandão" + Nova CPI: Governo Ligou o ALERTA](2021/2021-09-18--e_Pb9b2Y9U.md) | 00:58:15 | automatica |
+| 2021-09-17 | [Kássio SALVA aos 45" + PERSEGUIÇÃO chegou nos NÃO-Bolsonaristas + ARAS Traz um POUCO de Esperança](2021/2021-09-17-0Kn6anK0OG4.md) | 00:59:00 | automatica |
+| 2021-09-16 | [Inquérito AVANÇA Contra Dia 7 + Golpe e JABUTIS em 2022 + Turminha do RENAN Volta com TUDO](2021/2021-09-16-VSw4uHF8etQ.md) | 00:55:14 | automatica |
+| 2021-09-15 | [Novos EVENTOS e Acordo de PACIFICAÇÃO + CENSURA: Lula e Kassab, a GRANDE Aliança + Surge a 4ª VIA](2021/2021-09-15--TFZ09tn4Jk.md) | 00:59:32 | automatica |
+| 2021-09-14 | [Dôssie: TEATRO ou EXCESSO de Zelo? + Pacificação vs Gasolina + 2 Novas CPIs, o PLANO do Renan](2021/2021-09-14-iRWIxaDrCeA.md) | 00:59:53 | automatica |
+| 2021-09-13 | [MBL Fracassou! Mas Ato REVELA Mudança de PLANOS do PT + Inquéritos Vão PARAR? Alguns Dizem que NÃO](2021/2021-09-13-F-ciZZhlOYI.md) | 00:55:53 | automatica |
+| 2021-09-12 | [DELIRANTE: A Entrevista do GILMAR + Bolsonaro CRESCE e Estratégia da OPOSIÇÃO Aparece](2021/2021-09-12-xIAgqCUSqvQ.md) | 00:58:11 | automatica |
+| 2021-09-11 | [Novidades sobre "PACIFICAÇÃO" + Bolsonaro faz SUA PARTE + Mídia gera CONFUSÃO sobre Daniel Silveira](2021/2021-09-11-by2AJXfXD8Q.md) | 00:59:29 | automatica |
+| 2021-09-10 | [Dossiê: PACIFICADOR - Temer, Bolsonaro e Alexandre. É o FIM ou o RECOMEÇO? Análise Completa](2021/2021-09-10-K8A1_lVcBdI.md) | 00:59:55 | automatica |
+| 2021-09-09 | [Respostas: da GREVE dos Caminhoneiros até a REAÇÃO do Supremo + Confusão à Vista](2021/2021-09-09-wxIuF41YXoQ.md) | 00:59:59 | automatica |
+| 2021-09-08 | [Bolsonaro CONVOCARÁ Conselho da República. O que ESPERAR dos PRÓXIMOS Dias? + A Reação do SUPREMO](2021/2021-09-08-MwnH5liJtlw.md) | 01:07:53 | automatica |
+| 2021-09-07 | [Brasília foi TOMADA, Supremo Prepara REAÇÃO + Bolsonaro AVANÇA pela LIBERDADE](2021/2021-09-07-bYSbomBB8fI.md) | 01:00:01 | automatica |
+| 2021-09-06 | [DESCONTROLE! Mais PRISÕES e Depoimentos para a Polícia + LULA Volta a Falar em CENSURAR as Redes](2021/2021-09-06-BsgpmJJ51lU.md) | 00:59:22 | automatica |
+| 2021-09-05 | [Bolsonaro: "A Tendência é acontecer uma RUPTURA" + Novo PLANO Contra JB + Zé Trovão DESAFIA a Corte](2021/2021-09-05-fm9bEzT2Jt8.md) | 00:59:38 | automatica |
+| 2021-09-04 | [Prisão: o TROVÃO que DESAFIOU o Supremo + Bolsonaro faz ULTIMATO Contra 2 + A PRIMEIRA Vitória](2021/2021-09-04-pKvJoK-lKeU.md) | 00:59:53 | automatica |
+| 2021-09-03 | [Bolsonaro GARANTE Liberdade por HORA + Fim de 2 PODERES + Mentiras e Campanha de DESINFORMAÇÃO](2021/2021-09-03-KaNAhL-zVMM.md) | 00:58:32 | automatica |
+| 2021-09-02 | [Novos VAZAMENTOS: Brasil vai pegar FOGO + Senado aplica GOLPE no Brasil + LIRA e PACHECO: Traição](2021/2021-09-02-1m31cwhzWfg.md) | 01:05:09 | automatica |
+| 2021-09-01 | [Bolsonaro diz: "CHEGOU a HORA", "NUNCA Houve OPORTUNIDADE Como Essa" + TENSÃO Segue CRESCENDO](2021/2021-09-01-OHniOFhbFSU.md) | 00:59:30 | automatica |
+| 2021-08-31 | [ALERTA: Manifestações Correm RISCO  + Ministério da VERDADE e CPMI das FakeNews + A SAÚDE de BobJeff](2021/2021-08-31-FUcfo94dzPk.md) | 00:59:48 | automatica |
+| 2021-08-30 | [ACUADOS? O Último Pronunciamento do 5TF + Bolsonaro VISIONÁRIO + Pacheco Nomeia LULISTA pra AJUDÁ-LO](2021/2021-08-30-dDBWvpxWTMM.md) | 00:58:54 | automatica |
+| 2021-08-29 | [Bolsonaro: TUDO tem um LIMITE + O Candidato do STF em 22 + No FLAGRA: Lula e Omar foram PEGOS](2021/2021-08-29-ukpLidUzx14.md) | 00:59:35 | automatica |
+| 2021-08-28 | Contagem REGRESSIVA: 50 à 200 INFILTRADOS, Delegada de OLHO e Xandy AFASTA mais Um + O Perigo DILMA | 00:58:42 | sem_legenda |
+| 2021-08-27 | [Dossiê: VINGANÇA - LULA Promete CENSURAR Internet e PRENDER Opositores + 3ªVia FINGE Não APOIAR o PT](2021/2021-08-27-2ZlzaWBfjFs.md) | 01:00:26 | automatica |
 |  |  |  | erro |
 |  |  |  | erro |
 |  |  |  | erro |
