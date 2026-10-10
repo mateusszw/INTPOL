@@ -1,6 +1,6 @@
 # kim-paim: transcrições
 
-1813 vídeos transcritos, 37 sem legenda.
+1914 vídeos transcritos, 111 sem legenda.
 
 | Data | Vídeo | Duração | Legenda |
 |---|---|---|---|
@@ -1854,6 +1854,181 @@
 | 2021-08-29 | [Bolsonaro: TUDO tem um LIMITE + O Candidato do STF em 22 + No FLAGRA: Lula e Omar foram PEGOS](2021/2021-08-29-ukpLidUzx14.md) | 00:59:35 | automatica |
 | 2021-08-28 | Contagem REGRESSIVA: 50 à 200 INFILTRADOS, Delegada de OLHO e Xandy AFASTA mais Um + O Perigo DILMA | 00:58:42 | sem_legenda |
 | 2021-08-27 | [Dossiê: VINGANÇA - LULA Promete CENSURAR Internet e PRENDER Opositores + 3ªVia FINGE Não APOIAR o PT](2021/2021-08-27-2ZlzaWBfjFs.md) | 01:00:26 | automatica |
+| 2021-08-26 | [PRISÃO: Edu Bolsonaro é o PRÓXIMO ALVO + Infiltrados e EXÉRCITO + Impeachment: Pacheco vs Bolsonaro](2021/2021-08-26-g5wLSXexSYM.md) | 00:59:39 | automatica |
+| 2021-08-25 | [ARREBENTOU A CORDA! Afirma Bolsonaro + RUPTURA: PM diz que segue EXÉRCITO + Senador quer IMPEACHMENT](2021/2021-08-25-JpYQeFDRdSI.md) | 00:59:44 | automatica |
+| 2021-08-24 | [Com MEDO, Governadores Pediram TRÉGUA + MORO se APROXIMA do LULA + PF Treme com DEPOIMENTO](2021/2021-08-24-rw8c8WME5eE.md) | 00:59:36 | automatica |
+| 2021-08-23 | [Mídia e POLÍTICOS com MEDO do Dia 7 + Um 3 a 2 para BOLSONARO + Lula PROMETE Controlar a MÍDIA](2021/2021-08-23-ZfUpUofGGtA.md) | 00:57:20 | automatica |
+| 2021-08-22 | [LULA e DORIA Tentam BARRAR Manifestação do 7/9 +  PCO Ataca o STF + LULA, Dirceu, Mercado e MDB](2021/2021-08-22-KDQ1c-PTcYM.md) | 00:58:32 | automatica |
+| 2021-08-21 | [Dossiê: 7 de SETEMBRO - Da PRISÃO à LIBERTAÇÃO. Bolsonaro DEU a ORDEM e as RESPOSTAS Apareceram](2021/2021-08-21-F7akQf37Zdo.md) | 01:04:06 | automatica |
+| 2021-08-20 | [O Requerimento MAIS Absurdo de TODOS + LULA e DIRCEU Voltam com TUDO + Bolsonaro REVELA Rombo do PT](2021/2021-08-20-iia2akcS3-k.md) | 00:59:41 | automatica |
+| 2021-08-19 | [Marcha do JUDICIÁRIO: Onde Vamos Parar? + LULA se Aproveita do CAOS + Bombeiros e Pacificadores](2021/2021-08-19-MVj1B3ZJKP4.md) | 00:59:50 | automatica |
+| 2021-08-18 | [O Vídeo POLÊMICO do DIRCEU + Esquerda Tenta PROIBIR dia 7/9 na JUSTIÇA + Quem GANHA com o CAOS?](2021/2021-08-18-dKl6iQ8UcRs.md) | 00:59:58 | automatica |
+| 2021-08-17 | [Tensão segue AUMENTANDO: Mais VAZAMENTOS de JB, FIM dos Canais de Direita, LULA Rebate MILICOS](2021/2021-08-17-0BeLf_AS9wk.md) | 00:59:57 | automatica |
+| 2021-08-16 | Dossiê: CONTRAGOLPE - A Prisão de SÉRGIO Reis e Mensagens VAZADAS de Bolsonaro. Onde tudo Começou... | 00:59:57 | sem_legenda |
+| 2021-08-15 | [Dossiê: RUPTURA - Chegamos num PONTO sem Retorno?](2021/2021-08-15-1pdi3QUYYf8.md) | 00:59:40 | automatica |
+| 2021-08-14 | Dossiê: SAFARI - O Leão foi PRESO. Análise COMPLETA do caso Bob Jeff + O que tem por TRÁS de Tudo? | 01:07:50 | sem_legenda |
+| 2021-08-13 | [Xandão SELETIVO Contra JB + RELATÓRIO Aponta LULA como AMEAÇA + Deu RUIM pro Renan e Omar](2021/2021-08-13-DHpFLMBUfLg.md) | 00:58:09 | automatica |
+| 2021-08-12 | [Bolsonaro DOBRA a Aposta e MOSTRA mais "ESTRANHEZAS" + CPI do Curandeiro + Notícias Boas](2021/2021-08-12-Wkhofzg2aFI.md) | 00:59:21 | automatica |
+| 2021-08-11 | Não ACABOU: Nova PEC na PRÓXIMA Semana + Vídeo POLÊMICO do Barroso + CPI e Fakes, agora COMEÇOU | 00:59:50 | sem_legenda |
+| 2021-08-10 | [TENSÃO: Votação da PEC do Voto Auditável com Tanques em Brasília + Renan Já COMBINOU com LULA](2021/2021-08-10-HmSkvZtO0dU.md) | 00:57:03 | automatica |
+| 2021-08-08 | FORTALECIDO: Bolsonaro FEZ História + Judiciário e CPI Perdem Tração + Boa MARÉ Internacional | 00:59:57 | sem_legenda |
+| 2021-08-07 | Chora FUX: Aras NÃO VÊ Crime em Bolsonaro + PEC vai ao PLENÁRIO, Mas SERÁ Aprovada? + O Trunfo de JB | 00:58:53 | sem_legenda |
+| 2021-08-06 | [RUPTURA: Fux CORTA Diálogo e Bolsonaro diz: "A HORA Dele Vai Chegar" + Perdemos, mas NÃO Acabou!](2021/2021-08-06-ejDF7EWIByA.md) | 00:59:48 | automatica |
+| 2021-08-01 | [Dossiê: SIGILO - A Ofensiva da CPI Contra JOVEMPAN e Bolsonaristas + Voto Auditável ainda RESPIRA](2021/2021-08-01-J4ZkFTJH3G0.md) | 00:57:01 | automatica |
+| 2021-07-31 | [Retaliação: STF Retoma INQUÉRITO CONTRA Bolsonaro + REJEIÇÃO ao Voto Impresso + CPI Voltará com TUDO](2021/2021-07-31-P75fRvq-D4w.md) | 00:59:32 | automatica |
+| 2021-07-30 | [STF estuda RETALIAR Bolsonaro após LIVE HITÓRICA + Análise do IMPACTO da LIVE + O Passado de OMAR](2021/2021-07-30-1LowBqKyU-Y.md) | 00:56:09 | automatica |
+| 2021-07-29 | [Galo do LULA foi PRESO + Ciro Nogueira vai AJUDAR o Voto Auditável? + DORIA e CPI em Calça Curta](2021/2021-07-29-tw1Sfta7bEo.md) | 00:59:33 | automatica |
+| 2021-07-28 | [O ACORDO de CIRO com Bolsonaro: Vai ser no CPF + Joice MENTIU + As ENTREVISTAS de RENAN e OMAR](2021/2021-07-28-xS-7hM24wy4.md) | 00:59:32 | automatica |
+| 2021-07-27 | Ciro Nogueira FORA da Casa Civil (?) + Omar PROCESSADO e MONSTRO da CPI + Governo PEGOU a GLOBO! | 00:57:32 | sem_legenda |
+| 2021-07-26 | [Lacração nas OLIMPÍADAS + O PLANO de Omar: CPI e FakeNews + 2022 = DINHEIRO e Articulações Regionais](2021/2021-07-26-uJju-mpyXb8.md) | 00:57:17 | automatica |
+| 2021-07-25 | [Manifestações do TERROR tem DEDO do LULA + Debandada no Governo: MINISTROS de Saída e 2022](2021/2021-07-25-FrnTONYkFWQ.md) | 00:59:18 | automatica |
+| 2021-07-24 | Caso de Polícia: R$4Bi Desviados + LULISTAS: Queima de Pneus e Pancadaria + Vazamentos Seletivos | 00:59:20 | sem_legenda |
+| 2021-07-23 | [DORIA: Escândalo e CORRUPÇÃO + Voto Auditável: Min. DEFESA Entrou em CAMPO e Reação dos Governistas](2021/2021-07-23-nMt7PR3zTmk.md) | 00:59:47 | automatica |
+| 2021-07-22 | [Dossiê: NOGUEIRA - O que MOTIVOU Bolsonaro? O passado SOMBRIO do Novo Ministro + Adeus PATRIOTA](2021/2021-07-22-MASGl_aK8SU.md) | 00:59:43 | automatica |
+| 2021-07-21 | [Dança das Cadeiras: MINISTROS de Saída + CPI do LULA Avança - A Volta dos que NÃO Foram](2021/2021-07-21-wg1c-63dbXA.md) | 00:57:27 | automatica |
+| 2021-07-20 | [Renan pede AJUDA a Xandy + Bolsonaro NÃO ACREDITA na Aprovação do VOTO + O novo INIMIGO de JB](2021/2021-07-20-Xizz2-yaJD0.md) | 00:57:32 | automatica |
+| 2021-07-19 | Reviravolta! VOTO AUDITÁVEL Já PODE ser APROVADO no Senado + PF Insatisfeita com Xandy + CPI do Lula | 00:55:31 | sem_legenda |
+| 2021-07-18 | [CPI Ganha um NOVO G-7 e FALSO Clima de Paz + Bolsonaro MIRA em 4 Partidos + Fundão e 2022](2021/2021-07-18-It5U43JuFXY.md) | 00:59:39 | automatica |
+| 2021-07-17 | [Dossiê: CHAMA ACESA - Um NOVO Conluio foi DESCOBERTO na CPI + Voto AUDITÁVEL Sobreviveu e JB Melhora](2021/2021-07-17-e23dA6Xv8WA.md) | 01:00:49 | automatica |
+| 2021-07-16 | Voto AUDITÁVEL pode ACABAR Hoje! + CPI Encontrou o PRIMEIRO Crime e ENTRA em RECESSO + Fundão de 6Bi | 00:59:17 | sem_legenda |
+| 2021-07-15 | A Saúde do Capitão + Omar foi FICHADO pelo EXÉRCITO e COXAVIN Desmentida - #OremosPeloPresidente | 00:52:06 | sem_legenda |
+| 2021-07-14 | Descoberta a SEDE do FORO de SP + PF avança CONTRA Renan CALHEIROS + LULA Critica PAI NOSSO | 00:58:33 | sem_legenda |
+| 2021-07-13 | O Acordo de PAZ: Bolsonaro e STF + CPI quer RACHAR a Base do Governo + Cuba, Esquerda e o Whatsapp | 01:01:30 | sem_legenda |
+| 2021-07-12 | Cuba PAROU: O Silêncio do FORO de SP + G7 virou G6: 3 NOVAS Frentes da CPI + O Anônimo do 5TF | 00:59:55 | sem_legenda |
+| 2021-07-11 | Bolsonaro CONFESSOU, Randolfe Comemora + Renan CUTUCA Lira e TOMA Invertida + Direita em SP 2022 | 00:59:58 | sem_legenda |
+| 2021-07-10 | Tensão: MILICOS vs OMAR e BOLSONARO vs 5TF — O CONTROLE de Xandy e Renan + Covaxin DESMENTIDA | 00:59:37 | sem_legenda |
+| 2021-07-09 | [2022: Bolsonaro PERDE o Patriota + Militares: Quem NÃO Faz LEVA + Hipocrisia e VOTO Auditável](2021/2021-07-09-2wsolvt_IYQ.md) | 00:59:18 | automatica |
+| 2021-07-08 | Dossiê: O REI OMAR - Aziz PRENDEU Roberto Dias + EXÉRCITO, Esquerda e G7 CONTRA Omar | 00:59:54 | sem_legenda |
+| 2021-07-07 | Omar DESAFIA Pacheco + Citaram o LULA + BASTIDORES de Mendonça no STF e Lira APOIA Voto Auditável | 00:58:48 | sem_legenda |
+| 2021-07-06 | Clima de Tensão: NOVA CPI, Rachadinha, Vazamentos e Depoimento SECRETO + 2022 em Números | 00:59:00 | sem_legenda |
+| 2021-07-05 | [Caos nas REDES: A Mensagem de Bolsonaro + Renan PERSEGUE Flávio + LULA-Kassab e o Fim de 20 PARTIDOS](2021/2021-07-05-kks4pzhubEo.md) | 00:57:43 | automatica |
+| 2021-07-04 | Manifestações do LULA DESTROEM São Paulo + Renan INDICIADO pela PF + STF pode OBRIGAR Impeachmet | 00:55:49 | sem_legenda |
+| 2021-07-03 | [Novo ALVO e PRÓXIMOS Passos da CPI + 2022: DERROTA no Patriotas e VOTO Autitável + O Novo STF](2021/2021-07-03-LkzjK8pzttM.md) | 01:00:00 | automatica |
+| 2021-07-02 | [Dossiê: DOMINGUETTE - Áudio B0MBA, Invasão e Renan NERVOSO. Qual a VERDADE? + Xandy VOLTOU com Tudo](2021/2021-07-02-XRlgcUu47uw.md) | 01:02:54 | automatica |
+| 2021-07-01 | CPI: Depoimento SECRETO, Contradições e BLINDAGEM + Acharam EMAILS da DAVATI + MBL se Uniu ao PT | 00:59:02 | sem_legenda |
+| 2021-06-30 | B0MBA: Propina no Governo?! E Agora Bolsonaro?! +  OMAR foi DESMASCARADO na CPI | 00:54:42 | sem_legenda |
+| 2021-06-29 | Novidades CPI: Turma do RENAN Agiu de CASO Pensado + Xandão ATUOU nos Bastidores + Caso Lazaro | 00:59:49 | sem_legenda |
+| 2021-06-28 | URGENTE: O Escândalo da COVAXIN! Renan SABIA de TUDO - A Casa CAIU para CALHEIROS, Omar e Randolfe. | 00:57:43 | sem_legenda |
+| 2021-06-27 | COVAXIN: Bolsonaro no OLHO do FURACÃO + L.Miranda PREOCUPADO com Kim Paim + 11 Caciques CONTRA Voto | 00:58:41 | sem_legenda |
+| 2021-06-26 | [Dossiê: 171 - Bolsonaro SABIA de TUDO! E Agora?! + PLANO de Renan AVANÇA, e o IMPEACHMENT?](2021/2021-06-26-3KyC1H-GGLM.md) | 00:59:29 | automatica |
+| 2021-06-25 | 7x1: Onyx PRESO e Bolsonaro INVESTIGADO + Crise no PATRIOTA + Contrato do DORIA sob Investigação | 00:59:23 | sem_legenda |
+| 2021-06-24 | [Dossiê: COVAXIN - Bolsonaro CAI Sexta-Feira + Corrupção ou PLANO do RENAN + SALLES Sai do Governo](2021/2021-06-24-vycPOAfFBM4.md) | 00:55:28 | automatica |
+| 2021-06-23 | Filha do LULA Trabalha na CPI + Bolsonaro INELEGÍVEL em 2022 + MBL quer DINHEIRO de JB | 00:58:51 | sem_legenda |
+| 2021-06-22 | [Exclusivo: VOTO AUDITÁVEL Avança + Renan ARQUITETA Perseguição a Bolsonaro + JB Destruiu a GLOBO](2021/2021-06-22-MfeMg8fXp2g.md) | 00:58:32 | automatica |
+| 2021-06-20 | QUEBRA-QUEBRA na Manifestação do LULA + Renan MUDA Estratégia e STF "Ajuda" + Kim Paim Atacado | 00:53:35 | sem_legenda |
+| 2021-06-19 | [Dossiê: MÁSCARAS - Renan FUGIU e BobJeff ROMPEU de VEZ com BOLSONARO](2021/2021-06-19--3Cyjf9uddA.md) | 01:01:31 | automatica |
+| 2021-06-17 | CPI: Entenda COMO Renan PROTEGEU Filho e pode SOFRER na JUSTIÇA + FUTURO de Bolsonaro no PATRIOTA | 00:58:23 | sem_legenda |
+| 2021-06-16 | Alexandre-Calheiros: CPI se Junta a STF + Bolsonaro CONVOCA Base para REUNIÃO + Lula na RUA | 00:59:43 | sem_legenda |
+| 2021-06-15 | Temporada da PERSEGUIÇÃO Voltou + GABAS: Chegou a Hora da VERDADE + Maia EXPULSO e Joice Fora | 00:57:16 | sem_legenda |
+| 2021-06-14 | [Bolsonaro: a MARÉ Virou + Renan PERDE a Cabeça contra PM + General LULA Livre](2021/2021-06-14-EUWg8p2L7AM.md) | 00:53:24 | automatica |
+| 2021-06-13 | Fúria em 2 Rodas: Bolsonaro ENTRA pra HISTÓRIA + CPI: o GOLPE Internacional Avança | 00:58:56 | sem_legenda |
+| 2021-06-12 | [Lula COMANDA Golpe na CPI + Brigas no TSE e STF + Renan, Omar e o PLANO para 2022](2021/2021-06-12-iOGZ2tKa8as.md) | 00:56:38 | automatica |
+| 2021-06-10 | 🚨 CPI pode COLAPSAR (entenda) + STF Salvou GOVERNADORES, mas JULGARÁ Renan + Iluministro Ataca | 00:58:20 | sem_legenda |
+| 2021-06-09 | [🚨Breaking News - OMAR CEDEU, mas Otto tenta blindar o Gabas na CPI](2021/2021-06-09-puEYLC_BnOc.md) | 00:01:42 | automatica |
+| 2021-06-09 | Fux CHAMA JB ao STF + O PLANO de Lula para o RIO + Yang, Dirceu e Foro de SP Unidos | 00:59:53 | sem_legenda |
+| 2021-06-08 | [As GARRAS do Xandão e $$$ do Empresário + TCU: a VERDADE sobre Relatório + Dirceu 2022](2021/2021-06-08-zIDh_GE8JSg.md) | 00:59:47 | automatica |
+| 2021-06-07 | FLAGRA! Pegaram o DORIA + Escândalo: Secretário faz RITUAIS Obscuros + Acharam o DINHEIRO, e agora? | 00:58:32 | sem_legenda |
+| 2021-06-06 | [Dossiê: DUPLIPENSAR - Xandão VOLTOU e 2+2=5 + Mais uma CRISE Fabricada](2021/2021-06-06-eSe_4iWw_Ao.md) | 00:58:32 | automatica |
+| 2021-06-05 | B0MBA! Conversas SECRETAS entre OMAR e LULA + CPI vai Acabar, Bolsonaro foi PEGO: o Gab. Paralelo | 00:59:15 | sem_legenda |
+| 2021-06-04 | INFILTRADO no Governo: Médica e o Monstro + STF e CPI encurralados pela PF | 00:59:27 | sem_legenda |
+| 2021-06-03 | PF Pegou AMIGO do OMAR + Vazaram PRONUNCIAMENTO de JB para DORIA + Bolsonaro no PATRIOTA e Novidades | 00:57:49 | sem_legenda |
+| 2021-06-02 | Bolsonaro DETONOU Renan: PhD em Corrupção + Senador da CPI foi Pego na OUSADIA + Brasil vai DECOLAR! | 00:53:03 | sem_legenda |
+| 2021-06-01 | Bolsonaro Já tem PROBLEMAS no NOVO Partido + Renan SERÁ Vice de LULA + Cerco FECHA contra ARAS | 00:59:27 | sem_legenda |
+| 2021-05-31 | [PLANO Avança: Renan se UNE ao STF + Eleições Foram ANTECIPADAS + Os LADOS Foram DECIDIDOS](2021/2021-05-31-FdZopAUO2Yw.md) | 00:55:53 | automatica |
+| 2021-05-30 | ESQUERDA na Rua: JB x Barba - E Agora? + OMAR no Corner, CADÊ o GABAS? | 00:54:54 | sem_legenda |
+| 2021-05-28 | CPI: Acordão do RENAN + Bolsonaro AGE e Vai ao STF Contra Governadores | 00:57:37 | sem_legenda |
+| 2021-05-27 | Omar BLINDOU o Gabas e GOLPE do Renan AVANÇA + 9 Governadores CONVOCADOS + Kim Paim foi Xingado | 00:54:59 | sem_legenda |
+| 2021-05-26 | RENAN: HUMILIDADO e com um NOVO PLANO + Golpe VAZADO Contra MARIO FRIAS | 00:53:17 | sem_legenda |
+| 2021-05-25 | Dossiê: Déjà Vu - Omar CONVOCARÁ Governadores e DESTINO de RENAN está TRAÇADO + Voto sob ATAQUE | 00:55:03 | sem_legenda |
+| 2021-05-24 | Dia HISTÓRICO para Bolsonaro + Tarcísio é PLANO A + Quem é o VICE de Lula? | 00:54:22 | sem_legenda |
+| 2021-05-23 | FLAGRA! Randolfe foi Pego e RENAN já Tem RELATÓRIO + Gabas e o GABINETE da Esquerda | 00:52:05 | sem_legenda |
+| 2021-05-22 | VAZOU Documento SIGILOSO do Governo e MOURÃO Sabotou BOLSONARO + FHC e LULA, os Amigos para Sempre | 01:00:16 | sem_legenda |
+| 2021-05-21 | CPI: Deu RUIM pro Renan, GABAS Saiu da TOCA + Lacrada do Randolfe + DORIA tem Amigos IMAGINÁRIOS | 00:54:59 | sem_legenda |
+| 2021-05-20 | O Lado SOMBRIO da Jovem Pan - Caso Paulo Figueiredo | 00:16:07 | sem_legenda |
+| 2021-05-20 | CPI: Um HERÓI Chamado PAZZUELO + Bastidores EXCLUSIVOS da CPI + Caso Ricardo Salles | 00:56:35 | sem_legenda |
+| 2021-05-19 | [CPI: Vitória do POVO, Análise do Ernesto e FIM da Pior FASE  + CONSENSO sobre Voto AUDITÁVEL](2021/2021-05-19-mQl5cDCaXww.md) | 00:56:29 | automatica |
+| 2021-05-19 | [Deputados BRIGAM por Ervinha - PL399/2015](2021/2021-05-19-BpmQwprfpGQ.md) | 00:11:42 | automatica |
+| 2021-05-18 | Boas Notícias: Aras ENTREGOU 5 Governadores e o POVO foi Ouvido na CPI + Senador ACIONA a PF! | 00:55:13 | sem_legenda |
+| 2021-05-17 | [Análise COMPLETA: Eleições 2022 - Cenário atual, Partidos, Principais Forças, Alianças e Conchavos](2021/2021-05-17-mBMSWfwUAGc.md) | 00:52:59 | automatica |
+| 2021-05-17 | CPI entra nos TRILHOS e Já temos um FIM + As FALAS de Gilmar e CUNHA abalaram Brasília | 00:44:59 | sem_legenda |
+| 2021-05-16 | Manifestações : ANÁLISE completa + CPI: Omar vs Marcos Rogério - Briga entre Senadores | 00:49:19 | sem_legenda |
+| 2021-05-15 | JB: "Daqui para frente VOU Agir" + CPI pode MUDAR de Direção + Mega MANIFESTAÇÕES | 00:55:29 | sem_legenda |
+| 2021-05-14 | Renan com MEDO da PF + Bolsonaro Chmaou LULA de *** + Carluxo CONVOCADO, e o Gabas? | 00:57:58 | sem_legenda |
+| 2021-05-13 | Bolsonaro CONVOCA Exército em Alagoas + PRISÕES e Gabas na CPI + Voto AUDITÁVEL Avança na Câmara | 00:59:24 | sem_legenda |
+| 2021-05-12 | Toffoli na MIRA da PF + Dossiê: Terremoto - O Homem que pode DESTRUIR a CPI e faz Renan TREMER | 00:58:14 | sem_legenda |
+| 2021-05-11 | CGU Pegou o LULA! + Renan CAIU em Armadilha + Randolfe quer PRISÃO de Pazuello | 00:59:25 | sem_legenda |
+| 2021-05-11 | A Pergunta SEM Resposta - Memórias do Bigode | 00:07:41 | sem_legenda |
+| 2021-05-10 | Doria é INVESTIGADO pela Lindôra + Bolsonaro JULGADO Internacionalmente + Chapa PT e MDB em 2022 | 00:59:45 | sem_legenda |
+| 2021-05-08 | STF pede AJUDA ao Exército + LULA na Frente, mas Bolsonaro LIDERA + ABIN na CPI e Pazuelo Algemado | 00:56:59 | sem_legenda |
+| 2021-05-06 | [CPI Mira ERNESTO e traz amigos do DORIA e LULA + Fracasso CONTRA STF + Lula, PACHECO e Maia juntos](2021/2021-05-06-Ea3Q_W1Tmp4.md) | 00:59:55 | automatica |
+| 2021-05-05 | [O MBL abandonou a humanidade](2021/2021-05-05-kJAby_Xlk3k.md) | 00:06:33 | automatica |
+| 2021-05-05 | Mandetta FALHOU! Mídia Lamentou... + Voto Auditável AVANÇOU! + O que o LULA está Fazendo? | 00:59:17 | sem_legenda |
+| 2021-05-03 | [Pega FOGO: Começam os DEPOIMENTOS na CPI + LULA faz Contratações + Bolsonaro, 2022 e os Surfistas](2021/2021-05-03-1ViGJ2h-O7k.md) | 00:59:55 | automatica |
+| 2021-05-02 | Manifestações HISTÓRICAS e Agora? + Lula e Ciro no 1º de MAIO + FHC e Randolfe Defendem Blsonaro | 00:59:54 | sem_legenda |
+| 2021-05-01 | LULA se UNIU ao: Moro, Lemann, RenovaBR, Huck, Itaú e "Liberais" + PACHECO Arrependido | 00:59:35 | sem_legenda |
+| 2021-04-30 | LULA quer COMANDAR a CPI e XANDÃO vai Ajudar + DORIA e RENAN plantaram MATÉRIAS | 01:00:08 | sem_legenda |
+| 2021-04-29 | [Dossiê: VOTO Auditável - O SEGREDO que o TSE Esconde + 288 Requerimentos na CPI + PSDB Contra DORIA](2021/2021-04-29-c7ocMDi7ym8.md) | 01:00:28 | automatica |
+| 2021-04-28 | ESTRATÉGIAS do Governo e a CORTINA de FUMAÇA + Mais uma Reunião VAZADA + Treta na Direita | 00:59:43 | sem_legenda |
+| 2021-04-26 | Dossiê: LEILÃO - SECOM está a VENDA + VAZAMENTO de E-mail do GOVERNO + Pazuello PRESO | 00:59:50 | sem_legenda |
+| 2021-04-25 | [Dossiê: CAIXA de PanDORIA - As Conexões CABULOSAS do DORIA + Bastidores sobre CPI e Planalto](2021/2021-04-25-NEyBxm_7SCU.md) | 01:01:24 | automatica |
+| 2021-04-23 | [Bolsonaro TRAÍDO Novamente + Mesmo SUSPEITO, Moro Defendeu STF + Doria vai FICHAR Detratores](2021/2021-04-23-PF4-nNDVB3A.md) | 00:58:42 | automatica |
+| 2021-04-22 | [Passado "Obscuro" do SALLES + PSDB Ataca o DORIA + CALHEIROS vai CONTROLAR as Redes](2021/2021-04-22-WKtPt1ARw9U.md) | 00:58:38 | automatica |
+| 2021-04-21 | Bolsonaro VENCEU: 185 x 144 + Teremos 2 CPIs, FakeNews Voltou + ADÉLIO Aprova Ação do MBL | 01:01:02 | sem_legenda |
+| 2021-04-20 | [Renan Calheiros ARREGOU! + PGR Enquadrou Governadores + Gilmar DEFENDEU Bolsonaro](2021/2021-04-20-hX2o0RlMv70.md) | 00:59:41 | automatica |
+| 2021-04-19 | CPI: Vitória na CÂMARA e INCLUSÃO das REDES SOCAIS + BASTIDORES de 2022 + Ciro: a VINGANÇA de LULA | 00:59:47 | sem_legenda |
+| 2021-04-18 | [O GLOBO: "PF Vai PEGAR Governadores e Prefeitos" + Governo REAGE na CPI + Parede FALSA no Pará](2021/2021-04-18-O_S3sg2WAqc.md) | 00:59:51 | automatica |
+| 2021-04-17 | [Bolsonaro já FOI CONDENADO e CALHEIROS é o RELATOR + SALLES vai Cair? + MBL, A-não e Gentili](2021/2021-04-17-HQlWtfKhhc4.md) | 01:01:44 | automatica |
+| 2021-04-16 | Lula FESTEJANDO e Doria SUGERE Golpe + Bolsonaro: 5 dias para IMPEACHMENT + G7 da CPI | 01:00:05 | sem_legenda |
+| 2021-04-15 | [Doria com MEDO da PF + CPI fez Milagres e os 11 MEMBROS + PSOL Briga com Bancada Lemann](2021/2021-04-15-RCpRzK8dKos.md) | 00:56:29 | automatica |
+| 2021-04-14 | [CPI vai Investigar o DORIA, Governadores e Prefeitos + Kassio e IMPEACHMENT de Jair + Pobres EXISTEM](2021/2021-04-14-OXMt7YwzgGM.md) | 00:57:34 | automatica |
+| 2021-04-13 | KÁSSIO Decidirá IMPEACHMENT de Alexandre de Moraes + Governo já TEM as ASSINATURAS + Recuperamos 8M | 00:59:37 | sem_legenda |
+| 2021-04-12 | [GRAMPEARAM Bolsonaro e Tentaram INCRIMINÁ-LO + Doria ESCONDE Dados e fala em 3ª DOSE](2021/2021-04-12-odSdhtmX764.md) | 00:58:09 | automatica |
+| 2021-04-11 | [CPI: Globo ENVOLVIDA e Oposição Começa a RECUAR + Kassio PEITOU Gilmar NOVAMENTE + Briga no DEM](2021/2021-04-11-1dn9ZQHX7YY.md) | 00:59:33 | automatica |
+| 2021-04-08 | [BUTANTAN está SEM Estoque + A MOTIVAÇÃO de Gilmar Mendes + VOTO Auditável enfrenta PROBLEMAS](2021/2021-04-08-P1zXHzHSE4I.md) | 00:56:52 | automatica |
+| 2021-04-07 | [TRAIÇÃO Nova LEI Moro-Mandetta + KASSIO vs STF + MAMATA Parte 3: DORIA tem MAIS Amigos](2021/2021-04-07-12K0K1RWvi4.md) | 00:58:09 | automatica |
+| 2021-04-06 | [Doria DESLIZA e se INCRIMINA + Kassio PEITOU Gilmar + Mamata PARTE 2: Quanto mais Explica pior FICA](2021/2021-04-06-ebV31lAYgOE.md) | 01:02:12 | automatica |
+| 2021-04-05 | [Dossiê: MAMATA - R$8 Milhões de Razões para ATACAR Jair Bolsonaro 24h por dia.](2021/2021-04-05-dh5cg5fjbnA.md) | 00:59:42 | automatica |
+| 2021-04-04 | [Kassio ACIONA PF Contra PREFEITO de BH + Doria quer SENTAR com Lula + Bolsonaro VISITA o Povo](2021/2021-04-04-G5G0zPb4PQc.md) | 00:59:31 | automatica |
+| 2021-04-03 | [NOVO Financiamento para CENSURA + MBL processa Bárbara + Doria tenta GOLPE contra o PSDB](2021/2021-04-03-3LdYcTABjUA.md) | 01:00:21 | automatica |
+| 2021-04-02 | [Bastidores: Novo STF, Ministérios e 2022 + PT Ataca Frente AMPLA + Lei de CONTRA Liberdade](2021/2021-04-02-HFPK1-GLpzo.md) | 00:58:25 | automatica |
+| 2021-04-01 | [DISPUTA: Foro de SP vs Frente Ampla + Clima COMEDIDO Entre os Poderes + DESAPAREU 16Milhões de Doses](2021/2021-04-01-G5Bp1jwoab8.md) | 00:59:58 | automatica |
+| 2021-03-31 | Data do NOVO STF e Golpe do Judiciário + Querem CALAR Bolsonaro + Confusão no EXÉRCITO e 1964 | 00:58:17 | sem_legenda |
+| 2021-03-30 | [Dossiê: DANÇA DAS CADEIRAS - As 6 GRANDES Mudanças. É o FIM? Governo se VENDEU?](2021/2021-03-30-bwQp2RpBfTw.md) | 00:59:02 | automatica |
+| 2021-03-29 | [SD Wesley: A luta pela LIBERDADE + Briga: Ernesto vs Senado - Nunca foi pela SAÚDE](2021/2021-03-29-2K43BJRYjx8.md) | 00:56:56 | automatica |
+| 2021-03-28 | [Bolsonaro VENCEU ao longo do Tempo + Educação em RISCO + F.Martins PRESO e Deltan PROTEGIDO pela PGR](2021/2021-03-28-_bEGxxgLTto.md) | 00:59:41 | automatica |
+| 2021-03-27 | [Dossiê: I-3x - Impeachment, Imunizante e Itamaraty. Uma TRAMA de Mentiras e Manipulações](2021/2021-03-27-0dIDwu8C4BM.md) | 01:00:00 | automatica |
+| 2021-03-26 | [STF Confirma LULA 2022 + Bolsonaro vs Lira + O Real MOTIVO Contra ERNESTO + Problema da COMUNICAÇÃO](2021/2021-03-26-j79xtsXj28Q.md) | 00:59:20 | automatica |
+| 2021-03-25 | [Bolsonaro TRAÍDO de Novo? + Bastidores da REUNIÃO entre Poderes + Dirceu CONTROLANDO a Mídia](2021/2021-03-25-BdjOebRoF5g.md) | 00:57:41 | automatica |
+| 2021-03-24 | [Briga no STF: Kassio vs Gilmar + Lula e Moro JÁ Sabiam+ Daniel e o PRONUNCIAMENTO de Bolsonaro](2021/2021-03-24-KBWnBJZYK8s.md) | 00:58:19 | automatica |
+| 2021-03-23 | [Pazuello PRESO e CPI da Saúde + Lula PEDE para NÃO ser Julgado + Governadores TRIPLICAM Pobreza](2021/2021-03-23-MGwcIGdzagI.md) | 00:57:31 | automatica |
+| 2021-03-22 | BRIGAS Regionais AJUDAM Jair e a Direita + Notícias BOAS! + Guedes ENQUADRA Moro | 00:57:39 | sem_legenda |
+| 2021-03-21 | [REVIRAVOLTAS: Governo ENSAIA Reação e Oposição BRIGA entre SI + Invertendo as NARRATIVAS](2021/2021-03-21-TsgqjcsmDY0.md) | 00:59:59 | automatica |
+| 2021-03-20 | [Dossiê: S.O.S. - MP pede AFASTAMENTO de Bolsonaro + Vale a Pena? + Rodízio de CPF e Proibições](2021/2021-03-20-FUSd4XAzcJQ.md) | 00:56:57 | automatica |
+| 2021-03-19 | [A REAÇÃO de Bolsonaro + O PLANO de Lula e Doria AVANÇA + Cenário DEFINIDO em Abril + Gilmar e Lira](2021/2021-03-19-gR7zTdcSVbY.md) | 00:59:45 | automatica |
+| 2021-03-18 | [Bolsonaro: Chegou a HORA do CONFRONTO + Entre VITÓRIAS e DERROTAS + Lula na CNN Internacional](2021/2021-03-18-vXmi2K-peFw.md) | 00:57:33 | automatica |
+| 2021-03-16 | Marcelo Quieroga: O que tem por TRÁS do NOVO Min. SAÚDE + Lula e Doria se UNEM e Frente Ampla REAJE | 00:59:15 | sem_legenda |
+| 2021-03-15 | [Governo: As DISPUTAS Internas do Planalto + Impeachment do DORIA e Manifestações + Daniel LIVRE](2021/2021-03-15-U-MwuRzT-_A.md) | 00:59:34 | automatica |
+| 2021-03-14 | [Dossiê: CAMPANHA - Fachin MANIPULOU o Tempo + Deltan DEFENDE LulaLivre + Bolsonaro faz ALERTA](2021/2021-03-14-16CSxQkWAAk.md) | 00:58:46 | automatica |
+| 2021-03-13 | [MORO Quebra o Silêncio e DEFENDE Lula + Vazementos PSDB + JB DECIDE Novo Min. STF](2021/2021-03-13-Ul3sOkkccGM.md) | 00:58:56 | automatica |
+| 2021-03-12 | [Bolsonaro: VOTO AUDITÁVEL vem aí! + Moraes vs Melo: BRIGA no STF + Doria APLICA Novo GOLPE](2021/2021-03-12-SBRW4kJQK8M.md) | 00:56:44 | automatica |
+| 2021-03-11 | [LULA vs BOLSONARO: A Volta do FORO de SP + VAZEMENTO de ZAP: Joice de SAÍDA + Impeachment do DORIA](2021/2021-03-11-hg-Qu3EgPW8.md) | 00:58:37 | automatica |
+| 2021-03-10 | [Agora é REAL: IMPEACHMENT do Doria! + LULA vs MORO: Sobrou até pra GLOBO no Julgamento do STF](2021/2021-03-10-YcxoUGhN1VM.md) | 00:59:06 | automatica |
+| 2021-03-09 | [Dossiê: MOLUSCO - Fachin SALVOU Lula e Moro + O que vai ACONTECER Agora? + VERDADE da Festa do DORIA](2021/2021-03-09-eFIPZeaNWIE.md) | 00:57:30 | automatica |
+| 2021-03-08 | [Deu RUIM pro Doria + MORO Passou VERGONHA + O que JAIR fez e NINGUÉM Viu](2021/2021-03-08-GbAZVB2BEx0.md) | 00:58:46 | automatica |
+| 2021-03-07 | [Dossiê: FALA$TRÕE$ - DORIA foi FLAGRADO! + MORO Desistiu de 2022?  + a MAIOR Mentira da Direita](2021/2021-03-07-4WlMIQ_86z0.md) | 00:59:05 | automatica |
+| 2021-03-06 | [FHC faz CHACOTA da Calça ENCRAVADA + Vitórias na CULTURA e Educação + Esquerda PASSOU na Frente](2021/2021-03-06-4-IbgYNwo-o.md) | 00:59:25 | automatica |
+| 2021-03-05 | [VITÓRIA na Câmara e PROBLEMAS para 2022 + STF Recua + VAZAMENTOS: Moro e Caso Gentili](2021/2021-03-05-jhGW7_XVEV4.md) | 00:57:19 | automatica |
+| 2021-03-04 | [Dossiê: CPI - Time Moro, PSDB e Comunas se UNEM CONTRA Jair + O MILAGRE do P.Guedes e PLANO do JB](2021/2021-03-04-Z-VYq_7JSyY.md) | 00:59:14 | automatica |
+| 2021-03-03 | [Dossiê: PALE$TRA$ - FUX Abandona MORO e JB Reagiu + Danilo Gentili PRESO](2021/2021-03-03-PQsTnHoTUMk.md) | 00:57:14 | automatica |
+| 2021-03-02 | [Time MORO: Mais VAZAMENTOS contra JB + FHC e AYAN Juntos  + Bastidores da REUNIÃO do Bolsonaro](2021/2021-03-02-RWiaAJRLBpo.md) | 00:59:47 | automatica |
+| 2021-03-01 | [O MAIOR Recado de JB em 2021 + CPI para IMPEACHMENT: a Nova estratégia da OPOSIÇÃO](2021/2021-03-01-sJd0DTf0in0.md) | 00:56:41 | automatica |
+| 2021-02-28 | [Dossiê: TODOS CONTRA 1 - O Tabuleiro MUDOU e a Briga é Interna + MORO Voltou para a ARENA](2021/2021-02-28-tj9AHhHvYEQ.md) | 00:59:00 | automatica |
+| 2021-02-27 | [Bolsonaro EXPÕE PLANO de Moro e Deltan + FECHARAM o Brasil de Novo + O Povo Aceita TUDO](2021/2021-02-27-khJKx3GXfeY.md) | 00:59:10 | automatica |
+| 2021-02-26 | [URGENTE: PT esconde Mensagens que REVELAM Trama Contra a Família BOLSONARO](2021/2021-02-26-TwG8sWxK-QE.md) | 00:05:06 | automatica |
+| 2021-02-26 | [Tiraram PROVEITO do Daniel Silveira + O Caos ARTIFICIAL na Câmara + Quem FICA com a CCJ?](2021/2021-02-26-1eUGB9Y1DL0.md) | 00:59:42 | automatica |
+| 2021-02-25 | [JovemPan: MORO pode Ser PRESO! + Daniel Silveira LIVRE em Breve? + DORIA e sua CRUELDADE](2021/2021-02-25-oPf1IcLVodY.md) | 00:57:33 | automatica |
+| 2021-02-24 | [A Ação mais CRUEL do Doria + Juristas discutem CRIMES do Time MORO +  JB Chocou o Mercado](2021/2021-02-24-xZGBVnkDmyc.md) | 00:59:31 | automatica |
+| 2021-02-23 | [Time MORO FORJOU Depoimento + Áudio "Vazado" da Petrobrás + Dep em RISCO no Conselho de Ética](2021/2021-02-23-Euy1UIa1E5g.md) | 00:58:14 | automatica |
 |  |  |  | erro |
 |  |  |  | erro |
 |  |  |  | erro |
